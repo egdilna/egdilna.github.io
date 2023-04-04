@@ -1,5 +1,5 @@
 ---
-title: Ach jo
+title: 👋👋
 ---
 
-index
+Vítejte na webu EGdílny
