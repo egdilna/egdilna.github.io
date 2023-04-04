@@ -19,9 +19,7 @@ navbar-links:
   Články: "clanky/"
   Díla:
     - EG metodiky: "https://www.egdilna.cz/metodiky"
-    - EGOVedu.cz: 
-      - Portál EGOVedu.cz: "https://www.egovedu.cz"
-      - Podklady na GITu: "https://github.com/egdilna/egovedu"
+    - EGOVedu.cz: "https://www.egovedu.cz"
     - Mapa EG povinností: "https://www.egdilna.cz/mapapovinnosti"
     - Wiki Znalostní architektura: "https://architektovani.tiddlyhost.com"
   Projekty:
