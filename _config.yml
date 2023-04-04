@@ -18,7 +18,7 @@ author: www.egdilna.cz
 navbar-links:
   Články: "clanky/"
   Projekty:
-    UI v EG právu: "projekty/projekt-uivegpravu/"
+    - UI v EG právu: "projekty/projekt-uivegpravu/"
   O nás: 
     - O EGdílně: "about"
     - Zapojte se: "zapojtese"
