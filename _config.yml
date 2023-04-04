@@ -17,6 +17,11 @@ author: www.egdilna.cz
 
 navbar-links:
   Články: "clanky/"
+  Díla:
+    - EG metodiky: "https://www.egdilna.cz/metodiky"
+    - EGOVedu.cz: "https://www.egovedu.cz"
+    - Mapa EG povinností: "https://www.egdilna.cz/mapapovinnosti"
+    - Wiki Znalostní architektura: "https://architektovani.tiddlyhost.com"
   Projekty:
     - UI v EG právu: "projekty/projekt-uivegpravu/"
   O nás: 
