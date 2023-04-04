@@ -6,8 +6,8 @@
 # --- Required options --- #
 
 # Name of website
-title: OZP portál
-url: https://https://egdilna.github.com/dis.gov
+title: EGdílna
+url: https://egdilna.github.io
 
 # Your name to show in the footer
 author: www.egdilna.cz
@@ -17,13 +17,10 @@ author: www.egdilna.cz
 
 navbar-links:
   Články: "clanky/"
-  O portálu: 
-    - O OZP portálu: "about"
-    - Tvůrci: "tvurci"
-    - Jak to funguje: "jaktofunguje"
+  O nás: 
+    - O EGdílně: "about"
     - Zapojte se: "zapojtese"
-    - GitHub portálu: "https://github.com/egdilna/dis.gov"
-    - Úkoly: "https://github.com/egdilna/dis.gov/issues"
+    - GitHub webu: "https://github.com/egdilna/egdilna.github.io"
 
 # --- Logo --- #
 
@@ -47,10 +44,10 @@ social-network-links:
   email: "egdilna@icloud.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
-  github: egdilna/dis.git
+  github: egdilna
 #   twitter: daattali
 #   patreon: DeanAttali
-#   youtube: c/daattali
+   youtube: c/egdilna
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -65,7 +62,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: mastodonczech.cz/egdilna
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
@@ -74,7 +71,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Aktuality z OZP portálu
+rss-description: Aktuality z webu egdilna.cz
 
 # --- General options --- #
 
