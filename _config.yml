@@ -16,7 +16,7 @@ author: www.egdilna.cz
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Články: "clanky/"
+  Příspěvky: "prispevky/"
   Díla:
     - EG metodiky: "https://www.egdilna.cz/metodiky"
     - EGOVedu.cz: "https://www.egovedu.cz"
