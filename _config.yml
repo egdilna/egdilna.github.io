@@ -15,7 +15,7 @@ author: www.egdilna.cz
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
+navbar-links:i
   Články: "clanky/"
   Díla:
     - EG metodiky: "https://www.egdilna.cz/metodiky"
@@ -38,7 +38,7 @@ navbar-links:
     - Ministerstvo dopravy: "https://www.mdcr.cz"
     - Ministerstvo obchodu a průmyslu: "https://www.mpo.cz"
     - Ministerstvo vnitra: "https://www.mvcr.cz"
-    - NAKIT s.p.: "https://www.nakit.cz"
+    - NAKIT: "https://www.nakit.cz"
     - Nejvyšší kontrolní úřad: "https://www.nku.cz"
     - Poslanecká sněmovna: "https://www.psp.cz"
     - Státní fond dopravní infrastruktury: "https://www.sfdi.cz"
