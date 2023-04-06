@@ -26,7 +26,7 @@ navbar-links:
     - UI v EG právu: "projekty/projekt-uivegpravu/"
     - Občanský zákoník v UI: "projekty/projekt-obcangpt/"
   S čím:
-   - GIT: "git"
+    - GIT: "git"
     - Nástroje a technologie: "nastroje"
     - Zdroje: "zdroje"
   S kým:
