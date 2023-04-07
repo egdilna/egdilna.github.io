@@ -1,7 +1,7 @@
 ---
 title: "Co všechno bude dělat nová Digitální a informační agentura?"
 subtitle: "Již za necelé dva měsíce začne naplno fungovat nová DIA. Víte ale, co vše bude muset řešit a jaké budou její povinnosti a pravomoci? Máme pro vás unikátní přehled."
-tags: [Chystá se, Články, Digitální a informační agentura, Dobré vědět, Informace, Naše práce, Povinnosti, Projekt Mapa povinností, Řízení EG, Zajímavosti]]
+tags: [Chystá se, Články, Digitální a informační agentura, Dobré vědět, eGovernment, Informace, Naše práce, Nepřehlédněte, Povinnosti, Projekt Mapa povinností, Řízení EG, Zajímavosti]]
 ---
 
 
