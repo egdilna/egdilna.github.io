@@ -4,7 +4,6 @@ title: Přesouváme se na nový web
 subtitle: Pro větší otevřenost a víc standardizovaný obsah se přesouváme na web na GitHubu
 tags: [Informace, Vevnitř]
 last-updated: 2023-04-04
-before-content: sekce-clanky.html
 zdroj: https://github.com/egdilna/egdilna.github.io
 ---
 
