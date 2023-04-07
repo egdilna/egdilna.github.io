@@ -3,15 +3,19 @@ layout: page
 title: 'Dobré vědět'
 ---
 
+
+
+
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
 
+Co je na našem webu označeno jako dobré vědět?
 
 <ul>
 {% for post in site.posts %}
   {% if post.tags contains 'Dobré vědět' %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a><br>{{ post.subtitle }}
     </li>
   {% endif %}
 {% endfor %}

@@ -23,6 +23,7 @@ navbar-links:
     - Mapa EG povinností: "https://www.egdilna.cz/mapapovinnosti"
     - Wiki Znalostní architektura: "https://architektovani.tiddlyhost.com"
   Projekty:
+    - Mapa povinností: "projekty/projekt-mapapovinnosti"
     - UI v EG právu: "projekty/projekt-uivegpravu/"
     - Občanský zákoník v UI: "projekty/projekt-obcangpt/"
   S čím:
