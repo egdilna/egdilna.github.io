@@ -1,7 +1,7 @@
 ---
 title: "ČNB připravila zajímavé a užitečné video, jak se nenechat okrádat"
-Subtitle: "Opravdu užitečné a zaslouží si pochvalu. A vy víte, jaká jsou základní pravidla proti okrádání v dnešní době internetových a telefonických podvodů?"
-Tags: [Bleskovky, Dejte pozor, Dobré vědět, Finance, Informace, Povedlo se]
+subtitle: "Opravdu užitečné a zaslouží si pochvalu. A vy víte, jaká jsou základní pravidla proti okrádání v dnešní době internetových a telefonických podvodů?"
+tags: [Bleskovky, Dejte pozor, Dobré vědět, Finance, Informace, Povedlo se]
 zdroj: https://www.penizenauteku.cz/podvody
 ---
 
