@@ -2,6 +2,8 @@
 title: 👋
 ---
 
+[mapa.egdilna.cz](http://mapa.egdilna.cz) [metodiky.egdilna.cz](http://metodiky.egdilna.cz)
+
 Vítejte na webu EGdílny
 
 [Příspěvky](prispevky) vás asi budou zajímat nejvíce, tam najdete všechno přehledně ve formě článků a informací. A proč si rovnou nepřidat [náš RSS kanál s novinkami](feed.xml) aby vám nic neuteklo?
