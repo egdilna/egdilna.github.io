@@ -6,7 +6,7 @@ title: 👋
 
 Vítejte na webu EGdílny
 
-![Ilustrační obrázek dílny se stolem a notebooky, knihami zákonů, nářadím a bordelem](dilna.jpg)
+<center>![Ilustrační obrázek dílny se stolem a notebooky, knihami zákonů, nářadím a bordelem](dilna.jpg)</center>
 
 [Příspěvky](prispevky) vás asi budou zajímat nejvíce, tam najdete všechno přehledně ve formě článků a informací. A proč si rovnou nepřidat [náš RSS kanál s novinkami](feed.xml) aby vám nic neuteklo?
 
