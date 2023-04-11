@@ -1,7 +1,7 @@
 ---
 layout: post
-title: “EGdílna podcast: Hrajeme si taky s umělou inteligencí v eGovernmentu”
-subtitle: “UI teď řeší všichni, takže my musíme samozřejmě taky. A když, tak samozřejmě i pro EG”
+title: "EGdílna podcast: Hrajeme si taky s umělou inteligencí v eGovernmentu"
+subtitle: "UI teď řeší všichni, takže my musíme samozřejmě taky. A když, tak samozřejmě i pro EG"
 tags: [EGdílna na Youtube, Média, Podcast, UI, Zajímavosti]
 ---
 
