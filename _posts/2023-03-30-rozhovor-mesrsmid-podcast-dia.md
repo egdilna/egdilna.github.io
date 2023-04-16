@@ -1,7 +1,7 @@
 ---
 title: "Poslechněte si podcast s hlavním DIAbetikem digitalizace veřejné správy nejen o DIA"
 subtitle: "Eva z Česko digital podcastu měla vzácného hosta. V předvečer oficiálního převzetí otěží digitalizace vyzpovídala ředitele Digitální a informační agentury Martina Mesršmída."
-tags: [Bleskovky, Česko digital, DIA, Média, Řízení EG, Zajímavosti]
+tags: [Bleskovky, Česko digital, Digitální a informační agentura, Média, Řízení EG, Zajímavosti]
 ---
 
 

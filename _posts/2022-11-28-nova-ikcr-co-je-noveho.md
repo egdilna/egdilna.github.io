@@ -1,7 +1,7 @@
 ---
 title: "A máme tu novou verzi Informační koncepce ČR - co je nového?"
 subtitle: "Vláda schválila aktualizaci Informační koncepce ČR, na kterou se budou muset všichni adaptovat. My jsme jediní, kdo vám přináší úplný přehled změn."
-tags: [Co se chystá, Články, Dobré vědět, eGovernment, Informace, IKČR, Nepřehlédněte, Řízení EG, Zdroje znalostí]
+tags: [Chystá se, Články, Dobré vědět, eGovernment, Informace, IKČR, Nepřehlédněte, Řízení EG, Zdroje znalostí]
 ---
 
 Vláda na své schůzi dne 9.11.2022 usnesením č. 931 schválila aktualizovanou verzi Informační koncepce ČR. Hodně se upřesňovalo a také se i sem tam něco přidávalo. Co je tedy nového?

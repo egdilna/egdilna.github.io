@@ -1,7 +1,7 @@
 ---
 title: "V Mapě povinností je plně promítnutý transformační zákon"
 subtitle: "Zákon 471/2022 mění hodně věcí. V předstihu, aby se na to nejen úřady stihly připravit, jsme aktualizovali Mapu EG povinností podle tohoto klíčového zákona."
-tags: [Bleskovky, Chystá se, Články,  Dobré vědět, eGovernment, Informace, Naše práceNepřehlédněte, Povinnosti, Projekt Mapa povinností, ]
+tags: [Bleskovky, Chystá se, Články,  Dobré vědět, eGovernment, Informace, Naše práce, Nepřehlédněte, Povinnosti, Projekt Mapa povinností, ]
 ---
 
 
