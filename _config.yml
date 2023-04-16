@@ -28,14 +28,14 @@ navbar-links:
     - Občanský zákoník v UI: "projekty/projekt-obcangpt/"
   S čím:
     - GIT: "git"
-    - Nástroje a technologie: "nastroje"
+    - Nástroje: "nastroje"
     - Zdroje: "zdroje"
   S kým: s-kym
   O nás: 
     - O EGdílně: "about"
     - Zapojte se: "zapojtese"
     - GitHub portálu: "https://github.com/egdilna/egdilna.github.io"
-    - Úkoly: "https://github.com/egdilna/egdilna.github.io/issues"
+    - Plán práce: projekty/plan-prace
 
 # --- Logo --- #
 
