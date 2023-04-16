@@ -1,7 +1,7 @@
 ---
 title: "Spustili jsme zcela novou webovou aplikaci Mapa EG povinností"
 subtitle: "Po měsících útrap, vzájemného nadávání si do neschopných kreténů a dalších interních radostí, jsme spustili zbrusu novou webovou verzi Mapy EG povinností se spoustou nových funkcpi a hlavně v češtině."
-tags: [Bleskovky, eGovernment, Informace, Naše práce, Nepřehlédněte, Povedlo se, Povinnosti, Projekt Mapa povinností, Zdroje informací]
+tags: [Bleskovky, eGovernment, Informace, Naše práce, Nepřehlédněte, Povedlo se, Povinnosti, Projekt Mapa povinností, Zdroje znalostí]
 zdroj: https://egdilna.cz/mapapovinnosti
 ---
 
