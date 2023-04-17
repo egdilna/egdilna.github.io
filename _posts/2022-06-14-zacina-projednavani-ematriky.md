@@ -2,7 +2,7 @@
 title: Začíná projednávání zákona o eMatrikách
 subtitle: Budeme mít jednotnou a plně digitalizovanou matriku
 zdroj: "https://apps.odok.cz/veklep-detail?pid=KORNCFCJMZKB"
-tags: [Bleskovky, Informace, Připravovaná legislativa, Chystá se]
+tags: [Bleskovky, Informace, Připravovaná legislativa, Chystá se, eMatriky]
 before-content: sekce-pripravovanalegislativa.html
 ---
 
