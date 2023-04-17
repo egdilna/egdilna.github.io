@@ -2,7 +2,7 @@
 layout: post
 title: "Očekávaná novela spisové vyhlášky právě vyšla, co přinese?"
 subtitle: "Vyhláška 96/2023 je zásadní novelizací spisové vyhlášky, která zejména řeší oblast úpravy elektronické spisové služby."
-tags: [Čeká nás, Informace, Legislativa, Nová legislativa, Připravte se, Rozbor, Spisová služba]
+tags: [Čeká nás, Články, Informace, Legislativa, Nová legislativa, Připravte se, Rozbory, Spisová služba]
 ---
 
 
