@@ -25,6 +25,7 @@ navbar-links:
   Naše projekty:
     - Mapa povinností: "projekty/projekt-mapapovinnosti"
     - UI v EG právu: "projekty/projekt-uivegpravu/"
+    - Sharepoint v úřadech: "projekty/projekt-sharepoint/"
     - Občanský zákoník v UI: "projekty/projekt-obcangpt/"
   S čím:
     - GIT: "git"
