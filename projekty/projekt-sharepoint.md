@@ -4,11 +4,11 @@ title: Projekt SharePoint v úřadu
 ---
 
 
-Spousta Úřadů a dalších veřejnoprávních institucí využívá technologie od Microsoftu. Prakticky nejvíce rozšířené komplexní řešení Microsoft365, dříve Office365, ale semtam se také ještě objeví uvnitř provozovaný Sharepoint on-premise. Nicméně právě ve využívání veškerého potenciálu Sharepointu v úřadu jsou velké rezervy.
+Spousta úřadů a dalších veřejnoprávních institucí využívá technologie od Microsoftu. Prakticky nejvíce rozšířené komplexní řešení Microsoft365, dříve Office365, ale semtam se také ještě objeví uvnitř provozovaný Sharepoint on-premise. Nicméně právě ve využívání veškerého potenciálu Sharepointu v úřadu jsou velké rezervy.
 
-Proto ve spolupráci s Microsoftem ČR a dalšími partnery znalými těchto technologií v rámci EGdílny pod vedením SystemBoostu vytváříme rozsáhlé ale praktické metodické a návodné dokumenty pro zvýšení potenciálu používání Sharepointu zejména pro jednoduše nasaditelné a realizovatelné úlohy. Existuje mnoho robustních řešení vystavěných nad Sharepointem, těm se ale věnovat nechceme, naopak se chceme věnovat těm úlohám, které dosud nejsou pokryty dodavatellským trhem a nebo se dají v úřadu nejlepe realizovat vlastními zdroji.
+Proto ve spolupráci s Microsoftem ČR a dalšími partnery znalými těchto technologií v rámci EGdílny pod vedením SystemBoostu vytváříme rozsáhlé ale praktické metodické a návodné dokumenty pro zvýšení potenciálu používání Sharepointu zejména pro jednoduše nasaditelné a realizovatelné úlohy. Existuje mnoho robustních řešení vystavěných nad Sharepointem, těm se ale věnovat nechceme, naopak se chceme věnovat těm úlohám, které dosud nejsou pokryty dodavatelským trhem a nebo se dají v úřadu nejlépe realizovat vlastními zdroji.
 
-Našim cílem je úřadům poskytnout stravitelnou formou podklady pro větší využití Sharepointu a tím omezit nutnost nakupování si jednoúčelových aplikací, které si sami úřady mohou technologiemi Microsoftu udělat. Prakticky výstupy vytváříme pro potřeby kupříkladu Magistrátu Hlavního města Prahy, Státního fondu dopravní infrastruktury a některých ministerstev, chceme v tom úzce spolupracovat s Digitální a informační agenturou aby naše výstupy byly obecně použitelné. 
+Našim cílem je úřadům poskytnout stravitelnou formou podklady pro větší využití Sharepointu a tím omezit nutnost nakupování si jednoúčelových aplikací, které si sami úřady mohou technologiemi Microsoftu udělat. Prakticky výstupy vytváříme pro potřeby kupříkladu Magistrátu hlavního města Prahy, Státního fondu dopravní infrastruktury a některých ministerstev, chceme v tom úzce spolupracovat s Digitální a informační agenturou aby naše výstupy byly obecně použitelné. 
 
 ## Připravené či připravované výstupy
 
