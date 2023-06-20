@@ -19,3 +19,14 @@ Našim cílem je úřadům poskytnout stravitelnou formou podklady pro větší 
     - [dokument Dokumentace pro Evidenci aplikací ve SharePointu](https://architektovani.tiddlyhost.com/#Evidence%20aplikac%C3%AD%20ve%20SharePointu)
 4. Dekompozice a zadání pro potenciální dodavatele a firmy pro nástroje nad Sharepointem opravdu využitelné v úřadech a veřejnoprávních institucích
 5. Konzultace a poradenská činnost pro používání Sharepointu v těchto organizacích, ale třeba i v neziskovém sektoru
+
+
+### Příspěvky k projektu
+
+<ul>
+{% for post in site.posts %}
+  {% if post.tags == “Projekt SharePoint v úřadu” %}
+    <li><a href=“%20post.url%20”>%20post.title%20</a></li>
+  {% endif %}
+{% endfor %}
+</ul> 
