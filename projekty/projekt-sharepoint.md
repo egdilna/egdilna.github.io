@@ -26,7 +26,7 @@ Našim cílem je úřadům poskytnout stravitelnou formou podklady pro větší 
 <ul>
 {% for post in site.posts %}
   {% if post.tags contains "Projekt SharePoint v úřadu" %}
-    <li><a href=""{post.url}">*%2{post.title}</a></li>
+    <li><a href="{post.url}">{post.title}</a></li>
   {% endif %}
 {% endfor %}
 </ul> 
