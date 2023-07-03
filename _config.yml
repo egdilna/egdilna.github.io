@@ -26,6 +26,7 @@ navbar-links:
     - Mapa povinností: "projekty/projekt-mapapovinnosti"
     - UI v EG právu: "projekty/projekt-uivegpravu/"
     - Sharepoint v úřadech: "projekty/projekt-sharepoint/"
+    - IK obcí: https://github.com/egdilna/ik-obce-svepomoci
     - Občanský zákoník v UI: "projekty/projekt-obcangpt/"
   S čím:
     - GIT: "git"
