@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "POZOR: Změnila se adresa GIT repozitáře s otevřenými formálními normami"
-subtitle: "Kdo se v rámci OFN odkazuje na zdrojové identity a soubory v GIT repozitáři, pozor, musíte si změnit všechny svoje URL adresy, protože se změnil název organizace k otevřeným datům v ČR v rámci DIA.""
+subtitle: "Kdo se v rámci OFN odkazuje na zdrojové identity a soubory v GIT repozitáři, pozor, musíte si změnit všechny svoje URL adresy, protože se změnil název organizace k otevřeným datům v ČR v rámci DIA."
 zdroj: "https://github.com/datagov-cz/otevrene-formalni-normy"
 tags: [Bleskovky, Data a údaje, Dejte pozor, Digitální a informační agentura, GIT, Opendata,]
 ---
