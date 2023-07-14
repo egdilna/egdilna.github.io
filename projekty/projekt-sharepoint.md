@@ -14,10 +14,10 @@ Našim cílem je úřadům poskytnout stravitelnou formou podklady pro větší 
 
 1. Stručný popis potenciálu funkcionalit Sharepointu se zaměřením na jednoduše realizovatelné úlohy (nejen) v úřadu
 2. Metodický návod jak si v rámci Sharepointu navrhnout, připravit a vytvořit evidence a jednoduché evidenční aplikace
-3. Konkrétní návody na tvorbu jednoduchých evidencí pro potřeby IT útvaru a architektury a řízení
-    - [dokument Dokumentace pro Katalog záměrů IK ve SharePointu](https://architektovani.tiddlyhost.com/#Katalog%20z%C3%A1m%C4%9Br%C5%AF%20IK%20ve%20SharePointu)
-    - [dokument Dokumentace pro Evidenci aplikací ve SharePointu](https://architektovani.tiddlyhost.com/#Evidence%20aplikac%C3%AD%20ve%20SharePointu)
-    - [Dokumentace pro Katalog konceptuálního modelování ve SharePointu](https://architektovani.tiddlyhost.com/#Katalog%20konceptu%C3%A1ln%C3%ADho%20modelov%C3%A1n%C3%AD%20ve%20SharePointu)
+3. Konkrétní návody a aplikace na tvorbu jednoduchých evidencí pro potřeby IT útvaru a architektury a řízení
+    - [Šablona aplikace Katalog záměrů IK pro SharePoint](https://github.com/egdilna/sablony/blob/main/sharepoint/sablona-katalog-zameru-ik.stp) a [dokument Dokumentace pro Katalog záměrů IK ve SharePointu](https://architektovani.tiddlyhost.com/#Katalog%20z%C3%A1m%C4%9Br%C5%AF%20IK%20ve%20SharePointu)
+    - [Šablona aplikace Evidence aplikací pro SharePoint](https://github.com/egdilna/sablony/blob/main/sharepoint/sablona-evidence-aplikaci.stp) a [dokument Dokumentace pro Evidenci aplikací ve SharePointu](https://architektovani.tiddlyhost.com/#Evidence%20aplikac%C3%AD%20ve%20SharePointu)
+    - [Šablona aplikace Katalog záměrů IK pro SharePoint](https://github.com/egdilna/sablony/blob/main/sharepoint/sablona-katalog-zameru-ik.stp) a [Dokumentace pro Katalog konceptuálního modelování ve SharePointu](https://architektovani.tiddlyhost.com/#Katalog%20konceptu%C3%A1ln%C3%ADho%20modelov%C3%A1n%C3%AD%20ve%20SharePointu)
 4. Dekompozice a zadání pro potenciální dodavatele a firmy pro nástroje nad Sharepointem opravdu využitelné v úřadech a veřejnoprávních institucích
 5. Konzultace a poradenská činnost pro používání Sharepointu v těchto organizacích, ale třeba i v neziskovém sektoru
 
@@ -27,7 +27,7 @@ Našim cílem je úřadům poskytnout stravitelnou formou podklady pro větší 
 <ul>
 {% for post in site.posts %}
   {% if post.tags contains "Projekt SharePoint v úřadu" %}
-    <li><a href="{ post.url }">{ post.title }</a></li>
+    <li><a href="{{ post.url }">{{ post.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul> 
