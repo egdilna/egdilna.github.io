@@ -1,7 +1,7 @@
 ---
 title: Jste nemocnice a nerozumíte datovce o jakémsi JIPu? V poradně pro vás máme odpovědi
 layout: post
-tags: [Bleskovky, Poradna, eHealth, Dejte pozor]
+tags: [Bleskovky, Poradna, eHealth, Dejte pozor, JIP/KAAS, Povinnosti]
 subtitle: V rámci naší poradny jsme udělali novou sekci k elektronickému zdravotnictví a hned je tam i první dotaz. Nemocnicím teď chodí datovky o jakémsi JIP a na webu NCEZ jsou dost zavádějící informace. A tak se některé ptají už i nás. To nás samozřejmě těší a jsme rádi, že i s tímhle můžeme pomoci.
 zdroj: http://www.egdilna.cz/poradna/nemocnice-datovka-jip-co-s-tim/
 ---
