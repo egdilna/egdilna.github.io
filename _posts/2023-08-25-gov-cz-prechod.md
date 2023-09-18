@@ -1,5 +1,5 @@
 ---
-title: "ITbiz: Ústřední orgány státní správy mají na jednotnou doménu gov.cz přejít do konce roku 2024""
+title: "ITbiz: Ústřední orgány státní správy mají na jednotnou doménu gov.cz přejít do konce roku 2024"
 layout: post
 tags: [Bleskovky, Informace, Vláda, Chystá se, Připravte se, Infrastruktura]
 subtitle: Do konce roku 2024 musí úřady přejít s webovými stránkami na domény pod doménou gov.cz, se vším ostatním do konce roku 2025.
