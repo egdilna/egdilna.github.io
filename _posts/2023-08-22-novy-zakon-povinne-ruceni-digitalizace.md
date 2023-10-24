@@ -1,7 +1,7 @@
 ---
 title: Nový zákon o povinném ručení digitalizuje agendu
 layout: post
-tags: [Bleskovky, Chystá se, Připravovaná legislativa]
+tags: [Bleskovky, Chystá se, Ministerstvo dopravy, Připravovaná legislativa, Data a údaje, Digitální služby]
 subtitle: Ministerstvo financí předkládá Návrh zákona o pojištění odpovědnosti z provozu vozidla
 Zdroj: https://www.odok.cz/portal/veklep/material/KORNCNPCHA35
 ---
