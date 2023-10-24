@@ -1,7 +1,7 @@
 ---
 title: Jsou tu implementační návrhy k zákonu o právu na digitální služby od DIA
 layout: post
-tags: [Bleskovky, Dejte pozor, Digitální a informační agentura, Digitální služby, Dobré vědět, Informace, Metodiky, Nepřehledněte, Povedlo se, Právo na digitální služby, Rozbory, Připravte se, Tipy a triky]
+tags: [Bleskovky, Dejte pozor, Digitální a informační agentura, Digitální služby, Dobré vědět, Informace, Metodiky, Nepřehlédněte, Povedlo se, Právo na digitální služby, Rozbory, Připravte se, Tipy a triky]
 subtitle: Digitální a informační agentura se svými partnery v rámci pracovní skupiny pro PDS jejíž jsme také členy, připravila první várku implementačních doporučení respektive návrhů na implementaci jednotlivých práv ze zákona o PDS. A my jsme je hned publikovali i u nás na metodikách a to v přehlednější formě
 Zdroj: http://metodiky.egdilna.cz/postupy/implementacni-doporuceni
 ---
