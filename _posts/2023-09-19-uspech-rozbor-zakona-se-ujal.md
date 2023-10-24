@@ -1,7 +1,7 @@
 ---
 title: Gestoři legislativy slyší na náš nápad na rozbory změn legislativy
 subtitle: No my se prostě musíme čas od času pochválit, on to za nás nikdo neudělá. Náš původně vlastně dost šílený nápad se ujal a teď ho používají i ministerstva při vysvětlování novelizací právních předpisů. Jsme hrdí, že se to tak ujalo, ani jsme to nečekali.
-tags: [Články, Informace, Naše práce, Povedlo se, Legislativa, Rozbory, Zajímavosti]
+tags: [Články, Informace, Naše práce, Povedlo se, Legislativa, Rozbory, Zajímavosti, Vevnitř, Projekt EG metodiky]
 ---
 
 

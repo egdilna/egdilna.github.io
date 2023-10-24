@@ -1,7 +1,7 @@
 ---
 title:  Průvodce řízením dodavatelů ve vztahu k hodnocení rizik kybernetické bezpečnosti
 layout: post
-tags: [Bleskovky, NÚKIB, Metodiky, Bezpečnost,  Projekt EG metodiky]
+tags: [Bleskovky, NÚKIB, Metodiky, Bezpečnost, Projekt EG metodiky]
 subtitle: Na Metodikách máme novou sekci Bezpečnost a v ní hned jeden zásadní dokument NÚKIBu. Ten přináší informace o povinnostech a řízení dodavatelů a to nejen ryze z pohledu bezpečnosti.
 zdroj: http://metodiky.egdilna.cz/metodiky/bezpecnost/metodika-rizeni-dodavatelu-kb
 ---

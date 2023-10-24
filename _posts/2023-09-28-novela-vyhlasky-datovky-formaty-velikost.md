@@ -1,7 +1,7 @@
 ---
 title: Datovky budou umět JSON a ZIP i videosoubory a až 100 MB zprávy
 layout: post
-tags: [Bleskovky, Chystá se,  Připravovaná legislativa, Digitální dokumenty, Datové schránky, ISDS, Digitální a informační agentura]
+tags: [Bleskovky, Chystá se, Připravovaná legislativa, Digitální dokumenty, Datové schránky, ISDS, Digitální a informační agentura]
 subtitle: Digitální a informační agentura předkládá Návrh vyhlášky, kterou se mění vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, ve znění pozdějších předpisů
 Zdroj: https://www.odok.cz/portal/veklep/material/ALBSCVTC36E1/
 ---
