@@ -3,7 +3,7 @@ title: Informace DIA o první etapě přípravy implementace Zákona o právu na
 layout: post
 tags: [Informace, Digitální a informační agentura, Právo na digitální služby, Povedlo se]
 subtitle: DIA opravdu maká. Teď skončila její první etapa implementace ZoPDS a je opravdu čím se chlubit. Čeká DIU i nás ostatní ještě hromada práce, ale základ je dobrý. A my jsme hrdí, že jsme mohli také sem tam něčím přispět.
-Zdroj: https://www.dia.gov.cz/co-delame/zakon-c-12-2020-sb-o-pravu-na-digitalni-sluzby
+zdroj: https://www.dia.gov.cz/co-delame/zakon-c-12-2020-sb-o-pravu-na-digitalni-sluzby
 ---
 
 Digitální a informační agentura poskytuje informaci o stavu implementace [Zákona 12/2020 Sb. o právu na digitální služby](https://www.zakonyprolidi.cz/cs/2020-12#p11) (dále ZoPDS). 30. září 2023 skončila první etapaRoadMap připravená Digitální a informační agenturou.

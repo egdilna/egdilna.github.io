@@ -3,7 +3,7 @@ title: Zcela nový zákon o digitální ekonomice
 layout: post
 tags: [Bleskovky, Chystá se, Digitální služby, Digitální ekonomika, Ministerstvo průmyslu a obchodu, Připravovaná legislativa]
 subtitle: Ministerstvo průmyslu a obchodu předkládá Návrh zákona o digitální ekonomice a o změně některých souvisejících zákonů
-Zdroj: https://www.odok.cz/portal/veklep/material/ALBSCWAFVK4T
+zdroj: https://www.odok.cz/portal/veklep/material/ALBSCWAFVK4T
 ---
 
 

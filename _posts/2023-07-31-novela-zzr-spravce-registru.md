@@ -3,7 +3,7 @@ title: Novela zákona o základních registrech, správcem všeho bude DIA
 layout: post
 tags: [Bleskovky, Chystá se, Digitální a informační agentura, Připravovaná legislativa, Ministerstvo vnitra, ISVS, Český statistický úřad, Základní registry, Zajímavosti, Čeká nás]
 subtitle: DIA předkládá svůj vůbec první návrh zákona a tím je novela základních registrů díky níž se sjednotí správa celého stacku základních registrů právě pod agenturu.
-Zdroj: https://github.com/egdilna/sablony/tree/main/sharepoint
+zdroj: https://github.com/egdilna/sablony/tree/main/sharepoint
 ---
 
 

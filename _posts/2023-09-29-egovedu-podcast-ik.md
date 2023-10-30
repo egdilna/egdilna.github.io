@@ -3,7 +3,7 @@ title: Nový podcast EGOVedu tentokrát podrobně vysvětluje co je informační
 layout: post
 tags: [Média, Naše práce, Dobré vědět, Bleskovky, EGOVedu, EGdílna na Youtube, Management, Michal Rada, Nepřehlédněte, Podcast, Vzdělávání, Projekt IK svépomocí, Řízení EG, Informační koncepce]
 subtitle: V rámci edukativních audiopodcastů EGOVedu jsme vydali díl věnovaný informační koncepci, co to je a proč to je a jak na to
-Zdroj: https://www.youtube.com/watch?v=h6hbxLWhxDE
+zdroj: https://www.youtube.com/watch?v=h6hbxLWhxDE
 ---
 
 

@@ -3,7 +3,7 @@ title: Jsou tu implementační návrhy k zákonu o právu na digitální služby
 layout: post
 tags: [Bleskovky, Dejte pozor, Digitální a informační agentura, Digitální služby, Dobré vědět, Informace, Metodiky, Nepřehlédněte, Povedlo se, Právo na digitální služby, Rozbory, Připravte se, Tipy a triky]
 subtitle: Digitální a informační agentura se svými partnery v rámci pracovní skupiny pro PDS jejíž jsme také členy, připravila první várku implementačních doporučení respektive návrhů na implementaci jednotlivých práv ze zákona o PDS. A my jsme je hned publikovali i u nás na metodikách a to v přehlednější formě
-Zdroj: http://metodiky.egdilna.cz/postupy/implementacni-doporuceni
+zdroj: http://metodiky.egdilna.cz/postupy/implementacni-doporuceni
 ---
 Zákon o právu na digitální služby je jedním z klíčových zákonů digitalizace veřejné správy. Přináší nejen konkrétní [Práva klienta ze zákona o PDS s podrobnostmi](https://architektovani.tiddlyhost.com/#kus%20Vypsan%C3%A1%20pr%C3%A1va%20ze%20z%C3%A1kona%20o%20PDS%20s%20podrobnostmi), ale především povinnosti tato práva umožnit. To znamená, že celá veřejná správa se novému principu právo na digitální služby musí přizpůsobit a to poměrně rychle, neboť některá klíčová ustanovení tohoto zákona jsou již dávno v platnosti. Tedy takové ty řeči, že se dá počkat až do roku 2025 jsou samozřejmě naprostý nesmysl. Také my se této oblasti věnujeme a snažíme se postupně vytvářet nějaké podklady pro úřady, jako je například naše komplexní [prezentace Právo na digitální služby v úřadu](https://www.egovedu.cz/prezentace/pds-v-uradu) Anebo celá sekce [Právo na digitální služby](https://architektovani.tiddlyhost.com/#Pr%C3%A1vo%20na%20digit%C3%A1ln%C3%AD%20slu%C5%BEby) věnovaná této problematice v rámci naší znalostní architektury.
 

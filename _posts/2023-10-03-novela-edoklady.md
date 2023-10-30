@@ -3,7 +3,7 @@ title: Projednává se zákon O edokladech a elektronickém prokazování totož
 layout: post
 tags: [Připravovaná legislativa, Bleskovky, Chystá se, Elektronická identita, Digitální a informační agentura, Chystá se, Digitální služby]
 subtitle: Digitální a informační agentura předkládá Návrh zákona, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony
-Zdroj: https://www.odok.cz/portal/veklep/material/ALBSCR2F6KA1/
+zdroj: https://www.odok.cz/portal/veklep/material/ALBSCR2F6KA1/
 ---
 
 
