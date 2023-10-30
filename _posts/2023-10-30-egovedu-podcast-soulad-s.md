@@ -3,7 +3,7 @@ title: V Podcast EGOVedu o vysvětlení povinnosti souladu v IT
 layout: post
 tags: [Média, Naše práce, Bleskovky, EGOVedu, EGdílna na Youtube, Podcast, Vzdělávání]
 subtitle: Další díl edukativního podcastu v rámci EGOVedu se věnuje otázce, co to znamená být v souladu s... podle zákona o informačních systémech veřejné správy
-Zdroj: https://www.youtube.com/watch?v=m0aduxDvjFc
+Zdroj: "https://www.youtube.com/watch?v=m0aduxDvjFc"
 ---
 
 
