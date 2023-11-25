@@ -3,7 +3,7 @@ title: Připravili jsme pro vás první sadu aplikací do vašeho Sharepointu
 layout: post
 tags: [Informace, Naše práce, Nástroje, Povedlo se, Projekt SharePoint v úřadu]
 subtitle: A je to tady, takřka neuvěřitelné, ale povedlo se a to dokonce v rekordním čase. Kromě sady dokumentů s návody, jak si postavit některé klíčové seznamy ve Sharepointu potřebné pro řízení ICT v úřadu, pro vás máme připravené i samotné aplikace, které můžete rovnou sami u sebe nasadit.
-Zdroj: https://github.com/egdilna/sablony/tree/main/sharepoint
+zdroj: https://github.com/egdilna/sablony/tree/main/sharepoint
 ---
 
 

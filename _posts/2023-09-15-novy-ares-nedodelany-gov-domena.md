@@ -3,7 +3,7 @@ title: Finance se chlubí novým ARESem na doméně gov.cz, to je ale asi tak v�
 layout: post
 tags: [Články, Chystá se, Data a údaje,  Finance, Opendata, Ministerstvo financí, Portály, Nepovedlo se]
 subtitle: Ministerstvo financí spustilo údajně v pilotním provozu novou aplikaci ARES a to už na nové národní vládní doméně. Ale to je na tom asi jediné pozitivní. MF si evidentně pod pojmem pilotní provoz představuje polofunkční nedodělek nerespektující ani základní zákonné povinnosti.
-Zdroj: https://ares.gov.cz
+zdroj: https://ares.gov.cz
 ---
 
 ARES je Administrativní registr ekonomických subjektů, což má být informační systém pro veřejný přístup k údajům o právnických subjektech a všech dalších ekonomických subjektech v ČR. MF spustilo na adrese [ares.gov.cz](https://ares.gov.cz) prý pilotní provoz nové verze ARES, samozřejmě stávající verze funguje i nadále. MF se chlubí několika věcmi, třeba příslušnostní k nové doméně gov.cz, což je chválihodné. Ale zároveň chvála zde končí.
