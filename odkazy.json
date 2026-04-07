@@ -1,6 +1,30 @@
 {
   "ghPath": "egdilna/egdilna.github.io/odkazy.json",
-  "title": "",
-  "desc": "",
-  "groups": []
+  "title": "Katalog odkazů EGdílny",
+  "desc": "Veřejný katalog odkazů na zajímavé zdroje, informace a nástroje",
+  "groups": [
+    {
+      "id": "mnoh17icn7c6c",
+      "name": "Předpisy a rámce",
+      "folders": [
+        {
+          "id": "mnoh1raueo5kc",
+          "name": "Klíčové EG zákony",
+          "bookmarks": [
+            {
+              "id": "mnoh7grevkory",
+              "name": "Zákon č. 12/2020 Sb., o právu na digitální služby",
+              "url": "https://www.zakonyprolidi.cz/cs/2020-12",
+              "desc": "Takzvaná Digitální Ústava je hlavním zákonem udávajícím rámec fungování veřejné správy vůči klientům a to nejen v digitálním světě. Jsou jím mimo jiné určena základní nezadatelná prává na obecné úrovni a povinnost veřejné správy k jejich respektování a plnění. Obsahuje ale i další oblasti, jako je zakotvení a fungování DIA, eDoklady a další obecné EG aspekty potřebné v legislativě.",
+              "tags": [],
+              "notes": [
+                "Stanovuje obecně vynutitelná práva klienta směrem k interakci s veřejnou správou, která nejsou uplatnitelná jen v elektronické komunikaci s úřady",
+                "Udává také konkrétní práva týkající se digitálních forem služeb veřejné správy, včetně povinností poskytovat služby digitálně a včetně Katalogu služeb veřejné správy jako referenční součásti Registru práv a povinností s aktuálními a hlavně autoritativními údaji o každé službě a každé interakci s úřadem - tedy úkonu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
