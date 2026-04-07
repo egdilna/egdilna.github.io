@@ -19,7 +19,23 @@
               "tags": [],
               "notes": [
                 "Stanovuje obecně vynutitelná práva klienta směrem k interakci s veřejnou správou, která nejsou uplatnitelná jen v elektronické komunikaci s úřady",
-                "Udává také konkrétní práva týkající se digitálních forem služeb veřejné správy, včetně povinností poskytovat služby digitálně a včetně Katalogu služeb veřejné správy jako referenční součásti Registru práv a povinností s aktuálními a hlavně autoritativními údaji o každé službě a každé interakci s úřadem - tedy úkonu."
+                "Udává také konkrétní práva týkající se digitálních forem služeb veřejné správy, včetně povinností poskytovat služby digitálně a včetně Katalogu služeb veřejné správy jako referenční součásti Registru práv a povinností s aktuálními a hlavně autoritativními údaji o každé službě a každé interakci s úřadem - tedy úkonu.",
+                "Zakotvuje Digitální a informační agenturu a popisuje její účel, základní povinnosti a pravomoci",
+                "Do právního řádu dočasně zakotvuje národní eDokldy jako elektronickou formu stejnopisu dokladu v ČR"
+              ]
+            },
+            {
+              "id": "mnoj9n69nhrqt",
+              "name": "Zákon č. 111/2009 Sb., o základních registrech",
+              "url": "https://zakonyprolidi.cz/cs/2009-111",
+              "desc": "Úprava základních registrů a propojeného datového fondu jako povinně využívaných autoritativních zdrojů referenčních identit a referenčních a agendových údajů, zakotvuje povinnosti jednotlivých akterů a především dává konkrétní rámec povinnostem využívání a poskytování všech údajů napříč celou veřejnou správou.",
+              "tags": [],
+              "notes": [
+                "Stanovuje základní registry a další klíčové komponenty veřejné správy: Registr obyvatel, Registr osob, Registr územní identifikace adres a nemovitostí, Registr práv a povinností, Katalog orgánů veřejné moci, Rejstřík informačních systémů veřejné správy, AIS působnostní, AIS vyrozumívací, Informační systém sdílených služeb (EGSB), Centrální autentizační autorizační informační systém, Informační systém územní identifikace, Integrovaný AIS ROS a další",
+                "Definuje orgány veřejné moci a jejich povinnosti, včetně přesného výkonu výhradně podle agendového modelu veřejné správy, jejich působnost a mimo jiné i povinnosti využívat a poskytovat údaje a jejich povinnosti jako správců agendových informačních systémů",
+                "Určuje agendový model veřejné správy jako referenční pravdu o fungování veřejné správy a soukromoprávních uživatelů údajů, včetně podrobností o agendách, působnosti, službách a úkonech, agendových informačních systémech a systémech soukromoprávních uživatelů, údajích a jejich výměnu apod.",
+                "K jednotlivým základním registrům určuje vedení referenčních údajů a dalších údajů a určuje povinnosti a postupy",
+                "Obsahuje celý mechanismus včetně základních postupů pro povinné využívání a poskytování údajů v propojeném datovém fondu, reklamace, notifikace apod."
               ]
             }
           ]
