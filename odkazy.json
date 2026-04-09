@@ -41,6 +41,25 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mnrl0d21jmkw6",
+      "name": "Národní EG odkazy",
+      "folders": [
+        {
+          "id": "mnrl10hf8vynf",
+          "name": "DIA a vláda",
+          "bookmarks": [
+            {
+              "id": "mnrl4w61a5xza",
+              "name": "Archív podkladů Výboru pro architekturu a PSA RVIS",
+              "url": "https://shm.to/rarvis",
+              "desc": "Přehledný archiv všech podkladů k zasedání pracovní skupiny a výboru pro architekturu RVIS podle jednotlivých schůzí. Jde o veřejně sdílenou složku Sharepoint, takže si ji můžete přes odkaz přiřadit do svého DMS, pokud by se vám to hodilo.",
+              "tags": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
