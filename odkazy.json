@@ -60,6 +60,25 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mnsv1grefxva8",
+      "name": "EH vzdělávání",
+      "folders": [
+        {
+          "id": "mnsv2ij2k355e",
+          "name": "Kurzy, workshopy a školení k EG",
+          "bookmarks": [
+            {
+              "id": "mnsv4lj6hgayd",
+              "name": "Online kurz ArchiMate v češtině stručný průvodce",
+              "url": "https://www.egdilna.cz/kurzy:archimate-v-cestine:lms",
+              "desc": "Online kurz EGdílny k základům jazyka ArchiMate a k tomu, jak se naučit číst Archimate i pro nearchitekty",
+              "tags": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
