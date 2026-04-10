@@ -1,0 +1,40 @@
+{
+  "ghPath": "egdilna/egdilna.github.io/dalsi-odkazy.json",
+  "title": "Další odkazy EGD",
+  "desc": "",
+  "groups": [
+    {
+      "id": "mnsfrvec4xkv3",
+      "name": "Přístupnost mobilních aplikací",
+      "folders": [
+        {
+          "id": "mnsfshhrgx5yg",
+          "name": "Guidelines a pravidla přístupnosti v jednotlivých platformách",
+          "bookmarks": [
+            {
+              "id": "mnsftlcct75s0",
+              "name": "Guidelines pro Android aplikace",
+              "url": "https://developer.android.com/guide/topics/ui/accessibility",
+              "desc": "Kompletní přehled, pravidla, hguidelines a návody pro vývojáře k závazné i další přístupnosti aplikací pro Android",
+              "tags": []
+            },
+            {
+              "id": "mnsfwdlixh8bf",
+              "name": "Guidelines pro aplikace pro Apple OS",
+              "url": "https://developer.apple.com/design/human-interface-guidelines/accessibility",
+              "desc": "Guidelines a návody a připomínky závaznosti přístupnosti pro vývojáře pro mobilní a desktopové aplikace pro operační systémy Apple, tedy iOS, iPadOS, MacOS, TVOS, WatchOS",
+              "tags": []
+            },
+            {
+              "id": "mnsfyhmlhk2op",
+              "name": "Accessibility overview pro Windoes UWP aplikace",
+              "url": "https://learn.microsoft.com/en-us/windows/apps/design/accessibility/accessibility-overview",
+              "desc": "Přístupnost pro moderní univerzální aplikace na platformy Windows OS a Windows UWP platform",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
