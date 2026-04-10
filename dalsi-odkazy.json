@@ -31,6 +31,20 @@
               "url": "https://learn.microsoft.com/en-us/windows/apps/design/accessibility/accessibility-overview",
               "desc": "Přístupnost pro moderní univerzální aplikace na platformy Windows OS a Windows UWP platform",
               "tags": []
+            },
+            {
+              "id": "mnsg7j90abwxh",
+              "name": "Accessibility rules for Apple",
+              "url": "https://docs.abra.ai/rules/apple",
+              "desc": "",
+              "tags": []
+            },
+            {
+              "id": "mnsg8c1p8h868",
+              "name": "Accessibility rules for Google",
+              "url": "https://docs.abra.ai/rules/google",
+              "desc": "",
+              "tags": []
             }
           ]
         }
