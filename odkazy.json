@@ -79,6 +79,38 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mnwr55yh02ro4",
+      "name": "Nástroje",
+      "folders": [
+        {
+          "id": "mnwr6norai0wl",
+          "name": "Nástroje k datům",
+          "bookmarks": [
+            {
+              "id": "mnwr8qdupflko",
+              "name": "Sekce Užitečné nástroje na pruvodcepripojenim.gov.cz",
+              "url": "https://pruvodcepripojenim.gov.cz/uzitecne-nastroje",
+              "desc": "Odkazy na některé nástroje především pro vývojáře k propojenému datovému fondu",
+              "tags": [
+                "Nástroje",
+                "Pro dodavatele"
+              ]
+            }
+          ]
+        }
+      ]
     }
+  ],
+  "tags": [
+    "Edukační materiály",
+    "EGdílna",
+    "Metodiky",
+    "Nástroje",
+    "Pro architekty",
+    "Pro dodavatele",
+    "Pro manažery",
+    "Předpisy"
   ]
 }
