@@ -162,13 +162,7 @@
                 "Nástroje",
                 "Pro dodavatele"
               ]
-            }
-          ]
-        },
-        {
-          "id": "mo18md745jiby",
-          "name": "nástroje; pro dodavatele",
-          "bookmarks": [
+            },
             {
               "id": "mo18md74ur30s",
               "name": "Referenční agenti",
@@ -178,12 +172,14 @@
               "notes": []
             },
             {
-              "id": "mo18md740rq42",
-              "name": "Ověřovací PAIS",
+              "id": "mo18vd7fo97j5",
+              "name": "Simulátor ISSS",
               "url": "https://www.szrcr.cz/cs/isss-egsb?view=article&id=404:ov%C4%9B%C5%99ovac%C3%AD-pais-opais&catid=2:uncategorised",
-              "desc": "Publikační vzorový AIS pro ověření pochopení fungování služeb, které ISSS vystavuje a pro možnosti příprqvy implementace na tyto služby vývojářem AISuNástroje k datům",
-              "tags": [],
-              "notes": []
+              "desc": "Fiktivní vlastní instance EGSB/ISSS pro testovaní kontextů lokálně a odhalení chyb před nasazením na reálné testovací prostředí ISSS",
+              "tags": [
+                "Nástroje",
+                "Pro dodavatele"
+              ]
             },
             {
               "id": "mo18scmxlkt7l",
@@ -196,14 +192,12 @@
               ]
             },
             {
-              "id": "mo18vd7fo97j5",
-              "name": "Simulátor ISSS",
+              "id": "mo18md740rq42",
+              "name": "Ověřovací PAIS",
               "url": "https://www.szrcr.cz/cs/isss-egsb?view=article&id=404:ov%C4%9B%C5%99ovac%C3%AD-pais-opais&catid=2:uncategorised",
-              "desc": "Fiktivní vlastní instance EGSB/ISSS pro testovaní kontextů lokálně a odhalení chyb před nasazením na reálné testovací prostředí ISSS",
-              "tags": [
-                "Nástroje",
-                "Pro dodavatele"
-              ]
+              "desc": "Publikační vzorový AIS pro ověření pochopení fungování služeb, které ISSS vystavuje a pro možnosti příprqvy implementace na tyto služby vývojářem AISuNástroje k datům",
+              "tags": [],
+              "notes": []
             }
           ]
         }
