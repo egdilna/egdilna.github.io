@@ -21,7 +21,8 @@
                 "Stanovuje obecně vynutitelná práva klienta směrem k interakci s veřejnou správou, která nejsou uplatnitelná jen v elektronické komunikaci s úřady",
                 "Udává také konkrétní práva týkající se digitálních forem služeb veřejné správy, včetně povinností poskytovat služby digitálně a včetně Katalogu služeb veřejné správy jako referenční součásti Registru práv a povinností s aktuálními a hlavně autoritativními údaji o každé službě a každé interakci s úřadem - tedy úkonu.",
                 "Zakotvuje Digitální a informační agenturu a popisuje její účel, základní povinnosti a pravomoci",
-                "Do právního řádu dočasně zakotvuje národní eDokldy jako elektronickou formu stejnopisu dokladu v ČR"
+                "Do právního řádu dočasně zakotvuje národní eDokldy jako elektronickou formu stejnopisu dokladu v ČR",
+                "ZAEG"
               ]
             },
             {
@@ -97,6 +98,50 @@
               "tags": []
             }
           ]
+        },
+        {
+          "id": "mo14i847k5ayn",
+          "name": "Edukační podklady",
+          "bookmarks": [
+            {
+              "id": "mo14okrmxfrso",
+              "name": "Zanesení prvků do architektury podle ZAEG",
+              "url": "https://www.egdilna.cz/zaneseni-prvku-zaeg-do-archimate",
+              "desc": "Seznam prvků a jejich stereotypů a použití z modelu jaksecokresli",
+              "tags": [
+                "Edukační materiály",
+                "EGdílna",
+                "egdwiki",
+                "EGOVedu",
+                "Metodiky",
+                "modelování",
+                "naše práce",
+                "Pro architekty",
+                "pro lektory",
+                "učební podklady",
+                "znalosti"
+              ]
+            },
+            {
+              "id": "mo14lqa9b64qq",
+              "name": "Zanesení vazeb do architektury podle ZAEG",
+              "url": "https://www.egdilna.cz/zaneseni-vazeb-zaeg-do-archimate",
+              "desc": "Připravené referenční vazby z modelu jaksecokresli",
+              "tags": [
+                "Edukační materiály",
+                "EGdílna",
+                "egdwiki",
+                "EGOVedu",
+                "Metodiky",
+                "modelování",
+                "naše práce",
+                "Pro architekty",
+                "pro lektory",
+                "učební podklady",
+                "znalosti"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -126,11 +171,19 @@
   "tags": [
     "Edukační materiály",
     "EGdílna",
+    "egdwiki",
+    "EGOVedu",
     "Metodiky",
+    "modelování",
+    "modely",
     "Nástroje",
+    "naše práce",
     "Pro architekty",
     "Pro dodavatele",
+    "pro lektory",
     "Pro manažery",
-    "Předpisy"
+    "Předpisy",
+    "učební podklady",
+    "znalosti"
   ]
 }
