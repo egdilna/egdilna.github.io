@@ -37,6 +37,26 @@
                 "K jednotlivým základním registrům určuje vedení referenčních údajů a dalších údajů a určuje povinnosti a postupy",
                 "Obsahuje celý mechanismus včetně základních postupů pro povinné využívání a poskytování údajů v propojeném datovém fondu, reklamace, notifikace apod."
               ]
+            },
+            {
+              "id": "mo12wsr2s9d7h",
+              "name": "Zákon č. 365/2000 Sb., o informačních systémech veřejné správy",
+              "url": "https://zakonyprolidi.cz/cs/2000-365",
+              "desc": "Hlavní zákon pro úřady a tzv. orgány veřejné správy k jejich informatice a informačním činnostem. Mimo jiné upravuje strategické myšení OVS prostřednictvím informační koncepce navázané na vládní Informační koncepci ČR, celou oblast dlouhodobého řízení, povinnosti a náležitosti k rozvoji a využívání informačních systémů veřejné správy apod. Dále upravuje národní služby, jako CMD, Portál veřejné správy apod.",
+              "tags": [
+                "Pro architekty",
+                "Pro manažery",
+                "Předpisy"
+              ],
+              "notes": [
+                "Celá právní úpravy plánování, přípravy, vzniku, pořízení, změn, rozvoje, provozu a ukončování informačních systémů veřejné správy",
+                "Informační koncepce České republiky a její závaznost (včetně celého jejího rámce) a informační koncepce orgánu veřejné správy jako základní strategický koncepční rámec pro řízení informatiky a řízení služeb OVS s využitím informatiky",
+                "Stanovení, kdo všechno je orgán veřejné správy a jaké mají OVS povinnosti, včetně dlouhodobého řízení a řízení ISVS a jejich vazeb a řízení jejich služeb",
+                "Dlouhodobé řízení jako soubor závazných procesů (podrobnosti ve vyhlášce) a jeho povinnosti",
+                "Využití přihlášení do ISVS jako ekvivalentu jakéhokoliv podpisu či vlastnoruční validace (včetně elektronického)",
+                "Podrobnosti národních služeb EG, jako je Portál veřejné správy, czechpoint@office jako kontaktní místa veřejné správy, Centrální místo služeb CMS a infrastrukturní připojení apod.",
+                "Sankce včetně konkrétní i trestně právní zodpovědnosti při porušení tohoto zákona vůči DIA"
+              ]
             }
           ]
         }
