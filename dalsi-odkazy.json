@@ -49,6 +49,25 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mo2sygm246k0q",
+      "name": "Naše nástroje a věci k nim",
+      "folders": [
+        {
+          "id": "mo2sz9yulmu5j",
+          "name": "Školení, dokumentace a návody k našim nástrojům",
+          "bookmarks": [
+            {
+              "id": "mo2t0zi20ihnh",
+              "name": "Videokurz  ArchiMate editor 1 overview a prostředí",
+              "url": "https://youtu.be/IlFewKjzw20",
+              "desc": "Krátký videkurz k ArchiMate editoru, procházka prostředím a co kde najdete, tvorba prvních prvků a první vazby, abyste viděli, jak to funguje.",
+              "tags": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
