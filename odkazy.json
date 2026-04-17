@@ -200,6 +200,27 @@
               "notes": []
             }
           ]
+        },
+        {
+          "id": "mo2sdkvx693lp",
+          "name": "Školení a kurzy na naše nástroje",
+          "bookmarks": [
+            {
+              "id": "mo2sgcjmh5ma1",
+              "name": "Videokurz  ArchiMate editor 1 overview a prostředí",
+              "url": "https://youtu.be/IlFewKjzw20",
+              "desc": "Video o průletu uživatelským prostředím ArchiMate editoru, kde co najdete. A vytvoření prvních prvků a první vazby, abyste viděli, jak to funguje.",
+              "tags": [
+                "Edukační materiály",
+                "EGdílna",
+                "naše práce",
+                "Pro architekty",
+                "pro lektory",
+                "Školení naše nástroje",
+                "učební podklady"
+              ]
+            }
+          ]
         }
       ]
     }
@@ -219,6 +240,7 @@
     "pro lektory",
     "Pro manažery",
     "Předpisy",
+    "Školení naše nástroje",
     "učební podklady",
     "znalosti"
   ]
