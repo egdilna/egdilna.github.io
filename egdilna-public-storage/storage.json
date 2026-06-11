@@ -1,0 +1,9 @@
+{
+  "schema": "dms-storage-v1",
+  "id": "egdpub",
+  "name": "Veřejné úložiště EGdílny",
+  "description": "",
+  "theme": "light-auto",
+  "modified": "2026-06-11T08:55:44.629Z",
+  "rootItems": []
+}
