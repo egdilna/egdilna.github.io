@@ -4,6 +4,52 @@
   "name": "Veřejné úložiště EGdílny",
   "description": "",
   "theme": "light-auto",
-  "modified": "2026-06-11T08:55:44.629Z",
-  "rootItems": []
+  "modified": "2026-06-11T09:04:55.803Z",
+  "rootItems": [
+    {
+      "type": "folder",
+      "id": "xf1nwr2nfopj0",
+      "name": "Projekty a publikace",
+      "description": "",
+      "items": [
+        {
+          "type": "folder",
+          "id": "xkmqsd5m5phxk",
+          "name": "Hodnocení a checklisty k závaznému rámci pro AIS",
+          "description": "",
+          "items": [
+            {
+              "type": "file",
+              "id": "sablona-sebehodnoceni-ais-gp",
+              "name": "Šablona tabulky souladu jednoho ISVS s požadavky GP rámce pro generický AIS",
+              "description": "Soubor interaktivní šablony",
+              "versions": [
+                {
+                  "timestamp": "2026-06-11T09:04:55.803Z",
+                  "description": "Rozpracovaný projekt ve formátu MDD pro Šablonář",
+                  "size": 35451,
+                  "device": "Michal mac Windows",
+                  "filename": "egdpub_sablona-sebehodnoceni-ais-gp_v1_2026-06-11_11-04.mdd",
+                  "sha": null,
+                  "partId": "v1"
+                }
+              ],
+              "created": "2026-06-11T09:02:41.312Z",
+              "modified": "2026-06-11T09:04:55.803Z",
+              "parts": [
+                {
+                  "id": "v1",
+                  "name": "Verze 1"
+                }
+              ]
+            }
+          ],
+          "created": "2026-06-11T09:00:52.616Z",
+          "modified": "2026-06-11T09:00:52.616Z"
+        }
+      ],
+      "created": "2026-06-11T09:00:15.804Z",
+      "modified": "2026-06-11T09:00:15.804Z"
+    }
+  ]
 }

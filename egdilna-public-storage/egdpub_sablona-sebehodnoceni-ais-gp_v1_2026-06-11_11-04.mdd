@@ -1,0 +1,471 @@
+{
+  "format": "sablonar-draft",
+  "version": 1,
+  "templateName": "sablona",
+  "savedAt": "2026-06-11T08:28:55.585Z",
+  "mode": "fill",
+  "templateText": "# Přehled souladu informačního systému [[[text: Název IS]]] s požadavky rámce GP\n\n## Základní informace\n\n- Název informačního systému: [[[text: Název IS]]]\n- Název správce: [[[text: Organizace]]]\n- Věcný správce: [[[text: Věcný správce]]]\n- Technický správce: [[[Text: Technický správce]]]\n- Druh informačního systému: [[[Volba: ISVS jež je AIS, ISVS jež dosud není a má být AIS, ISVS jež určitě není AIS, Systém necharakterizovaný jako ISVS]]]\n- Datum verze zhodnocení: [[[Datum: Datum|j. F Y]]]\n- Datum očekávaného plného souladu: [[[Datum: Datum souladu|j. F Y]]]\n- Textové stručné shrnutí zhodnocení souladu: [[[text: Shrnutí zhodnocení]]]\n\n\n## Informace určující základní aspekty IS pro hodnocení\n\n**Uvedení v IK OVS**\n\nInformační systém [[[text: Název IS]]] [[[volba: není uveden v IK, je řádně uveden v IK]]].\n\nTento IS a jeho rozvoj plní následující cíle a záméry uvedené v IK:\n\n[[[odrážky: Záměry v IK]]]\n\nIK uvádí k požadovanému rozvoji systému [[[text: Název IS]]] následující (shrnutí): [[[text: Shrnutí IK rozvoj]]]\n\nInformace k systému byly v IK naposledy aktualizovány k datu [[[datum: Aktualizace IK|j. F Y]]]\n\n\n**Role a zodpovědnosti**\n\nVěcným správcem je [[[text: Věcný správce]]] a [[[volba: byl řádně poučen o svých povinnostech, dosud nebyl zcela poučen o rozsahu svých povinností]]]. Jeho činnost věcného správce upravují následující vnitřní předpisy: [[[text: Předpisy k VS]]]\n\nTechnickým správcem je [[[text: Technický správce]]] a [[[volba: byl řádně poučen o svých povinnostech, dosud nebyl zcela poučen o rozsahu svých povinností]]]. Jeho činnost věcného správce upravují následující vnitřní předpisy: [[[text: Předpisy k TS]]]\n\n\n**Očekávané změny informačního systému v následujících 2 letech**\n\nI s ohledem na toto zhodnocení jsou plánovány následující významné změny informačního systému:\n\n[[[odrážky: Očekávané změny]]]\n\n\n\n## Podrobné zhodnocení souladu s požadavky GP\n\nNásleduje tabulka všech požadavků a informací o souladu řešení AIS/ISVS s těmito požadavky:\n\n\n| Požadavek | Soulad | Potřebné změny |\n|-----|---|-----|\n| Požadavky k fungování AIS v kontextu EG | | |\n| GP1 Vedení AIS v informační koncepci | | |\n| ■ AIS je zařazen v informační koncepci úřadu a je v souladu s IKČR a navazujícími dokumenty. |   | |\n| ■ AIS je v souladu s IK ČR a navazujícími dokumenty\n| GP2 Vedení provozní dokumentace AIS | | |\n| ■ Provozní dokumentace obsahuje vše dle vyhlášky | | |\n| GP3 Připojení na referenční rozhraní | | |\n| ■ AIS je připojen na referenční rozhraní veřejné správy pro účely vazeb na AIS jiného orgánu veřejné správy. | | |\n| ■ Čerpá veškeré nezbytné údaje, které se potřebují pro vyřízení služeb poskytované AIS. | | |\n| ■ Poskytuje veškeré vlastní (tedy nepřebírané) údaje, které v AIS vznikají pro potřeby ostatních AIS. Pro veškeré publikované údaje nabízí vyrozumění o změně v AIS-V. | | |\n| GP4 Využívání Národního bodu pro identifikaci a autentizaci | | |\n| ■ AIS má zajištěnou identifikaci a autentizaci fyzických osob, u kterých se vyžaduje prokázání totožnosti pomocí kvalifikovaného systému | | |\n| ■ AIS nevyužívá žádné jiné proprietární způsoby identifikace a autentizace, nevyžaduje-li to specifická situace, jako např. přihlášení třetizemce. | | |\n| GP5 Využívání centrálního místa služeb | | |\n| ■ AIS má zajištěnou vazbu na AIS jiného orgánu veřejné správy prostřednictvím centrálního místa služeb. | | |\n| GP6 Stanoviska OHA | | |\n| ■ AIS má souhlasná stanoviska Hlavního architekta eGovernmentu DIA na projekty architektonických změn | | |\n| ■ AIS má souhlasné stanovisko OHA k posouzení provozní dokumentace před uvedením služeb do provozu. | | |\n| GP7 Vedení AIS v RPP | | |\n| ■ AIS jako takový je veden v rejstříku ISVS se všemi údaji. | | |\n| ■ Zároveň je také ohlášena agenda, kterou AIS vykonává se všemi nezbytnostmi k řádnému plnění činností v agendě. | | |\n| GP8 Služby v katalogu služeb | | |\n| ■ Všechny služby, které se v AIS řeší jsou ohlášeny v katalogu služeb veřejné správy. | | |\n| ■ Kromě služeb je i známo, v jakých životních událostí je služba vyžadována a vyřizována. | | |\n| GP9 Využívání Registru zastupování | | |\n| ■ Pro digitální služby je možnost využít elektronického zastupování v Registru zastupování. | | |\n| ■ Pro úřední osoby je pro autentizaci do systému využit CAAIS | | |\n| Požadavky k AIS související s dlouhodobým řízením | | |\n| GP11 Věcný správce stanoví požadavky na služby AIS a poskytování služeb AIS splňujících tyto požadavky | | |\n| ■ Definuje byznysové/úřední požadavky na služby IS (funkce, parametry, kvalita). Slouží jako závazný vstup pro architekturu, zadání a SLA, aby ISVS podporoval výkon agendy a byl měřitelně řiditelný. | | |\n| GP12 Věcný správce zajistí návrh a realizaci AIS z hlediska splňování | | |\n| ■ 1. požadavků na služby informačního systému | | |\n| ■ 2. požadavků na technické a programové prostředky kladených na ně právními předpisy upravujícími informační nebo komunikační technologie, informační koncepcí orgánu veřejné správy a provozní dokumentací, a jde-li o informační systém spravovaný orgánem veřejné správy, pro nějž jsou závazná usnesení vlády, rovněž informační koncepcí České republiky a jinými usneseními vlády týkajícími se informačních nebo komunikačních technologií. | | |\n| GP13 Věcný správce identifikuje motivace k vytvoření nebo rozvoji AIS, porovná je se stávajícím stavem architektury orgánu veřejné správy a prostřednictvím aktualizace informační koncepce orgánu veřejné správy provede strategické naplánování vytvoření nebo rozvoje tohoto systému. | | |\n| ■ Zajišťuje zdůvodnění a zasazení změny do architektury a plánů (IK OVS). Brání duplicitám a nesouladu portfolia IS; umožní řídit rozvoj ISVS dlouhodobě. | | |\n| GP14 Věcný správce v návaznosti na plán v informační koncepci orgánu veřejné správy vypracuje a schválí investiční záměr a v případě určeného informačního systému obdrží souhlasné vyjádření Digitální a informační agentury. | | |\n| GP15 Věcný správce stanoví cíle, kterých chce dosáhnout vytvořením nebo rozvojem AIS nebo se odkáže na platné strategické cíle orgánu veřejné správy nebo cíle České republiky, jejichž splnění bude podpořeno plánovaným AIS. | | |\n| GP16 Věcný správce identifikuje a stanovuje požadavky na služby AIS, zpracování informací a bezpečnostní úrovně informačního systému. | | |\n| GP17 Věcný správce vyhodnocuje a schvaluje řešení AIS podle předložených variant řešení informačního systému. | | |\n| GP18 Věcný správce plánuje zajištění zdrojů potřebných pro plánování a přípravu vytvoření a rozvoje informačního systému. | | |\n| GP19 Věcný správce identifikuje požadavky na zpracování datového výstupu určeného k dlouhodobému uchovávání. | | |\n| GP20 Věcný správce schvaluje plán ukončení provozu informačního systému. | | |\n| GP21 Věcný správce zajišťuje vypracování studie proveditelnosti k posouzení možných variant nebo zjištění podmínek pro realizovatelnost nových nebo významně měněných informačních systémů. | | |\n| GP22 Technický správce zpracovává a předkládá varianty řešení informačního systému podle požadavku věcného správce, přičemž posuzuje možnost využití stávajících infomačních systémů. | | |\n| GP23 Technický správce zpracovává architekturu informačního systému na úrovni podrobnosti metody architektury úřadu a metody architektury řešení a specifikace možných řešení. | | |\n| GP24 Technický správce využívá výstupů provedených ověřovacích konceptů potřebných pro pořizování nebo změnu AIS. | | |\n| GP25 Technický správce vytváří plán ukončení provozu AIS. | | |\n| GP26 Technický správce vytváří plán uchovávání dat. | | |\n| GP27 Věcný správce zajišťuje zdroje potřebné k realizaci vytvoření nebo rozvoji informačního systému. | | |\n| GP28 Věcný správce stanovuje rozsah a formát datového výstupu k dlouhodobému uchovávání. | | |\n| GP29 Věcný správce stanovuje uživatelské role, náplň vykonávaných činností a přístupová oprávnění. | | |\n| GP30 Technický správce zajišťuje pořízení nebo technické zhodnocení AIS splňujícího požadavky kladené na jeho služby | | |\n| GP31 Technický správce zajišťuje splnění požadavků kladených na provoz AIS | | |\n| GP32 Technický správce zajišťuje zveřejnění zdrojového kódu vytvořeného během projektu v rozsahu, v jakém jej nemůže být zneužito k narušení nebo zničení AIS | | |\n| GP33 Technický správce zajišťuje řízení změn AIS | | |\n| GP34 Technický správce zajišťuje řízení kontinuity provozu AIS | | |\n| GP35 Technický správce zajišťuje zřízení podpory uživatelům AIS | | |\n| GP36 Technický správce zajistí aby projekt, jehož součástí je dodávka více než jedné komponenty, byl rozdělen na dílčí plnění obsahující dodávku jednotlivých komponent. Činí tak způsobem, aby bylo možné po dodávce každé komponenty projekt ukončit, pokud ztratil své původní opodstatnění. | | |\n| GP37 Věcný správce zajišťuje zdroje potřebné k zajištění produkčního provozu informačního systému. | | |\n| GP38 Věcný správce průběžně školí uživatele informačního systému. | | |\n| GP39 Věcný správce zajišťuje příjem a evidenci požadavků na změny funkcí a služeb informačního systému od uživatelů informačního systému, | | |\n| GP40 Věcný správce vyhodnocuje plnění stanovených požadavků na služby informačního systému. | | |\n| GP41 Věcný správce stanovuje prioritu evidovaných požadavků na změny funkcí a služeb informačního systému. | | |\n| GP42 Technický správce provozování produkčního prostředí | | |\n| GP43 Technický správce provádí plánování a pravidelnou kontrolu dostupnosti a zajištění zdrojů potřebných k provozování AIS | | |\n| GP44 Technický správce provádí pravidelnou kontrolu integrity dat | | |\n| GP45 Technický správce provádí pravidelné zálohování a uchovávání dat bez přerušení provozu AIS | | |\n| GP46 Technický správce provádí pravidelné testy obnovy všech funkcí, kódů a dat AIS do nového prostředí | | |\n| GP47 Technický správce udržuje komponenty v provozuschopném a bezpečném stavu | | |\n| GP48 Technický správce zajišťuje příjem a evidenci požadavků na změny funkcí a služeb AIS | | |\n| GP49 Technický správce přijímá hlášení provozních událostí a vyhodnocuje závažnosti dopadu nalezených chyb, poruch a nedostatků AIS, vytváří a upřednostňuje servisní požadavky | | |\n| GP50 Technický správce vyhledává škodlivé programové prostředky a škodlivé komunikace | | |\n| GP51 Technický správce sleduje a analyzuje dopady provozních událostí | | |\n| GP52 Technický správce nasazuje ověřené, funkční a formálně akceptované verze s předem otestovanou integrací bez ohrožení kvality a dostupnosti služeb AIS | | |\n| GP53 Technický správce vytváří a předává datové výstupy k dlouhodobému uchovávání | | |\n| GP54 Technický správce zajišťuje stanovenou úroveň kontinuity pro služby AIS, pro podporu služeb jiných AIS a pro provoz informačních systémů | | |\n| GP55 řízení provozovatele AIS. | | |\n| GP56 Věcný správce vyhodnocuje plnění stanovených požadavků na služby AIS | | |\n| GP57 Věcný správce hodnotí přínosy služeb AIS | | |\n| GP58 Věcný správce posuzuje ekonomickou výhodnost služeb AIS | | |\n| GP59 Věcný správce kontroluje plnění cílů stanovených ve fázi strategického plánování vytvoření a rozvoje AIS. | | |\n| GP60 Technický správce zajišťuje plnění věcným správcem stanovených požadavků na služby AIS | | |\n| GP61 Technický správce zajišťuje bezpečnost AIS a aplikuje bezodkladně potřebná bezpečnostní opatření. | | |\n| GP62 Technický správce zajistí transformaci údajů a export dat podle potřeb z AIS způsobem umožňujícím jejich dlouhodobé uchovávání nebo přenesení do informačního systému, který má původní AIS nahradit | | |\n| GP63 Technický správce zajistí přenos aktuálních dat, kódů a prostředí v útlumovém režimu, je-li plánován. | | |\n| GP64 Technický správce provádí export dat v rozsahu údajů, které AIS zpracovával k okamžiku ukončení jeho produkčního provozu s ověřením integrity dat. | | |\n| GP65 Technický správce provádí export dat přednostně v otevřeném formátu. | | |\n| GP66 Nastavuje governance útlumu: kdo a kdy může prostředí aktivovat, jak se udržuje, kdo má přístup a jak se data poskytují. Zajišťuje právní a provozní kontrolu. | | |\n\n## Realizace potřebných změn\n[[[text: Shrnutí zhodnocení]]]\n\n\n[[[text: Věcný správce]]] jako věcný správce potvrzuje, že informace uvedené v tomto hodnocení jsou ke dni [[[datum: Datum hodnocení|j. F Y]]] platné, úplné a aktuální. Dále si uvědomuje výše popsaný nesoulad s některými požadavky a v termínu do [[[Datum: Datum souladu|j. F Y]]] chce zajistit úplný soulad se všemi požadavky následujícími konkrétními kroky:\n\n[[[Odrážky: Konkrétní kroky souladu]]]\n\n**Poznámky a doplnění**\n\n[[[textarea: Poznámky a doplnění]]]\n\n",
+  "values": {
+    "__inline_table_0": [
+      {
+        "Požadavek": "Požadavky k fungování AIS v kontextu EG",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP1 Vedení AIS v informační koncepci",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS je zařazen v informační koncepci úřadu a je v souladu s IKČR a navazujícími dokumenty.",
+        "Soulad": "Soulad: Máme v IK a v architektuře",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS je v souladu s IK ČR a navazujícími dokumenty",
+        "Soulad": "Částečně: Soulad s IKČR asi máme, musíme ale dořešit, aby byl přesně v souladu s NAP stran jednotlivých technických řešení. Musíme taky dořešit úplnou implementaci PPDF.",
+        "Potřebné změny": "Prověřit NAP a PPDF."
+      },
+      {
+        "Požadavek": "GP2 Vedení provozní dokumentace AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Provozní dokumentace obsahuje vše dle vyhlášky",
+        "Soulad": "Částečně: Nějakou dokumentaci máme, ale zjistili jsme, že není zcle kompletní a úplná podle vyhlášky.",
+        "Potřebné změny": "Dovytvořit části Exit plánu, doplnit o projektovou a akceptační dokumentaci, doplnit některé kapitoly v procesech provozu, doplnit provozní řád."
+      },
+      {
+        "Požadavek": "GP3 Připojení na referenční rozhraní",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS je připojen na referenční rozhraní veřejné správy pro účely vazeb na AIS jiného orgánu veřejné správy.",
+        "Soulad": "Soulad",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Čerpá veškeré nezbytné údaje, které se potřebují pro vyřízení služeb poskytované AIS.",
+        "Soulad": "Částečně",
+        "Potřebné změny": "Prověřit, zda nemůźeme čerpat ještě další údaje, které potŕebujeme ale nejsou zatím jako kontexty a projednat to s příslušnými ohlašovateli agend."
+      },
+      {
+        "Požadavek": "■ Poskytuje veškeré vlastní (tedy nepřebírané) údaje, které v AIS vznikají pro potřeby ostatních AIS. Pro veškeré publikované údaje nabízí vyrozumění o změně v AIS-V.",
+        "Soulad": "Nesoulad",
+        "Potřebné změny": "Neposkytujeme údaje, nikdo je po nás nechce. Nejsme si tím ale jisti, zaměřit se na to."
+      },
+      {
+        "Požadavek": "GP4 Využívání Národního bodu pro identifikaci a autentizaci",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS má zajištěnou identifikaci a autentizaci fyzických osob, u kterých se vyžaduje prokázání totožnosti pomocí kvalifikovaného systému",
+        "Soulad": "Nerelevantní: Do AIS se nepřihlašují klientské subjekty",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS nevyužívá žádné jiné proprietární způsoby identifikace a autentizace, nevyžaduje-li to specifická situace, jako např. přihlášení třetizemce.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP5 Využívání centrálního místa služeb",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS má zajištěnou vazbu na AIS jiného orgánu veřejné správy prostřednictvím centrálního místa služeb.",
+        "Soulad": "Soulad: Jsme napojeni na CAAIS a naši zaměstnanci využívají CAAIS k přihlašování do systému.",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP6 Stanoviska OHA",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS má souhlasná stanoviska Hlavního architekta eGovernmentu DIA na projekty architektonických změn",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS má souhlasné stanovisko OHA k posouzení provozní dokumentace před uvedením služeb do provozu.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP7 Vedení AIS v RPP",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ AIS jako takový je veden v rejstříku ISVS se všemi údaji.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Zároveň je také ohlášena agenda, kterou AIS vykonává se všemi nezbytnostmi k řádnému plnění činností v agendě.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP8 Služby v katalogu služeb",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Všechny služby, které se v AIS řeší jsou ohlášeny v katalogu služeb veřejné správy.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Kromě služeb je i známo, v jakých životních událostí je služba vyžadována a vyřizována.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP9 Využívání Registru zastupování",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Pro digitální služby je možnost využít elektronického zastupování v Registru zastupování.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Pro úřední osoby je pro autentizaci do systému využit CAAIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "Požadavky k AIS související s dlouhodobým řízením",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP11 Věcný správce stanoví požadavky na služby AIS a poskytování služeb AIS splňujících tyto požadavky",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Definuje byznysové/úřední požadavky na služby IS (funkce, parametry, kvalita). Slouží jako závazný vstup pro architekturu, zadání a SLA, aby ISVS podporoval výkon agendy a byl měřitelně řiditelný.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP12 Věcný správce zajistí návrh a realizaci AIS z hlediska splňování",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ 1. požadavků na služby informačního systému",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ 2. požadavků na technické a programové prostředky kladených na ně právními předpisy upravujícími informační nebo komunikační technologie, informační koncepcí orgánu veřejné správy a provozní dokumentací, a jde-li o informační systém spravovaný orgánem veřejné správy, pro nějž jsou závazná usnesení vlády, rovněž informační koncepcí České republiky a jinými usneseními vlády týkajícími se informačních nebo komunikačních technologií.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP13 Věcný správce identifikuje motivace k vytvoření nebo rozvoji AIS, porovná je se stávajícím stavem architektury orgánu veřejné správy a prostřednictvím aktualizace informační koncepce orgánu veřejné správy provede strategické naplánování vytvoření nebo rozvoje tohoto systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "■ Zajišťuje zdůvodnění a zasazení změny do architektury a plánů (IK OVS). Brání duplicitám a nesouladu portfolia IS; umožní řídit rozvoj ISVS dlouhodobě.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP14 Věcný správce v návaznosti na plán v informační koncepci orgánu veřejné správy vypracuje a schválí investiční záměr a v případě určeného informačního systému obdrží souhlasné vyjádření Digitální a informační agentury.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP15 Věcný správce stanoví cíle, kterých chce dosáhnout vytvořením nebo rozvojem AIS nebo se odkáže na platné strategické cíle orgánu veřejné správy nebo cíle České republiky, jejichž splnění bude podpořeno plánovaným AIS.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP16 Věcný správce identifikuje a stanovuje požadavky na služby AIS, zpracování informací a bezpečnostní úrovně informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP17 Věcný správce vyhodnocuje a schvaluje řešení AIS podle předložených variant řešení informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP18 Věcný správce plánuje zajištění zdrojů potřebných pro plánování a přípravu vytvoření a rozvoje informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP19 Věcný správce identifikuje požadavky na zpracování datového výstupu určeného k dlouhodobému uchovávání.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP20 Věcný správce schvaluje plán ukončení provozu informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP21 Věcný správce zajišťuje vypracování studie proveditelnosti k posouzení možných variant nebo zjištění podmínek pro realizovatelnost nových nebo významně měněných informačních systémů.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP22 Technický správce zpracovává a předkládá varianty řešení informačního systému podle požadavku věcného správce, přičemž posuzuje možnost využití stávajících infomačních systémů.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP23 Technický správce zpracovává architekturu informačního systému na úrovni podrobnosti metody architektury úřadu a metody architektury řešení a specifikace možných řešení.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP24 Technický správce využívá výstupů provedených ověřovacích konceptů potřebných pro pořizování nebo změnu AIS.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP25 Technický správce vytváří plán ukončení provozu AIS.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP26 Technický správce vytváří plán uchovávání dat.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP27 Věcný správce zajišťuje zdroje potřebné k realizaci vytvoření nebo rozvoji informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP28 Věcný správce stanovuje rozsah a formát datového výstupu k dlouhodobému uchovávání.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP29 Věcný správce stanovuje uživatelské role, náplň vykonávaných činností a přístupová oprávnění.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP30 Technický správce zajišťuje pořízení nebo technické zhodnocení AIS splňujícího požadavky kladené na jeho služby",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP31 Technický správce zajišťuje splnění požadavků kladených na provoz AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP32 Technický správce zajišťuje zveřejnění zdrojového kódu vytvořeného během projektu v rozsahu, v jakém jej nemůže být zneužito k narušení nebo zničení AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP33 Technický správce zajišťuje řízení změn AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP34 Technický správce zajišťuje řízení kontinuity provozu AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP35 Technický správce zajišťuje zřízení podpory uživatelům AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP36 Technický správce zajistí aby projekt, jehož součástí je dodávka více než jedné komponenty, byl rozdělen na dílčí plnění obsahující dodávku jednotlivých komponent. Činí tak způsobem, aby bylo možné po dodávce každé komponenty projekt ukončit, pokud ztratil své původní opodstatnění.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP37 Věcný správce zajišťuje zdroje potřebné k zajištění produkčního provozu informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP38 Věcný správce průběžně školí uživatele informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP39 Věcný správce zajišťuje příjem a evidenci požadavků na změny funkcí a služeb informačního systému od uživatelů informačního systému,",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP40 Věcný správce vyhodnocuje plnění stanovených požadavků na služby informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP41 Věcný správce stanovuje prioritu evidovaných požadavků na změny funkcí a služeb informačního systému.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP42 Technický správce provozování produkčního prostředí",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP43 Technický správce provádí plánování a pravidelnou kontrolu dostupnosti a zajištění zdrojů potřebných k provozování AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP44 Technický správce provádí pravidelnou kontrolu integrity dat",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP45 Technický správce provádí pravidelné zálohování a uchovávání dat bez přerušení provozu AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP46 Technický správce provádí pravidelné testy obnovy všech funkcí, kódů a dat AIS do nového prostředí",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP47 Technický správce udržuje komponenty v provozuschopném a bezpečném stavu",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP48 Technický správce zajišťuje příjem a evidenci požadavků na změny funkcí a služeb AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP49 Technický správce přijímá hlášení provozních událostí a vyhodnocuje závažnosti dopadu nalezených chyb, poruch a nedostatků AIS, vytváří a upřednostňuje servisní požadavky",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP50 Technický správce vyhledává škodlivé programové prostředky a škodlivé komunikace",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP51 Technický správce sleduje a analyzuje dopady provozních událostí",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP52 Technický správce nasazuje ověřené, funkční a formálně akceptované verze s předem otestovanou integrací bez ohrožení kvality a dostupnosti služeb AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP53 Technický správce vytváří a předává datové výstupy k dlouhodobému uchovávání",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP54 Technický správce zajišťuje stanovenou úroveň kontinuity pro služby AIS, pro podporu služeb jiných AIS a pro provoz informačních systémů",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP55 řízení provozovatele AIS.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP56 Věcný správce vyhodnocuje plnění stanovených požadavků na služby AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP57 Věcný správce hodnotí přínosy služeb AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP58 Věcný správce posuzuje ekonomickou výhodnost služeb AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP59 Věcný správce kontroluje plnění cílů stanovených ve fázi strategického plánování vytvoření a rozvoje AIS.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP60 Technický správce zajišťuje plnění věcným správcem stanovených požadavků na služby AIS",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP61 Technický správce zajišťuje bezpečnost AIS a aplikuje bezodkladně potřebná bezpečnostní opatření.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP62 Technický správce zajistí transformaci údajů a export dat podle potřeb z AIS způsobem umožňujícím jejich dlouhodobé uchovávání nebo přenesení do informačního systému, který má původní AIS nahradit",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP63 Technický správce zajistí přenos aktuálních dat, kódů a prostředí v útlumovém režimu, je-li plánován.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP64 Technický správce provádí export dat v rozsahu údajů, které AIS zpracovával k okamžiku ukončení jeho produkčního provozu s ověřením integrity dat.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP65 Technický správce provádí export dat přednostně v otevřeném formátu.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      },
+      {
+        "Požadavek": "GP66 Nastavuje governance útlumu: kdo a kdy může prostředí aktivovat, jak se udržuje, kdo má přístup a jak se data poskytují. Zajišťuje právní a provozní kontrolu.",
+        "Soulad": "",
+        "Potřebné změny": ""
+      }
+    ],
+    "__idx_5": "ISVS jež je AIS",
+    "Datum::datum": "2026-07-01",
+    "Text::název is": "Systém pro evidenci žabiček",
+    "Text::organizace": "Úřad pro zelené žabičky",
+    "Text::věcný správce": "Odbor žabičkování",
+    "Text::technický správce": "Jan Pečlivý, odbor OIT",
+    "Datum::datum souladu": "2027-12-31",
+    "__idx_9": "je řádně uveden v IK",
+    "Odrážky::záměry v ik": [
+      "Cíl: Řádně elektronicky evidovat všechny žabičky",
+      "Záměr: Zlepšení procesů a služeb při evidenci žabiček"
+    ],
+    "Text::shrnutí ik rozvoj": "Je uveden v klíčových systémech veŕejné správy a v zámérech se očekává jeho modernizace",
+    "Datum::aktualizace ik": "2026-01-01",
+    "__idx_15": "byl řádně poučen o svých povinnostech",
+    "__idx_17": "byl řádně poučen o svých povinnostech",
+    "Text::předpisy k ts": "Směrnice o správě systémů",
+    "Text::předpisy k vs": "Organizační řád, Směrnice ke správě systémů, Směrnice k evidenci žabiček, Spisový a skartační řád",
+    "Text::shrnutí zhodnocení": "Musíme dořešit vazbu na další systémy, dodělat propojená na CMS2 a aktualizovat údaje v RPP. Dále musíme více dbát na plnění povinností věcného a technického správce a zaktualizovat provozní dokumentaci."
+  }
+}
