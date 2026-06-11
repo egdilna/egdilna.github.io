@@ -4,7 +4,7 @@
   "name": "Veřejné úložiště EGdílny",
   "description": "",
   "theme": "light-auto",
-  "modified": "2026-06-11T09:04:55.803Z",
+  "modified": "2026-06-11T09:06:59.279Z",
   "rootItems": [
     {
       "type": "folder",
@@ -30,12 +30,21 @@
                   "size": 35451,
                   "device": "Michal mac Windows",
                   "filename": "egdpub_sablona-sebehodnoceni-ais-gp_v1_2026-06-11_11-04.mdd",
+                  "sha": "a817131d9e2c496cf5e81e415115e9af068b62c5",
+                  "partId": "v1"
+                },
+                {
+                  "timestamp": "2026-06-11T09:06:59.279Z",
+                  "description": "Vzor vyplněné šablony ve formátu Markdown",
+                  "size": 15109,
+                  "device": "Michal mac Windows",
+                  "filename": "egdpub_sablona-sebehodnoceni-ais-gp_v1_2026-06-11_11-06.md",
                   "sha": null,
                   "partId": "v1"
                 }
               ],
               "created": "2026-06-11T09:02:41.312Z",
-              "modified": "2026-06-11T09:04:55.803Z",
+              "modified": "2026-06-11T09:06:59.279Z",
               "parts": [
                 {
                   "id": "v1",
