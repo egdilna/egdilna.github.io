@@ -4,7 +4,7 @@
   "name": "Veřejné úložiště EGdílny",
   "description": "",
   "theme": "light-auto",
-  "modified": "2026-06-11T09:07:50.845Z",
+  "modified": "2026-07-10T15:13:10.405Z",
   "rootItems": [
     {
       "type": "folder",
@@ -68,6 +68,15 @@
       ],
       "created": "2026-06-11T09:00:15.804Z",
       "modified": "2026-06-11T09:00:15.804Z"
+    },
+    {
+      "type": "file",
+      "id": "Digitalnicesko2-vlada",
+      "name": "Strategie řízení ICT projektů Digitální Česko 2.0 2026",
+      "description": "",
+      "versions": [],
+      "created": "2026-07-10T15:13:10.405Z",
+      "modified": "2026-07-10T15:13:10.405Z"
     }
   ]
 }
