@@ -4,7 +4,7 @@
   "name": "Veřejné úložiště EGdílny",
   "description": "",
   "theme": "light-auto",
-  "modified": "2026-07-10T15:13:10.405Z",
+  "modified": "2026-07-10T16:14:33.500Z",
   "rootItems": [
     {
       "type": "folder",
@@ -74,9 +74,29 @@
       "id": "Digitalnicesko2-vlada",
       "name": "Strategie řízení ICT projektů Digitální Česko 2.0 2026",
       "description": "",
-      "versions": [],
+      "versions": [
+        {
+          "timestamp": "2026-07-10T16:14:33.500Z",
+          "description": "",
+          "size": 48886,
+          "device": "",
+          "filename": "egdpub_Digitalnicesko2-vlada_0usneseni_2026-07-10_18-14.pdf",
+          "sha": null,
+          "partId": "0usneseni"
+        }
+      ],
       "created": "2026-07-10T15:13:10.405Z",
-      "modified": "2026-07-10T15:13:10.405Z"
+      "modified": "2026-07-10T16:14:33.500Z",
+      "parts": [
+        {
+          "id": "0usneseni",
+          "name": "Usnesení"
+        },
+        {
+          "id": "P1seznamprojektu",
+          "name": "Příloha 1 Seznam projektú a odpovědných manazerú"
+        }
+      ]
     }
   ]
 }
