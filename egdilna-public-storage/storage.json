@@ -4,7 +4,7 @@
   "name": "Veřejné úložiště EGdílny",
   "description": "",
   "theme": "light-auto",
-  "modified": "2026-07-10T16:31:58.853Z",
+  "modified": "2026-07-10T16:36:42.958Z",
   "rootItems": [
     {
       "type": "folder",
@@ -99,12 +99,21 @@
           "size": 51075,
           "device": "",
           "filename": "egdpub_Digitalnicesko2-vlada_P2seznamlegprojektu_2026-07-10_18-31.pdf",
-          "sha": null,
+          "sha": "84b5783ed819bfb1a84713e832bc0b00a8edf876",
           "partId": "P2seznamlegprojektu"
+        },
+        {
+          "timestamp": "2026-07-10T16:36:42.957Z",
+          "description": "",
+          "size": 36766,
+          "device": "",
+          "filename": "egdpub_Digitalnicesko2-vlada_P3mandatymanazeru_2026-07-10_18-36.pdf",
+          "sha": null,
+          "partId": "P3mandatymanazeru"
         }
       ],
       "created": "2026-07-10T15:13:10.405Z",
-      "modified": "2026-07-10T16:31:58.853Z",
+      "modified": "2026-07-10T16:36:42.958Z",
       "parts": [
         {
           "id": "0usneseni",
