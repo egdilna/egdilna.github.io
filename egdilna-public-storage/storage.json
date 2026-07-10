@@ -4,7 +4,7 @@
   "name": "Veřejné úložiště EGdílny",
   "description": "",
   "theme": "light-auto",
-  "modified": "2026-07-10T16:16:20.876Z",
+  "modified": "2026-07-10T16:29:12.050Z",
   "rootItems": [
     {
       "type": "folder",
@@ -90,12 +90,20 @@
           "size": 38935,
           "device": "",
           "filename": "egdpub_Digitalnicesko2-vlada_P1seznamprojektu_2026-07-10_18-16.pdf",
-          "sha": null,
+          "sha": "8550dcec59a091a2c5b52ef8f36266fabfa6ebe7",
           "partId": "P1seznamprojektu"
+        },
+        {
+          "timestamp": "2026-07-10T16:29:12.050Z",
+          "description": "",
+          "size": 51075,
+          "device": "",
+          "filename": "egdpub_Digitalnicesko2-vlada_2026-07-10_18-29.pdf",
+          "sha": null
         }
       ],
       "created": "2026-07-10T15:13:10.405Z",
-      "modified": "2026-07-10T16:16:20.876Z",
+      "modified": "2026-07-10T16:29:12.050Z",
       "parts": [
         {
           "id": "0usneseni",
@@ -104,6 +112,18 @@
         {
           "id": "P1seznamprojektu",
           "name": "Příloha 1 Seznam projektú a odpovědných manazerú"
+        },
+        {
+          "id": "P2seznamlegprojektu",
+          "name": "Příloha 2 Seznam projektú podle legislativy"
+        },
+        {
+          "id": "P3mandatymanazeru",
+          "name": "Příloha 3 Mandát odpovědného manažera"
+        },
+        {
+          "id": "P4evidence",
+          "name": "Příloha 4 centrální evidence projektú"
         }
       ]
     }
