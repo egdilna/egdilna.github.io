@@ -68,11 +68,19 @@
       "folder": "Pracovní s OHA/Metodiky, znalosti, wiki/AIS a ESSL světy/Metodiky a otázky k AIS a ESSL",
       "version": 1,
       "tags": [],
-      "notes": [],
+      "notes": [
+        {
+          "id": "pz-mt5x174l-hoz5",
+          "text": "Tohle ještě stále je pracovní verze, nicméně ve finální asi moc věcných změn nebude, spíš se odstraní ty pracovní věci dole a tak.",
+          "color": "ruzova",
+          "created": "2026-08-23T14:41:51.956Z",
+          "updated": "2026-08-23T14:41:51.956Z"
+        }
+      ],
       "created": "2026-08-23T14:39:28.881Z",
-      "updated": "2026-08-23T14:39:28.881Z",
+      "updated": "2026-08-23T14:41:51.956Z",
       "size": 26169
     }
   ],
-  "updated": "2026-08-23T14:39:28.882Z"
+  "updated": "2026-08-23T14:41:51.957Z"
 }
