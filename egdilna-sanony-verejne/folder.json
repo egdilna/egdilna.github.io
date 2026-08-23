@@ -67,6 +67,14 @@
       "tags": [],
       "created": "2026-08-23T15:01:47.882Z",
       "updated": "2026-08-23T15:01:47.882Z"
+    },
+    {
+      "path": "RVIS/Rámce/Digitální Česko 2",
+      "color": "oranzova",
+      "description": "",
+      "tags": [],
+      "created": "2026-08-23T15:02:34.817Z",
+      "updated": "2026-08-23T15:02:34.817Z"
     }
   ],
   "files": [
@@ -90,5 +98,5 @@
       "size": 26169
     }
   ],
-  "updated": "2026-08-23T15:01:47.882Z"
+  "updated": "2026-08-23T15:02:34.817Z"
 }
