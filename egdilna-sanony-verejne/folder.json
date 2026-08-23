@@ -61,6 +61,18 @@
       "updated": "2026-08-23T14:37:51.998Z"
     }
   ],
-  "files": [],
-  "updated": "2026-08-23T14:37:51.998Z"
+  "files": [
+    {
+      "name": "Pracovní verze Odpovědi na otázky AIS a ESSL v1.docx",
+      "description": "Pracovní verze odpovědí za DIA k dotazům na AIS a ESSL a technické řešení",
+      "folder": "Pracovní s OHA/Metodiky, znalosti, wiki/AIS a ESSL světy/Metodiky a otázky k AIS a ESSL",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-08-23T14:39:28.881Z",
+      "updated": "2026-08-23T14:39:28.881Z",
+      "size": 26169
+    }
+  ],
+  "updated": "2026-08-23T14:39:28.882Z"
 }
