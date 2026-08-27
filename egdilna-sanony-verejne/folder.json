@@ -353,8 +353,19 @@
       "created": "2026-08-23T15:55:25.549Z",
       "updated": "2026-08-23T15:55:25.549Z",
       "size": 14259708
+    },
+    {
+      "name": "Aktuální Architektonický vzor generického rámce AIS.docx",
+      "description": "",
+      "folder": "RVIS/Rámce/Rámce pro AIS ISVS/Rámec Generický AIS a požadavky GP",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-08-27T10:37:30.775Z",
+      "updated": "2026-08-27T10:37:30.775Z",
+      "size": 41173
     }
   ],
-  "updated": "2026-08-27T10:35:46.262Z",
+  "updated": "2026-08-27T10:37:30.775Z",
   "links": []
 }
