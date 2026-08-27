@@ -107,6 +107,14 @@
       "tags": [],
       "created": "2026-08-23T15:54:17.750Z",
       "updated": "2026-08-23T15:54:17.750Z"
+    },
+    {
+      "path": "RVIS/Rámce/Rámce pro AIS ISVS",
+      "color": "oranzova",
+      "description": "",
+      "tags": [],
+      "created": "2026-08-27T10:33:49.995Z",
+      "updated": "2026-08-27T10:33:49.995Z"
     }
   ],
   "files": [
@@ -339,5 +347,6 @@
       "size": 14259708
     }
   ],
-  "updated": "2026-08-23T15:55:25.549Z"
+  "updated": "2026-08-27T10:33:49.996Z",
+  "links": []
 }
