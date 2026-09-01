@@ -2,7 +2,7 @@
 <opml version="2.0">
 <head><title>Kontrolní checklist pro OVM – Generický AIS (v4)</title></head>
 <body>
-  <outline text="Checklist požadavků z rámce pro generický AIS">
+  <outline text="Seznam požadavků z rámce Generický AIS">
     <outline text="Vybrané povinnosti, klíčové pro splnění vládní strategie digitalizace a PPV">
       <outline text="1.1 Připojení na referenční rozhraní [ZoZR, ZoISVS]" _note="AIS je připojen na referenční rozhraní veřejné správy pro účely vazeb na AIS jiného orgánu veřejné správy."/>
       <outline text="1.2 Čerpání údajů v rozsahu oprávnění [ZoZR, ZoISVS]" _note="Čerpá potřebné údaje v rozsahu oprávnění a potřebném pro vyřízení služeb poskytovaných AIS."/>
@@ -63,14 +63,14 @@
       <outline text="38 Uchovávání údajů" _note="Jaké údaje musí být uchovávány, v jaké podobě a s jakou vazbou na archivaci nebo spisovou službu."/>
       <outline text="39 Identifikátory" _note="Jaké identifikátory osob, subjektů nebo objektů AIS používá a v jakém kontextu."/>
     </outline>
-  </outline>
-  <outline text="Tipy k datové architektuře">
-    <outline text="40 Objektovost konceptuálního modelu [tento pokyn a NAP]" _note="Na údaje pohlížejte “objektově”. Každý subjekt nebo objekt modelujte, identifikujete a evidujte primárně v jejich existenci, tj. jako narozené lidi nebo založené organizace, nebo vytvořené věci, teprve poté k nim doplňte role, které na sebe berou. Například vaším subjektem NENÍ “řidič”, “poplatník”, “rodič” nebo “pojištěnec”. Je to člověk s unikátní identifikací a údaji ze základních registrů, společnými pro všechny vaše agendy. Následně bude váš AIS evidovat, do jaké role tento subjekt v agendě vstupuje a jaké údaje jsou s jeho působením v roli spojeny (kontext)."/>
-    <outline text="41 Sdílená kmenová data [tento pokyn a NAP]" _note="Najděte mezi svými daty data kmenová a založte v úřadu centrální evidence kmenových dat, napojené na základní registry. Tyto evidence potom odkazem pomocí klientského identifikátoru sdílejte do agendových IS, kde k nim budete evidovat data transakční z výkonu agendy."/>
-    <outline text="42 Sdílení agendových dat do PPDF [tento pokyn a NAP]" _note="Vaše agendově specifické údaje sdílejte z AIS do propojeného datového fondu (PPDF), ideálně prostřednictvím sdílené integrační platformy úřadu nebo resortu."/>
-    <outline text="43 Otevřená data [tento pokyn a NAP]" _note="Tyto údaje podle jejich charakteru sdílejte v původní podobě nebo anonymizované také jako Otevřená data do veřejného datového fondu nebo jako data s řízeným přístupem."/>
-    <outline text="44 Statistická data a výkaznické řešení [tento pokyn a NAP]" _note="Navrhněte způsoby zpracování dat pro účely statistik a podpory rozhodování, nejlépe ve sdíleném výkaznickém řešení úřadu, ve vzájemných souvislostech."/>
-    <outline text="45 Integrace na DataHub [tento pokyn a NAP]" _note="Najděte, připravte a poskytněte DIA do celostátního reportingu DataHub údaje o poskytování jednotlivých služeb z Katalogu služeb a o spokojenosti klientů s těmito službami."/>
+    <outline text="Tipy k datové architektuře">
+      <outline text="40 Objektovost konceptuálního modelu [tento pokyn a NAP]" _note="Na údaje pohlížejte “objektově”. Každý subjekt nebo objekt modelujte, identifikujete a evidujte primárně v jejich existenci, tj. jako narozené lidi nebo založené organizace, nebo vytvořené věci, teprve poté k nim doplňte role, které na sebe berou. Například vaším subjektem NENÍ “řidič”, “poplatník”, “rodič” nebo “pojištěnec”. Je to člověk s unikátní identifikací a údaji ze základních registrů, společnými pro všechny vaše agendy. Následně bude váš AIS evidovat, do jaké role tento subjekt v agendě vstupuje a jaké údaje jsou s jeho působením v roli spojeny (kontext)."/>
+      <outline text="41 Sdílená kmenová data [tento pokyn a NAP]" _note="Najděte mezi svými daty data kmenová a založte v úřadu centrální evidence kmenových dat, napojené na základní registry. Tyto evidence potom odkazem pomocí klientského identifikátoru sdílejte do agendových IS, kde k nim budete evidovat data transakční z výkonu agendy."/>
+      <outline text="42 Sdílení agendových dat do PPDF [tento pokyn a NAP]" _note="Vaše agendově specifické údaje sdílejte z AIS do propojeného datového fondu (PPDF), ideálně prostřednictvím sdílené integrační platformy úřadu nebo resortu."/>
+      <outline text="43 Otevřená data [tento pokyn a NAP]" _note="Tyto údaje podle jejich charakteru sdílejte v původní podobě nebo anonymizované také jako Otevřená data do veřejného datového fondu nebo jako data s řízeným přístupem."/>
+      <outline text="44 Statistická data a výkaznické řešení [tento pokyn a NAP]" _note="Navrhněte způsoby zpracování dat pro účely statistik a podpory rozhodování, nejlépe ve sdíleném výkaznickém řešení úřadu, ve vzájemných souvislostech."/>
+      <outline text="45 Integrace na DataHub [tento pokyn a NAP]" _note="Najděte, připravte a poskytněte DIA do celostátního reportingu DataHub údaje o poskytování jednotlivých služeb z Katalogu služeb a o spokojenosti klientů s těmito službami."/>
+    </outline>
     <outline text="Povinnosti k aplikační architektuře">
       <outline text="46 Prezentační část" _note="Jaká uživatelská rozhraní AIS poskytuje a jak přes ně k funkcím systému přistupují úředníci, klienti nebo jiní uživatelé. Například přes portál, formulář, úřednické rozhraní."/>
       <outline text="47 Agendové jádro" _note="Kde jsou realizována pravidla výkonu agendy, workflow, stavy řízení, evidence případů a podpora rozhodování."/>
