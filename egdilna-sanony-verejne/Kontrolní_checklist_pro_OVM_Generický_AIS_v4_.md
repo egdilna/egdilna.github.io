@@ -1,8 +1,8 @@
 # Kontrolní checklist pro OVM – Generický AIS (v4)
 
-# Checklist požadavků z rámce pro generický AIS
+## Seznam požadavků z rámce Generický AIS
 
-## Oblast A.: Vybrané povinnosti, klíčové pro splnění vládní strategie digitalizace a PPV
+### A. Oblast Vybrané povinnosti, klíčové pro splnění vládní strategie digitalizace a PPV
 
 Požadavek 1.1 Připojení na referenční rozhraní [ZoZR, ZoISVS]
 
@@ -56,7 +56,7 @@ Požadavek 7 Využívání CAAIS [ZoZR]
 
 > Pro autentizaci úředních osob je využit CAAIS, pokud je pro daný AIS a způsob přístupu relevantní.
 
-## Oblast B.: Povinnosti při přípravě záměru, přípravě a plánování projektu, včetně návrhu architektury AIS
+### B. Oblast Povinnosti při přípravě záměru, přípravě a plánování projektu, včetně návrhu architektury AIS
 
 Požadavek 8 Věcný správce identifikuje motivace k vytvoření nebo rozvoji AIS [vyhláška o dlouhodobém řízení ISVS]
 
@@ -82,7 +82,7 @@ Požadavek 12.2 Nezastupitelnost odpovědnosti dodavatelem, včetně cloudu [sou
 
 > Dodavatel může poskytovat součinnost a odborné návrhy, ale nenahrazuje odpovědnost orgánu veřejné správy za správné vymezení agendy, služeb, požadavků a provozního řízení AIS. A to i případech využití služeb Cloud Computingu.
 
-## Oblast C.: Povinnosti k motivační architektuře
+### C. Oblast Povinnosti k motivační architektuře
 
 Požadavek 13 Vedení AIS v informační koncepci [vyhláška o dlouhodobém řízení ISVS]
 
@@ -92,7 +92,7 @@ Požadavek 14 Naplnění IK ČR [ZoISVS]
 
 > V návrhu architektury AIS byste se měli vypořádat se všemi cíli a principy IK ČR, vyjma těch, které jsou pro váš úřad a pro tento AIS prokazatelně nerelevantní.
 
-## Oblast D.: Tipy k motivační architektuře
+### D. Oblast Tipy k motivační architektuře
 
 Požadavek 15 Podpora cílů úřadu [tento pokyn a NAP]
 
@@ -102,7 +102,7 @@ Požadavek 16 Podpora digitální transformace úřadu [tento pokyn a NAP]
 
 > AIS má být jedním ze základních prostředků podpory reálné digitální transformace vašeho úřadu na úřad orientovaný na klienty, poskytující klientům (nákladově) efektivní digitální služby.
 
-## Oblast E.: Povinnosti k business architektuře
+### E. Oblast Povinnosti k business architektuře
 
 Požadavek 17 Agenda
 
@@ -140,7 +140,7 @@ Požadavek 25 Věcné zadání
 
 > Kdo za věcné zadání odpovídá a kdo jej schvaluje.
 
-## Oblast F.: Tipy k business architektuře
+### F. Oblast Tipy k business architektuře
 
 Požadavek 26 Návrh v kontextu úřadu [tento pokyn a NAP]
 
@@ -162,7 +162,7 @@ Požadavek 30 Zahájení procesu sjednocení a sdílení procesů a funkcí [ten
 
 > A nebojte se být první. Pokud v úřadě nic takového dosud nemáte, pak právě Vaše agenda, navržená poprvé podle tohoto standardu Generického AIS, může zahájit cestu pojmenování, návrhu a zavedení jednotných (sdílených) procesů při výkonu agend.
 
-## Oblast G.: Povinnosti k datové architektuře
+### G. Oblast Povinnosti k datové architektuře
 
 Požadavek 31 Přehled údajů
 
@@ -200,183 +200,183 @@ Požadavek 39 Identifikátory
 
 > Jaké identifikátory osob, subjektů nebo objektů AIS používá a v jakém kontextu.
 
-# Požadavek Tipy k datové architektuře
+### H. Oblast Tipy k datové architektuře
 
-## Oblast A.: 40 Objektovost konceptuálního modelu [tento pokyn a NAP]
+Požadavek 40 Objektovost konceptuálního modelu [tento pokyn a NAP]
 
 > Na údaje pohlížejte “objektově”. Každý subjekt nebo objekt modelujte, identifikujete a evidujte primárně v jejich existenci, tj. jako narozené lidi nebo založené organizace, nebo vytvořené věci, teprve poté k nim doplňte role, které na sebe berou. Například vaším subjektem NENÍ “řidič”, “poplatník”, “rodič” nebo “pojištěnec”. Je to člověk s unikátní identifikací a údaji ze základních registrů, společnými pro všechny vaše agendy. Následně bude váš AIS evidovat, do jaké role tento subjekt v agendě vstupuje a jaké údaje jsou s jeho působením v roli spojeny (kontext).
 
-## Oblast B.: 41 Sdílená kmenová data [tento pokyn a NAP]
+Požadavek 41 Sdílená kmenová data [tento pokyn a NAP]
 
 > Najděte mezi svými daty data kmenová a založte v úřadu centrální evidence kmenových dat, napojené na základní registry. Tyto evidence potom odkazem pomocí klientského identifikátoru sdílejte do agendových IS, kde k nim budete evidovat data transakční z výkonu agendy.
 
-## Oblast C.: 42 Sdílení agendových dat do PPDF [tento pokyn a NAP]
+Požadavek 42 Sdílení agendových dat do PPDF [tento pokyn a NAP]
 
 > Vaše agendově specifické údaje sdílejte z AIS do propojeného datového fondu (PPDF), ideálně prostřednictvím sdílené integrační platformy úřadu nebo resortu.
 
-## Oblast D.: 43 Otevřená data [tento pokyn a NAP]
+Požadavek 43 Otevřená data [tento pokyn a NAP]
 
 > Tyto údaje podle jejich charakteru sdílejte v původní podobě nebo anonymizované také jako Otevřená data do veřejného datového fondu nebo jako data s řízeným přístupem.
 
-## Oblast E.: 44 Statistická data a výkaznické řešení [tento pokyn a NAP]
+Požadavek 44 Statistická data a výkaznické řešení [tento pokyn a NAP]
 
 > Navrhněte způsoby zpracování dat pro účely statistik a podpory rozhodování, nejlépe ve sdíleném výkaznickém řešení úřadu, ve vzájemných souvislostech.
 
-## Oblast F.: 45 Integrace na DataHub [tento pokyn a NAP]
+Požadavek 45 Integrace na DataHub [tento pokyn a NAP]
 
 > Najděte, připravte a poskytněte DIA do celostátního reportingu DataHub údaje o poskytování jednotlivých služeb z Katalogu služeb a o spokojenosti klientů s těmito službami.
 
-## Oblast G.: Povinnosti k aplikační architektuře
+### I. Oblast Povinnosti k aplikační architektuře
 
-46 Prezentační část
+Požadavek 46 Prezentační část
 
 > Jaká uživatelská rozhraní AIS poskytuje a jak přes ně k funkcím systému přistupují úředníci, klienti nebo jiní uživatelé. Například přes portál, formulář, úřednické rozhraní.
 
-47 Agendové jádro
+Požadavek 47 Agendové jádro
 
 > Kde jsou realizována pravidla výkonu agendy, workflow, stavy řízení, evidence případů a podpora rozhodování.
 
-48 Dokumentová část
+Požadavek 48 Dokumentová část
 
 > Jak AIS pracuje s podáními, dokumenty, přílohami, rozhodnutími, výstupy a vazbou na spisovou službu.
 
-49 Správa rolí a oprávnění
+Požadavek 49 Správa rolí a oprávnění
 
 > Jak jsou v aplikaci řízeny uživatelské role, oprávnění, přístupy k funkcím a vazba na výkon působnosti v agendě.
 
-50 Sdílené komponenty a služby
+Požadavek 50 Sdílené komponenty a služby
 
 > Které funkce AIS budou zajištěny vlastními částmi systému a které budou využívat existující služby úřadu, resortu nebo státu.
 
-51 Integrační část
+Požadavek 51 Integrační část
 
 > Jak AIS komunikuje se základními registry, RPP, ISSS, NIA, CAAIS, CMS, AIS-V, datovými schránkami a také jak komunikuje s dalšími ISVS, zdali využívá ke komunikaci ISSS.
 
-52 Rozhraní aplikačních částí
+Požadavek 52 Rozhraní aplikačních částí
 
 > Jak spolu jednotlivé aplikační části AIS komunikují a jak jsou popsána jejich vnitřní rozhraní.
 
-53 Notifikace a komunikace
+Požadavek 53 Notifikace a komunikace
 
 > Jak AIS zajišťuje informování uživatelů, výzvy, potvrzení, doručování nebo jinou komunikaci související s výkonem služby nebo agendy.
 
-54 Audit a dohledatelnost
+Požadavek 54 Audit a dohledatelnost
 
 > Jak AIS zaznamenává úkony, změny údajů, přístupy, systémové události a další skutečnosti potřebné pro dohledatelnost a kontrolu.
 
-## Oblast H.: Tipy k aplikační architektuře
+### J. Oblast Tipy k aplikační architektuře
 
-55 Dekompozice AISu [tento pokyn a NAP]
+Požadavek 55 Dekompozice AISu [tento pokyn a NAP]
 
 > Rozdělte AIS do komponent, přinejmenším na Front-end (prezentaci) pro obslužné kanály, agendové jádro, Back-end (zázemí agendy) pro kmenová data, správu účtů klientů a podobné nutné, ale agendově nespecifické funkce, správu dokumentů a spisů a integraci s ostatními aplikacemi a službami.
 
-56 Sdílené komponenty [tento pokyn a NAP]
+Požadavek 56 Sdílené komponenty [tento pokyn a NAP]
 
 > Všechny komponenty, kde to jde, typicky všechny kromě agendově specifického jádra, navrhněte jako sdílené s jinými agendami v úřadu, resortu či eGovernmentu.
 
-57 Parametrické aplikace [tento pokyn a NAP]
+Požadavek 57 Parametrické aplikace [tento pokyn a NAP]
 
 > Aplikační funkce a aplikační služby vyžadujte jako parametrické tak, abyste jejich chování mohli měnit vlastními silami změnou těchto parametrů při změnách vašich byznys služeb veřejné správy (změna sazeb, změna lhůt, změna workflow apod.).
 
-## Oblast I.: Povinnosti k architektuře IT infrastruktury
+### K. Oblast Povinnosti k architektuře IT infrastruktury
 
-58.1 Technologická neutralita návrhu
+Požadavek 58.1 Technologická neutralita návrhu
 
 > Návrh musí být pouze sadou požadavků na technologické služby pro aplikační řešení, umožňující volbu dodavatele. Výjimkou jsou řešení určené pro provoz ve sdílené infrastruktuře OVM.
 
-58.2 Parametrizovatelnost bez zásahu do aplikačního kódu
+Požadavek 58.2 Parametrizovatelnost bez zásahu do aplikačního kódu
 
 > Musí být možné měnit provozní a technické parametry systému bez zásahu do aplikačního kódu.
 
-59 Provozní zajištění AIS
+Požadavek 59 Provozní zajištění AIS
 
 > Kde bude AIS provozován a jaký provozní model je pro něj vhodný, aby bylo možné AIS provozovat v požadovaném rozsahu a kvalitě.
 
-60 Dostupnost služby
+Požadavek 60 Dostupnost služby
 
 > Jaká dostupnost AIS je potřebná pro výkon agendy a jaké jsou dopady výpadku.
 
-61 Výkon a kapacita
+Požadavek 61 Výkon a kapacita
 
 > Jaký počet uživatelů, objem dat, počet transakcí a provozní špičky musí technologie zvládnout.
 
-62 Ochrana dat a komunikace
+Požadavek 62 Ochrana dat a komunikace
 
 > Jaké požadavky na ochranu údajů, šifrování, zabezpečení komunikace a oddělení prostředí musí být splněny.
 
-63 Zálohování a obnova
+Požadavek 63 Zálohování a obnova
 
 > Jaké požadavky jsou kladeny na zálohování dat, obnovu systému, obnovu služby a přípustnou ztrátu dat.
 
-64 Monitoring a dohled
+Požadavek 64 Monitoring a dohled
 
 > Jaké provozní, výkonnostní a bezpečnostní stavy musí být sledovány a vyhodnocovány.
 
-65 Provozní prostředí
+Požadavek 65 Provozní prostředí
 
 > Jaká prostředí jsou potřebná pro produkční provoz, testování, akceptaci, školení, údržbu a rozvoj AIS.
 
-66 Technologické závislosti
+Požadavek 66 Technologické závislosti
 
 > Na jakých infrastrukturních, síťových, identitních, bezpečnostních nebo externích službách je AIS závislý.
 
-67 Provozní odpovědnosti
+Požadavek 67 Provozní odpovědnosti
 
 > Kdo musí být odpovědný za provoz, správu, údržbu, podporu, monitoring, zálohování a obnovu technologického prostředí.
 
-## Oblast J.: Tipy k architektuře IT infrastruktury
+### L. Oblast Tipy k architektuře IT infrastruktury
 
-68 Připravenost na Cloud [tento pokyn a NAP]
+Požadavek 68 Připravenost na Cloud [tento pokyn a NAP]
 
 > Požadujte tzv. „Cloud Ready“ architekturu, aby výsledné řešení molo být operativně přesouváno (i po komponentách) k provozování On-Premise, v Cloudu nebo hybridně.
 
-## Oblast K.: Povinnosti k architektuře komunikační infrastruktury
+### M. Oblast Povinnosti k architektuře komunikační infrastruktury
 
-69 Základní registry a ISZR
+Požadavek 69 Základní registry a ISZR
 
 > Zda AIS čerpá nebo ověřuje údaje prostřednictvím služeb základních registrů a jak bude zajištěno komunikační připojení.
 
-70 ISSS a sdílení údajů
+Požadavek 70 ISSS a sdílení údajů
 
 > Zda AIS poskytuje nebo čerpá údaje prostřednictvím ISSS nebo jiného stanoveného rozhraní propojeného datového fondu.
 
-71 Vazby na jiné ISVS
+Požadavek 71 Vazby na jiné ISVS
 
 > Jaké vazby má AIS na informační systémy jiných správců a zda mají být vedeny přes CMS/KIVS.
 
-72 RPP a související služby
+Požadavek 72 RPP a související služby
 
 > Zda AIS využívá údaje nebo služby RPP ve vazbě na agendy, působnosti, služby, úkony, údaje a oprávnění.
 
-73 NIA
+Požadavek 73 NIA
 
 > Zda AIS nebo jeho služby vyžadují elektronickou identifikaci klienta a jak bude zajištěno napojení na NIA.
 
-74 CMS
+Požadavek 74 CMS
 
 > Zda AIS využívá služby dostupné prostřednictvím CMS a jak bude zajištěno komunikační připojení, bezpečnost a provozní odpovědnost.
 
-75 CAAIS
+Požadavek 75 CAAIS
 
 > Zda AIS využívá CAAIS pro autentizaci úředních osob a jak bude tato vazba komunikačně zajištěna.
 
-76 AIS-V
+Požadavek 76 AIS-V
 
 > Zda AIS poskytuje nebo přijímá vyrozumění o změnách údajů a jak bude zajištěno komunikační napojení.
 
-77 Datové schránky
+Požadavek 77 Datové schránky
 
 > Jak bude zajištěna komunikace prostřednictvím datových schránek, pokud ji AIS využívá.
 
-78 Spisová služba
+Požadavek 78 Spisová služba
 
 > Jak bude zajištěno předávání dokumentů, metadat nebo záznamů mezi AIS a spisovou službou.
 
-79 Resortní nebo lokální služby
+Požadavek 79 Resortní nebo lokální služby
 
 > Jaké komunikační vazby má AIS na služby úřadu nebo resortu, například integrační platformu, portál, správu identit, reporting nebo datový sklad.
 
-80 Přístup klientů z internetu
+Požadavek 80 Přístup klientů z internetu
 
 > Které části AIS nebo navazujících služeb jsou dostupné z veřejného internetu a jak je zajištěna jejich ochrana.
 
