@@ -139,6 +139,14 @@
       "tags": [],
       "created": "2026-09-02T07:03:23.849Z",
       "updated": "2026-09-02T07:03:23.849Z"
+    },
+    {
+      "path": "Data/Testování dat/Testovací data",
+      "color": "modra",
+      "description": "Testovací a vzorová data",
+      "tags": [],
+      "created": "2026-09-02T07:03:56.475Z",
+      "updated": "2026-09-02T07:03:56.475Z"
     }
   ],
   "files": [
@@ -382,6 +390,6 @@
       "size": 41173
     }
   ],
-  "updated": "2026-09-02T07:03:23.849Z",
+  "updated": "2026-09-02T07:03:56.475Z",
   "links": []
 }
