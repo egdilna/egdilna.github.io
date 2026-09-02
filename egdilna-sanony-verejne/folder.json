@@ -407,8 +407,19 @@
       "created": "2026-09-02T07:06:07.487Z",
       "updated": "2026-09-02T07:06:07.487Z",
       "size": 326669
+    },
+    {
+      "name": "Kontrolní_checklist_pro_OVM_Generický_AIS_v4_.docx",
+      "description": "Seznam a checklist všech požadavků z rámce pro generický AIS ve formátu MS Word",
+      "folder": "RVIS/Rámce/Rámce pro AIS ISVS/Rámec Generický AIS a požadavky GP",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-02T07:08:11.940Z",
+      "updated": "2026-09-02T07:08:11.940Z",
+      "size": 23458
     }
   ],
-  "updated": "2026-09-02T07:06:07.488Z",
+  "updated": "2026-09-02T07:08:11.940Z",
   "links": []
 }
