@@ -123,6 +123,14 @@
       "tags": [],
       "created": "2026-08-27T10:35:46.262Z",
       "updated": "2026-08-27T10:35:46.262Z"
+    },
+    {
+      "path": "Data",
+      "color": "cerna",
+      "description": "Správa dat, vzory, testovací sady, nástroje pro data apod.",
+      "tags": [],
+      "created": "2026-09-02T07:02:44.510Z",
+      "updated": "2026-09-02T07:02:44.510Z"
     }
   ],
   "files": [
@@ -366,6 +374,6 @@
       "size": 41173
     }
   ],
-  "updated": "2026-08-27T10:37:30.775Z",
+  "updated": "2026-09-02T07:02:44.511Z",
   "links": []
 }
