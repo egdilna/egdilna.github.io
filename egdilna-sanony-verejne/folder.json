@@ -451,8 +451,19 @@
       "created": "2026-09-02T07:13:00.343Z",
       "updated": "2026-09-02T07:13:00.343Z",
       "size": 2686
+    },
+    {
+      "name": "testovaci-subjekty-zr-data.zip",
+      "description": "Datový balíček testovacích identit v json i se schématem a kompletním mapováním",
+      "folder": "Data/Testování dat/Testovací data/Testovací a vzorové identity subjektů ze ZR",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-02T07:22:52.291Z",
+      "updated": "2026-09-02T07:22:52.291Z",
+      "size": 289738
     }
   ],
-  "updated": "2026-09-02T07:13:00.343Z",
+  "updated": "2026-09-02T07:22:52.291Z",
   "links": []
 }
