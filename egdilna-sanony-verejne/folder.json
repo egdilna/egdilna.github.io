@@ -396,8 +396,19 @@
       "created": "2026-08-27T10:37:30.775Z",
       "updated": "2026-08-27T10:37:30.775Z",
       "size": 41173
+    },
+    {
+      "name": "testovaci-subjekty-zr.dkmdata",
+      "description": "DKMdata balík testovacích dat ze základních registrů, fyzické a právnické osoby",
+      "folder": "Data/Testování dat/Testovací data/Testovací a vzorové identity subjektů ze ZR",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-02T07:06:07.487Z",
+      "updated": "2026-09-02T07:06:07.487Z",
+      "size": 326669
     }
   ],
-  "updated": "2026-09-02T07:04:43.667Z",
+  "updated": "2026-09-02T07:06:07.488Z",
   "links": []
 }
