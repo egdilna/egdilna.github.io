@@ -763,8 +763,19 @@
       "created": "2026-09-15T09:14:22.155Z",
       "updated": "2026-09-15T09:14:22.155Z",
       "size": 298218
+    },
+    {
+      "name": "BSI.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2021-08-30 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-15T09:18:35.256Z",
+      "updated": "2026-09-15T09:18:35.256Z",
+      "size": 614109
     }
   ],
-  "updated": "2026-09-15T09:17:46.592Z",
+  "updated": "2026-09-15T09:19:20.388Z",
   "links": []
 }
