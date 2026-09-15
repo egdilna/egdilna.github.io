@@ -544,8 +544,41 @@
       "created": "2026-09-15T07:56:27.722Z",
       "updated": "2026-09-15T07:56:27.722Z",
       "size": 218500
+    },
+    {
+      "name": "2021-03-01-psa-rvis-2 Globální architektury PPDF a VDF.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2021-03-01 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-15T08:14:04.855Z",
+      "updated": "2026-09-15T08:14:04.855Z",
+      "size": 796398
+    },
+    {
+      "name": "2021-03-01-psa-rvis-0 zasedani_pvaas_01032021_v2.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2021-03-01 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-15T08:14:14.447Z",
+      "updated": "2026-09-15T08:14:14.447Z",
+      "size": 318311
+    },
+    {
+      "name": "2021-03-01-psa-rvis-3 GA OK_v1.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2021-03-01 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-15T08:14:31.437Z",
+      "updated": "2026-09-15T08:14:31.437Z",
+      "size": 1377931
     }
   ],
-  "updated": "2026-09-15T08:07:52.734Z",
+  "updated": "2026-09-15T08:14:31.437Z",
   "links": []
 }
