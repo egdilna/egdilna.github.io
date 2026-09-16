@@ -1194,17 +1194,6 @@
       "size": 2836754
     },
     {
-      "name": "2022-05-02-psa-rvis-DEVONtech_storage",
-      "description": "",
-      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
-      "version": 4,
-      "tags": [],
-      "notes": [],
-      "created": "2026-09-16T09:45:59.737Z",
-      "updated": "2026-09-16T09:46:05.632Z",
-      "size": 697
-    },
-    {
       "name": "2022-05-02-psa-rvis-IIS obce.archimate",
       "description": "",
       "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
@@ -1216,6 +1205,6 @@
       "size": 351880
     }
   ],
-  "updated": "2026-09-16T09:46:05.632Z",
+  "updated": "2026-09-16T09:47:59.517Z",
   "links": []
 }
