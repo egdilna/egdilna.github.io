@@ -1663,8 +1663,63 @@
       "created": "2026-09-16T20:00:03.994Z",
       "updated": "2026-09-16T20:00:03.994Z",
       "size": 230891
+    },
+    {
+      "name": "2023-07-31-psa-rvis-Test OR CMS 20230727 - realizace a přehled zjištění.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-07-31 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:05:29.034Z",
+      "updated": "2026-09-16T20:05:29.034Z",
+      "size": 1084559
+    },
+    {
+      "name": "2023-07-31-psa-rvis-Prezentace pro PS Architektura.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-07-31 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:06:03.842Z",
+      "updated": "2026-09-16T20:06:03.842Z",
+      "size": 747079
+    },
+    {
+      "name": "2023-07-31-psa-rvis-formular_a_7.2.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-07-31 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:06:21.465Z",
+      "updated": "2026-09-16T20:06:21.465Z",
+      "size": 348520
+    },
+    {
+      "name": "2023-07-31-psa-rvis-20230731 ZoPDS pro OHA.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-07-31 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:07:38.125Z",
+      "updated": "2026-09-16T20:07:38.125Z",
+      "size": 1660358
+    },
+    {
+      "name": "2023-07-31-psa-rvis-0 zasedani_pvaas_31072023_v2.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-07-31 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:07:46.996Z",
+      "updated": "2026-09-16T20:07:46.996Z",
+      "size": 225730
     }
   ],
-  "updated": "2026-09-16T20:03:10.029Z",
+  "updated": "2026-09-16T20:07:46.996Z",
   "links": []
 }
