@@ -1726,8 +1726,107 @@
       "created": "2026-09-16T20:07:46.996Z",
       "updated": "2026-09-16T20:07:46.996Z",
       "size": 225730
+    },
+    {
+      "name": "2023-09-14-psa-rvis-ZoPDS obce vzorový model.xml",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:13:31.621Z",
+      "updated": "2026-09-16T20:13:31.621Z",
+      "size": 372545
+    },
+    {
+      "name": "2023-09-14-psa-rvis-Výklad_§7_v2.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:13:37.777Z",
+      "updated": "2026-09-16T20:13:37.777Z",
+      "size": 40291
+    },
+    {
+      "name": "2023-09-14-psa-rvis-Výklad_§9_v2.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:13:45.466Z",
+      "updated": "2026-09-16T20:13:45.466Z",
+      "size": 39039
+    },
+    {
+      "name": "2023-09-14-psa-rvis-Výklad_§5_v4.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:13:57.566Z",
+      "updated": "2026-09-16T20:13:57.566Z",
+      "size": 120552
+    },
+    {
+      "name": "2023-09-14-psa-rvis-Výklad_§4_v3.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:14:04.245Z",
+      "updated": "2026-09-16T20:14:04.245Z",
+      "size": 52871
+    },
+    {
+      "name": "2023-09-14-psa-rvis-Podklad pro formulář žádosti OHA IROP 9.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:14:25.286Z",
+      "updated": "2026-09-16T20:14:25.286Z",
+      "size": 799969
+    },
+    {
+      "name": "2023-09-14-psa-rvis-Katalog služeb - PS.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:14:46.784Z",
+      "updated": "2026-09-16T20:14:46.784Z",
+      "size": 360431
+    },
+    {
+      "name": "2023-09-14-psa-rvis-9 vyzva IROP.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:14:50.877Z",
+      "updated": "2026-09-16T20:14:50.877Z",
+      "size": 25086
+    },
+    {
+      "name": "2023-09-14-psa-rvis-0 zasedani_pvaas_14092023_v2.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-09-14 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:15:03.435Z",
+      "updated": "2026-09-16T20:15:03.435Z",
+      "size": 537151
     }
   ],
-  "updated": "2026-09-16T20:12:10.087Z",
+  "updated": "2026-09-16T20:15:03.435Z",
   "links": []
 }
