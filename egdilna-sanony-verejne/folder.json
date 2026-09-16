@@ -1255,8 +1255,63 @@
       "created": "2026-09-16T09:52:45.771Z",
       "updated": "2026-09-16T09:52:45.771Z",
       "size": 697
+    },
+    {
+      "name": "2022-06-13-psa-rvis-Digitální archivace_prezentace.pdf",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-06-13 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:56:09.598Z",
+      "updated": "2026-09-16T09:56:09.598Z",
+      "size": 370866
+    },
+    {
+      "name": "2022-06-13-psa-rvis-0 zasedani_pvaas_13062022_v2.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-06-13 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:56:13.900Z",
+      "updated": "2026-09-16T09:56:13.900Z",
+      "size": 247812
+    },
+    {
+      "name": "2022-06-13-psa-rvis-Klíčové oblasti architektury eGovernmentu_archivace.pdf",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-06-13 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:56:20.202Z",
+      "updated": "2026-09-16T09:56:20.202Z",
+      "size": 639650
+    },
+    {
+      "name": "2022-06-13-psa-rvis-Národní standard formátů pro archivaci.pdf",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-06-13 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:56:25.241Z",
+      "updated": "2026-09-16T09:56:25.241Z",
+      "size": 1095984
+    },
+    {
+      "name": "2022-06-13-psa-rvis-MVCR-pracskupina-vyvojIS.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-06-13 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:56:31.615Z",
+      "updated": "2026-09-16T09:56:31.615Z",
+      "size": 833101
     }
   ],
-  "updated": "2026-09-16T09:54:09.430Z",
+  "updated": "2026-09-16T09:56:31.615Z",
   "links": []
 }
