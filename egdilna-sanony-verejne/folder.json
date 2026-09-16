@@ -1833,8 +1833,19 @@
       "created": "2026-09-16T20:15:03.435Z",
       "updated": "2026-09-16T20:15:03.435Z",
       "size": 537151
+    },
+    {
+      "name": "2023-11-12-psa-rvis-0 zasedani_pvaas_13112023_v2.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-11-12 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T20:46:44.299Z",
+      "updated": "2026-09-16T20:46:44.299Z",
+      "size": 224474
     }
   ],
-  "updated": "2026-09-16T20:16:51.087Z",
+  "updated": "2026-09-16T20:46:44.299Z",
   "links": []
 }
