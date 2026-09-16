@@ -16,13 +16,14 @@
               "name": "Zákon č. 12/2020 Sb., o právu na digitální služby",
               "url": "https://www.zakonyprolidi.cz/cs/2020-12",
               "desc": "Takzvaná Digitální Ústava je hlavním zákonem udávajícím rámec fungování veřejné správy vůči klientům a to nejen v digitálním světě. Jsou jím mimo jiné určena základní nezadatelná prává na obecné úrovni a povinnost veřejné správy k jejich respektování a plnění. Obsahuje ale i další oblasti, jako je zakotvení a fungování DIA, eDoklady a další obecné EG aspekty potřebné v legislativě.",
-              "tags": [],
+              "tags": [
+                "Pro manažery",
+                "Předpisy"
+              ],
               "notes": [
                 "Stanovuje obecně vynutitelná práva klienta směrem k interakci s veřejnou správou, která nejsou uplatnitelná jen v elektronické komunikaci s úřady",
                 "Udává také konkrétní práva týkající se digitálních forem služeb veřejné správy, včetně povinností poskytovat služby digitálně a včetně Katalogu služeb veřejné správy jako referenční součásti Registru práv a povinností s aktuálními a hlavně autoritativními údaji o každé službě a každé interakci s úřadem - tedy úkonu.",
-                "Zakotvuje Digitální a informační agenturu a popisuje její účel, základní povinnosti a pravomoci",
-                "Do právního řádu dočasně zakotvuje národní eDokldy jako elektronickou formu stejnopisu dokladu v ČR",
-                "ZAEG"
+                "Zakotvuje Digitální a informační agenturu a popisuje její účel, základní povinnosti a pravomoci"
               ]
             },
             {
@@ -57,6 +58,20 @@
                 "Využití přihlášení do ISVS jako ekvivalentu jakéhokoliv podpisu či vlastnoruční validace (včetně elektronického)",
                 "Podrobnosti národních služeb EG, jako je Portál veřejné správy, czechpoint@office jako kontaktní místa veřejné správy, Centrální místo služeb CMS a infrastrukturní připojení apod.",
                 "Sankce včetně konkrétní i trestně právní zodpovědnosti při porušení tohoto zákona vůči DIA"
+              ]
+            },
+            {
+              "id": "mu472k85xpiyv",
+              "name": "Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů",
+              "url": "https://www.zakonyprolidi.cz/cs/2008-300",
+              "desc": "Zakotvuje datové schránky jako zaručený elektronický komunikační kanál, upravuje některé povinnosti a práva a upravuje problematiku autorizované konverze dokumentů",
+              "tags": [
+                "Předpisy"
+              ],
+              "notes": [
+                "Celá úprava datových schránek, jejich využívání, doručování a odesílání datových zpráv a dokumentů a Informačního systému datových schránek (ISDS)",
+                "Povinné zřizování a využívání datových schránek orgány veřejné moci a právnickými osobami a některými dalšími subjekty",
+                "Povinná komunikace od orgánů veřejné moci a orgánů veřejné moci mezi sebou, dobrovolná zaručená komunikace od klientů vůči OVM a poštovní datové zprávy jako zaručená komunikace mezi soukromoprávními držiteli datových schránek"
               ]
             }
           ]
