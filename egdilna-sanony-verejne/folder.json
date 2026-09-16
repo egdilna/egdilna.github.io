@@ -1071,8 +1071,162 @@
       "created": "2026-09-16T09:31:10.209Z",
       "updated": "2026-09-16T09:31:10.210Z",
       "size": 15404433
+    },
+    {
+      "name": "2022-05-02-psa-rvis-DEVONtech_storage",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 3,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:03.706Z",
+      "updated": "2026-09-16T09:38:12.802Z",
+      "size": 697
+    },
+    {
+      "name": "2022-05-02-psa-rvis-03 aplikace struktura.jpg",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:08.364Z",
+      "updated": "2026-09-16T09:37:08.364Z",
+      "size": 629795
+    },
+    {
+      "name": "2022-05-02-psa-rvis-02 byznys služby.jpg",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:13.315Z",
+      "updated": "2026-09-16T09:37:13.315Z",
+      "size": 772284
+    },
+    {
+      "name": "DEVONtech_storage",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:17.613Z",
+      "updated": "2026-09-16T09:37:17.613Z",
+      "size": 1307
+    },
+    {
+      "name": "2022-05-02-psa-rvis-01 byznys struktura.jpg",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:23.022Z",
+      "updated": "2026-09-16T09:37:23.022Z",
+      "size": 967943
+    },
+    {
+      "name": "IIS obce.archimate",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:28.060Z",
+      "updated": "2026-09-16T09:37:28.060Z",
+      "size": 351880
+    },
+    {
+      "name": "2022-05-02-psa-rvis-04 aplikace služby.jpg",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:32.360Z",
+      "updated": "2026-09-16T09:37:32.360Z",
+      "size": 520879
+    },
+    {
+      "name": "2022-05-02-psa-rvis-KB_ORP_motivacni_byznys_aplikacni_vrs.xml",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:36.778Z",
+      "updated": "2026-09-16T09:37:36.778Z",
+      "size": 122779
+    },
+    {
+      "name": "2022-05-02-psa-rvis-Vzorovy_formular_A_Kyberbezpecnost_samospravy.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:47.719Z",
+      "updated": "2026-09-16T09:37:47.719Z",
+      "size": 1114790
+    },
+    {
+      "name": "2022-05-02-psa-rvis-KB_ORP_infrastrukturni_vrs.xml",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:52.327Z",
+      "updated": "2026-09-16T09:37:52.327Z",
+      "size": 275987
+    },
+    {
+      "name": "2022-05-02-psa-rvis-Informační koncepce ČR_2022_v24042022 2022-05-04 19-51.html",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:37:58.727Z",
+      "updated": "2026-09-16T09:37:58.727Z",
+      "size": 101135
+    },
+    {
+      "name": "2022-05-02-psa-rvis-Portál obce vzorový model.xml",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:38:03.386Z",
+      "updated": "2026-09-16T09:38:03.386Z",
+      "size": 412723
+    },
+    {
+      "name": "2022-05-02-psa-rvis-formular_a_7_ObecPortal.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:38:09.470Z",
+      "updated": "2026-09-16T09:38:09.470Z",
+      "size": 844597
+    },
+    {
+      "name": "2022-05-02-psa-rvis-0 zasedani_pvaas_02052022_v2.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-16T09:38:22.740Z",
+      "updated": "2026-09-16T09:38:22.740Z",
+      "size": 2836754
     }
   ],
-  "updated": "2026-09-16T09:33:20.987Z",
+  "updated": "2026-09-16T09:38:22.741Z",
   "links": []
 }
