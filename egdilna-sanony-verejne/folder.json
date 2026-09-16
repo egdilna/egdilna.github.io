@@ -1117,17 +1117,6 @@
       "size": 967943
     },
     {
-      "name": "IIS obce.archimate",
-      "description": "",
-      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
-      "version": 1,
-      "tags": [],
-      "notes": [],
-      "created": "2026-09-16T09:37:28.060Z",
-      "updated": "2026-09-16T09:37:28.060Z",
-      "size": 351880
-    },
-    {
       "name": "2022-05-02-psa-rvis-04 aplikace služby.jpg",
       "description": "",
       "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2022-05-02 PSA RVIS",
@@ -1216,6 +1205,6 @@
       "size": 2836754
     }
   ],
-  "updated": "2026-09-16T09:43:50.995Z",
+  "updated": "2026-09-16T09:44:07.683Z",
   "links": []
 }
