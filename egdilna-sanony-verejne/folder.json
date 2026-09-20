@@ -2550,8 +2550,52 @@
       "created": "2026-09-20T11:39:34.166Z",
       "updated": "2026-09-20T11:39:34.166Z",
       "size": 422487
+    },
+    {
+      "name": "2026-08-17-va-rvis-zasedani_varict_042026.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2026-08-17 VA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:42:11.592Z",
+      "updated": "2026-09-20T11:42:11.592Z",
+      "size": 800758
+    },
+    {
+      "name": "2026-08-17-va-rvis-Metodika tvorby Provozní dokumentace v 2.2 .docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2026-08-17 VA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:42:15.438Z",
+      "updated": "2026-09-20T11:42:15.438Z",
+      "size": 140602
+    },
+    {
+      "name": "2026-08-17-va-rvis-Automatizované_vystupy_ISVS_SDG.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2026-08-17 VA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:42:19.748Z",
+      "updated": "2026-09-20T11:42:19.748Z",
+      "size": 44199
+    },
+    {
+      "name": "2026-08-17-va-rvis-Architektonicky_vzor_generickeho_AIS_v4 final.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2026-08-17 VA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:42:24.044Z",
+      "updated": "2026-09-20T11:42:24.044Z",
+      "size": 137018
     }
   ],
-  "updated": "2026-09-20T11:40:45.905Z",
+  "updated": "2026-09-20T11:42:24.044Z",
   "links": []
 }
