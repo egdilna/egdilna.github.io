@@ -1833,8 +1833,63 @@
       "created": "2026-09-16T20:15:03.435Z",
       "updated": "2026-09-16T20:15:03.435Z",
       "size": 537151
+    },
+    {
+      "name": "2023-11-12-psa-rvis-ZRNG PS RVIS.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-11-12 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:02:53.154Z",
+      "updated": "2026-09-20T11:02:53.154Z",
+      "size": 1351631
+    },
+    {
+      "name": "2023-11-12-psa-rvis-Prezentace - Zasedání pracovní skupiny pro architekturu a řízení ICT 20231113.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-11-12 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:02:55.549Z",
+      "updated": "2026-09-20T11:02:55.549Z",
+      "size": 1045902
+    },
+    {
+      "name": "2023-11-12-psa-rvis-Migrace JIPKAAS_CAAIS_v4.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-11-12 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:02:58.276Z",
+      "updated": "2026-09-20T11:02:58.276Z",
+      "size": 507215
+    },
+    {
+      "name": "2023-11-12-psa-rvis-20231113 Aktualni stav ZoPDS.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-11-12 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:03:06.058Z",
+      "updated": "2026-09-20T11:03:06.058Z",
+      "size": 8528241
+    },
+    {
+      "name": "2023-11-12-psa-rvis-0 zasedani_pvaas_13112023_v2.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2023-11-12 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:03:07.514Z",
+      "updated": "2026-09-20T11:03:07.514Z",
+      "size": 224474
     }
   ],
-  "updated": "2026-09-20T11:02:23.522Z",
+  "updated": "2026-09-20T11:03:07.514Z",
   "links": []
 }
