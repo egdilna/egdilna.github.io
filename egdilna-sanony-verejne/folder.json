@@ -2498,8 +2498,52 @@
       "created": "2026-09-20T11:35:37.211Z",
       "updated": "2026-09-20T11:35:37.211Z",
       "size": 297188
+    },
+    {
+      "name": "2026-03-30-va-rvis-zasedani_pvarict_012026.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2026-03-30 VA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:39:24.231Z",
+      "updated": "2026-09-20T11:39:24.231Z",
+      "size": 1872809
+    },
+    {
+      "name": "2026-03-30-va-rvis-Metodika_princip_pouze_jednou_vyjimky_ISVS_final.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2026-03-30 VA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:39:27.917Z",
+      "updated": "2026-09-20T11:39:27.917Z",
+      "size": 46016
+    },
+    {
+      "name": "2026-03-30-va-rvis-Metodicky_pokyn_architektonicka_zmena.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2026-03-30 VA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:39:30.786Z",
+      "updated": "2026-09-20T11:39:30.786Z",
+      "size": 37835
+    },
+    {
+      "name": "2026-03-30-va-rvis-Architektonicky_vzor_generickeho_AIS_v1_0.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2026-03-30 VA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:39:34.166Z",
+      "updated": "2026-09-20T11:39:34.166Z",
+      "size": 422487
     }
   ],
-  "updated": "2026-09-20T11:37:56.424Z",
+  "updated": "2026-09-20T11:39:34.166Z",
   "links": []
 }
