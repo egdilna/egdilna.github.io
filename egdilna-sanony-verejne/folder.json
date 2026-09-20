@@ -2361,8 +2361,129 @@
       "created": "2026-09-20T11:31:33.811Z",
       "updated": "2026-09-20T11:31:33.811Z",
       "size": 244420
+    },
+    {
+      "name": "2025-09-29-psa-rvis-V6 - governance_v6.pdf",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:34:44.867Z",
+      "updated": "2026-09-20T11:34:44.867Z",
+      "size": 846788
+    },
+    {
+      "name": "2025-09-29-psa-rvis-V3 - Roadmapa eGovernmentu.pdf",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:34:53.079Z",
+      "updated": "2026-09-20T11:34:53.079Z",
+      "size": 2561476
+    },
+    {
+      "name": "2025-09-29-psa-rvis-PS-Architektura_2025-09-29_MŽP_Adamuska_CRŽP_final.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:34:59.531Z",
+      "updated": "2026-09-20T11:34:59.531Z",
+      "size": 4113653
+    },
+    {
+      "name": "2025-09-29-psa-rvis-Prezentace_DESI_eGOVB_RVIS_ARCH_update_FINAL_29.09.2025_RB.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:35:04.408Z",
+      "updated": "2026-09-20T11:35:04.408Z",
+      "size": 757156
+    },
+    {
+      "name": "2025-09-29-psa-rvis-PREZENTACE RVIS_DJ.PPTX",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:35:10.373Z",
+      "updated": "2026-09-20T11:35:10.373Z",
+      "size": 4288484
+    },
+    {
+      "name": "2025-09-29-psa-rvis-MSp_projekt JSB_29.9.25.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:35:14.645Z",
+      "updated": "2026-09-20T11:35:14.645Z",
+      "size": 358899
+    },
+    {
+      "name": "2025-09-29-psa-rvis-MSp_projekt JSB_29.9.25.pdf",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:35:19.293Z",
+      "updated": "2026-09-20T11:35:19.293Z",
+      "size": 404557
+    },
+    {
+      "name": "2025-09-29-psa-rvis-Metodicky_pokyn_ke_sprave_dat_SD.docx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:35:23.592Z",
+      "updated": "2026-09-20T11:35:23.592Z",
+      "size": 44906
+    },
+    {
+      "name": "2025-09-29-psa-rvis-Benchmark DIA a DESI.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:35:28.528Z",
+      "updated": "2026-09-20T11:35:28.528Z",
+      "size": 3667419
+    },
+    {
+      "name": "2025-09-29-psa-rvis-20250929 Reporty RPP.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:35:33.414Z",
+      "updated": "2026-09-20T11:35:33.414Z",
+      "size": 1894615
+    },
+    {
+      "name": "2025-09-29-psa-rvis-0 zasedani_pvaas_29092025_v2.pptx",
+      "description": "",
+      "folder": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-09-29 PSA RVIS",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-09-20T11:35:37.211Z",
+      "updated": "2026-09-20T11:35:37.211Z",
+      "size": 297188
     }
   ],
-  "updated": "2026-09-20T11:34:06.443Z",
+  "updated": "2026-09-20T11:35:37.211Z",
   "links": []
 }
