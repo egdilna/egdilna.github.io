@@ -450,6 +450,14 @@
       "tags": [],
       "created": "2026-09-20T11:40:45.905Z",
       "updated": "2026-09-20T11:40:45.905Z"
+    },
+    {
+      "path": "RVIS/Schůze a jednání a podklady/Podklady VA-PSA-RVIS/2025-12-15 PSA RVIS",
+      "color": "slama",
+      "description": "",
+      "tags": [],
+      "created": "2026-09-22T06:57:08.613Z",
+      "updated": "2026-09-22T06:57:08.613Z"
     }
   ],
   "files": [
@@ -2673,6 +2681,6 @@
       "size": 735607
     }
   ],
-  "updated": "2026-09-21T11:18:28.397Z",
+  "updated": "2026-09-22T06:57:08.614Z",
   "links": []
 }
