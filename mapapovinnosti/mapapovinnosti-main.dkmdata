@@ -284,7 +284,10 @@
     {
       "id": "ts_mumieioeg0oy1o",
       "name": "Uživatelé",
-      "tags": []
+      "tags": [
+        "EGdílna",
+        "aktualizační robot"
+      ]
     },
     {
       "id": "ts_mumieioe6kub3e",
@@ -293,7 +296,8 @@
         "šablona DKM Modelování dat ISVS",
         "balíček DKM Číselníky VS",
         "šablona DKM Správa dat úřadu",
-        "šablona DKM Architektonický bonzblok úřadu"
+        "šablona DKM Architektonický bonzblok úřadu",
+        "balíček DKM Mapa povinností"
       ]
     }
   ],
@@ -17783,6 +17787,30 @@
       "objects": [],
       "createdAt": "2026-09-29T08:17:25.000Z",
       "updatedAt": "2026-09-29T08:17:25.000Z"
+    },
+    {
+      "id": "e_mumj5g0pbd1989",
+      "name": "Informace o Mapě povinností v DKM",
+      "typeId": "ty_mumieioe81b7ky",
+      "inInbox": false,
+      "aspects": [
+        "asp_mumieioe8paitd"
+      ],
+      "attributes": {
+        "a_mumieioeanecjr": "2026-09-29",
+        "a_mumieioezphjia": "Součástí této aplikace a databáze je i Mapa povinností, níže najdete informace právě k práci s touto verzí mapy.\n\n**Mapa povinností** je datová sada o základních EG povinnostech, ve které jsou dekomponovány nejdůležitější EG zákony do jednotlivých povinností a u povinností jsou uvedeny podrobnosti, včetně určení, koho se týká apod. Povinnosti lze vyhledávat, filtrovat a třídit, vazbit na jiná data v DKM a exportovat.",
+        "a_mumieioeynsjq5": [
+          "aktualizační robot",
+          "EGdílna"
+        ],
+        "a_mumieioebxapeb": [
+          "balíček DKM Mapa povinností"
+        ]
+      },
+      "customAttributes": [],
+      "relations": [],
+      "createdAt": "2026-09-29T10:25:02.809Z",
+      "updatedAt": "2026-09-29T10:32:49.007Z"
     }
   ]
 }
