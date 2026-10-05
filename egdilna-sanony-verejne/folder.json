@@ -2780,8 +2780,19 @@
       "created": "2026-09-22T07:07:29.206Z",
       "updated": "2026-09-22T07:07:29.206Z",
       "size": 165193
+    },
+    {
+      "name": "nsesss-korpus.dkmdata",
+      "description": "Zdroj pro datovou webovou aplikaci NSESSS korpus",
+      "folder": "Data/Datové korpusy a aplikace/Datové korpusy DKMdata/NSESSS korpus",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-10-05T14:43:33.684Z",
+      "updated": "2026-10-05T14:43:33.684Z",
+      "size": 2042305
     }
   ],
-  "updated": "2026-10-05T14:42:18.589Z",
+  "updated": "2026-10-05T14:43:33.684Z",
   "links": []
 }
