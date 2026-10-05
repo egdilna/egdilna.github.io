@@ -474,6 +474,14 @@
       "tags": [],
       "created": "2026-10-05T14:41:32.670Z",
       "updated": "2026-10-05T14:41:32.670Z"
+    },
+    {
+      "path": "Data/Datové korpusy a aplikace/Datové korpusy DKMdata/NSESSS korpus",
+      "color": "slama",
+      "description": "Datový korpus celého NSESSS a testovacích scénářů",
+      "tags": [],
+      "created": "2026-10-05T14:42:18.589Z",
+      "updated": "2026-10-05T14:42:18.589Z"
     }
   ],
   "files": [
@@ -2774,6 +2782,6 @@
       "size": 165193
     }
   ],
-  "updated": "2026-10-05T14:41:32.670Z",
+  "updated": "2026-10-05T14:42:18.589Z",
   "links": []
 }
