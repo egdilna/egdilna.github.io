@@ -1,18 +1,63 @@
 {
   "version": 1,
   "projectName": "NSESSS požadavky + testovací scénáře",
-  "projectDescription": "Migrovaná databáze NSESSS požadavků, testovacích scénářů a kroků scénářů. Zdroj: databaze-nsesss-ts-korpus.jsondb (verze DB k 09/2026).",
+  "projectDescription": "Kompletní korpus NSESSS verze z 2. září 2026",
   "ghPath": "",
   "settings": {
-    "visibleTypeTabs": [
-      "t_kap",
-      "t_podk",
-      "t_poz",
-      "t_scenar",
-      "t_krok"
-    ],
-    "visibleAspectTabs": [],
-    "userName": "Michal"
+    "tabs": [
+      {
+        "id": "z_muveq9iym67wx2",
+        "kind": "type",
+        "name": "Struktura NSESSS",
+        "icon": "",
+        "showCount": true,
+        "hideEmpty": false,
+        "typeIds": [
+          "t_kap",
+          "t_podk"
+        ]
+      },
+      {
+        "id": "z_muveshe008l650",
+        "kind": "type",
+        "name": "Požadavky NSESSS",
+        "icon": "",
+        "showCount": true,
+        "hideEmpty": false,
+        "typeIds": [
+          "t_poz"
+        ]
+      },
+      {
+        "id": "z_muvet9ma2jhhia",
+        "kind": "type",
+        "name": "Testovací scénáře",
+        "icon": "",
+        "showCount": true,
+        "hideEmpty": false,
+        "typeIds": [
+          "t_scenar"
+        ]
+      },
+      {
+        "id": "z_muvetzf06qwkpm",
+        "kind": "all",
+        "name": "",
+        "icon": "",
+        "showCount": false,
+        "hideEmpty": false
+      },
+      {
+        "id": "z_muveu7puhcn6y9",
+        "kind": "entity",
+        "name": "",
+        "icon": "",
+        "showCount": true,
+        "hideEmpty": false,
+        "entityId": "e_muveh4acdy07lw",
+        "isDefault": true
+      }
+    ]
   },
   "entityTypes": [
     {
@@ -194,6 +239,39 @@
           "type": "text"
         }
       ]
+    },
+    {
+      "id": "ty_muvegqe5b1gsa2",
+      "name": "Informace",
+      "icon": "ℹ️",
+      "attributes": [
+        {
+          "id": "a_muvegqe5j1xxuv",
+          "name": "ze šablony",
+          "type": "yesno"
+        },
+        {
+          "id": "a_muvegqe5wds7h4",
+          "name": "exportovat do architektury",
+          "type": "yesno"
+        },
+        {
+          "id": "a_muvegqe5ckcs6y",
+          "name": "Obsah",
+          "type": "textarea"
+        },
+        {
+          "id": "a_muvegqe51ueng9",
+          "name": "Aktualizováno",
+          "type": "date"
+        },
+        {
+          "id": "a_muvegqe5l51s8i",
+          "name": "Autoři",
+          "type": "tags",
+          "tagSetId": "ts_muvegqe5vyxsmz"
+        }
+      ]
     }
   ],
   "aspects": [],
@@ -241,7 +319,19 @@
     }
   ],
   "selectLists": [],
+  "tagSets": [
+    {
+      "id": "ts_muvegqe5vyxsmz",
+      "name": "Uživatelé",
+      "tags": [
+        "aktualizační robot",
+        "Michal Rada"
+      ],
+      "uzavrena": true
+    }
+  ],
   "savedViews": [],
+  "jsonExports": [],
   "entities": [
     {
       "id": "e_kap_0001",
@@ -46946,6 +47036,26 @@
       "createdAt": "2026-09-02T13:00:00.000Z",
       "updatedAt": "2026-09-02T13:00:00.000Z",
       "archived": false
+    },
+    {
+      "id": "e_muveh4acdy07lw",
+      "name": "Informace o NSESSS korpusu",
+      "typeId": "ty_muvegqe5b1gsa2",
+      "inInbox": false,
+      "aspects": [],
+      "attributes": {
+        "a_muvegqe5j1xxuv": false,
+        "a_muvegqe5wds7h4": false,
+        "a_muvegqe5ckcs6y": "Vítejte ve webové aplikaci **NSESSS korpus**.\n\n## Co to je?\n\nJde o datovou aplikaci [vytvořenou nástrojem DKM](https://https://nastroje.egdilna.cz/#dkm), která obsahuje pravidelně aktualizované všechny požadavky NSESSS a všechny testovací scénáře a jejich kroky a vzájemné vazby.\n\n## Co můžete dělat\n\nProhledávat, filtrovat, porovnávat, zobrazovat, procházet data.\n\nUložit si vlastní kopii korpusu a v ní si pak provádět změny a doplňovat si třeba svoje poznámky a další data.\n\nPřes tlačítko Exportovat můžete buď celou datovou aplikaci a nebo jen vybranou část exportovat do mnoha formátů, včetně DOCX, TSV, XLSX, XML, JSON, JSON-LD, XMI, OpenAPI (nechápu, proč by to někdo dělal) a další.",
+        "a_muvegqe51ueng9": "2026-10-05",
+        "a_muvegqe5l51s8i": [
+          "Michal Rada"
+        ]
+      },
+      "customAttributes": [],
+      "relations": [],
+      "createdAt": "2026-10-05T15:24:04.980Z",
+      "updatedAt": "2026-10-05T15:28:57.726Z"
     }
   ]
 }
