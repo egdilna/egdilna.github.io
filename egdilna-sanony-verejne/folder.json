@@ -2795,15 +2795,15 @@
     {
       "name": "Webová aplikace NSESSS korpus",
       "type": "odkaz",
-      "url": "https://nastroje.egdilna.cz/dkm/?open=https%3A%2F%2Fraw.githubusercontent.com%2Fegdilna%2Fegdilna.github.io%2Fmain%2Fegdilna-sanony-verejne%2Fnsesss-korpus.dkmdata",
+      "url": "https://shm.to/nsesss",
       "description": "Otevře webovou aplikaci NSESSS korpus s požadavky a testovacími scénáři vždy v aktuální verzi",
       "folder": "Data/Datové korpusy a aplikace/Datové korpusy DKMdata/NSESSS korpus",
       "tags": [],
       "notes": [],
       "created": "2026-10-05T15:40:42.220Z",
-      "updated": "2026-10-05T15:40:42.220Z"
+      "updated": "2026-10-05T15:48:03.907Z"
     }
   ],
-  "updated": "2026-10-05T15:40:42.220Z",
+  "updated": "2026-10-05T15:48:03.907Z",
   "links": []
 }
