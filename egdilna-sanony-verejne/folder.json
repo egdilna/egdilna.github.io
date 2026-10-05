@@ -466,6 +466,14 @@
       "tags": [],
       "created": "2026-10-05T14:40:53.217Z",
       "updated": "2026-10-05T14:40:53.217Z"
+    },
+    {
+      "path": "Data/Datové korpusy a aplikace/Datové korpusy DKMdata",
+      "color": "zluta",
+      "description": "",
+      "tags": [],
+      "created": "2026-10-05T14:41:32.670Z",
+      "updated": "2026-10-05T14:41:32.670Z"
     }
   ],
   "files": [
@@ -2766,6 +2774,6 @@
       "size": 165193
     }
   ],
-  "updated": "2026-10-05T14:40:53.217Z",
+  "updated": "2026-10-05T14:41:32.670Z",
   "links": []
 }
