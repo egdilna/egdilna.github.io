@@ -458,6 +458,14 @@
       "tags": [],
       "created": "2026-09-22T06:57:08.613Z",
       "updated": "2026-09-22T06:57:08.613Z"
+    },
+    {
+      "path": "Data/Datové korpusy a aplikace",
+      "color": "",
+      "description": "",
+      "tags": [],
+      "created": "2026-10-05T14:40:53.217Z",
+      "updated": "2026-10-05T14:40:53.217Z"
     }
   ],
   "files": [
@@ -2758,6 +2766,6 @@
       "size": 165193
     }
   ],
-  "updated": "2026-09-22T07:07:29.206Z",
+  "updated": "2026-10-05T14:40:53.217Z",
   "links": []
 }
