@@ -225,6 +225,7 @@
         "Ministerstvo spravedlnosti",
         "Ministerstvo vnitra",
         "Ministerstvo zdravotnictví",
+        "Ministerstvo životního prostředí",
         "Národní úřad pro kybernetickou a informační bezpečnost",
         "Obecní úřady",
         "Obecní úřady ORP",
@@ -17811,6 +17812,2049 @@
       "relations": [],
       "createdAt": "2026-09-29T10:25:02.809Z",
       "updatedAt": "2026-09-29T10:32:49.007Z"
+    },
+    {
+      "id": "e_90ce87a1ef38c",
+      "name": "Dodržovat základní principy správy dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat při vytváření, úpravě, pozměňování, uchovávání, zpřístupňování a využívání dat a provozních údajů chrání jejich důvěryhodnost, užitečnost a význam.",
+        "a_mumelbpfast4": "§ 5 odst. 1 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2501,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_a7fa19a1a5aa7",
+      "name": "Zajistit si nepřetržitý a úplný přístup k datům u provozovatele ISVS",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Pokud správce dat využívá pro správu dat provozovatele informačního systému veřejné správy, zajistí si k datům a provozním údajům nepřetržitý a úplný přístup.",
+        "a_mumelbpfast4": "§ 5 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2502,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_9e1688e71f04b",
+      "name": "Stanovit pravidla správy dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat si stanoví vnitřní pravidla pro správu dat, provozních údajů a datových rozhraní.",
+        "a_mumelbpfast4": "§ 5 odst. 3 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2503,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_2feed41082cdf",
+      "name": "Uplatňovat a dodržovat pravidla správy dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat vnitřní pravidla pro správu dat, provozních údajů a datových rozhraní uplatňuje v praxi a zajišťuje jejich dodržování.",
+        "a_mumelbpfast4": "§ 5 odst. 3 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2504,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_5a998cb917f83",
+      "name": "Vymezit v pravidlech správy dat principy a opatření",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat vymezí ve vnitřních pravidlech pro správu dat, provozních údajů a datových rozhraní principy a opatření pro řádnou správu dat, provozních údajů a datových rozhraní.",
+        "a_mumelbpfast4": "§ 5 odst. 3 věta druhá zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2505,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_be4dc17b595ee",
+      "name": "Popsat data",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat popíše do datového slovníku data vedená v informačním systému veřejné správy metadaty podle otevřené formální normy zveřejněné Digitální a informační agenturou způsobem umožňujícím dálkový přístup.",
+        "a_mumelbpfast4": "§ 6 odst. 1 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2506,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_a7a7bfc8d7f43",
+      "name": "Popsat datová rozhraní",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat popíše jím vytvářená datová rozhraní metadaty podle otevřené formální normy zveřejněné Digitální a informační agenturou způsobem umožňujícím dálkový přístup.",
+        "a_mumelbpfast4": "§ 6 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2507,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_018839d151789",
+      "name": "Spravovat lokální katalog dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat vytváří a spravuje lokální katalog dat.",
+        "a_mumelbpfast4": "§ 7 odst. 1 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2508,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_d4c0c3ce315e8",
+      "name": "Vést data v lokálním katalogu dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat do lokálního katalogu dat zapíše metadata podle § 6; to neplatí, vylučuje-li zápis omezení vyplývající z jiného právního předpisu, mezinárodní smlouvy, která je součástí právního řádu, nebo oprávněného zájmu České republiky nebo jiné osoby.",
+        "a_mumelbpfast4": "§ 7 odst. 1 věta druhá zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2509,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_123674f18752a",
+      "name": "Aktualizovat lokální katalog dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat průběžně aktualizuje datový slovník a metadata datových rozhraní zapisované do lokálního katalogu dat.",
+        "a_mumelbpfast4": "§ 7 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2510,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029. Neudržování lokálního katalogu dat v aktuálním stavu je přestupkem podle § 32 odst. 1 písm. a), pokuta až 200 000 Kč."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_f3f9ca1139723",
+      "name": "Zapsat změny do lokálního katalogu dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Změnu rozsahu nebo podoby spravovaných dat nebo poskytovaných datových rozhraní správce dat zapíše nejpozději do 7 pracovních dnů od jejího zjištění.",
+        "a_mumelbpfast4": "§ 7 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2511,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029. Neudržování lokálního katalogu dat v aktuálním stavu je přestupkem podle § 32 odst. 1 písm. a), pokuta až 200 000 Kč."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_82aeb06621469",
+      "name": "Zveřejňovat lokální katalog dat v národním katalogu dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat zveřejňuje obsah lokálního katalogu dat prostřednictvím národního katalogu dat.",
+        "a_mumelbpfast4": "§ 7 odst. 3 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2512,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_d9422b611ca61",
+      "name": "Vytvořit datový slovník agendy",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat, který je ohlašovatelem agendy podle zákona o základních registrech, vytváří jako součást svého lokálního katalogu dat datový slovník agendy s popisem dat vedených v rámci agendy.",
+        "a_mumelbpfast4": "§ 8 odst. 1 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ohlašovatelé agend"
+        ],
+        "a_mumelbphpxua": 2513,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029. Nevytvoření datového slovníku je přestupkem podle § 32 odst. 1 písm. b), pokuta až 500 000 Kč."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_f32d5647b2b82",
+      "name": "Vytvořit datový slovník správce dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat, který je ústředním správním úřadem, vytváří jako součást svého lokálního katalogu dat datový slovník správce dat a doplňuje jej o popis dat vedených v jím spravovaném informačním systému veřejné správy, pokud v datových slovnících agend nejsou popsána.",
+        "a_mumelbpfast4": "§ 8 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstva"
+        ],
+        "a_mumelbphpxua": 2514,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029. Nevytvoření datového slovníku je přestupkem podle § 32 odst. 1 písm. b), pokuta až 500 000 Kč."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_773d45fccba10",
+      "name": "Převzít datové slovníky do datového slovníku správce dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat, který je ústředním správním úřadem, přebírá do datového slovníku správce dat v rozsahu nezbytném pro výkon své agendy datové slovníky agend.",
+        "a_mumelbpfast4": "§ 8 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstva"
+        ],
+        "a_mumelbphpxua": 2515,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_ed1934f05a301",
+      "name": "Převzít datové slovníky do lokálního katalogu dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat, který není ústředním správním úřadem, přebírá do svého lokálního katalogu dat datové slovníky agend v rozsahu potřebném pro popis dat vedených v jím spravovaném informačním systému veřejné správy.",
+        "a_mumelbpfast4": "§ 8 odst. 3 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2516,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2029."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_fbcb8d3399b83",
+      "name": "Spravovat národní katalog dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura je správcem národního katalogu dat, který se zřizuje jako informační systém veřejné správy.",
+        "a_mumelbpfast4": "§ 9 odst. 1 a 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2517,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_525427b2d5835",
+      "name": "Zveřejňovat obsah lokálních katalogů dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura prostřednictvím národního katalogu dat zveřejňuje obsah lokálních katalogů dat.",
+        "a_mumelbpfast4": "§ 9 odst. 1 písm. a) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2518,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_231673466298e",
+      "name": "Integrovat datové slovníky do datového slovníku veřejné správy",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura prostřednictvím národního katalogu dat integruje obsah datových slovníků do datového slovníku veřejné správy, který je tvořen základními pojmy, datovými slovníky agend a datovými slovníky správců dat.",
+        "a_mumelbpfast4": "§ 9 odst. 1 písm. b) a odst. 3 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2519,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_32c2896e32e36",
+      "name": "Zprostředkovat podávání žádostí o povolení řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura prostřednictvím národního katalogu dat zprostředkovává podávání žádostí o povolení řízeného přístupu k datům.",
+        "a_mumelbpfast4": "§ 9 odst. 1 písm. c) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2520,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_7339a0d1ed3cb",
+      "name": "Zveřejnit a zpřístupnit Národní katalog dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Národní katalog dat je veřejně přístupný způsobem umožňujícím dálkový přístup.",
+        "a_mumelbpfast4": "§ 9 odst. 4 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2521,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_65637bed94736",
+      "name": "Spravovat Geoportál České republiky",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Ministerstvo životního prostředí je správcem geoportálu České republiky, který se zřizuje jako informační systém veřejné správy zajišťující přístup k národní infrastruktuře pro prostorové informace.",
+        "a_mumelbpfast4": "§ 10 odst. 1 a 4 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstvo životního prostředí"
+        ],
+        "a_mumelbphpxua": 2522,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_58bca8f70fa23",
+      "name": "Zpřístupňovat prostorová data a služby nad nimi",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Ministerstvo životního prostředí prostřednictvím geoportálu zpřístupňuje prostorová data vedená správci dat nebo poskytuje služby nad prostorovými daty.",
+        "a_mumelbpfast4": "§ 10 odst. 1 písm. a) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstvo životního prostředí"
+        ],
+        "a_mumelbphpxua": 2523,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_c8bda565a9396",
+      "name": "Sdílet prostorová data a služby nad nimi",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Ministerstvo životního prostředí prostřednictvím geoportálu zajišťuje sdílení prostorových dat a služeb nad prostorovými daty.",
+        "a_mumelbpfast4": "§ 10 odst. 1 písm. b) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstvo životního prostředí"
+        ],
+        "a_mumelbphpxua": 2524,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_27037c09c91f3",
+      "name": "Zobrazovat prostorová data v mapových úlohách",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Ministerstvo životního prostředí prostřednictvím geoportálu zajišťuje zobrazování prostorových dat a jejich užívání v rámci mapových úloh.",
+        "a_mumelbpfast4": "§ 10 odst. 1 písm. c) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstvo životního prostředí"
+        ],
+        "a_mumelbphpxua": 2525,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_1d6fb9d613213",
+      "name": "Sledovat dostupnost a využívání prostorových dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Ministerstvo životního prostředí prostřednictvím geoportálu sleduje dostupnost a využívání prostorových dat a služeb nad prostorovými daty.",
+        "a_mumelbpfast4": "§ 10 odst. 1 písm. d) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstvo životního prostředí"
+        ],
+        "a_mumelbphpxua": 2526,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_e7164d0288caf",
+      "name": "Koordinovat správce prostorových dat a sledovat plnění jejich povinností",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Ministerstvo životního prostředí koordinuje činnost správců dat, kteří jsou povinni na základě jiného právního předpisu vytvářet nebo poskytovat prostorová data anebo poskytovat služby nad prostorovými daty. Sleduje také plnění jejich povinností v oblasti evropské infrastruktury pro prostorové informace.",
+        "a_mumelbpfast4": "§ 10 odst. 1 písm. e) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstvo životního prostředí"
+        ],
+        "a_mumelbphpxua": 2527,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_53c178fa1ae97",
+      "name": "Zpřístupňovat metadata o prostorových datech prostřednictvím geoportálu",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správci dat zpřístupňují jimi vedená metadata o prostorových datech prostřednictvím geoportálu České republiky.",
+        "a_mumelbpfast4": "§ 10 odst. 3 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2528,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_e8f7d9cd1d6a5",
+      "name": "Zveřejnit a zpřístupnit Geoportál České republiky",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Geoportál České republiky je veřejně přístupný způsobem umožňujícím dálkový přístup.",
+        "a_mumelbpfast4": "§ 10 odst. 5 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ministerstvo životního prostředí"
+        ],
+        "a_mumelbphpxua": 2529,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_1a5f6fa0482d6",
+      "name": "Rozhodovat o povolení řízeného přístupu k vlastním datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat rozhoduje o povolení řízeného přístupu k datům, pokud je žádáno o povolení řízeného přístupu pouze k datům vedeným v jím spravovaném informačním systému veřejné správy.",
+        "a_mumelbpfast4": "§ 12 písm. a) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2530,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_692fe138c2994",
+      "name": "Rozhodovat o povolení řízeného přístupu k datům různých správců dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura rozhoduje o povolení řízeného přístupu k datům, pokud je žádáno o povolení řízeného přístupu k datům vedeným v informačních systémech veřejné správy různých správců dat.",
+        "a_mumelbpfast4": "§ 12 písm. b) a § 28 písm. d) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2531,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_5e15629b3996b",
+      "name": "Rozhodovat o povolení řízeného přístupu k datům z oblasti příslušného subjektu",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Příslušný subjekt rozhoduje o povolení řízeného přístupu k datům, pokud je žádáno o povolení řízeného přístupu pouze k datům z některé z oblastí podle § 29 odst. 1.",
+        "a_mumelbpfast4": "§ 12 písm. c) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2532,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_a23c164fcf00b",
+      "name": "Poskytnout předběžnou informaci k řízenému přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán, tedy Digitální a informační agentura, nebo příslušný správce dat či příslušný subjekt, kterému agentura žádost předala, poskytne žadateli předběžnou informaci do 30 dnů ode dne, kdy žádost obdržel. Předběžná informace obsahuje informace o možnostech a podmínkách povolení řízeného přístupu k datům, o hlediscích, podle kterých bude žádost posuzována, a předpokladech, za nichž lze žádosti vyhovět, nebo o správcích dat, jejichž závazným stanoviskem bude rozhodnutí podmíněno.",
+        "a_mumelbpfast4": "§ 15 odst. 2 a 3 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2533,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_13300998e9a0a",
+      "name": "Předat žádost o předběžnou informaci",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Není-li Digitální a informační agentura povolujícím správním orgánem, předá žádost o předběžnou informaci příslušnému správci dat nebo příslušnému subjektu.",
+        "a_mumelbpfast4": "§ 15 odst. 2 věta druhá zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2534,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_7fea6533d5b95",
+      "name": "Vyžádat si stanovisko k žádosti o řízený přístup k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Pokud je povolujícím správním orgánem Digitální a informační agentura, vyžádá si k rozhodnutí o žádosti závazné stanovisko dotčeného správce dat nebo příslušného subjektu. Pokud dotčený správce dat není správním orgánem, vyžádá si pouze jeho vyjádření.",
+        "a_mumelbpfast4": "§ 17 odst. 1 věta první a druhá zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2535,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_668ef01b8f4cc",
+      "name": "Vydat stanovisko nebo vyjádření k žádosti o řízený přístup k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Dotčený správce dat nebo příslušný subjekt vydá závazné stanovisko nebo vyjádření na základě zhodnocení možnosti zajištění řízeného přístupu a uvede podmínky, za kterých je požadovaná data z právního a technického hlediska možné zpřístupnit.",
+        "a_mumelbpfast4": "§ 17 odst. 1 věta třetí a § 30 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2536,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_8c873d390a5a3",
+      "name": "Rozhodnout o žádosti podle stanovisek dotčených správců dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Pokud řízený přístup nevyžaduje propojování dat různých správců dat, Digitální a informační agentura vyhoví žádosti ve vztahu k datům těch správců dat, kteří vydali souhlasné závazné stanovisko nebo vyjádření. Pokud propojování vyžaduje, vyhoví žádosti pouze tehdy, jestliže všichni dotčení správci dat vydali souhlasné závazné stanovisko nebo vyjádření.",
+        "a_mumelbpfast4": "§ 17 odst. 2 a 3 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2537,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_03629e1ca61f5",
+      "name": "Předat žádost o povolení řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Není-li Digitální a informační agentura povolujícím správním orgánem, předá žádost o povolení řízeného přístupu k datům věcně příslušnému správci dat nebo příslušnému subjektu.",
+        "a_mumelbpfast4": "§ 17 odst. 4 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2538,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_ddbe4df4eb2b1",
+      "name": "Posoudit vliv řízeného přístupu k datům na ochranu osobních údajů",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Pokud je povolujícím správním orgánem správce dat nebo příslušný subjekt a požadovaná data jsou osobními údaji, povolující správní orgán po předání žádosti o povolení řízeného přístupu k datům Agenturou posoudí vliv řízeného přístupu k datům na ochranu osobních údajů.",
+        "a_mumelbpfast4": "§ 18 odst. 1 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2539,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_6f6f8a015e3af",
+      "name": "Vyžádat si součinnost nebo vyjádření k řízenému přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat si vyžádá součinnost ve smyslu čl. 7 nařízení o evropské správě dat nebo vyjádření Agentury nebo příslušného subjektu, je-li to potřebné k rozhodnutí o žádosti o povolení řízeného přístupu k datům nebo k zajištění řízeného přístupu k datům. Příslušný subjekt si vyžádá součinnost nebo vyjádření Agentury.",
+        "a_mumelbpfast4": "§ 18 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2540,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_be681211b2080",
+      "name": "Projednat stanoviska a podmínky řízeného přístupu s dotčenými správci dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán projedná s dotčenými správci dat a příslušnými subjekty jimi vydaná vyjádření a závazná stanoviska a podmínky, které mají být stanoveny v rozhodnutí o povolení řízeného přístupu k datům.",
+        "a_mumelbpfast4": "§ 19 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2541,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_e367919ec185c",
+      "name": "Sepsat protokol ze společného jednání",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Společné jednání je neveřejné a povolující správní orgán o jeho průběhu a závěrech sepíše protokol.",
+        "a_mumelbpfast4": "§ 19 věta třetí zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2542,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_e84573c380555",
+      "name": "Projednat změnu projektu využití dat s dotčenými správci dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Změnu projektu využití dat povolující správní orgán projedná s dotčenými správci dat a příslušnými subjekty. Pro projednání změny projektu využití dat se použijí ustanovení § 17 až 19 obdobně.",
+        "a_mumelbpfast4": "§ 20 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2543,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_a603635406322",
+      "name": "Vydat rozhodnutí o povolení řízeného přístupu k datům v určené lhůtě",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Pokud nelze rozhodnutí o povolení řízeného přístupu k datům vydat bezodkladně, vydá jej povolující správní orgán ve lhůtě podle čl. 9 odst. 1 nařízení o evropské správě dat, která běží ode dne, kdy žádost o povolení řízeného přístupu k datům obdržel.",
+        "a_mumelbpfast4": "§ 21 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2544,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_d95ced8d70eda",
+      "name": "Rozhodnout o žádosti o povolení řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán vyhoví žádosti o povolení řízeného přístupu k datům, pokud žadatel splnil podmínky stanovené zákonem. Žádost zamítne, jestliže žadatel nesplnil podmínky stanovené zákonem nebo jestliže žádost směřuje na data, jejichž poskytnutím by došlo k nepřiměřenému zásahu do práv nebo právem chráněných zájmů podle § 14.",
+        "a_mumelbpfast4": "§ 22 odst. 1 věta první a odst. 3 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2545,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_a3f261c05c2d9",
+      "name": "Zohlednit vyjádření DIA a příslušných subjektů při rozhodování",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán při rozhodování o žádosti zohlední vyjádření Agentury a příslušných subjektů podle § 18 odst. 2.",
+        "a_mumelbpfast4": "§ 22 odst. 1 věta druhá zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2546,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_990a00a758488",
+      "name": "Stanovit podmínky poskytnutí dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán v rozhodnutí o povolení řízeného přístupu k datům stanoví podmínky poskytnutí dat, zejména formu a způsob, jakým budou data žadateli zpřístupněna, a zohlední při tom obsah projektu využití dat.",
+        "a_mumelbpfast4": "§ 22 odst. 2 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2547,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_ded2733024ee4",
+      "name": "Oznámit žadateli výši úhrady nákladů",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán písemně oznámí žadateli vyčíslení nákladů a výši úhrady před vydáním rozhodnutí o povolení řízeného přístupu a vyzve jej k zaplacení úhrady. Z oznámení musí být zřejmé, na základě jakých skutečností a jakým způsobem byla výše úhrady vyčíslena. Úhrada nesmí přesáhnout skutečné náklady zajištění řízeného přístupu k datům. Pokud žádné náklady nevzniknou, povolující správní orgán oznámí tuto skutečnost žadateli.",
+        "a_mumelbpfast4": "§ 23 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2548,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_65e0f48678517",
+      "name": "Zveřejnit kategorie nákladů a pravidla jejich rozvržení",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správci dat zveřejní na svých internetových stránkách popis hlavních kategorií nákladů a pravidel použitých k rozvržení nákladů.",
+        "a_mumelbpfast4": "§ 23 odst. 3 věta druhá zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2549,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_c347e444c8c7e",
+      "name": "Zamítnout žádost při neuhrazení nákladů",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Pokud žadatel neuhradí náklady nejpozději do 30 dnů ode dne doručení výzvy k zaplacení, povolující správní orgán žádost zamítne.",
+        "a_mumelbpfast4": "§ 23 odst. 4 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2550,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_70438dd80fe38",
+      "name": "Rozdělit úhradu nákladů mezi zapojené správce dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "V případě, že je do zajištění řízeného přístupu k datům zapojeno více správců dat, povolující správní orgán rozdělí úhradu nákladů poměrně podle míry vynaložených nákladů.",
+        "a_mumelbpfast4": "§ 23 odst. 5 věta druhá zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2551,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_3b193cea0e113",
+      "name": "Zajistit řízený přístup k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán, příslušný subjekt nebo Agentura zajistí řízený přístup k datům na základě rozhodnutí o povolení řízeného přístupu.",
+        "a_mumelbpfast4": "§ 24 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2552,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_d9326cc23f097",
+      "name": "Zrušit rozhodnutí o povolení řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán zruší rozhodnutí o povolení řízeného přístupu k datům, jestliže o to osoba, které byl řízený přístup povolen, požádá. Zruší jej také, jestliže tato osoba opakovaně nebo závažným způsobem porušila povinnosti ze zákona, z nařízení o evropské správě dat nebo z rozhodnutí, jestliže byla ohrožena bezpečnost poskytnutých dat nebo byla data použita k jinému účelu, nebo jestliže osoba nesplní opatření k nápravě podle § 31 odst. 2.",
+        "a_mumelbpfast4": "§ 25 odst. 1 a 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2553,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_f5b9b4dd5786b",
+      "name": "Změnit rozhodnutí o povolení řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán na žádost nebo z moci úřední změní rozhodnutí o povolení řízeného přístupu k datům, jestliže je vzhledem k účelu žádosti nebo ochraně poskytovaných dat nezbytné upravit podmínky v rozhodnutí.",
+        "a_mumelbpfast4": "§ 25 odst. 3 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2554,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_8329d7a0c4e40",
+      "name": "Zajistit řízený přístup k datům pro organizační složky státu",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán zajistí řízený přístup k datům na vyžádání organizačním složkám státu, je-li takový přístup nezbytný za účelem tvorby politik veřejné správy a jejich vyhodnocování, hodnocení dopadů regulace nebo analýzy výkonu veřejné správy.",
+        "a_mumelbpfast4": "§ 27 odst. 1 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2555,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_4f68c30e1e545",
+      "name": "Dohodnout podrobnosti řízeného přístupu k datům s organizační složkou státu",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Podrobnosti řízeného přístupu k datům pro organizační složku státu upraví povolující správní orgán a organizační složka státu, která si zajištění vyžádala, vzájemnou dohodou.",
+        "a_mumelbpfast4": "§ 27 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2556,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_8dcff9bd6e5f3",
+      "name": "Posoudit vliv řízeného přístupu k datům pro organizační složky státu na ochranu osobních údajů",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Pokud jsou data požadovaná organizační složkou státu osobními údaji, povolující správní orgán posoudí vliv řízeného přístupu k datům na ochranu osobních údajů.",
+        "a_mumelbpfast4": "§ 27 odst. 4 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2557,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_f9597352e087e",
+      "name": "Koordinovat a vytvářet podmínky pro rozvoj správy dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura koordinuje a vytváří podmínky pro rozvoj oblasti správy dat.",
+        "a_mumelbpfast4": "§ 28 písm. a) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2558,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_21956c2e69a2c",
+      "name": "Vydávat vyjádření a zajišťovat podporu v oblasti řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura vydává vyjádření podle § 18 odst. 2 a zajišťuje podporu v oblasti řízeného přístupu k datům.",
+        "a_mumelbpfast4": "§ 28 písm. b) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2559,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_b209ca47b921a",
+      "name": "Zveřejňovat otevřené formální normy a jejich návrhy",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura zveřejňuje otevřené formální normy a jejich návrhy způsobem umožňujícím dálkový přístup.",
+        "a_mumelbpfast4": "§ 28 písm. c) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2560,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_5f4fb20112943",
+      "name": "Rozhodovat o odvolání proti rozhodnutí o žádosti o povolení řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura rozhoduje o odvolání proti rozhodnutí o žádosti o povolení řízeného přístupu k datům.",
+        "a_mumelbpfast4": "§ 28 písm. e) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2561,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_7c7f654758439",
+      "name": "Vykonávat roli jednotného informačního místa",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura je jednotným informačním místem podle čl. 8 odst. 1 nařízení o evropské správě dat.",
+        "a_mumelbpfast4": "§ 28 písm. f) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2562,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_54b263c83b6a5",
+      "name": "Zveřejňovat informace podle nařízení o evropské správě dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura zveřejňuje na svých internetových stránkách informace podle čl. 5 odst. 1 a čl. 8 odst. 1 nařízení o evropské správě dat.",
+        "a_mumelbpfast4": "§ 28 písm. g) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2563,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_87b464fd76a89",
+      "name": "Zajistit napojení na evropské jednotné přístupové místo",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura zajišťuje napojení na evropské jednotné přístupové místo podle čl. 8 odst. 4 nařízení o evropské správě dat.",
+        "a_mumelbpfast4": "§ 28 písm. h) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2564,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_ef41310529ac0",
+      "name": "Zveřejnit elektronický formulář žádosti o povolení řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura zveřejňuje prostřednictvím národního katalogu dat elektronický formulář pro podání žádosti o povolení řízeného přístupu k datům podle čl. 8 odst. 2 nařízení o evropské správě dat.",
+        "a_mumelbpfast4": "§ 28 písm. i) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2565,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_6bf9f89e7f7f6",
+      "name": "Oznamovat Evropské komisi příslušné subjekty",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura oznamuje Evropské komisi příslušné subjekty podle čl. 7 nařízení o evropské správě dat a změny těchto subjektů.",
+        "a_mumelbpfast4": "§ 28 písm. j) zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2566,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_416b5ec32496a",
+      "name": "Zajišťovat řízený přístup ke zdravotnickým datům prostřednictvím NZIS",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Ústav zdravotnických informací a statistiky České republiky zajišťuje přístup k datům podle § 12 písm. c) prostřednictvím Národního zdravotnického informačního systému.",
+        "a_mumelbpfast4": "§ 29 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Ústav zdravotnických informací a statistiky"
+        ],
+        "a_mumelbphpxua": 2567,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_6c3d25ea4a6e0",
+      "name": "Poskytovat povolujícímu správnímu orgánu informace důležité pro řízení",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Dotčený správce dat nebo příslušný subjekt poskytuje povolujícímu správnímu orgánu všechny informace důležité pro řízení.",
+        "a_mumelbpfast4": "§ 30 věta druhá zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2568,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_eac50368aabc0",
+      "name": "Kontrolovat dodržování povinností správců dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura kontroluje, zda správci dat dodržují povinnosti stanovené zákonem a nařízením o evropské správě dat.",
+        "a_mumelbpfast4": "§ 31 odst. 1 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2569,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_866f16027e8b3",
+      "name": "Přijmout opatření k nápravě uložené DIA",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Správce dat přijme opatření k nápravě ve lhůtě stanovené Agenturou, která nesmí být delší než 6 měsíců.",
+        "a_mumelbpfast4": "§ 31 odst. 1 věta třetí zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2570,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Nesplnění opatření k nápravě je přestupkem podle § 32 odst. 1 písm. c), pokuta až 100 000 Kč."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_f743b88215000",
+      "name": "Kontrolovat dodržování povinností při řízeném přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Povolující správní orgán kontroluje, zda osoba, které byl řízený přístup k datům zajištěn, dodržuje povinnosti vyplývající ze zákona, z nařízení o evropské správě dat a z rozhodnutí o povolení řízeného přístupu k datům.",
+        "a_mumelbpfast4": "§ 31 odst. 2 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2571,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_f3ecbe2a9bbc3",
+      "name": "Informovat ÚOOÚ o neoprávněném využívání osobních údajů",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Pokud vyjde v průběhu kontroly najevo, že osoba, které byl řízený přístup k datům zajištěn, neoprávněně využívá poskytnuté osobní údaje, povolující správní orgán neprodleně informuje Úřad pro ochranu osobních údajů.",
+        "a_mumelbpfast4": "§ 31 odst. 2 věta třetí zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura",
+          "Orgány veřejné správy"
+        ],
+        "a_mumelbphpxua": 2572,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Účinnost od 1. 1. 2028."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_4f927dcf0bb80",
+      "name": "Projednávat přestupky podle zákona o správě dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura projednává přestupky podle zákona o správě dat a o řízeném přístupu k datům.",
+        "a_mumelbpfast4": "§ 34 odst. 1 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2573,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_93570e63fdb47",
+      "name": "Vybírat a vymáhat pokuty podle zákona o správě dat",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura vybírá a vymáhá pokuty uložené podle zákona o správě dat a o řízeném přístupu k datům.",
+        "a_mumelbpfast4": "§ 34 odst. 2 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2574,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_f1a738b3aae86",
+      "name": "Vydat vyhlášku o kritériích výpočtu úhrady nákladů řízeného přístupu k datům",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura vydá vyhlášku, která stanoví podrobná kritéria pro výpočet výše úhrady nákladů spojených se zajištěním řízeného přístupu k datům.",
+        "a_mumelbpfast4": "§ 35 a § 23 odst. 3 věta první zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2575,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG"
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
+    },
+    {
+      "id": "e_f55346f17b353",
+      "name": "Zveřejnit otevřenou formální normu pro lokální katalog dat a datové slovníky",
+      "typeId": "t_mumelbprw766",
+      "inInbox": false,
+      "archived": false,
+      "aspects": [],
+      "attributes": {
+        "a_mumelbpegwrf": "Digitální a informační agentura nejpozději do 3 měsíců ode dne nabytí účinnosti zákona zveřejní na svých internetových stránkách otevřenou formální normu pro stanovení struktury a podrobností podoby lokálního katalogu dat a struktury a náležitostí datových slovníků.",
+        "a_mumelbpfast4": "§ 36 zákona 60/2026",
+        "a_mumelbpgzy0h": [
+          "Digitální a informační agentura"
+        ],
+        "a_mumelbphpxua": 2576,
+        "a_mumelbpijs2i": 1,
+        "a_mumelbpjp2r8": "2026-09-21",
+        "a_mumelbpleuge": "New",
+        "a_mumelbpm6cgm": "EG",
+        "a_mumelbpkh9ag": "Jednorázová povinnost, lhůta uplynula 27. 8. 2026."
+      },
+      "customAttributes": [],
+      "relations": [],
+      "comments": [],
+      "objects": [],
+      "createdAt": "2026-10-06T15:45:55.000Z",
+      "updatedAt": "2026-10-06T15:45:55.000Z"
     }
   ]
 }
