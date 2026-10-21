@@ -3,12 +3,107 @@
  "verze": 1,
  "nazev": "Legislativní knihovna EGdílny",
  "zalozeno": "2026-10-21T09:27:53.516Z",
- "oblasti": [],
- "predpisy": {},
- "skupiny": [],
+ "oblasti": [
+  {
+   "id": "o-mvgua7h3ycvj",
+   "nazev": "eGovernment",
+   "popis": "",
+   "predpisy": [
+    "2020/12"
+   ]
+  }
+ ],
+ "predpisy": {
+  "2020/12": {
+   "pridano": "2026-10-21T12:42:21.394Z",
+   "zneni": {
+    "2025-11-01": {
+     "soubory": [
+      "predpisy/2020-12/2025-11-01-1.json"
+     ],
+     "pocet": 884,
+     "stazeno": "2026-10-21T12:42:21.838Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "12/2020 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o právu na digitální služby a o změně některých zákonů",
+   "datumVydani": "ze dne 11. prosince 2019",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2020-01-17",
+    "2020-02-01",
+    "2020-08-01",
+    "2021-01-01",
+    "2021-07-10",
+    "2022-01-31",
+    "2022-02-01",
+    "2022-07-01",
+    "2023-01-01",
+    "2023-04-01",
+    "2024-01-20",
+    "2024-02-01",
+    "2025-01-01",
+    "2025-02-08",
+    "2025-11-01"
+   ],
+   "zkontrolovano": "2026-10-21T12:42:21.452Z"
+  }
+ },
+ "skupiny": [
+  {
+   "id": "s-mvgu8bknkv6n",
+   "nazev": "EG Správa dat",
+   "popis": ""
+  },
+  {
+   "id": "s-mvgukntz1v5j",
+   "nazev": "EG AIS ZR",
+   "popis": ""
+  },
+  {
+   "id": "s-mvhxtpzbc69o",
+   "nazev": "EG spisová služba",
+   "popis": ""
+  },
+  {
+   "id": "s-mvi32tes9fqw",
+   "nazev": "EG a klienti",
+   "popis": ""
+  }
+ ],
  "vyznaceni": [],
- "skupinyKomentaru": [],
+ "skupinyKomentaru": [
+  {
+   "id": "sk-mvi2alz38wrl",
+   "nazev": "Výklady a komentáře",
+   "popis": ""
+  },
+  {
+   "id": "sk-mvi2lxfdt078",
+   "nazev": "Komentáře pro AI",
+   "popis": ""
+  }
+ ],
  "komentare": [],
- "stitky": [],
+ "stitky": [
+  {
+   "id": "t-mvhxlvdnt9wr",
+   "nazev": "spisová služba",
+   "popis": ""
+  },
+  {
+   "id": "t-mvhxurfpbqno",
+   "nazev": "klíčové povinnosti eg",
+   "popis": ""
+  },
+  {
+   "id": "t-mvi27i0vidi6",
+   "nazev": "důležité ustanovení",
+   "popis": ""
+  }
+ ],
  "stitkyUstanoveni": []
 }
