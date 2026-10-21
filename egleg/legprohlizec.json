@@ -9,7 +9,8 @@
    "nazev": "eGovernment",
    "popis": "",
    "predpisy": [
-    "2020/12"
+    "2020/12",
+    "2026/60"
    ]
   }
  ],
@@ -50,6 +51,32 @@
     "2025-11-01"
    ],
    "zkontrolovano": "2026-10-21T12:42:21.452Z"
+  },
+  "2026/60": {
+   "pridano": "2026-10-21T12:42:25.321Z",
+   "zneni": {
+    "2026-05-27": {
+     "soubory": [
+      "predpisy/2026-60/2026-05-27-1.json"
+     ],
+     "pocet": 328,
+     "stazeno": "2026-10-21T12:42:25.590Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "60/2026 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o správě dat, o řízeném přístupu k datům a o změně některých souvisejících zákonů (zákon o správě dat a o řízeném přístupu k datům)",
+   "datumVydani": "ze dne 15. dubna 2026",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2026-05-12",
+    "2026-05-27",
+    "2028-01-01",
+    "2029-01-01"
+   ],
+   "zkontrolovano": "2026-10-21T12:42:25.388Z"
   }
  },
  "skupiny": [
