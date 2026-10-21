@@ -209,7 +209,9 @@
      "stazeno": "2026-10-21T12:42:36.869Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvhxlvdnt9wr"
+   ],
    "budouci": false,
    "citace": "499/2004 Sb.",
    "typ": "ZÁKON",
@@ -266,7 +268,107 @@
    "popis": ""
   }
  ],
- "vyznaceni": [],
+ "vyznaceni": [
+  {
+   "id": "v-mvgu8bknwuk2",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_2a/odst_3/pism_e",
+   "citace": "§ 2a odst. 3 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "e) zajišťuje odborný rozvoj, školení, sdílení znalostí, osvětu a vzdělávání v oblasti své působnosti,",
+   "skupiny": [
+    "s-mvgu8bknkv6n"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-10-20T15:28:18.071Z",
+   "upraveno": "2026-10-20T15:28:30.474Z"
+  },
+  {
+   "id": "v-mvgukntzrbk5",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4a/odst_3",
+   "citace": "§ 4a odst. 3",
+   "zneni": "2026-01-01",
+   "text": "(3) Editor zapíše údaj do agendového informačního systému nebo provede jeho změnu bez zbytečného odkladu, nejpozději však do 10 pracovních dnů ode dne, kdy se dozví o vzniku nebo o změně skutečnosti, kterou údaj popisuje.",
+   "skupiny": [
+    "s-mvgukntz1v5j"
+   ],
+   "poznamka": "Tohle mimochodem udává maximální dobu faktické změny údaje z agendové činnosti.",
+   "vytvoreno": "2026-10-20T15:37:53.831Z",
+   "upraveno": "2026-10-20T15:37:53.831Z"
+  },
+  {
+   "id": "v-mvgx5uqe6yb1",
+   "predpis": "2026/60",
+   "klic": "norma/cast_1/hlava_1/par_2/odst_4",
+   "citace": "§ 2 odst. 4",
+   "zneni": "2026-05-27",
+   "text": "(4) Tento zákon se nevztahuje na data a provozní údaje vedené v elektronických systémech spisové služby atestovaných podle zákona upravujícího archivnictví a spisovou službu2), a to i v případě, změní-li se v průběhu platnosti atestu elektronický systém spisové služby nebo vykonává-li správce dat spisovou službu v elektronické podobě v elektronickém systému spisové služby, u kterého byl atest po revizi atestu zneplatněn. Tento zákon se dále nevztahuje na data a provozní údaje vedené v elektronických systémech spisové služby, na které se nevztahuje požadavek provedení atestace.",
+   "skupiny": [
+    "s-mvgu8bknkv6n"
+   ],
+   "poznamka": "Zde není ale zcela jasné, zda se to týká dat souvisejících s výkonem spisové služby, nebo i tzv. agendových dat pro agendy vykonávané v multiagendové aplikaci řešící také ESSL. DIA k tomu vydala stanovisko, ale to to jen trochu vysvětluje.",
+   "vytvoreno": "2026-10-20T16:50:21.782Z",
+   "upraveno": "2026-10-20T16:50:21.782Z"
+  },
+  {
+   "id": "v-mvgxkiu0s7z0",
+   "predpis": "2026/60",
+   "klic": "norma/cast_1/hlava_1/par_4",
+   "citace": "§ 4",
+   "zneni": "2026-05-27",
+   "text": "§ 4 Správce dat\n  Správcem dat podle tohoto zákona je správce informačního systému veřejné správy podle zákona o informačních systémech veřejné správy.",
+   "skupiny": [
+    "s-mvgu8bknkv6n"
+   ],
+   "poznamka": "To znamená všechny orgány veřejné správy, včetně státních právnických osob, ale jen pro ISVS",
+   "vytvoreno": "2026-10-20T17:01:46.200Z",
+   "upraveno": "2026-10-21T09:42:04.232Z"
+  },
+  {
+   "id": "v-mvhwmczazt1r",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_2a/odst_3/pism_c",
+   "citace": "§ 2a odst. 3 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "c) plní koordinační úlohu v oblasti evidence a sdílení dat,",
+   "skupiny": [
+    "s-mvgu8bknkv6n"
+   ],
+   "poznamka": "Koordinuje, je ohlašovatelem agendy o správě dat a především realizuje vše kolem zákona o správě dat. Dále taky ale poskytuje konzultace a školení a provozuje celý data.gov.cz",
+   "vytvoreno": "2026-10-21T09:22:58.485Z",
+   "upraveno": "2026-10-21T09:22:58.485Z"
+  },
+  {
+   "id": "v-mvhxtpzb9go3",
+   "predpis": "2004/499",
+   "klic": "norma/cast_1/hlava_3/par_63/odst_3",
+   "citace": "§ 63 odst. 3",
+   "zneni": "2025-01-01",
+   "text": "(3) Veřejnoprávní původci vykonávají spisovou službu v elektronické podobě v elektronických systémech spisové služby; vyžaduje-li to zvláštní povaha jejich působnosti, mohou vykonávat spisovou službu v listinné podobě nebo v elektronických systémech spisové služby odpovídajících požadavkům podle odstavce 4. Veřejnoprávní původci mohou využívat pouze elektronické systémy spisové služby, které splňují požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu a u kterých je splnění těchto požadavků potvrzeno atestem. Ustanovení věty druhé se, pokud jde o potvrzování splnění požadavků atestem, nepoužije na elektronický systém spisové služby, který je součástí informačního systému pro nakládání s utajovanými informacemi34), a elektronický systém spisové služby využívaný obcemi neuvedenými v odstavci 1, školami, organizačními složkami obcí neuvedených v odstavci 1 a právnickými osobami zřízenými nebo založenými obcemi neuvedenými v odstavci 1.",
+   "skupiny": [
+    "s-mvhxtpzbc69o"
+   ],
+   "poznamka": "Tohle je hlavní a nejzákladnější povinnost. Tedy nejen faktický výkon spisové služby v elektronické podobě, ale především ESSL v souladu a to pokud možno potvrzeném atestem. Ale pozor, i mimo potvrzení atestem musí být ESSL vždy v souladu a to nejen se zmíněnou konkrétní legislativou, ale s právními předpisy celkově.",
+   "vytvoreno": "2026-10-21T09:56:41.543Z",
+   "upraveno": "2026-10-21T09:56:41.543Z"
+  },
+  {
+   "id": "v-mvi32tes492n",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_14/odst_8",
+   "citace": "§ 14 odst. 8",
+   "zneni": "2025-11-01",
+   "text": "(8) Poskytování digitálních služeb je společným cílem všech orgánů veřejné moci, směřujícím k zajišťování veřejných potřeb.",
+   "nazev": "",
+   "skupiny": [
+    "s-mvi32tes9fqw"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-10-21T12:23:43.972Z",
+   "upraveno": "2026-10-21T12:23:43.972Z"
+  }
+ ],
  "skupinyKomentaru": [
   {
    "id": "sk-mvi2alz38wrl",
@@ -279,7 +381,121 @@
    "popis": ""
   }
  ],
- "komentare": [],
+ "komentare": [
+  {
+   "id": "k-mvi2alz3cvvz",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_1/pism_d",
+   "citace": "§ 4 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "textUst": "(1) Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím\n  d) informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
+   "text": "Tím se myslí třeba portály, federované portály, frontend agendových informačních systémů určený pro klienty, ale i mobilní aplikace sloužící jako část ISVS pro klientské úkony a činnosti.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:01:47.967Z",
+   "upraveno": "2026-10-21T12:01:47.967Z"
+  },
+  {
+   "id": "k-mvi2lxfdyo0k",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_1/pism_d",
+   "citace": "§ 4 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "textUst": "(1) Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím\n  d) informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
+   "text": "Pro celý předpis platí, že portál rovná se informační systém veřejné správy podle tohoto ustanovení. Portál musí splňovat a přes portál či aplikaci se to realizuje dle tohoto písmene jako jedna z cest.",
+   "skupiny": [
+    "sk-mvi2lxfdt078"
+   ],
+   "vytvoreno": "2026-10-21T12:10:36.025Z",
+   "upraveno": "2026-10-21T12:10:36.025Z"
+  },
+  {
+   "id": "k-mvi2tk1thoak",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_2a",
+   "citace": "§ 2a",
+   "zneni": "2025-11-01",
+   "textUst": "§ 2a Digitální a informační agentura\n  (1) Zřizuje se Digitální a informační agentura (dále jen „Agentura“) se sídlem v Praze.\n  (2) Agentura je ústředním správním úřadem pro elektronickou identifikaci a služby vytvářející důvěru a pro informační systémy veřejné správy.\n  (3) Agentura\n    a) plní koordinační úlohu v oblasti digitálních služeb a digitálních úkonů podle tohoto zákona,\n    b) plní koordinační úlohu pro informační technologie,\n    c) plní koordinační úlohu v oblasti evidence a sdílení dat,\n    d) zajišťuje systém podpory centrálních způsobů komunikace veřejné správy,\n    e) zajišťuje odborný rozvoj, školení, sdílení znalostí, osvětu a vzdělávání v oblasti své působnosti,\n    f) provozuje kompetenční centra.\n  (4) V čele Agentury je ředitel, kterého jmenuje a odvolává vláda na návrh člena vlády stojícího v čele Rady vlády pro informační společnost. Ředitel se považuje za služební orgán podle zákona o státní službě.\n  (5) Ředitel Agentury je oprávněn dávat státnímu zaměstnanci zařazenému k výkonu státní služby v Agentuře příkazy k výkonu státní služby podle zákona o státní službě.",
+   "text": "Tohle celé ustanovení nesouvisí s poskytováním digitálních služeb a je v zákoně vloženo jako věcně nekoncepční. Pro oblast EG a služeb ho tedy ignoruj, věcně ho pokud budeš potřebovat vědět vše o DIA přidruž k zákonu 365/2000.",
+   "skupiny": [
+    "sk-mvi2lxfdt078"
+   ],
+   "vytvoreno": "2026-10-21T12:16:31.937Z",
+   "upraveno": "2026-10-21T12:16:31.937Z"
+  },
+  {
+   "id": "k-mvi2ykzge9vq",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_14/odst_3",
+   "citace": "§ 14 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "(3) Územní samosprávný celek při výkonu samostatné působnosti má právo, nikoli povinnost poskytovat digitální služby podle tohoto zákona.",
+   "text": "Ale pozor, je důležité si toto ustanovení přečíst pečlivě. Jde výhradně o digitální služby podle tohoto zákona (tedy o žádnou jinou jinak závaznou formu digitální komunikace a poskytování služeb) a výhradně pro služby výkonu samosprávy respektive v samostatné působnosti. Všechna ostatní ustanovení tohoto zákona se i na ně vztahují v plném rozsahu, stejně jako všechna ostatní ustanovení dalších EG zákonů.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:20:26.428Z",
+   "upraveno": "2026-10-21T12:20:26.428Z"
+  },
+  {
+   "id": "k-mvi30hck6fq0",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_14/odst_3",
+   "citace": "§ 14 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "(3) Územní samosprávný celek při výkonu samostatné působnosti má právo, nikoli povinnost poskytovat digitální služby podle tohoto zákona.",
+   "text": "Tohle věcně ignoruj, respektive jediné kde si výjimku uplatíš je samotná povinnost podle § 3 a 4, ostatní se plně vztahují a celý rozsah se plně vztahuje na činnosti a úkony v přenesené působnosti.",
+   "skupiny": [
+    "sk-mvi2lxfdt078"
+   ],
+   "vytvoreno": "2026-10-21T12:21:55.028Z",
+   "upraveno": "2026-10-21T12:21:55.028Z"
+  },
+  {
+   "id": "k-mvi353c460af",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_14/odst_8",
+   "citace": "§ 14 odst. 8",
+   "zneni": "2025-11-01",
+   "textUst": "(8) Poskytování digitálních služeb je společným cílem všech orgánů veřejné moci, směřujícím k zajišťování veřejných potřeb.",
+   "text": "Tohle není jen prázdná proklamace. Každý, kdo by takový cíl konkrétně porušoval, může být postihován dle jiných právních předpisů a to i zcela konkrétně například v rámci zákona o ISVS apod. Zcela zásadní je splnění této obecné povinnosti i při obecněji zaměřených kontrolách kontrolních orgánů a NKÚ.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:25:30.148Z",
+   "upraveno": "2026-10-21T12:25:30.148Z"
+  },
+  {
+   "id": "k-mvi3b19nim2t",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_6",
+   "citace": "§ 6",
+   "zneni": "2025-11-01",
+   "textUst": "§ 6 Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu\n  (1) Stanoví-li právní předpis požadavek úředního ověření vlastnoručního podpisu nebo uznávaného elektronického podpisu, považuje se za splněný využitím elektronického podpisu na dokumentu nedílně spojeném\n    a) s kvalifikovaným elektronickým podpisem osoby oprávněné provádět ověřování pravosti podpisu, která postupem podle jiného právního předpisu8) ověřila, že podepisující dokument před ní podepsal nebo uznal podpis za vlastní, a kvalifikovaným elektronickým časovým razítkem, nebo\n    b) se záznamem informačního systému veřejné správy opatřeným kvalifikovanou elektronickou pečetí a kvalifikovaným elektronickým časovým razítkem jeho správce o provedení elektronické identifikace podepisujícího prostřednictvím kvalifikovaného systému elektronické identifikace s úrovní záruky vysoká.\n  (2) Stanoví-li právní předpis požadavek úředního ověření podpisu, považuje se za splněný využitím uznávaného elektronického podpisu, pokud lze s využitím údajů základního registru obyvatel (dále jen „registr obyvatel“) nebo portálu veřejné správy ověřit, že kvalifikovaný certifikát pro elektronický podpis, na jehož základě podepisující vytvořil uznávaný elektronický podpis na dokumentu, patří podepisujícímu.\n  (3) Ustanovení § 6 odst. 1 písm. b) a § 6 odst. 2 se nepoužijí pro plnou moc k právnímu jednání podle § 441 odst. 2 poslední věty občanského zákoníku.",
+   "text": "Nezapomínat ani na ustanovení § 8 Zákon č. 365/2000 Sb., o informačních systémech veřejné správy, které toto obecné ustanovení doplňuje o konkrétní technicko-právní realizaci v rámci ISVS.",
+   "skupiny": [
+    "sk-mvi2alz38wrl",
+    "sk-mvi2lxfdt078"
+   ],
+   "vytvoreno": "2026-10-21T12:30:07.403Z",
+   "upraveno": "2026-10-21T12:30:07.403Z"
+  },
+  {
+   "id": "k-mvi3dgpzeb6d",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_6/odst_3",
+   "citace": "§ 6 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "(3) Ustanovení § 6 odst. 1 písm. b) a § 6 odst. 2 se nepoužijí pro plnou moc k právnímu jednání podle § 441 odst. 2 poslední věty občanského zákoníku.",
+   "text": "Pozor, zajímavá je souvislost s využitím údajů z Registru zastupování a to i ve formě zavedení údajů o zmocnění a oprávnění plynoucích z plné moci.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:32:00.743Z",
+   "upraveno": "2026-10-21T12:32:00.743Z"
+  }
+ ],
  "stitky": [
   {
    "id": "t-mvhxlvdnt9wr",
@@ -297,5 +513,29 @@
    "popis": ""
   }
  ],
- "stitkyUstanoveni": []
+ "stitkyUstanoveni": [
+  {
+   "predpis": "2004/499",
+   "klic": "norma/cast_1/hlava_3/par_63/odst_3",
+   "citace": "§ 63 odst. 3",
+   "zneni": "2025-01-01",
+   "textUst": "(3) Veřejnoprávní původci vykonávají spisovou službu v elektronické podobě v elektronických systémech spisové služby; vyžaduje-li to zvláštní povaha jejich působnosti, mohou vykonávat spisovou službu v listinné podobě nebo v elektronických systémech spisové služby odpovídajících požadavkům podle odstavce 4. Veřejnoprávní původci mohou využívat pouze elektronické systémy spisové služby, které splňují požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu a u kterých je splnění těchto požadavků potvrzeno atestem. Ustanovení věty druhé se, pokud jde o potvrzování splnění požadavků atestem, nepoužije na elektronický systém spisové služby, který je součástí informačního systému pro nakládání s utajovanými informacemi34), a elektronický systém spisové služby využívaný obcemi neuvedenými v odstavci 1, školami, organizačními složkami obcí neuvedených v odstavci 1 a právnickými osobami zřízenými nebo založenými obcemi neuvedenými v odstavci 1.",
+   "stitky": [
+    "t-mvhxlvdnt9wr",
+    "t-mvhxurfpbqno"
+   ],
+   "upraveno": "2026-10-21T12:42:40.273Z"
+  },
+  {
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_1/pism_d",
+   "citace": "§ 4 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "textUst": "(1) Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím\n  d) informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
+   "stitky": [
+    "t-mvi27i0vidi6"
+   ],
+   "upraveno": "2026-10-21T12:42:40.273Z"
+  }
+ ]
 }
