@@ -73,6 +73,23 @@
                 "Povinné zřizování a využívání datových schránek orgány veřejné moci a právnickými osobami a některými dalšími subjekty",
                 "Povinná komunikace od orgánů veřejné moci a orgánů veřejné moci mezi sebou, dobrovolná zaručená komunikace od klientů vůči OVM a poštovní datové zprávy jako zaručená komunikace mezi soukromoprávními držiteli datových schránek"
               ]
+            },
+            {
+              "id": "mvhwxv9rrbliy",
+              "name": "Legislativní knihovna EGdílny",
+              "url": "[Legislativní knihovna EGdílny](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg)",
+              "desc": "Veřejná knihovna legislativy k eGovernmentu a ISVS s vazbami a vysvětlivkami",
+              "tags": [
+                "EGdílna",
+                "EGOVedu",
+                "Nástroje",
+                "naše práce",
+                "Pro architekty",
+                "pro lektory",
+                "Pro manažery",
+                "Předpisy",
+                "znalosti"
+              ]
             }
           ]
         }
