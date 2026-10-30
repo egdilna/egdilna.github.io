@@ -30,8 +30,51 @@
           "file": "informacni-systemy.md",
           "tags": [
             "Oblast",
-            "Sekce"
-          ]
+            "Sekce",
+            "isvs a ais"
+          ],
+          "children": [
+            {
+              "id": "aplikacni-sluzby-typizovaneho-ais-pro-ppdf",
+              "title": "Aplikační služby typizovaného AIS pro PPDF",
+              "file": "aplikacni-sluzby-typizovaneho-ais-pro-ppdf.md",
+              "perex": "Jaké služby na aplikační úrovni by měl mít takový typický AIS?",
+              "tags": [
+                "isvs a ais",
+                "typizovaný ais",
+                "architektonické znalosti"
+              ]
+            },
+            {
+              "id": "centralni-spolecne-systemy-v-uradu",
+              "title": "Centrální společné systémy v úřadu",
+              "file": "centralni-spolecne-systemy-uradu.md",
+              "tags": [
+                "architektonické znalosti",
+                "isvs a ais"
+              ]
+            },
+            {
+              "id": "dalsi-legislativa-dulezita-pro-spisovou-sluzbu",
+              "title": "Další legislativa důležitá pro spisovou službu",
+              "file": "dalsi-legislativa-dulezita-pro-spisovku.md",
+              "tags": [
+                "spisová služba",
+                "legislativa"
+              ]
+            },
+            {
+              "id": "typizovane-integrace-ais",
+              "title": "Typizované integrace AIS",
+              "file": "typizovane-integrace-ais.md",
+              "tags": [
+                "typizovaný ais",
+                "isvs a ais",
+                "architektonické znalosti"
+              ]
+            }
+          ],
+          "type": "rozcestnik"
         }
       ]
     },
