@@ -1,1 +1,0 @@
-https://nastroje.egdilna.cz
