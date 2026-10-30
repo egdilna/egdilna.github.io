@@ -75,6 +75,27 @@
             }
           ],
           "type": "rozcestnik"
+        },
+        {
+          "id": "oblast-dokumenty-a-spisova-sluzba",
+          "title": "Dokumenty a spisová služba",
+          "file": "dokumenty-a-spisova-sluzba.md",
+          "children": [
+            {
+              "id": "procesy-spisove-sluzby",
+              "title": "Procesy spisové služby",
+              "file": "procesy-spisove-sluzby.md",
+              "tags": [
+                "spisová služba"
+              ]
+            }
+          ],
+          "tags": [
+            "dopsat",
+            "Oblast",
+            "rozpracované",
+            "spisová služba"
+          ]
         }
       ]
     },
@@ -179,6 +200,26 @@
           "hidden": true
         },
         {
+          "id": "kdo-jsme",
+          "title": "Kdo jsme",
+          "file": "kdo-jsme.md",
+          "type": "informace",
+          "tags": [
+            "Redakce",
+            "O EGdílně"
+          ]
+        },
+        {
+          "id": "jak-fungujeme",
+          "title": "Jak fungujeme",
+          "file": "jak-fungujeme.md",
+          "type": "informace",
+          "tags": [
+            "Redakce",
+            "O EGdílně"
+          ]
+        },
+        {
           "id": "redakce-neco-tady-chybi",
           "title": "Něco tady chybí?",
           "file": "redakce-neco-tady-chybi.md",
@@ -188,6 +229,16 @@
             "Tvorba obsahu"
           ],
           "perex": "Stále to tady není dokonalé. Ale pokud tady něco chybí, dejte nám vědět."
+        },
+        {
+          "id": "zapojte-se",
+          "title": "Zapojte se",
+          "file": "zapojte-se.md",
+          "type": "informace",
+          "tags": [
+            "Redakce"
+          ],
+          "perex": "Chcete se přidat?"
         }
       ]
     }
