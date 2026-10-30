@@ -1,0 +1,11 @@
+{
+  "pages": [
+    {
+      "id": "uvod",
+      "title": "Úvod",
+      "emoji": "🏠",
+      "file": "stranky/uvod.md",
+      "type": "uvod"
+    }
+  ]
+}
