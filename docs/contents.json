@@ -396,6 +396,24 @@
           "draft": true,
           "sort_children": true,
           "hide_children": true
+        },
+        {
+          "id": "cil-mifrace-a-doplneni-obsahu",
+          "title": "Cíl Mifrace a doplnění obsahu",
+          "file": "redakce-cil-migrace-a-doplneni-obsahu.md",
+          "managed": true
+        },
+        {
+          "id": "co-a-kde-tady-najdete",
+          "title": "Co a kde tady najdete",
+          "file": "co-a-kde-tady-najdete.md",
+          "type": "informace",
+          "tags": [
+            "aktuálně",
+            "Redakce"
+          ],
+          "perex": "Stručně co je kde na webu...",
+          "draft": true
         }
       ]
     }
