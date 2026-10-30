@@ -21,13 +21,47 @@
       "tags": [
         "rozpracované",
         "dopsat"
-      ]
+      ],
+      "draft": true
     },
     {
       "id": "metodiky",
       "title": "Metodiky",
       "file": "metodiky.md",
-      "type": "sekce"
+      "type": "sekce",
+      "draft": true
+    },
+    {
+      "id": "redakce",
+      "title": "Redakce",
+      "file": "redakce.md",
+      "children": [
+        {
+          "id": "include",
+          "title": "include",
+          "children": [
+            {
+              "id": "include-delamenatom",
+              "title": "include-delamenatom",
+              "file": "include-delamenatom.md",
+              "type": "systemova-stranka"
+            }
+          ],
+          "type": "rozcestnik",
+          "hidden": true
+        },
+        {
+          "id": "redakce-neco-tady-chybi",
+          "title": "Něco tady chybí?",
+          "file": "redakce-neco-tady-chybi.md",
+          "type": "informace",
+          "tags": [
+            "Redakce",
+            "Tvorba obsahu"
+          ],
+          "perex": "Stále to tady není dokonalé. Ale pokud tady něco chybí, dejte nám vědět."
+        }
+      ]
     }
   ]
 }

@@ -79,6 +79,14 @@
       "emoji": "📄",
       "layout": "rozcestnik",
       "show_label": true
+    },
+    "systemova-stranka": {
+      "label": "systémová stránka",
+      "emoji": "",
+      "layout": "stranka",
+      "show_label": true,
+      "toc": false,
+      "pager": false
     }
   },
   "github": {
