@@ -99,7 +99,23 @@
               "id": "ucebni-texty",
               "title": "Učební texty",
               "file": "ucebni-texty.md",
-              "type": "rozcestnik"
+              "type": "rozcestnik",
+              "children": [
+                {
+                  "id": "ucebni-text-pyramida-eg-vseho-duleziteho",
+                  "title": "Učební text Pyramida EG všeho důležitého",
+                  "file": "ucebni-text-pyramida-eg-vseho.md",
+                  "tags": [
+                    "Edukace",
+                    "egovedu",
+                    "učební texty",
+                    "dokument",
+                    "Naše práce",
+                    "Chlubit se tím"
+                  ],
+                  "type": "dokument"
+                }
+              ]
             }
           ],
           "type": "rozcestnik"
