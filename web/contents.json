@@ -11,6 +11,12 @@
       "title": "Znalosti EyG",
       "file": "znalosti-eyg.md",
       "type": "sekce"
+    },
+    {
+      "id": "metodiky",
+      "title": "Metodiky",
+      "file": "metodiky.md",
+      "type": "sekce"
     }
   ]
 }

@@ -77,7 +77,8 @@
     "sekce": {
       "label": "Sekce",
       "emoji": "📄",
-      "layout": "rozcestnik"
+      "layout": "rozcestnik",
+      "show_label": true
     }
   },
   "github": {
