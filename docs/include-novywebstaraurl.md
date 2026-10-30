@@ -1,0 +1,1 @@
+⚠️ Budujeme nový web na www.egdilna.cz a to už lépe, než jen URL forwarding na původní wiki farmu na egdwiki.info. To ale znamená, že některá původní URL nemusí fungovat. Ale tady funguje většinou to, že původní URL systém i tak najde a je v metadatech nového wiki nástroje. Doufejme.
