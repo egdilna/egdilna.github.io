@@ -22,11 +22,16 @@
       "url": "https://egdwiki.info/egdilna:start"
     }
   ],
-  "footer_links": [],
+  "footer_links": [
+    {
+      "label": "Něco nahlásit",
+      "url": "https://github.com/egdilna/egdilna.github.io/issues/new"
+    }
+  ],
   "copyright": {
-    "name": "",
-    "url": "",
-    "year": 2026
+    "name": "EGdílna",
+    "url": "https://www.egdilna.cz",
+    "year": "2017-2026"
   },
   "sidebar": [
     "hledani",
