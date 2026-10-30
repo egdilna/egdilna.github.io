@@ -1,11 +1,16 @@
 {
   "pages": [
     {
-      "id": "uvod",
-      "title": "Úvod",
-      "emoji": "🏠",
-      "file": "stranky/uvod.md",
+      "id": "index",
+      "title": "HomePage",
+      "file": "homepage.md",
       "type": "uvod"
+    },
+    {
+      "id": "znalosti-eyg",
+      "title": "Znalosti EyG",
+      "file": "znalosti-eyg.md",
+      "type": "sekce"
     }
   ]
 }

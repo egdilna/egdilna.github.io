@@ -27,13 +27,59 @@
     "komentare"
   ],
   "folders": {
-    "pages": "stranky",
-    "media": "obrazky"
+    "pages": "",
+    "media": ""
   },
   "sidebar_file": "sidebar.md",
   "pager": true,
   "expand_sections": true,
   "edit_link": false,
+  "page_types": {
+    "stranka": {
+      "emoji": "",
+      "show_label": true,
+      "pager": false,
+      "actions": [
+        "kopirovat-adresu",
+        "kopirovat-odkaz-md",
+        "kopirovat-md",
+        "kopirovat-text",
+        "stahnout-md",
+        "stahnout-word",
+        "github",
+        "upravit",
+        "tisk"
+      ]
+    },
+    "uvod": {
+      "show_label": true,
+      "actions": [
+        "kopirovat-odkaz-md"
+      ]
+    },
+    "informace": {
+      "label": "Informace",
+      "emoji": "",
+      "layout": "stranka",
+      "show_label": true,
+      "toc": false,
+      "actions": [
+        "kopirovat-adresu",
+        "kopirovat-odkaz-md",
+        "kopirovat-md",
+        "kopirovat-text",
+        "stahnout-md",
+        "stahnout-word",
+        "tisk"
+      ],
+      "backlinks": true
+    },
+    "sekce": {
+      "label": "Sekce",
+      "emoji": "📄",
+      "layout": "rozcestnik"
+    }
+  },
   "github": {
     "repo": "egdilna/egdilna.github.io",
     "branch": "main",
