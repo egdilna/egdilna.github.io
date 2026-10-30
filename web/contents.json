@@ -45,6 +45,12 @@
               "title": "include-delamenatom",
               "file": "include-delamenatom.md",
               "type": "systemova-stranka"
+            },
+            {
+              "id": "include-novywebstaraurl",
+              "title": "include-novywebstaraurl",
+              "file": "include-novywebstaraurl.md",
+              "type": "systemova-stranka"
             }
           ],
           "type": "rozcestnik",
