@@ -25,6 +25,57 @@
       "draft": true,
       "children": [
         {
+          "id": "zakladni-pilire-eg",
+          "title": "Základní pilíře EG",
+          "file": "zakladni-pilire-eg.md",
+          "children": [
+            {
+              "id": "agendy-verejne-spravy",
+              "title": "Agendy veřejné správy",
+              "file": "agendy-verejne-spravy.md",
+              "aliases": [
+                "agendy"
+              ],
+              "tags": [
+                "architektonické znalosti",
+                "klíčové pojmy"
+              ],
+              "perex": "Co jsou to agendy, co řeší a kde je najdete?"
+            }
+          ],
+          "type": "rozcestnik",
+          "aliases": [
+            "základní koncepty EG"
+          ],
+          "tags": [
+            "architektonické znalosti",
+            "dopsat",
+            "Edukace",
+            "Oblast"
+          ]
+        },
+        {
+          "id": "oblast-dokumenty-a-spisova-sluzba",
+          "title": "Dokumenty a spisová služba",
+          "file": "dokumenty-a-spisova-sluzba.md",
+          "children": [
+            {
+              "id": "procesy-spisove-sluzby",
+              "title": "Procesy spisové služby",
+              "file": "procesy-spisove-sluzby.md",
+              "tags": [
+                "spisová služba"
+              ]
+            }
+          ],
+          "tags": [
+            "dopsat",
+            "Oblast",
+            "rozpracované",
+            "spisová služba"
+          ]
+        },
+        {
           "id": "oblast-informacni-systemy",
           "title": "Informační systémy",
           "file": "informacni-systemy.md",
@@ -72,43 +123,65 @@
                 "isvs a ais",
                 "architektonické znalosti"
               ]
+            },
+            {
+              "id": "agendovy-informacni-system",
+              "title": "Agendový informační systém",
+              "file": "agendovy-informacni-system.md",
+              "aliases": [
+                "ais",
+                "agendové informační systémy"
+              ],
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy"
+              ]
+            },
+            {
+              "id": "pozadavky-ramce-genericky-ais-seznam",
+              "title": "Seznam požadavků závazného architektonického rámce pro Generický AIS",
+              "file": "pozadavky-ramce-genericky-ais-seznam.md",
+              "tags": [
+                "rámec pro AIS",
+                "typizovaný ais",
+                "architektonické znalosti"
+              ]
+            },
+            {
+              "id": "pozadavky-ramce-genericky-ais-uplne",
+              "title": "Požadavky závazného architektonického rámce Generický AIS",
+              "file": "pozadavky-ramce-genericky-ais-uplne.md",
+              "tags": [
+                "typizovaný ais",
+                "rámec pro AIS",
+                "dokument",
+                "architektonické znalosti"
+              ]
             }
           ],
           "type": "rozcestnik"
         },
         {
-          "id": "oblast-dokumenty-a-spisova-sluzba",
-          "title": "Dokumenty a spisová služba",
-          "file": "dokumenty-a-spisova-sluzba.md",
+          "id": "oblast-data-a-udaje",
+          "title": "Data a údaje",
+          "file": "data-a-udaje.md",
           "children": [
             {
-              "id": "procesy-spisove-sluzby",
-              "title": "Procesy spisové služby",
-              "file": "procesy-spisove-sluzby.md",
+              "id": "agendovy-identifikator-fyzicke-osoby",
+              "title": "Agendový identifikátor fyzické osoby",
+              "file": "agendovy-identifikator-fyzicke-osoby.md",
+              "aliases": [
+                "AIFO"
+              ],
               "tags": [
-                "spisová služba"
-              ]
+                "klíčové pojmy"
+              ],
+              "perex": "Jedinečný identifikátor fyzické osoby v jedné agendě"
             }
           ],
-          "tags": [
-            "dopsat",
-            "Oblast",
-            "rozpracované",
-            "spisová služba"
-          ]
-        },
-        {
-          "id": "zakladni-pilire-eg",
-          "title": "Základní pilíře EG",
-          "file": "zakladni-pilire-eg.md",
           "type": "rozcestnik",
-          "aliases": [
-            "základní koncepty EG"
-          ],
           "tags": [
-            "architektonické znalosti",
             "dopsat",
-            "Edukace",
             "Oblast"
           ]
         }

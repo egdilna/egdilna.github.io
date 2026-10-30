@@ -1,4 +1,5 @@
 Od 1. dubna 2026 a pak v aktualizaci od 20. července 2026 vydalo OHA závazný architektonický rámec pro generický AIS. Z něj jsou derivovány následující konkrétní požadavky, jak má AIS fungovat a co má jeho správce dělat a zajistit:
+ℹ️ Souhrn třeba i do vaší dokumentace poskytuje třeba [[Seznam požadavků závazného architektonického rámce pro Generický AIS]]
 
 
 **Kontrolní checklist pro OVM – Generický AIS (v4)**
