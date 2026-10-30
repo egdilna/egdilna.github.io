@@ -3,11 +3,23 @@
   "tagline": "",
   "language": "cs",
   "color": "indigo",
-  "home": "uvod",
+  "home": "index",
   "menu_links": [
     {
+      "label": "Homepage",
+      "page": "index"
+    },
+    {
+      "label": "Články",
+      "page": "clanky"
+    },
+    {
+      "label": "nastroje.egdilna",
+      "url": "https://nastroje.egdilna.cz"
+    },
+    {
       "label": "EGDwiki",
-      "url": "https://egdwiki.info/egdilna"
+      "url": "https://egdwiki.info/egdilna:start"
     }
   ],
   "footer_links": [],
@@ -89,6 +101,7 @@
       "pager": false
     }
   },
+  "url": "https://www.egdilna.cz",
   "github": {
     "repo": "egdilna/egdilna.github.io",
     "branch": "main",
