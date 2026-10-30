@@ -358,11 +358,19 @@
               "id": "zvykove-pravo",
               "title": "Zvykové právo",
               "file": "zvykove-pravo.md"
+            },
+            {
+              "id": "testovaci-a-vzorove-identity-a-data-ze-zakladnich-registru",
+              "title": "Testovací a vzorové identity a data ze základních registrů",
+              "file": "sanony-testovaci-identity-zr.md",
+              "managed": true
             }
           ],
           "type": "rozcestnik",
           "hidden": true,
-          "draft": true
+          "draft": true,
+          "sort_children": true,
+          "hide_children": true
         }
       ]
     }
