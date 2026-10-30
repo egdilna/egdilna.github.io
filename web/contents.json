@@ -56,19 +56,6 @@
               "id": "ucebni-texty",
               "title": "Učební texty",
               "file": "ucebni-texty.md",
-              "children": [
-                {
-                  "id": "ucebni-text-pyramida-eg-vseho",
-                  "title": "Učební text Pyramida EG všeho",
-                  "file": "ucebni-text-pyramida-eg-vseho.md",
-                  "repo": "egdilna/wiki",
-                  "tags": [
-                    "egovedu",
-                    "učební text",
-                    "výuka eg"
-                  ]
-                }
-              ],
               "type": "rozcestnik"
             }
           ],
