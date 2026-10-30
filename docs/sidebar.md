@@ -1,2 +1,3 @@
-{{include-delamenatom}}
-
+- [Nástroje EGdílny](https://nastroje.egdilna.cz)
+- [Legislativní knihovna EGdílny](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg)
+- [Šanony EGdílny](https://nastroje.egdilna.cz/sanony/?a=eyJyIjoiZWdkaWxuYS9lZ2RpbG5hLmdpdGh1Yi5pbyIsImYiOiJlZ2RpbG5hLXNhbm9ueS12ZXJlam5lIn0)
