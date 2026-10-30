@@ -83,6 +83,15 @@
               "tags": [
                 "spisová služba"
               ]
+            },
+            {
+              "id": "dalsi-legislativa-dulezita-pro-spisovou-sluzbu",
+              "title": "Další legislativa důležitá pro spisovou službu",
+              "file": "dalsi-legislativa-dulezita-pro-spisovku.md",
+              "tags": [
+                "spisová služba",
+                "legislativa"
+              ]
             }
           ],
           "tags": [
@@ -90,7 +99,9 @@
             "Oblast",
             "rozpracované",
             "spisová služba"
-          ]
+          ],
+          "hide_children": true,
+          "sort_children": true
         },
         {
           "id": "oblast-informacni-systemy",
@@ -123,15 +134,6 @@
                 "isvs a ais"
               ],
               "managed": true
-            },
-            {
-              "id": "dalsi-legislativa-dulezita-pro-spisovou-sluzbu",
-              "title": "Další legislativa důležitá pro spisovou službu",
-              "file": "dalsi-legislativa-dulezita-pro-spisovku.md",
-              "tags": [
-                "spisová služba",
-                "legislativa"
-              ]
             },
             {
               "id": "typizovane-integrace-ais",
@@ -176,6 +178,29 @@
                 "rámec pro AIS",
                 "dokument",
                 "architektonické znalosti"
+              ]
+            },
+            {
+              "id": "detailni-rozpad-prvnich-fazi-zivotniho-cyklu-is-ict-reseni",
+              "title": "Detailní rozpad prvních fází životního cyklu IS/ICT řešení",
+              "file": "detailni-rozpad-prvnich-fazi-zivotniho-cyklu-is-ict.md",
+              "managed": true,
+              "tags": [
+                "Řízení a rozvoj IS",
+                "rámec pro AIS",
+                "isvs a ais",
+                "architektonické znalosti"
+              ]
+            },
+            {
+              "id": "faze-zivotniho-cyklu-is-ict-reseni-podle-dlouhodobeho-rizeni",
+              "title": "Fáze životního cyklu IS/ICT řešení podle dlouhodobého řízení",
+              "file": "faze-zivotniho-cyklu-is-ict.md",
+              "managed": true,
+              "tags": [
+                "Řízení a rozvoj IS",
+                "rámec pro AIS",
+                "isvs a ais"
               ]
             }
           ],
