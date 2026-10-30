@@ -1,1 +1,0 @@
-Pokud tady něco chybí a nebo něco nefunguje správně, [dejte nám vědět](https://github.com/egdilna/egdilna.github.io/issues/new)
