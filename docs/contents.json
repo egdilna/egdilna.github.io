@@ -72,36 +72,29 @@
           "sort_children": true
         },
         {
-          "id": "oblast-dokumenty-a-spisova-sluzba",
-          "title": "Dokumenty a spisová služba",
-          "file": "dokumenty-a-spisova-sluzba.md",
+          "id": "legislativa-eg",
+          "title": "Legislativa EG",
+          "file": "legislativa-eg.md",
           "children": [
             {
-              "id": "procesy-spisove-sluzby",
-              "title": "Procesy spisové služby",
-              "file": "procesy-spisove-sluzby.md",
+              "id": "klicove-eg-zakony",
+              "title": "Klíčové EG zákony",
+              "file": "klicove-eg-zakony.md",
               "tags": [
-                "spisová služba"
-              ]
-            },
-            {
-              "id": "dalsi-legislativa-dulezita-pro-spisovou-sluzbu",
-              "title": "Další legislativa důležitá pro spisovou službu",
-              "file": "dalsi-legislativa-dulezita-pro-spisovku.md",
-              "tags": [
-                "spisová služba",
-                "legislativa"
+                ".export z leg knihovny egdílny",
+                "legislativa",
+                "Naše práce"
+              ],
+              "perex": "Přehled těch nejdůležitějších digitálních zákon§zákonů",
+              "aliases": [
+                "digitální zákony",
+                "eg zákony",
+                "zákony eg"
               ]
             }
           ],
-          "tags": [
-            "dopsat",
-            "Oblast",
-            "rozpracované",
-            "spisová služba"
-          ],
-          "hide_children": true,
-          "sort_children": true
+          "draft": true,
+          "type": "rozcestnik"
         },
         {
           "id": "oblast-informacni-systemy",
@@ -166,7 +159,8 @@
               "tags": [
                 "rámec pro AIS",
                 "typizovaný ais",
-                "architektonické znalosti"
+                "architektonické znalosti",
+                ".rámec generický ais"
               ]
             },
             {
@@ -177,7 +171,8 @@
                 "typizovaný ais",
                 "rámec pro AIS",
                 "dokument",
-                "architektonické znalosti"
+                "architektonické znalosti",
+                ".rámec generický ais"
               ]
             },
             {
@@ -205,6 +200,38 @@
             }
           ],
           "type": "rozcestnik",
+          "hide_children": true,
+          "sort_children": true
+        },
+        {
+          "id": "oblast-dokumenty-a-spisova-sluzba",
+          "title": "Dokumenty a spisová služba",
+          "file": "dokumenty-a-spisova-sluzba.md",
+          "children": [
+            {
+              "id": "procesy-spisove-sluzby",
+              "title": "Procesy spisové služby",
+              "file": "procesy-spisove-sluzby.md",
+              "tags": [
+                "spisová služba"
+              ]
+            },
+            {
+              "id": "dalsi-legislativa-dulezita-pro-spisovou-sluzbu",
+              "title": "Další legislativa důležitá pro spisovou službu",
+              "file": "dalsi-legislativa-dulezita-pro-spisovku.md",
+              "tags": [
+                "spisová služba",
+                "legislativa"
+              ]
+            }
+          ],
+          "tags": [
+            "dopsat",
+            "Oblast",
+            "rozpracované",
+            "spisová služba"
+          ],
           "hide_children": true,
           "sort_children": true
         },
@@ -301,6 +328,20 @@
             "Chlubit se tím"
           ],
           "perex": "Mrkněte na speciální web s více jak 30 opensource nástrojů z naší dílny. Od jednoduchých miniaplikací až po komplexní nástroje a platformy pro architekturu a správu čehokoliv. A vše je webové, otevřené a přístupné."
+        },
+        {
+          "id": "legislativni-knihovna-egdilny",
+          "title": "Legislativní knihovna EGdílny",
+          "file": "legislativni-knihovna-egdilny.md",
+          "type": "informace",
+          "tags": [
+            "Edukace",
+            "Chlubit se tím",
+            "legislativa",
+            "nástroje",
+            "Naše práce"
+          ],
+          "perex": "Máme pro vás veřejnou knihovnu legislativy, se štítky a klíčovými ustanoveními, komentáři a pokročilým exportem a propojením dat."
         }
       ],
       "type": "rozcestnik",
