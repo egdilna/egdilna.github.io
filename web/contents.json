@@ -33,18 +33,6 @@
               "id": "aplikacni-sluzby-typizovaneho-ais-pro-ppdf",
               "title": "Aplikační služby typizovaného AIS pro PPDF",
               "file": "aplikacni-sluzby-typizovaneho-ais-pro-ppdf.md",
-              "children": [
-                {
-                  "id": "centralni-spolecne-systemy-uradu",
-                  "title": "Centrální společné systémy v úřadu",
-                  "file": "centralni-spolecne-systemy-uradu.md",
-                  "tags": [
-                    "Architektonické znalosti",
-                    "AIS a ISVS"
-                  ],
-                  "repo": "egdilna/wiki"
-                }
-              ],
               "repo": "egdilna/wiki",
               "tags": [
                 "ISVS a AIS",
@@ -52,6 +40,16 @@
                 "Architektonické znalosti"
               ],
               "perex": "Co jsou ty základní služby systémů pro subjekty a propojený datový fond?"
+            },
+            {
+              "id": "centralni-spolecne-systemy-uradu",
+              "title": "Centrální společné systémy v úřadu",
+              "file": "centralni-spolecne-systemy-uradu.md",
+              "tags": [
+                "Architektonické znalosti",
+                "AIS a ISVS"
+              ],
+              "repo": "egdilna/wiki"
             }
           ],
           "tags": [
@@ -67,6 +65,46 @@
       "file": "metodiky.md",
       "type": "sekce",
       "draft": true
+    },
+    {
+      "id": "egovedu",
+      "title": "eGovEDU",
+      "file": "egovedu.md",
+      "children": [
+        {
+          "id": "edukacni-podklady",
+          "title": "Edukační podklady",
+          "file": "edukacni-podklady.md",
+          "children": [
+            {
+              "id": "ucebni-texty",
+              "title": "Učební texty",
+              "file": "ucebni-texty.md",
+              "children": [
+                {
+                  "id": "ucebni-text-pyramida-eg-vseho",
+                  "title": "Učební text Pyramida EG všeho",
+                  "file": "ucebni-text-pyramida-eg-vseho.md",
+                  "repo": "egdilna/wiki",
+                  "tags": [
+                    "egovedu",
+                    "učební text",
+                    "výuka eg"
+                  ]
+                }
+              ],
+              "type": "rozcestnik"
+            }
+          ],
+          "type": "rozcestnik"
+        }
+      ],
+      "tags": [
+        "Web",
+        "Sekce",
+        "Edukace",
+        "egovedu"
+      ]
     },
     {
       "id": "nastroje",
