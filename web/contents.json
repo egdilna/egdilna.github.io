@@ -7,10 +7,21 @@
       "type": "uvod"
     },
     {
+      "id": "clanky",
+      "title": "Články",
+      "file": "clanky.md",
+      "type": "clanky",
+      "perex": "Naše krátké článečky"
+    },
+    {
       "id": "znalosti-eyg",
-      "title": "Znalosti EyG",
+      "title": "Znalosti EG",
       "file": "znalosti-eyg.md",
-      "type": "sekce"
+      "type": "sekce",
+      "tags": [
+        "rozpracované",
+        "dopsat"
+      ]
     },
     {
       "id": "metodiky",
