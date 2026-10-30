@@ -96,6 +96,21 @@
             "rozpracované",
             "spisová služba"
           ]
+        },
+        {
+          "id": "zakladni-pilire-eg",
+          "title": "Základní pilíře EG",
+          "file": "zakladni-pilire-eg.md",
+          "type": "rozcestnik",
+          "aliases": [
+            "základní koncepty EG"
+          ],
+          "tags": [
+            "architektonické znalosti",
+            "dopsat",
+            "Edukace",
+            "Oblast"
+          ]
         }
       ]
     },
@@ -220,6 +235,16 @@
           ]
         },
         {
+          "id": "zapojte-se",
+          "title": "Zapojte se",
+          "file": "zapojte-se.md",
+          "type": "informace",
+          "tags": [
+            "Redakce"
+          ],
+          "perex": "Chcete se přidat?"
+        },
+        {
           "id": "redakce-neco-tady-chybi",
           "title": "Něco tady chybí?",
           "file": "redakce-neco-tady-chybi.md",
@@ -231,14 +256,18 @@
           "perex": "Stále to tady není dokonalé. Ale pokud tady něco chybí, dejte nám vědět."
         },
         {
-          "id": "zapojte-se",
-          "title": "Zapojte se",
-          "file": "zapojte-se.md",
-          "type": "informace",
-          "tags": [
-            "Redakce"
+          "id": "drafts",
+          "title": "drafts",
+          "children": [
+            {
+              "id": "zvykove-pravo",
+              "title": "Zvykové právo",
+              "file": "zvykove-pravo.md"
+            }
           ],
-          "perex": "Chcete se přidat?"
+          "type": "rozcestnik",
+          "hidden": true,
+          "draft": true
         }
       ]
     }
