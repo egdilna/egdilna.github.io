@@ -28,30 +28,6 @@
           "id": "oblast-informacni-systemy",
           "title": "Informační systémy",
           "file": "informacni-systemy.md",
-          "children": [
-            {
-              "id": "aplikacni-sluzby-typizovaneho-ais-pro-ppdf",
-              "title": "Aplikační služby typizovaného AIS pro PPDF",
-              "file": "aplikacni-sluzby-typizovaneho-ais-pro-ppdf.md",
-              "repo": "egdilna/wiki",
-              "tags": [
-                "ISVS a AIS",
-                "Typizovaný AIS",
-                "Architektonické znalosti"
-              ],
-              "perex": "Co jsou ty základní služby systémů pro subjekty a propojený datový fond?"
-            },
-            {
-              "id": "centralni-spolecne-systemy-uradu",
-              "title": "Centrální společné systémy v úřadu",
-              "file": "centralni-spolecne-systemy-uradu.md",
-              "tags": [
-                "Architektonické znalosti",
-                "AIS a ISVS"
-              ],
-              "repo": "egdilna/wiki"
-            }
-          ],
           "tags": [
             "Oblast",
             "Sekce"
