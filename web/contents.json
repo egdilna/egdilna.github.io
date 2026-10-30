@@ -32,6 +32,31 @@
       "draft": true
     },
     {
+      "id": "nastroje",
+      "title": "Nástroje",
+      "file": "nastroje.md",
+      "children": [
+        {
+          "id": "nastroje-egdilna-cz",
+          "title": "nastroje.egdilna.cz",
+          "file": "nastroje-egdilna-cz.md",
+          "type": "systemova-stranka",
+          "tags": [
+            "Nástroje",
+            "Web",
+            "Naše práce",
+            "Chlubit se tím"
+          ],
+          "perex": "Mrkněte na speciální web s více jak 30 opensource nástrojů z naší dílny. Od jednoduchých miniaplikací až po komplexní nástroje a platformy pro architekturu a správu čehokoliv. A vše je webové, otevřené a přístupné."
+        }
+      ],
+      "type": "rozcestnik",
+      "tags": [
+        "Sekce",
+        "nástroje"
+      ]
+    },
+    {
       "id": "redakce",
       "title": "Redakce",
       "file": "redakce.md",
