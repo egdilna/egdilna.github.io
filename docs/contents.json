@@ -40,7 +40,8 @@
                 "architektonické znalosti",
                 "klíčové pojmy"
               ],
-              "perex": "Co jsou to agendy, co řeší a kde je najdete?"
+              "perex": "Co jsou to agendy, co řeší a kde je najdete?",
+              "managed": true
             },
             {
               "id": "ohlasovatel-agendy",
@@ -53,7 +54,8 @@
               ],
               "tags": [
                 "klíčové pojmy"
-              ]
+              ],
+              "managed": true
             }
           ],
           "type": "rozcestnik",
@@ -65,7 +67,9 @@
             "dopsat",
             "Edukace",
             "Oblast"
-          ]
+          ],
+          "hide_children": true,
+          "sort_children": true
         },
         {
           "id": "oblast-dokumenty-a-spisova-sluzba",
@@ -107,7 +111,8 @@
                 "isvs a ais",
                 "typizovaný ais",
                 "architektonické znalosti"
-              ]
+              ],
+              "managed": true
             },
             {
               "id": "centralni-spolecne-systemy-v-uradu",
@@ -116,7 +121,8 @@
               "tags": [
                 "architektonické znalosti",
                 "isvs a ais"
-              ]
+              ],
+              "managed": true
             },
             {
               "id": "dalsi-legislativa-dulezita-pro-spisovou-sluzbu",
@@ -135,7 +141,8 @@
                 "typizovaný ais",
                 "isvs a ais",
                 "architektonické znalosti"
-              ]
+              ],
+              "managed": true
             },
             {
               "id": "agendovy-informacni-system",
@@ -172,7 +179,9 @@
               ]
             }
           ],
-          "type": "rozcestnik"
+          "type": "rozcestnik",
+          "hide_children": true,
+          "sort_children": true
         },
         {
           "id": "oblast-data-a-udaje",
