@@ -1,1 +1,0 @@
-Nejen pro nadšence a odborníky je k dispozici stran EG a digitalizace ohromné množství nástrojů a aplikací.
