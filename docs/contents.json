@@ -41,6 +41,19 @@
                 "klíčové pojmy"
               ],
               "perex": "Co jsou to agendy, co řeší a kde je najdete?"
+            },
+            {
+              "id": "ohlasovatel-agendy",
+              "title": "Ohlašovatel agendy",
+              "file": "ohlasovatel-agendy.md",
+              "aliases": [
+                "ohlašovatele agendy",
+                "ohlašovatel",
+                "ohlašovatele"
+              ],
+              "tags": [
+                "klíčové pojmy"
+              ]
             }
           ],
           "type": "rozcestnik",
