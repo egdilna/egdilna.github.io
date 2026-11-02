@@ -11,7 +11,8 @@
       "title": "Články",
       "file": "clanky.md",
       "type": "clanky",
-      "perex": "Naše krátké článečky"
+      "perex": "Naše krátké článečky",
+      "articles": true
     },
     {
       "id": "znalosti-eyg",
@@ -56,6 +57,81 @@
                 "klíčové pojmy"
               ],
               "managed": true
+            },
+            {
+              "id": "ais-registru-zastupovani",
+              "title": "AIS Registru zastupování",
+              "file": "ais-reza.md",
+              "aliases": [
+                "ais reza"
+              ],
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "rámec pro AIS"
+              ]
+            },
+            {
+              "id": "ais-vyrozumivaci",
+              "title": "AIS vyrozumívací",
+              "file": "ais-vyrozumivaci.md",
+              "aliases": [
+                "aisv"
+              ],
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "rámec pro AIS",
+                "Řízení a rozvoj IS"
+              ]
+            },
+            {
+              "id": "zodpovednosti-technickeho-spravce",
+              "title": "Zodpovědnosti technického správce",
+              "file": "zodpovednosti-technickeho-spravce.md",
+              "tags": [
+                ".rámec generický ais",
+                "architektonické znalosti",
+                "isvs a ais",
+                "Řízení a rozvoj IS"
+              ]
+            },
+            {
+              "id": "zodpovednosti-vecneho-gestora",
+              "title": "Zodpovědnosti věcného gestora",
+              "file": "zodpovednosti-vecneho-gestora.md",
+              "tags": [
+                "Řízení a rozvoj IS",
+                "isvs a ais",
+                ".rámec generický ais"
+              ]
+            },
+            {
+              "id": "zodpovednosti-vecneho-spravce",
+              "title": "Zodpovědnosti věcného správce",
+              "file": "zodpovednosti-vecneho-spravce.md",
+              "tags": [
+                ".rámec generický ais",
+                "architektonické znalosti",
+                "isvs a ais",
+                "Řízení a rozvoj IS"
+              ]
+            },
+            {
+              "id": "referencni-rozhrani",
+              "title": "Referenční rozhraní",
+              "file": "referencni-rozhrani.md",
+              "aliases": [
+                "rreferenčním rozhraní",
+                "referenčnímu rozhraní"
+              ],
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "rámec pro AIS",
+                "Řízení a rozvoj IS"
+              ],
+              "perex": "Co je to referenční rozhraní a z čeho se skládá a k čemu to vlastně je?"
             }
           ],
           "type": "rozcestnik",

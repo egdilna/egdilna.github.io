@@ -648,8 +648,30 @@ const VLOZENI_RE=/^[ \t]*(?:\{\{([^}|#]+)(?:#([^}|]+))?(?:\|[^}]*)?\}\}|!\[\[([^
 /* Stránka odpovídá slugu názvu nebo kteréhokoli aliasu (contents.json → aliases) */
 const aliasy=u=>Array.isArray(u.aliases)?u.aliases:String(u.aliases||"").split(",").map(a=>a.trim()).filter(Boolean);
 const sedi=(u,s)=>slug(u.title)===s||aliasy(u).some(a=>slug(a)===s);
+/* {{štítek:název}} (také {{tag:…}}) na samostatném řádku: stránky se štítkem (ne články),
+   podle abecedy, s ikonou a perexem. Funguje i pro interní štítky s tečkou. */
+const VYPIS_STITKU_RE=/^[ \t]*\{\{\s*(?:štítek|stitek|tag)\s*:\s*([^}]+?)\s*\}\}[ \t]*$/i;
+function vypisStitku(stitek){
+  const k=stitek.toLowerCase();
+  const st=[...W.stranky.values()].filter(u=>(u.tags||[]).some(t=>t.toLowerCase()===k))
+    .sort((a,b)=>a.title.localeCompare(b.title,W.cfg.language||"cs",{sensitivity:"base",numeric:true}));
+  return st.length?vypisHtml(st):`<p class="tichy">${esc(T.stitekZadny)}</p>`;
+}
+/* Články sekcí článků pro wikiodkazy a vkládání: klíč „sekce/slug-článku“.
+   Sekce označené articles:true (značku zapisuje editor) se načtou při startu, ostatní při prvním zobrazení. */
+function registrovatClanky(u,cl){ cl.clanky.forEach(c=>W.clanky.set(u.id+"/"+c.slug,{u,c})); }
+function najitClanek(cil){
+  cil=String(cil).trim(); if(W.clanky.has(cil)) return W.clanky.get(cil);
+  const i=cil.indexOf("/");
+  if(i>0){ const rod=najitStranku(cil.slice(0,i)); if(rod) return W.clanky.get(rod.id+"/"+slug(cil.slice(i+1)))||null; }
+  const s=slug(cil); for(const x of W.clanky.values()) if(x.c.slug===s) return x;
+  return null;
+}
 function najitStranku(cil){
   cil=String(cil).trim(); if(W.stranky.has(cil)) return W.stranky.get(cil);
+  // „Stránka/Podstránka“ — jednoznačný odkaz na podstránku multisection
+  const i=cil.indexOf("/");
+  if(i>0){ const rod=najitStranku(cil.slice(0,i)); const pod=rod&&W.stranky.get(rod.id+"/"+slug(cil.slice(i+1))); if(pod) return pod; }
   const s=slug(cil); return W.stranky.get(s)||[...W.stranky.values()].find(x=>sedi(x,s))||null;
 }
 function vyriznoutSekci(text,nadpis){
@@ -667,20 +689,32 @@ function absolutniCesty(text,zakladAdresy){
   return text.replace(/(!?\[[^\]]*\]\()([^)\s]+)/g,(cely,pred,url)=>/^(?:[a-z][a-z0-9+.-]*:|#|\/\/)/i.test(url)?cely:pred+relativni(url,zakladAdresy));
 }
 async function vlozitStranky(text,hloubka=0,cesta=[]){
-  if(!text||!(text.includes("{{")||text.includes("![["))) return text;
+  if(!text||!(text.includes("{{")||text.includes("![["))) return text;   // {{štítek:…}} se zpracuje taky
   const radky=text.split("\n"), vystup=[]; let vKodu=false;
   for(const radek of radky){
     if(/^```/.test(radek.trim())) vKodu=!vKodu;
+    const st=!vKodu&&radek.match(VYPIS_STITKU_RE);
+    if(st){ vystup.push("",vypisStitku(st[1]),""); continue; }
     const z=!vKodu&&radek.match(VLOZENI_RE);
     const m=z&&[z[0],z[1]||z[3],z[2]||z[4]];
     if(!m){ vystup.push(radek); continue; }
     const u=najitStranku(m[1]), popis=esc(radek.trim());
     const chyba=duvod=>`<p><span class="chybi" title="${escAttr(duvod)}">${popis}</span></p>`;
     if(!u&&jeKoncept(m[1])) continue;
+    const cl=!u&&najitClanek(m[1]);
+    if(cl){   // článek ze sekce článků: perex + text
+      const klic=cl.u.id+"/"+cl.c.slug;
+      if(cesta.includes(klic)||hloubka>=3){ vystup.push(chyba(T.vlozeniCyklus)); continue; }
+      let t=(cl.c.perex?cl.c.perex+"\n\n":"")+cl.c.telo;
+      if(m[2]){ const sekce=vyriznoutSekci(t,m[2]); if(sekce==null){ vystup.push(chyba(T.vlozeniSekce)); continue; } t=sekce; }
+      t=absolutniCesty(t,zaklad(cl.u.adresa));
+      vystup.push("",(await vlozitStranky(t,hloubka+1,[...cesta,klic])).trim(),"");
+      continue;
+    }
     if(!u||!u.adresa){ vystup.push(chyba(T.chybiOdkaz)); continue; }
     if(cesta.includes(u.id)||hloubka>=3){ vystup.push(chyba(T.vlozeniCyklus)); continue; }
     let vlozeny;
-    try{ vlozeny=await nactiText(u.adresa); }catch(e){ vystup.push(chyba(T.chybaStranky+": "+e.message)); continue; }
+    try{ vlozeny=u.virtualni?u.telo:await nactiText(u.adresa); }catch(e){ vystup.push(chyba(T.chybaStranky+": "+e.message)); continue; }
     vlozeny=vlozeny.replace(/^\s*#(?!#)\s+.+\n?/,"");
     if(m[2]){ const sekce=vyriznoutSekci(vlozeny,m[2]); if(sekce==null){ vystup.push(chyba(T.vlozeniSekce)); continue; } vlozeny=sekce; }
     vlozeny=absolutniCesty(vlozeny,zaklad(u.adresa));
@@ -725,6 +759,45 @@ function vytahnoutNovinky(text){
   }
   return {novinky,zbytek:zbytek.join("\n")};
 }
+
+/* ---------- multisection (formát md2web): soubor začíná řádkem „multisection“,
+   každý ## nadpis je samostatná podstránka; text před prvním ## je úvod skupiny ---------- */
+function rozpoznatMulti(text){
+  const radky=String(text||"").split("\n"); let i=0;
+  while(i<radky.length&&!radky[i].trim()) i++;
+  if(/^#(?!#)\s+/.test(radky[i]||"")){ i++; while(i<radky.length&&!radky[i].trim()) i++; }
+  if((radky[i]||"").trim().toLowerCase()!=="multisection") return null;
+  const uvod=[], casti=[]; let cur=null, vKodu=false;
+  for(const l of radky.slice(i+1)){
+    if(/^```/.test(l.trim())) vKodu=!vKodu;
+    const h2=!vKodu&&l.match(/^##(?!#)\s+(.+?)\s*#*\s*$/);
+    if(h2){ cur={titul:h2[1].trim(),slug:slug(h2[1]),radky:[]}; casti.push(cur); continue; }
+    (cur?cur.radky:uvod).push(l);
+  }
+  const vidno=new Set();
+  return {uvod:uvod.join("\n"),casti:casti.map(c=>{ let sl=c.slug||"cast", n=2; while(vidno.has(sl)) sl=c.slug+"-"+n++; vidno.add(sl); return {titul:c.titul,slug:sl,telo:c.radky.join("\n")}; })};
+}
+/* Podstránky multisection jsou virtuální uzly stromu: id „stranka/podstranka“, rodič je stránka se souborem.
+   Vrací true, když se změnil jejich seznam (pak se překreslí strom a pořadí). */
+function rozbalitMulti(u,multi){
+  const klic=JSON.stringify(multi.casti.map(c=>[c.slug,c.titul]));
+  if(u.multiKlic===klic){ multi.casti.forEach(c=>{ const x=W.stranky.get(u.id+"/"+c.slug); if(x) x.telo=c.telo; }); return false; }
+  (u.multiPod||[]).forEach(x=>W.stranky.delete(x.id));
+  const pod=multi.casti.map(c=>{
+    const x={id:u.id+"/"+c.slug,title:c.titul,telo:c.telo,virtualni:true,rodic:u,children:[],hloubka:(u.hloubka||0)+1,
+      adresa:u.adresa,file:u.file,repo:u.repo,draft:u.draft,managed:u.managed,tags:[]};
+    x.typ={...typStranky({type:"stranka"}),toc:u.typ?.toc,actions:u.typ?.actions,backlinks:u.typ?.backlinks};
+    x.emoji=x.typ.emoji||"";
+    if(!W.stranky.has(x.id)) W.stranky.set(x.id,x);
+    return x;
+  });
+  u.children=[...pod,...(u.children||[]).filter(c=>!c.virtualni)];
+  if(u.sort_children) u.children.sort((a,b)=>String(a.title).localeCompare(String(b.title),W.cfg.language||"cs",{sensitivity:"base",numeric:true}));
+  u.multiPod=pod; u.multiKlic=klic;
+  prepocitatPoradi(); W.zpetne=null; W.index=null;
+  return true;
+}
+function prepocitatPoradi(){ W.poradi=[]; (function linearne(uzly){ uzly.forEach(u=>{ if(!u.hidden&&!u.jeOdkaz) W.poradi.push(u); linearne(u.children||[]); }); })(W.koren); }
 
 /* ---------- články (formát md2web: soubor začíná řádkem „articles“, každý článek je H2) ---------- */
 function rozpoznatClanky(text){
@@ -816,7 +889,7 @@ function pripravitStrom(uzly,rodic,hloubka){
   }).filter(Boolean);
 }
 async function nactiWeb(data){
-  W.stranky.clear(); W.poradi=[]; W.texty.clear(); W.index=null; W.zpetne=null; W.stitkyIndex=null; W.koncepty=new Set();
+  W.stranky.clear(); W.clanky=new Map(); W.poradi=[]; W.texty.clear(); W.index=null; W.zpetne=null; W.stitkyIndex=null; W.koncepty=new Set();
   const cfg=data?data.cfg:JSON.parse(await nactiText(new URL("wiki.json",W.zaklad).href));
   const obsah=data?data.obsah:JSON.parse(await nactiText(new URL("contents.json",W.zaklad).href));
   W.cfg=cfg||{};
@@ -834,7 +907,12 @@ async function nactiWeb(data){
     return [{...cil,jeOdkaz:true,title:u.vlastniTitul||cil.title,emoji:u.vlastniEmoji||cil.emoji,hidden:u.hidden,rodic:u.rodic}];
   });
   W.koren=odkazy(W.koren);
-  W.poradi=[]; (function linearne(uzly){ uzly.forEach(u=>{ if(!u.hidden&&!u.jeOdkaz) W.poradi.push(u); linearne(u.children||[]); }); })(W.koren);
+  prepocitatPoradi();
+  /* Stránky označené multisection (značku zapisuje editor) se načtou hned, aby jejich podstránky
+     byly ve stromu a fungovaly na ně wikiodkazy odkudkoli. */
+  await Promise.all([...W.stranky.values()].filter(u=>(u.multisection||u.articles)&&u.adresa).map(async u=>{
+    try{ const t=await nactiText(u.adresa); const m=rozpoznatMulti(t); if(m) rozbalitMulti(u,m); const cl=rozpoznatClanky(t); if(cl) registrovatClanky(u,cl); }catch{}
+  }));
   const sbSoubor=W.cfg.sidebar_file||"sidebar.md";
   try{ W.sidebarMD=await vlozitStranky(await nactiText(adresaSouboru(sbSoubor))); }catch{ W.sidebarMD=""; }
 }
@@ -1008,7 +1086,7 @@ function rozebratHash(){
   if(!h) return {id:domovId()};
   if(h.startsWith("/stitek/")) return {stitek:h.slice(8)};
   let m=h.match(/^([^/?:]+)\?tag=(.+)$/); if(m) return {id:m[1],tag:m[2]};
-  m=h.match(/^([^/?:]+)\/(.+)$/); if(m) return {id:m[1],clanek:m[2]};
+  m=h.match(/^([^/?:]+)\/([^:]+)(?::(.+))?$/); if(m) return {id:m[1],clanek:m[2],kotva:m[3]};
   m=h.match(/^([^/?:]+):(.+)$/); if(m) return {id:m[1],kotva:m[2]};
   return {id:h};
 }
@@ -1019,7 +1097,7 @@ function skocitNa(id){
 }
 async function navigovat(){
   const r=rozebratHash();
-  if(r.kotva&&W.aktualni?.id===r.id&&!$("#stranka").hidden&&skocitNa(r.kotva)) return;
+  if(r.kotva&&W.aktualni?.id===(r.clanek?r.id+"/"+r.clanek:r.id)&&!$("#stranka").hidden&&skocitNa(r.kotva)) return;
   if(r.id&&!W.stranky.has(r.id)){
     // kotva na aktuální stránce (např. odkaz #nadpis z md2web obsahu)
     const el=document.getElementById(r.id);
@@ -1066,8 +1144,10 @@ function drobkyStranky(u){
 function hlavaHtml(u,titul,emoji,perex,meta){
   return `<header class="hlava"><h1 tabindex="-1">${emoji?`<span class="em" aria-hidden="true">${esc(emoji)}</span>`:""}<span>${esc(titul)}</span></h1>${perex?`<p class="perex">${perex}</p>`:""}${meta?`<div class="meta">${meta}</div>`:""}</header>`;
 }
+/* Štítek začínající tečkou je interní (pro seskupování a výpisy {{štítek:…}}) — na webu se nikde neukazuje */
+const verejnyStitek=t=>!String(t).trim().startsWith(".");
 function stitkyStrankyHtml(u){
-  return (u.tags||[]).map(t=>`<a class="stitek" href="#/stitek/${escAttr(encodeURIComponent(t))}">${esc(t)}</a>`).join("");
+  return (u.tags||[]).filter(verejnyStitek).map(t=>`<a class="stitek" href="#/stitek/${escAttr(encodeURIComponent(t))}">${esc(t)}</a>`).join("");
 }
 function nastavitTitulek(...casti){ document.title=[...casti,W.cfg.title||"Web"].filter(Boolean).join(" · "); }
 
@@ -1086,7 +1166,17 @@ async function vykreslitStranku(u,r){
     }
   }
   const clanky=rozpoznatClanky(text);
-  if(clanky) return vykreslitClanky(u,clanky,r);
+  if(clanky){ registrovatClanky(u,clanky); return vykreslitClanky(u,clanky,r); }
+  const multi=rozpoznatMulti(text);
+  if(multi){
+    if(rozbalitMulti(u,multi)){ const nav=$("#strom"); if(nav) nav.dataset.klic=""; }
+    if(r.clanek){
+      const pod=W.stranky.get(u.id+"/"+r.clanek);
+      if(!pod) return vykreslitChybu(T.neexistuje,T.neexistujeText);
+      u=pod; W.aktualni=pod; text=pod.telo; W.zdrojStranky=pod.telo;
+    }else text=multi.uvod;
+    oznacitVeStromu(u.id);
+  }
 
   // Úvodní H1 v souboru je název stránky — H1 na stránce je jen jedno
   let mdText=text.replace(/^\s*#(?!#)\s+.+\n?/,"").replace(/^#(?!#)\s/gm,"## ");
@@ -1138,7 +1228,7 @@ function strankovani(u){
 /* ---------- sekce článků ---------- */
 function vykreslitClanky(u,sekce,r){
   const art=$("#stranka");
-  const vsechnyStitky=[...new Set(sekce.clanky.flatMap(c=>c.stitky))].sort((a,b)=>a.localeCompare(b,W.cfg.language||"cs",{sensitivity:"base"}));
+  const vsechnyStitky=[...new Set(sekce.clanky.flatMap(c=>c.stitky.filter(verejnyStitek)))].sort((a,b)=>a.localeCompare(b,W.cfg.language||"cs",{sensitivity:"base"}));
   const zakl=u.adresa?zaklad(u.adresa):W.zaklad;
   const stitekHtml=(t,aktivni)=>`<a class="stitek${aktivni&&t.toLowerCase()===aktivni.toLowerCase()?" aktivni":""}" href="#${escAttr(u.id)}?tag=${escAttr(encodeURIComponent(t))}">${esc(t)}</a>`;
   const datumHtml=c=>(c.koncept?`<span class="koncept-stitek">${esc(T.koncept)}</span>`:"")+datumHtml0(c);
@@ -1149,10 +1239,11 @@ function vykreslitClanky(u,sekce,r){
     const telo=md(c.telo,zakl);
     vykreslitDrobky([...drobkyStranky(u).slice(0,-1),{t:u.title,h:"#"+u.id},{t:c.titul}]);
     art.innerHTML=`<a class="zpet" href="#${escAttr(u.id)}">← ${esc(T.zpet)}</a>`
-      +hlavaHtml(u,c.titul,"",c.perex?inline(c.perex,zakl):"",datumHtml(c)+c.stitky.map(t=>stitekHtml(t)).join(""))
+      +hlavaHtml(u,c.titul,"",c.perex?inline(c.perex,zakl):"",datumHtml(c)+c.stitky.filter(verejnyStitek).map(t=>stitekHtml(t)).join(""))
       +`<div class="obsah">${telo}</div>`;
     aktivovatOdkazy(art);
     panelProStranku(u,telo,[],[]);
+    if(u.typ?.backlinks&&$("#zpetne")){ $("#zpetne").hidden=false; zpetneOdkazy(u,u.id+"/"+c.slug); }
     stitkyPanel(vsechnyStitky.map(t=>stitekHtml(t)));
     nastavitTitulek(c.titul,u.title); return;
   }
@@ -1162,7 +1253,7 @@ function vykreslitClanky(u,sekce,r){
   vykreslitDrobky(drobkyStranky(u));
   art.innerHTML=hlavaHtml(u,u.title,u.emoji,u.perex?esc(u.perex):"")
     +`<div class="clanky-hlava"><span>${n} ${esc(slovo)}</span>${tag?`<span class="filtr">${esc(tag)} <button type="button" id="zrusit-filtr" aria-label="${escAttr(T.zrusitFiltr)}">×</button></span><a href="#/stitek/${escAttr(encodeURIComponent(tag))}">🏷️ ${esc(tag)} ${esc(T.stitekNaWebu)}</a>`:""}</div>`
-    +(n?`<ul class="clanky">${vyber.map(c=>`<li class="clanek-karta"><article aria-labelledby="cl-${escAttr(c.slug)}"><h2 id="cl-${escAttr(c.slug)}"><a href="#${escAttr(u.id)}/${escAttr(c.slug)}">${esc(c.titul)}</a></h2><div class="meta">${datumHtml(c)}${c.stitky.map(t=>stitekHtml(t,tag)).join("")}</div>${c.perex?`<p class="perex-k">${inline(c.perex,zakl)}</p>`:""}</article></li>`).join("")}</ul>`:`<p>${esc(T.zadneClanky)}</p>`);
+    +(n?`<ul class="clanky">${vyber.map(c=>`<li class="clanek-karta"><article aria-labelledby="cl-${escAttr(c.slug)}"><h2 id="cl-${escAttr(c.slug)}"><a href="#${escAttr(u.id)}/${escAttr(c.slug)}">${esc(c.titul)}</a></h2><div class="meta">${datumHtml(c)}${c.stitky.filter(verejnyStitek).map(t=>stitekHtml(t,tag)).join("")}</div>${c.perex?`<p class="perex-k">${inline(c.perex,zakl)}</p>`:""}</article></li>`).join("")}</ul>`:`<p>${esc(T.zadneClanky)}</p>`);
   const z=$("#zrusit-filtr"); if(z) z.addEventListener("click",()=>{ location.hash="#"+u.id; });
   aktivovatOdkazy(art);
   panelProStranku(u,"",[],[]);
@@ -1264,16 +1355,18 @@ function provestFunkci(f,u){
 }
 /* Zpětné odkazy: projde texty všech stránek (mezipaměť jako u hledání) a najde
    [[…]], ![[…]], [Název] z md2web, [text](soubor.md) a #id odkazy na tuto stránku. */
-async function zpetneOdkazy(u){
+async function zpetneOdkazy(u,klic){
   const ul=$("#zpetne-ul"); ul.innerHTML=`<li class="tichy">${esc(T.hledamZpetne)}</li>`;
   if(!W.zpetne){
     const mapa=new Map();
+    // nejdřív zaregistrovat všechny články, aby odkazy na ně šlo rozpoznat
+    await Promise.all([...W.stranky.values()].filter(x=>x.adresa&&!x.virtualni).map(async x=>{ try{ const cl=rozpoznatClanky(await nactiText(x.adresa)); if(cl) registrovatClanky(x,cl); }catch{} }));
     await Promise.all([...W.stranky.values()].map(async zdroj=>{
-      if(!zdroj.adresa) return;
+      if(!zdroj.adresa||zdroj.virtualni) return;
       let text=""; try{ text=await nactiText(zdroj.adresa); }catch{ return; }
       const zakl=zaklad(zdroj.adresa), cile=new Set();
       text=text.replace(/```[\s\S]*?```/g,"");
-      for(const m of text.matchAll(/!?\[\[([^\]|#]+)|\{\{([^}|#]+)/g)){ const c=najitStranku(m[1]||m[2]); if(c) cile.add(c.id); }
+      for(const m of text.matchAll(/!?\[\[([^\]|#]+)|\{\{([^}|#]+)/g)){ const c=najitStranku(m[1]||m[2]); if(c) cile.add(c.id); else{ const cl=najitClanek(m[1]||m[2]); if(cl) cile.add(cl.u.id+"/"+cl.c.slug); } }
       for(const m of text.matchAll(/\[([^\]\[]+)\](?!\()/g)){ const c=najitStranku(m[1]); if(c) cile.add(c.id); }
       for(const m of text.matchAll(/\]\(([^)\s]+)/g)){
         const url=m[1];
@@ -1286,7 +1379,7 @@ async function zpetneOdkazy(u){
     W.zpetne=mapa;
   }
   if(W.aktualni!==u) return;
-  const zdroje=(W.zpetne.get(u.id)||[]).filter(x=>!x.hidden).sort((a,b)=>a.title.localeCompare(b.title,W.cfg.language||"cs"));
+  const zdroje=(W.zpetne.get(klic||u.id)||[]).filter(x=>!x.hidden).sort((a,b)=>a.title.localeCompare(b.title,W.cfg.language||"cs"));
   ul.innerHTML=zdroje.length?zdroje.map(x=>`<li><a href="#${escAttr(x.id)}">${esc((x.emoji?x.emoji+" ":"")+x.title)}</a></li>`).join(""):`<li class="tichy">${esc(T.zadneZpetne)}</li>`;
 }
 
@@ -1297,12 +1390,12 @@ async function indexStitku(){
   if(W.stitkyIndex) return W.stitkyIndex;
   const mapa=new Map();
   const pridat=(t,polozka)=>{ const k=t.toLowerCase(); if(!mapa.has(k)) mapa.set(k,{nazev:t,polozky:[]}); mapa.get(k).polozky.push(polozka); };
-  const st=[...W.stranky.values()].filter(u=>!u.hidden);
-  for(const u of st) for(const t of (u.tags||[])) pridat(t,{druh:"stranka",u});
+  const st=[...W.stranky.values()].filter(u=>!u.hidden&&!u.virtualni);
+  for(const u of st) for(const t of (u.tags||[]).filter(verejnyStitek)) pridat(t,{druh:"stranka",u});
   await Promise.all(st.filter(u=>u.adresa).map(async u=>{
     let text=""; try{ text=await nactiText(u.adresa); }catch{ return; }
-    const cl=rozpoznatClanky(text); if(!cl) return;
-    cl.clanky.forEach(c=>c.stitky.forEach(t=>pridat(t,{druh:"clanek",u,c})));
+    const cl=rozpoznatClanky(text); if(!cl) return; registrovatClanky(u,cl);
+    cl.clanky.forEach(c=>c.stitky.filter(verejnyStitek).forEach(t=>pridat(t,{druh:"clanek",u,c})));
   }));
   W.stitkyIndex=mapa; return mapa;
 }
@@ -1344,11 +1437,11 @@ function vykreslitChybu(titul,text){
 function najitCil(cil,soubor){
   if(soubor){ const u=[...W.stranky.values()].find(x=>x.adresa===soubor); return u?"#"+u.id:null; }
   if(!cil) return null;
-  if(W.stranky.has(cil)) return "#"+cil;
-  const s=slug(cil);
-  if(W.stranky.has(s)) return "#"+s;
-  const u=[...W.stranky.values()].find(x=>sedi(x,s));
+  const u=najitStranku(cil);
   if(u) return "#"+u.id;
+  const cl=najitClanek(cil);
+  if(cl) return "#"+cl.u.id+"/"+cl.c.slug;
+  const s=slug(cil);
   const h=document.getElementById(s);
   if(h&&$("#stranka").contains(h)&&W.aktualni) return "#"+W.aktualni.id+":"+s;
   return null;
@@ -1375,7 +1468,7 @@ function panelProStranku(u,html,novinky,stitky){
     sledovatToc();
   }
   // štítky stránky
-  stitkyPanel(stitky.map(t=>`<a class="stitek" href="#/stitek/${escAttr(encodeURIComponent(t))}">${esc(t)}</a>`));
+  stitkyPanel(stitky.filter(verejnyStitek).map(t=>`<a class="stitek" href="#/stitek/${escAttr(encodeURIComponent(t))}">${esc(t)}</a>`));
   // kalendář novinek
   const kal=$("#kalendar");
   if(kal){ kal.hidden=!novinky.length; if(novinky.length) kalendar(novinky); }
@@ -1432,12 +1525,19 @@ function kalendar(novinky){
 /* ---------- hledání ---------- */
 async function pripravitIndex(){
   if(W.index) return W.index;
-  const st=[...W.stranky.values()].filter(u=>!u.hidden);
+  const st=[...W.stranky.values()].filter(u=>!u.hidden&&!u.virtualni);
   W.index=await Promise.all(st.map(async u=>{
     let text="";
     try{ if(u.adresa) text=await vlozitStranky(await nactiText(u.adresa),0,[u.id]); }catch{}
+    const multi=rozpoznatMulti(text);
+    if(multi){
+      rozbalitMulti(u,multi);
+      return [{u,titul:u.title,text:naText((u.perex||"")+" "+aliasy(u).join(" ")+" "+multi.uvod),h:"#"+u.id},
+        ...(u.multiPod||[]).map(x=>({u:x,titul:x.title,text:naText(x.telo),h:"#"+x.id}))];
+    }
     const cl=rozpoznatClanky(text);
-    const zaznamy=[{u,titul:u.title,text:naText((u.perex||"")+" "+aliasy(u).join(" ")+" "+(u.tags||[]).join(" ")+" "+(cl?"":text)),h:"#"+u.id}];
+    const zaznamy=[{u,titul:u.title,text:naText((u.perex||"")+" "+aliasy(u).join(" ")+" "+(u.tags||[]).filter(verejnyStitek).join(" ")+" "+(cl?"":text)),h:"#"+u.id}];
+    if(cl) registrovatClanky(u,cl);
     if(cl) cl.clanky.forEach(c=>zaznamy.push({u,titul:c.titul,text:naText(c.perex+" "+c.stitky.join(" ")+" "+c.telo),h:"#"+u.id+"/"+c.slug,clanek:true}));
     return zaznamy;
   })).then(x=>x.flat());
