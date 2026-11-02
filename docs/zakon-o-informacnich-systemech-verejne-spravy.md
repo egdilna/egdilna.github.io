@@ -1,0 +1,3 @@
+[Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg&pohled=predpis&predpis=2000/365)
+
+Upravuje pořízení, provoz, rozvoj a správu informačních systémů veřejné správy, dává povinnosti správcům a provozovatelům, upravuje oblast řízení ICT (dlouhodobé řízení) a to včetně informační koncepce ČR a informačních koncepcí OVS, definuje roli orgány veřejné správy a jejich povinnosti a to včetně součinnosti s DIA. Dále upravuje technické prostředky, jako je Centrální místo služeb, Portál veřejné správy, Kontaktní místa veřejné správy apod.

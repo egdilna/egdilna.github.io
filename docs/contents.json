@@ -209,6 +209,17 @@
                 "propojený datový fond",
                 "výměna údajů"
               ]
+            },
+            {
+              "id": "vymena-udaju-mezi-agendami",
+              "title": "Výměna údajů mezi agendami",
+              "file": "vymena-udaju-mezi-agendami.md",
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "propojený datový fond",
+                "výměna údajů"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -257,6 +268,15 @@
                   "tags": [
                     "klíčové pojmy",
                     "legislativa"
+                  ]
+                },
+                {
+                  "id": "zakon-o-informacnich-systemech-verejne-spravy",
+                  "title": "Zákon o informačních systémech veřejné správy",
+                  "file": "zakon-o-informacnich-systemech-verejne-spravy.md",
+                  "tags": [
+                    "legislativa",
+                    "dopsat"
                   ]
                 }
               ]

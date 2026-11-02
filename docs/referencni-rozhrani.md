@@ -1,4 +1,4 @@
-Referenční rozhraní definuje zákon [[111/2009]] a jde o sadu systémů a jejich rozhraní, kterými se propojují agendové informační systémy a řeší se povinnosti jako [[využívání referenčních údajů]], [[využívání agendových údajů]], [[poskytování agendových údajů]], [[egdilna:vymena-udaju-mezi-agendami|]] a další.
+Referenční rozhraní definuje zákon [[111/2009]] a jde o sadu systémů a jejich rozhraní, kterými se propojují agendové informační systémy a řeší se povinnosti jako [[využívání referenčních údajů]], [[využívání agendových údajů]], [[poskytování agendových údajů]], [[výměna údajů mezi agendami|]] a další.
 
 Referenční rozhraní veřejné správy je jediným rozhraním, prostřednictvím kterého je možné uskutečňovat vazby mezi informačními systémy veřejné správy. Jedinou výjimkou jsou vazby mezi systémy jednoho správce – tedy takové vazby, které jsou činěny v rámci jednoho úřadu, ne však již resortu. Zároveň to také  neznamená zákaz uskutečňování těchto vazeb, pouze neexistuje povinnost.
 

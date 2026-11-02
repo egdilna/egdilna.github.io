@@ -3,12 +3,12 @@ Podle ustanovení § 5 zákona [[:predpis:111-2009|]] a souvisejících povinnos
 
 
 
-To znamená, že prostřednictvím [[egdilna:egsb]] musí
+To znamená, že prostřednictvím [[EGSB]] musí
 
 1. zajistit poskytování svých agendových údajů přes jeho [[publikující AIS]] ostatním agendám a
 1. zajistit úplné využívání jiných agendových údajů přes svůj [[čtenářský AIS]] pro svoji působnost.
 
-Výměna údajů, tedy faktický [[:PPDF|]] probíhá přes určené služby [[egdilna:egsb]]. Popisy těchto služeb obsahuje [[:odkaz:katalog-egon-sluzeb|]]. K dispozici je i [[:egdilna:ramcovy-postup-pro-realizaci-sdileni-udaju-v-propojenem-datovem-fondu|]].
+Výměna údajů, tedy faktický [[:PPDF|]] probíhá přes určené služby [[EGSB]]. Popisy těchto služeb obsahuje [[Katalog EGON služeb|]]. K dispozici je i [[Rámcový postup pro realizaci sdílení údajů v propojeném datovém fondu|]].
 
 
 Přehled typizovaných služeb AIS je na [[:egdilna:seznam-typizovane-aplikacni-sluzby-ais-skupina-ppdf-udaje|]].
