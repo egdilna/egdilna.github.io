@@ -29,7 +29,10 @@
      "stazeno": "2026-10-21T12:42:21.838Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
+   ],
    "budouci": false,
    "citace": "12/2020 Sb.",
    "typ": "ZÁKON",
@@ -66,7 +69,10 @@
      "stazeno": "2026-10-21T12:42:25.590Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
+   ],
    "budouci": false,
    "citace": "60/2026 Sb.",
    "typ": "ZÁKON",
@@ -92,7 +98,10 @@
      "stazeno": "2026-10-21T12:42:29.183Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
+   ],
    "budouci": false,
    "citace": "111/2009 Sb.",
    "typ": "ZÁKON",
@@ -149,7 +158,10 @@
      "stazeno": "2026-10-21T12:42:33.111Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
+   ],
    "budouci": false,
    "citace": "365/2000 Sb.",
    "typ": "ZÁKON",
@@ -196,7 +208,12 @@
     "2025-11-01",
     "2026-01-01"
    ],
-   "zkontrolovano": "2026-10-21T12:42:32.775Z"
+   "zkontrolovano": "2026-10-21T12:42:32.775Z",
+   "popis": "Upravuje pořízení, provoz, rozvoj a správu informačních systémů veřejné správy, dává povinnosti správcům a provozovatelům, upravuje oblast řízení ICT (dlouhodobé řízení) a to včetně informační koncepce ČR a informačních koncepcí OVS, definuje roli orgány veřejné správy a jejich povinnosti a to včetně součinnosti s DIA. Dále upravuje technické prostředky, jako je Centrální místo služeb, Portál veřejné správy, Kontaktní místa veřejné správy apod.",
+   "poznamka": {
+    "soubor": "predpisy/2000-365/poznamka.md",
+    "upraveno": "2026-11-02T20:40:45.972Z"
+   }
   },
   "2004/499": {
    "pridano": "2026-10-21T12:42:36.288Z",
@@ -210,7 +227,9 @@
     }
    },
    "stitky": [
-    "t-mvhxlvdnt9wr"
+    "t-mvhxlvdnt9wr",
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
    ],
    "budouci": false,
    "citace": "499/2004 Sb.",
@@ -393,7 +412,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-20T15:28:18.071Z",
-   "upraveno": "2026-10-20T15:28:30.474Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
   },
   {
    "id": "v-mvgukntzrbk5",
@@ -407,7 +426,7 @@
    ],
    "poznamka": "Tohle mimochodem udává maximální dobu faktické změny údaje z agendové činnosti.",
    "vytvoreno": "2026-10-20T15:37:53.831Z",
-   "upraveno": "2026-10-20T15:37:53.831Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
   },
   {
    "id": "v-mvgx5uqe6yb1",
@@ -421,7 +440,7 @@
    ],
    "poznamka": "Zde není ale zcela jasné, zda se to týká dat souvisejících s výkonem spisové služby, nebo i tzv. agendových dat pro agendy vykonávané v multiagendové aplikaci řešící také ESSL. DIA k tomu vydala stanovisko, ale to to jen trochu vysvětluje.",
    "vytvoreno": "2026-10-20T16:50:21.782Z",
-   "upraveno": "2026-10-20T16:50:21.782Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
   },
   {
    "id": "v-mvgxkiu0s7z0",
@@ -435,7 +454,7 @@
    ],
    "poznamka": "To znamená všechny orgány veřejné správy, včetně státních právnických osob, ale jen pro ISVS",
    "vytvoreno": "2026-10-20T17:01:46.200Z",
-   "upraveno": "2026-10-21T09:42:04.232Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
   },
   {
    "id": "v-mvhwmczazt1r",
@@ -449,7 +468,7 @@
    ],
    "poznamka": "Koordinuje, je ohlašovatelem agendy o správě dat a především realizuje vše kolem zákona o správě dat. Dále taky ale poskytuje konzultace a školení a provozuje celý data.gov.cz",
    "vytvoreno": "2026-10-21T09:22:58.485Z",
-   "upraveno": "2026-10-21T09:22:58.485Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
   },
   {
    "id": "v-mvhxtpzb9go3",
@@ -463,7 +482,7 @@
    ],
    "poznamka": "Tohle je hlavní a nejzákladnější povinnost. Tedy nejen faktický výkon spisové služby v elektronické podobě, ale především ESSL v souladu a to pokud možno potvrzeném atestem. Ale pozor, i mimo potvrzení atestem musí být ESSL vždy v souladu a to nejen se zmíněnou konkrétní legislativou, ale s právními předpisy celkově.",
    "vytvoreno": "2026-10-21T09:56:41.543Z",
-   "upraveno": "2026-10-21T09:56:41.543Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
   },
   {
    "id": "v-mvi32tes492n",
@@ -478,7 +497,85 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-21T12:23:43.972Z",
-   "upraveno": "2026-10-21T12:23:43.972Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
+  },
+  {
+   "id": "v-mvpfuhx02m65",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_8/odst_5",
+   "citace": "§ 8 odst. 5",
+   "zneni": "2026-01-01",
+   "text": "(5) Správce agendového informačního systému používá vlastní identifikátory fyzických osob a právnických osob a za účelem komunikace s informačním systémem základních registrů nebo informačním systémem sdílené služby používá agendové identifikátory fyzických osob a identifikátory právnických osob vedené v registru osob.",
+   "nazev": "AIFO pro vnější a vlastní identifikátor pro vnitřní integraci",
+   "skupiny": [
+    "s-mvgu8bknkv6n",
+    "s-mvgukntz1v5j"
+   ],
+   "poznamka": "Vlastní identifikátor může být Stykový identifikátor, Klientský identifikátor a nebo neveřejný interní technický identifikátor, ale rozhodně ne samotné AIFO.",
+   "vytvoreno": "2026-10-26T15:55:34.068Z",
+   "upraveno": "2026-10-26T15:55:34.068Z"
+  },
+  {
+   "id": "v-mvse1semnm5j",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_1/pism_b",
+   "citace": "§ 4 odst. 1 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím kontaktního místa veřejné správy v případě digitálního úkonu, o kterém tak stanoví prováděcí právní předpis,",
+   "nazev": "Služby a úkony na czechpointu",
+   "skupiny": [
+    "s-mvi32tes9fqw"
+   ],
+   "poznamka": "Nehledě na to co říká zákon o ISVS, podle tohoto ustanovení pro službu a úkon na přepážce KMVS postačí toto ustanovení a uvedení v nařízení vlády.",
+   "vytvoreno": "2026-10-28T17:28:33.550Z",
+   "upraveno": "2026-10-28T17:28:33.550Z"
+  },
+  {
+   "id": "v-mvthdutea5k5",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_1/pism_d",
+   "citace": "§ 4 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
+   "nazev": "Služby a úkony prostřednictvím ISVS a portálů",
+   "skupiny": [
+    "s-mvi32tes9fqw",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "Tímhle se myslí veškeré portály, včetně například portálu občana, dále ale také portálová frontend rozhraní informačních systémů veřejné zprávy, pokud je systém má vytvořené",
+   "vytvoreno": "2026-10-29T11:49:41.569Z",
+   "upraveno": "2026-10-29T11:54:30.780Z"
+  },
+  {
+   "id": "v-mvthwg8b1qqc",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_6",
+   "citace": "§ 4 odst. 6",
+   "zneni": "2025-11-01",
+   "text": "Vyhodnotí-li orgán veřejné moci po posouzení podmínek podle odstavce 5, že by mu umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo nepřiměřenou zátěž, zašle Agentuře žádost o vyjádření k tomuto závěru. V případě souhlasného vyjádření Agentury orgán veřejné moci vyznačí závěr v katalogu služeb. V případě nesouhlasného vyjádření Agentury a pokud orgán veřejné moci na závěru trvá, rozhodne o tom, zda by umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo orgánu veřejné moci nepřiměřenou zátěž, vláda.",
+   "nazev": "",
+   "skupiny": [
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "Pozor na to, že tady se hovoří o konkrétním informačním systému veřejné zprávy a ne o obecných portálech, jako je například portál občana v rámci portálu veřejné zprávy.",
+   "vytvoreno": "2026-10-29T12:04:09.131Z",
+   "upraveno": "2026-10-29T12:04:09.131Z"
+  },
+  {
+   "id": "v-mvvcaekaq1aw",
+   "predpis": "2026/60",
+   "klic": "norma/cast_1/hlava_2/par_8/odst_1",
+   "citace": "§ 8 odst. 1",
+   "zneni": "2026-05-27",
+   "text": "Správce dat, který je ohlašovatelem agendy podle zákona o základních registrech, vytváří jako součást svého lokálního katalogu dat datový slovník agendy s popisem dat vedených v rámci agendy.",
+   "nazev": "Ohlašovatel agendy tvoří agendové datové slovníky",
+   "skupiny": [
+    "s-mvthk1z0reum",
+    "s-mvgu8bknkv6n"
+   ],
+   "poznamka": "Na tohle se dost často zapomíná. Je to povinnost ohlašovatele, ne každého OVS zvlášť. Cílem je standardizace.",
+   "vytvoreno": "2026-10-30T19:02:34.810Z",
+   "upraveno": "2026-10-30T19:02:34.810Z"
   }
  ],
  "skupinyKomentaru": [
@@ -506,12 +603,12 @@
    "citace": "§ 4 odst. 1 písm. d)",
    "zneni": "2025-11-01",
    "textUst": "(1) Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím\n  d) informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
-   "text": "Tím se myslí třeba portály, federované portály, frontend agendových informačních systémů určený pro klienty, ale i mobilní aplikace sloužící jako část ISVS pro klientské úkony a činnosti.",
+   "text": "Tím se myslí třeba portály, federované portály, frontend agendových informačních systémů určený pro klienty, ale i mobilní aplikace sloužící jako část ISVS pro klientské úkony a činnosti. Důležité správního filozofického hlediska je, že vždy se to realizuje alespoň prostřednictvím portálu občana, který je součástí portálu veřejné zprávy. To je důležité i v souvislosti s ostatními ustanovením tohoto zákona.",
    "skupiny": [
     "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-21T12:01:47.967Z",
-   "upraveno": "2026-10-21T12:01:47.967Z"
+   "upraveno": "2026-10-29T11:56:44.265Z"
   },
   {
    "id": "k-mvi2lxfdyo0k",
@@ -611,6 +708,387 @@
    ],
    "vytvoreno": "2026-10-21T12:32:00.743Z",
    "upraveno": "2026-10-21T12:32:00.743Z"
+  },
+  {
+   "id": "k-mvi417mmkdmx",
+   "predpis": "2016/134",
+   "klic": "norma/cast_10/par_211/odst_7",
+   "citace": "§ 211 odst. 7",
+   "zneni": "2025-04-03",
+   "textUst": "(7) Na komunikaci mezi zadavatelem a dodavatelem při zadávání veřejné zakázky se § 5 a 6 zákona o službách vytvářejících důvěru pro elektronické transakce neuplatní. Úkon učiněný prostřednictvím elektronického nástroje nebo datové schránky se považuje za podepsaný.",
+   "text": "To také znamená, že zadavatel toto nesmí požadovat a nepřihlíží k tomu a nepřipouští a to na obecné úrovni, což často zadavatel porušuje a tím dochází k porušení zákona i k porušování práv uchazečů a dodavatele.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:50:28.702Z",
+   "upraveno": "2026-10-21T12:50:28.702Z"
+  },
+  {
+   "id": "k-mvi4hwuo026j",
+   "predpis": "2004/499",
+   "klic": "norma/cast_1/hlava_3/par_65/odst_8",
+   "citace": "§ 65 odst. 8",
+   "zneni": "2025-01-01",
+   "textUst": "(8) Veřejnoprávní původci mohou ve svých spisových řádech upravit používání zvláštních technologických prostředků, kterými lze výlučně pro potřeby příslušného původce nahradit elektronický podpis, elektronickou pečeť, elektronické časové razítko nebo jiný elektronický prostředek obdobného účelu; tyto zvláštní technologické prostředky musí umožnit zjištění jakékoli následné změny dat v dokumentu a jednoznačně ověřit identitu osoby, která je k němu připojila.",
+   "text": "Takovým elektronickým prostředkem může být také informační systém, který splňuje základní znaky důvěryhodnosti podle občanského zákonníku i podle tohoto ustanovení a podle dalších zákonů, například podle zákona o finanční kontrole a tak dále. Každý takový informační systém nebo nástroj musí splňovat všechny tři aspekty uvedené ve větě druhé tohoto ustanovení a tedy musí umožňovat, Nespochybnitelnou identifikaci konkrétního uživatele, respektive fyzické osoby A okamžik, ve kterém došlo k nějaké akci, která by jinak byla stvrzená Například elektronickým podpisem nebo elektronickou pečetí, A také to, že data, na základě kterých tato akce byla učiněna, nebyla změněna. To neznamená, že se data nemohla později změnit, Ale že musí být jasně vyznačené, k jakému stavu dat A k jakému okamžiku k takové akci došlo. Stručně se tomu říká interní schvalování, Kdy mechanismus interního schvalování je vystavěn na důvěře v informační systém, Ve kterém je zaznamenán protokol o příslušném schvalování. Ať už se to jedná o schvalování formou paralelního či sériového workflowu, Nebo o jednorázové schvalování, Takzvaným tlačítkem schvaluji v uživatelském rozhraní informačního systému. Pokud jsou splněny všechny tři aspekty uvedené v tomto ustanovení, Je toto při nejmenším stejně důvěryhodné, Ale v rámci čtení jiných právních předpisů možná i důvěryhodnější Než využití elektronického podpisu. \n\nJe třeba si také uvědomit, že elektronický podpis a elektronická pečeč se musí využívat pro účely, pro které byly jednak zamýšleny zákonodárcem v jist nařízení EIDAS a jednak pro účely, pro které byly vydány jako prostředky pro takový podpis. A to interní schvalování není, neboť se tím nejedná jménem celé organizace veřejnoprávního původce, ale pouze jménem konkrétní fyzické osoby v nějaké roli. Z kombinací těchto aspektů plyne, že pro interní schvalování se elektronický podpis využívat nemá A nastupují technické prostředky, kterými jsou informační systémy splňující aspekty uvedené v tomto ustanovení zákona.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T13:03:27.888Z",
+   "upraveno": "2026-10-21T13:03:27.888Z"
+  },
+  {
+   "id": "k-mvpfx38gbti4",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_8/odst_5",
+   "citace": "§ 8 odst. 5",
+   "zneni": "2026-01-01",
+   "textUst": "(5) Správce agendového informačního systému používá vlastní identifikátory fyzických osob a právnických osob a za účelem komunikace s informačním systémem základních registrů nebo informačním systémem sdílené služby používá agendové identifikátory fyzických osob a identifikátory právnických osob vedené v registru osob.",
+   "text": "Vlastní identifikátor je persistentní k subjekti i napříč různými systémy správce, zatímco AIFO je persistentní napříč agendou a subjektem právě a jen pro jednu agendu.",
+   "skupiny": [
+    "sk-mvi2alz38wrl",
+    "sk-mvpfx38fmi0t"
+   ],
+   "vytvoreno": "2026-10-26T15:57:35.007Z",
+   "upraveno": "2026-10-26T15:57:35.007Z"
+  },
+  {
+   "id": "k-diginemocnice-372-01",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6",
+   "citace": "Část 6",
+   "zneni": "2026-07-01",
+   "textUst": "",
+   "text": "Tato úprava je významně měněna zákonem č. 240/2024 Sb. Při přepracovávání textu došlo k určitému zmatku v číslování uvnitř jednotlivých hlav, avšak zásadní je nové znění, které tato novela přináší.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-02",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_53/odst_1",
+   "citace": "§ 53 odst. 1",
+   "zneni": "2026-07-01",
+   "textUst": "Zdravotnická dokumentace je soubor informací vedených, zpracovávaných a uchovávaných poskytovatelem za účelem poskytování zdravotních služeb konkrétnímu pacientovi, a to bez ohledu na to, zda byly získány od pacienta, od jiného poskytovatele nebo jiných osob nebo vlastní činností poskytovatele.",
+   "text": "Nová definice zdravotnické dokumentace představuje zásadní změnu, která redefinuje pojem „dokumentace“ tak, že se primárně zaměřuje na samotné informace, nikoliv na jejich formu. Způsoby vedení a formy dokumentace jsou podrobněji upraveny v dalších částech. Klíčovým aspektem této změny je, že povinnosti se nyní vztahují především na obsahovou stránku dokumentace. V elektronické podobě jde o naprostý definiční i praktický přelom, zatímco v listinné formě se zachovává důraz na fyzické dokumenty obsahující informace.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-03",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_53/odst_3",
+   "citace": "§ 53 odst. 3",
+   "zneni": "2026-07-01",
+   "textUst": "V rámci zpracování osobních údajů ve zdravotnické dokumentaci lze využívat rodné číslo pacienta.",
+   "text": "Je nutné dávat pozor na toto ustanovení a jeho faktický význam. Využívání rodného čísla je zde zmíněno v rámci zpracování osobních údajů a to především za účelem zpětné kompatibility s vedením zdravotnické dokumentace před nástupem povinností podle zákona č. 325/2021 Sb., o elektronizaci zdravotnictví. Ten totiž ukládá poskytovatelům využívat údaje z kmenových registrů a především využívat jako identifikátor pacienta právě kmenový identifikátor pacienta ze Kmenového registru pacientů jako centrálního autoritativního systému. Aby bylo možné párování dokumentace obsahující rodné číslo s identitou pacienta na základě jeho kmenového identifikátoru, je zde toto ustanovení. Rozhodně to neznamená, že má být rodné číslo primárním či snad dokonce jediným identifikátorem pacienta. Navíc rodné číslo se nebude využívat při výměně zdravotnické dokumentace a elektronických zdravotních záznamů (EHR) uvnitř ČR mezi poskytovateli. I tam se totiž využije kmenový identifikátor pacienta a jeho údaje ze Kmenového registru pacientů.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-04",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_54",
+   "citace": "§ 54",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel je povinen vést, zpracovávat a uchovávat zdravotnickou dokumentaci, nejde-li o poskytování lékárenské péče v lékárně, poskytování zdravotních výkonů v rámci preventivní péče mimo zdravotnické zařízení podle § 11a s výjimkou očkování, zdravotních služeb alespoň částečně hrazených z veřejného zdravotního pojištění.",
+   "text": "V tomto paragrafu se obecně ukládá povinnost ke zdravotnické dokumentaci. Uvedené výjimky nejsou z faktického hlediska zajímavé. Je nutno si uvědomit, že každý poskytovatel musí řešit veškerou zdravotnickou dokumentaci u jeho pacientů včetně podrobností uvedených dále v zákoně a také včetně podrobností uvedených v zákoně č. 325/2021 Sb., o elektronizaci zdravotnictví.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-05",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_54/pism_a",
+   "citace": "§ 54 písm. a)",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel je povinen vést, zpracovávat a uchovávat zdravotnickou dokumentaci, nejde-li o poskytování lékárenské péče v lékárně,",
+   "text": "Zde je třeba dbát na absolutní pochopení. Toto se týká pouze poskytování služeb v lékárně, tedy nikoliv třeba vydávání předepsaných léčiv v rámci poskytovatele pro ambulantní či lůžkovou péči. Toto ustanovení je takto zahrnuto proto, že evidenci související s výdejem předepsaného léčiva v lékárně upravuje jiný právní předpis. Vedení těchto informací jako součást zdravotnické dokumentace, která se vztahuje na zákazníka lékárny jako pacienta, by tedy bylo duplicitní a postrádalo by smysl.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-06",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55/odst_1",
+   "citace": "§ 55 odst. 1",
+   "zneni": "2026-07-01",
+   "textUst": "Zdravotnická dokumentace je vedena v podobě listinné, elektronické nebo v kombinaci obou těchto podob.",
+   "text": "V předchozích ustanoveních byla zavedena obecná definice zdravotnické dokumentace. Zde navazuje řešení její formy. Na listinnou i elektronickou formu se sice obecně pohlíží stejně, avšak povinnosti a zejména technické způsoby vedení dokumentace v těchto formách jsou odlišné. Platí ale, že lze obě formy kombinovat, přičemž do jaké míry je to vhodné a efektivní je ponecháno na poskytovateli. Obecně platí v souladu se zákonem č. 325/2021 Sb., o elektronizaci zdravotnictví, že se vede zdravotnická dokumentace v elektronické podobě a především se v některých případech v elektronické podobě sdílí a vyměňuje. Ovšem je nesmysl chtít a očekávat, že dojde k digitalizaci dosud listinné dokumentace, což nedává smysl a hlavně je to často nerealizovatelné. Je třeba si uvědomit, že pokud poskytovatel přistoupí k digitalizaci dosavadní listinné formy do elektronické zdravotnické dokumentace, nejde jen o prosté skenování a digitalizaci, ale zejména o převod obsahu do záznamů zdravotnické dokumentace v elektronické podobě podle příslušných standardů vyhlášených ministerstvem, respektive Národním centrem pro elektronizaci zdravotnictví. To v naprosté většině nedává smysl, proto je zde i přes elektronizaci zachována možnost vést dokumentaci kombinovaně v obou formách.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-07",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55/odst_2",
+   "citace": "§ 55 odst. 2",
+   "zneni": "2026-07-01",
+   "textUst": "Zdravotnická dokumentace musí být vedena a zpracovávána průkazně, pravdivě, srozumitelně a čitelně.",
+   "text": "Tohle není pouze rétorické cvičení. Poskytovatel se může velice snadno dostat do situace, kdy toto bude muset prokazovat a zodpovídat se z toho. Toto je obecná povinnost stanovující základní požadavky na bezpečnost a důvěryhodnost dokumentace. Opět platí, že pro každou formu vedení dokumentace je jejich řešení odlišné. U elektronické formy jde o požadavky na informační systém, které jsou specifikovány dále. U listinné podoby jde o faktickou autorizaci pravdivosti a úplnosti dokumentace v čase, což je uvedeno také dále. Navíc v listinné podobě pochopitelně musí být zajištěna i fyzická bezpečnost ukládání a nakládání s dokumentací, což díky technickým požadavkům na systém u elektronické formy odpadá.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-08",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a",
+   "citace": "§ 55a",
+   "zneni": "2026-07-01",
+   "textUst": "Každý záznam do zdravotnické dokumentace vedené v elektronické podobě musí být opatřen identifikátorem záznamu, který je vždy unikátní a je ve formátu stanoveném standardem elektronického zdravotnictví vydaným podle zákona o elektronizaci zdravotnictví.\nPoskytovatel jednotlivé záznamy ve zdravotnické dokumentaci autorizuje.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu.\nPoskytovatel není povinen autorizovat záznam ve zdravotnické dokumentaci, který je vytvořen automatizovaně zdravotnickým prostředkem nebo jiným přístrojem, pokud z takového záznamu nebo k němu připojené informace je zřejmé, že byl vytvořen zdravotnickým prostředkem nebo jiným přístrojem a v jakém datu a čase byl vytvořen.\nOpravy a doplnění autorizovaného záznamu se provádí novým záznamem a musí se provádět tak, aby bylo možné zjistit obsah záznamu před opravou nebo doplněním. V doplnění nebo opravě záznamu ve zdravotnické dokumentaci na žádost pacienta se uvede poznámka, že jde o opravu nebo doplnění na žádost pacienta.",
+   "text": "Zavádí se nový mechanismus ověření existence a obsahu zdravotnické dokumentace v čase, kterým je takzvaná autorizace záznamu. Opět je nutno připomenout, že nejde o autorizaci dokumentu v minulém pojetí dokumentace jako sady dokumentů, ale jedná se o autorizaci záznamu jako základní jednotky vedení zdravotnické dokumentace. Pro listinnou i elektronickou formu jsou v jednotlivých odstavcích uvedené podrobnosti autorizace, čímž se významně modernizuje faktické naplnění prověření průkaznosti obsahu dokumentace. I zde je v elektronické formě běžná autorizace snazší, složitější je následně při vytváření výstupu z dokumentace a to zejména pro výměnu s jiným poskytovatelem, či pacientem. U listinné formy se mění jedna zásadní věc, a to je autorizace nad každým záznamem, nikoliv nad dokumentem. To souvisí s tím, že nové pojetí dokumentace nevyžaduje pro každou věc tisknout samostatné dokumenty a těmi se pak zabývat. Jelikož více záznamů může být součástí listinného dokumentu a výstupu, řeší se autorizace tak, aby se v případě více obsahových záznamů nemusely rozdělovat do dokumentů a mohly se i v listinné podobě vést průběžně a kontinuálně. Pozor ale na to, kdy je autorizace nutná. Zjednodušeně řečeno u listinné formy je nutná vždy, zatímco u elektronické formy jen tehdy, opouští-li poskytovatele.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-09",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_1",
+   "citace": "§ 55a odst. 1",
+   "zneni": "2026-07-01",
+   "textUst": "Každý záznam do zdravotnické dokumentace vedené v elektronické podobě musí být opatřen identifikátorem záznamu, který je vždy unikátní a je ve formátu stanoveném standardem elektronického zdravotnictví vydaným podle zákona o elektronizaci zdravotnictví.",
+   "text": "Toto se týká pouze záznamů v elektronické zdravotnické dokumentaci (EZD) a nikoliv listinné formy, byť na listinném ztvárnění záznamu z EZD by měl být identifikátor také uveden. Poskytovatel musí v systému zavést službu opatření záznamu jednoznačným identifikátorem, který se bude skládat z identifikace poskytovatele, identifikace typu záznamu a identifikace daného záznamu. Technické podrobnopsti pro skládání kódů identifikátoru bude stanovovat příslušný standard NCEZ, podle kterého bude muset poskytovatel zajistit fungování ve svém systému. Bude také nutné tento identifikátor použít při výměně elektronické zdravotnické dokumentace a elektronického záznamu EHR podle zákona č .325/2021 Sb., o elektronizaci zdravotnictví.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-10",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_2",
+   "citace": "§ 55a odst. 2",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel jednotlivé záznamy ve zdravotnické dokumentaci autorizuje.",
+   "text": "Zde je uvedena obecná povinnost autorizace pro listinné i elektronické záznamy. Další odstavce pak určují podrobnosti podle formy záznamu.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-11",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_3",
+   "citace": "§ 55a odst. 3",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení.",
+   "text": "Pokud je záznam veden v listinné podobě a je jedno zda například v sešitu, v příslušném archu a nebo na papírovém samostatném dokumentu, musí být autorizován vhodnými prostředky. V tomto případě musí být autorizován identifikací poskytovatele, identifikací času, identifikací konkrétního pracovníka a jeho podpisem. Oproti předchozímu stavu se nic nemění, kromě postupů souvisejících s tím, že na jednom fyzickém dokumentu či nosiči může být více záznamů.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-12",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_4",
+   "citace": "§ 55a odst. 4",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.",
+   "text": "Toto ustanovení určuje, jak se provádí autorizace záznamu, respektive výstupu z elektronické zdravotnické dokumentace. Nově se tedy tímto způsobem neautorizují všechny uchovávané záznamy v informačním systému, což je rozebráno dále, ale jen výstupy. Výstupem se rozumí záznam zdravotnické dokumentace, nebo část zdravotnické dokumentace, tj. může obsahovat více záznamů, kterou poskytovatel předává jakékoliv jiné osobě. Je jedno, zda ji v rámci výměny dokumentace podle zákona č. 325/2021 Sb., o elektronizaci zdravotnictví předává jinému poskytovateli, nebo ji třeba předává samotnému pacientovi. Technicky jde o autorizaci obdobným způsobem, jako při validaci digitálního dokumentu podle zákona č. 250/2017 Sb., tedy využití příslušných elektronických validačních prvků, jako je podpis, pečeť poskytovatele a časové razítko. Rozdíl je pouze v povinném využívání validačních prvků vystavených Ministerstvem zdravotnictví v rámci služeb elektronické identifikace poskytovatelů a pracovníků IDRREID.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-13",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_4/pism_a",
+   "citace": "§ 55a odst. 4 písm. a)",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo",
+   "text": "Toto nastává v případě autorizace poskytovatelem.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-14",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_4/pism_b",
+   "citace": "§ 55a odst. 4 písm. b)",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.",
+   "text": "Toto nastává v případě autorizace zdravotnickým pracovníkem jménem poskytovatele.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-15",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_5",
+   "citace": "§ 55a odst. 5",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu.",
+   "text": "Zde se jedná o nejzásadnější a největší změnu k vedení elektronické zdravotnické dokumentace. U záznamů zdravotnické dokumentace, jež nejsou (nebo zatím nejsou) výstupem z dokumentace a nejsou tedy předávány mimo poskytovatele, poskytovatel tyto záznamy uchovává v informačním systému a tento systém zaručí jejich důvěryhodnost vlastní autorizací. Technické řešení je tedy na poskytovateli. Samozřejmě ale musí splňovat požadavky uvedené v tomto zákoně a v zákoně č. 325/2021 Sb., o elektronizaci zdravotnictví. Důležité je, že záznamy se nemusí ukládat do digitálních dokumentů, které se pak nemusí podepisovat a opatřovat validačními prvky. To se děje až v tu chvíli, kdy se vytváří výstup, který se dále předává, o čemž hovoří předchozí odstavec. Očekává se, že informační systém bude udržovat sebetransakčnost a důvěryhodnost vlastních záznamů a jejich obsahu, o čemž se pak ještě hovoří dále v zákoně. Nejde jen o technickou důvěryhodnost, tedy transakčnost záznamu, ale také o autorizaci z pohledu zhotovitele daného záznamu, tedy konkrétního pracovníka. Toto znamená, že systém bude muset udržovat u každého záznamu také metadata o tom, kdy a kdo jej vytvořil. Vzhledem k tomu, že záznam nelze nikdy upravit a ani smazat, viz ustanovení dalšího odstavce o opravách záznamů, musí být zajištěno vedení metadat o vytvoření, a to včetně identifikace konkrétního pracovníka jednorázově při uložení záznamu. Co se týče identifikace zdravotnického pracovníka, je třeba dbát i na povinnosti uvedené v zákoně č. 325/2021 Sb., o elektronizaci zdravotnictví, a proto je nutné využít jako identifikátor kmenový identifikátor zdravotnického pracovníka z Kmenového registru zdravotnických pracovníků. Jde tedy o technické a funní požadavky kladené na samotný informační systém.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-16",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_6",
+   "citace": "§ 55a odst. 6",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel není povinen autorizovat záznam ve zdravotnické dokumentaci, který je vytvořen automatizovaně zdravotnickým prostředkem nebo jiným přístrojem, pokud z takového záznamu nebo k němu připojené informace je zřejmé, že byl vytvořen zdravotnickým prostředkem nebo jiným přístrojem a v jakém datu a čase byl vytvořen.",
+   "text": "Věcné jádro autorizace záznamu je vazba záznamu na jeho zhotovitele, tedy na konkrétního zdravotnického pracovníka, přestože jedná jménem poskytovatele. U automatizovaných záznamů taková vazba logicky nemůže existovat, a proto u nich není prováděna autorizace. To neznamerná, že by informační systém nezajišťoval bezpečnost, důvěryhodnost a transakčnost daného záznamu, pouze se v rámci jeho autorizace nepřipojí metadata o jeho zhotoviteli.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-17",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55a/odst_7",
+   "citace": "§ 55a odst. 7",
+   "zneni": "2026-07-01",
+   "textUst": "Opravy a doplnění autorizovaného záznamu se provádí novým záznamem a musí se provádět tak, aby bylo možné zjistit obsah záznamu před opravou nebo doplněním. V doplnění nebo opravě záznamu ve zdravotnické dokumentaci na žádost pacienta se uvede poznámka, že jde o opravu nebo doplnění na žádost pacienta.",
+   "text": "V elektronické podobě je jednou zaevidovaný záznam neměnný, a to za žádných okolností. Jeho metadata založená na identifikátoru záznamu jsou jedinečná, jediná a neměnná. Je-li potřeba opravy, či dokonce zrušení daného záznamu, provede se to v informačním systému novým záznamem, který je technicky svázán s původním záznamem. Systém pak rozlišuje, kdy je platný nový záznam a kdy naopak poskytne celou historii změn včetně původního záznamu. Při zápisu nového záznamu je nutné také zapsat stav před opravou a nesmí se zapomenout na vazbu přes identifikátor na původní záznam. Jinak zde platí vše, co u jakéhokoliv jiného záznamu.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-18",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55b",
+   "citace": "§ 55b",
+   "zneni": "2026-07-01",
+   "textUst": "Zpracovává-li poskytovatel údaje ze zdravotnické dokumentace pro účely vědy a výzkumu, anonymizuje je tak, aby nebyla seznatelná identita pacienta. Takto vzniklé informace se nepovažují za zdravotnickou dokumentaci.",
+   "text": "Narozdíl od pseudonymizace při vedení a předávání zdravotnické dokumentace, která je zajištěna vazbou na kmenový identifikátor pacienta, se při využívání údajů k jiným účelům provede jejich anonymizace. O tu se opět stará daný informační systém a bude u toho muset splnit příslušné technické požadavky. Anonymizace musí být taková, aby nebylo možné zpětné svázání s konkrétním pacientem či záznamem. Tedy kupříkladu nepostačí pouze anonymizace údajů o pacientovi, ale například se musí anonymizovat i jednoznačný identifikátor záznamu, aby anonymizovaná data nebylo nikdy možno zpětně přiřadit k existujícím záznamům vedeným v informačním systému poskytovatele.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-19",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55c",
+   "citace": "§ 55c",
+   "zneni": "2026-07-01",
+   "textUst": "Informační systém, ve kterém je vedena zdravotnická dokumentace v elektronické podobě, musí umožnit převedení zdravotnické dokumentace do výstupního datového formátu stanoveného standardem elektronického zdravotnictví podle zákona o elektronizaci zdravotnictví.",
+   "text": "Zejména pro účely předávání zdravotnické dokumentace (výstupu ze zdravotnické dokumentace) musí být umožněno si vyměňovat zdravotnickou dokumentaci v elektronické podobě v takovém standardizovaném formátu a rozsahu, aby s ní bylo možno u příjemce nadále pracovat. Příkladem je výměna s využitím výměnného formátu DASTA nebo závazné datové věty jednotlivých druhů elektronických zdravotnických záznamů (EHR). Informační systém poskytovatele musí při tvorbě výstupu zdravotnické dokumentace vygenerovat záznamy v těchto datových formátech a strukturách a nesmí se přitom zapomenout na autorizaci takových záznamů jako výstupů dle předchozích ustanovení. Výstupní formáty budou stanoveny jednotlivými standardy a budou závazné i při výměně dokumentace mezi poskytovateli a v některých případech i při výměně údajů s poskytovateli v rámci EU.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-20",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_55d",
+   "citace": "§ 55d",
+   "zneni": "2026-07-01",
+   "textUst": "Poskytovatel je povinen zpracovat písemná pravidla pro zpracování zdravotnické dokumentace, jejichž součástí jsou vhodná technická a organizační opatření, aby zajistil a byl schopen doložit, že zpracování zdravotnické dokumentace je prováděno podle tohoto zákona a je v souladu s ochranou osobních údajů podle jiných právních předpisů.",
+   "text": "Každý poskytovatel je povinen mít dokumentaci s pravidly, která řeší technické požadavky na informační systém. Některé požadavky jsou obecné, například důvěryhodnost a bezpečnost, některé jsou podmíněně závazné, například formy autorizace, a některé jsou závazné, jako například dodržování požadavků stanovených ve standardech Národního centra pro elektronizaci zdravotnictví. S těmi všemi se musí prokazatelným způsobem poskytovatel vypořádat, a to právě v těchto pravidlech. V některých případech budou tato pravidla nebo jejich části podléhat také vyjádření útvaru hlavního architekta eHealt, tedy Národnímu centru pro elektronizaci zdravotnictví.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-diginemocnice-372-21",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_56/odst_3",
+   "citace": "§ 56 odst. 3",
+   "zneni": "2026-07-01",
+   "textUst": "V případě zdravotnické dokumentace vedené v elektronické podobě se zdravotnická dokumentace převede do listinné podoby a postupuje se podle odstavce 2; současně se elektronická podoba zdravotnické dokumentace odstraní z informačního systému.",
+   "text": "Toto je nesystémový a velice specifický případ pro vedení elektronické zdravotnické dokumentace. Musí být dodrženy všechny povinnosti a požadavky na vedení elektronické zdravotnické dokumentace. Takže poskytovatel po převodu takové dokumentace do listinné podoby v systému automatizovaně provede úpravu stávajících záznamů, a to tak, aby nebylo možno jejich obsah svázaný s pacientkou zpětně zrekonstruovat. Samozřejmě o takovém kroku, a to bez předchozího stavu, musí být v systému učiněn záznam. Zákon hovoří o odstranění údajů, ale technicky se realizuje jejich smazáním a nahrazením automatizovanými informacemi o jejich shreddingu, což řeší také daný informační systém.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T08:16:46.409Z",
+   "upraveno": "2026-10-29T08:16:46.409Z"
+  },
+  {
+   "id": "k-mvthtg1qohsh",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_6",
+   "citace": "§ 4 odst. 6",
+   "zneni": "2025-11-01",
+   "textUst": "Vyhodnotí-li orgán veřejné moci po posouzení podmínek podle odstavce 5, že by mu umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo nepřiměřenou zátěž, zašle Agentuře žádost o vyjádření k tomuto závěru. V případě souhlasného vyjádření Agentury orgán veřejné moci vyznačí závěr v katalogu služeb. V případě nesouhlasného vyjádření Agentury a pokud orgán veřejné moci na závěru trvá, rozhodne o tom, zda by umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo orgánu veřejné moci nepřiměřenou zátěž, vláda.",
+   "text": "Tohle je takové zmateně ustanovení. Tady se jedná ve skutečnosti o to, zda nepřiměřená zátěž se týká konkrétního agendového informačního systému veřejné zprávy. Tedy zda se bude realizovat nějaké klientské portálové rozhraní tohoto systému. Ale ono je to vlastně úplně jedno, protože vždy se služba či úkon realizuje alespoň formulářem v rámci portálu občana tedy v rámci portálu veřejné zprávy, který ustanovení o realizaci prostřednictvím informačního systému veřejné zprávy samozřejmě také splňuje. Takže vlastně tohle ustanovení pro jednotlivé úřady nepřináší vůbec nic zásadně nového.",
+   "skupiny": [
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T12:01:48.926Z",
+   "upraveno": "2026-10-29T12:01:48.926Z"
+  },
+  {
+   "id": "k-mvvcc8t4gtcq",
+   "predpis": "2026/60",
+   "klic": "norma/cast_1/hlava_2/par_8/odst_1",
+   "citace": "§ 8 odst. 1",
+   "zneni": "2026-05-27",
+   "textUst": "Správce dat, který je ohlašovatelem agendy podle zákona o základních registrech, vytváří jako součást svého lokálního katalogu dat datový slovník agendy s popisem dat vedených v rámci agendy.",
+   "text": "Ohlašovatel agendy je zodpovědný za agendové slovníky a ostatní je v rámci standardizace přebírají. Tohle je jeden z klíčových mechanismů správy dat ve veřejné správě a je třeba na to myslet.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-30T19:04:00.664Z",
+   "upraveno": "2026-10-30T19:04:00.664Z"
+  },
+  {
+   "id": "k-mvxjpmcnf7gv",
+   "predpis": "2011/372",
+   "klic": "norma/cast_6/hlava_1/par_56",
+   "citace": "§ 56",
+   "zneni": "2026-07-01",
+   "textUst": "Zdravotnická dokumentace o utajeném porodu podle § 37 je vedena v rozsahu zdravotních služeb souvisejících s těhotenstvím a utajeným porodem. Odděleně od zdravotnické dokumentace je vedeno jméno, popřípadě jména, příjmení ženy, které jsou poskytovány v souvislosti s těhotenstvím a utajeným porodem zdravotní služby, písemná žádost o utajení porodu, datum narození ženy a datum porodu.\nPo ukončení hospitalizace ženy, která utajeně porodila, poskytovatel doplní zdravotnickou dokumentaci o údaje uvedené v odstavci 1, vloží ji do vhodného obalu, který zapečetí a označí bezpečnostním kódem, který bude předán též pacientce. Otevření takto zapečetěné zdravotnické dokumentace je možné jedině na základě rozhodnutí soudu; to neplatí, požádá-li o otevření zdravotnické dokumentace žena, která utajeně porodila.\nV případě zdravotnické dokumentace vedené v elektronické podobě se zdravotnická dokumentace převede do listinné podoby a postupuje se podle odstavce 2; současně se elektronická podoba zdravotnické dokumentace odstraní z informačního systému.",
+   "text": "Tohle je naprosto správná myšlenka, nicméně principielně to trochu koliduje s principy důvěryhodnosti a zachovatelnosti vedení elektronické zdravotnické dokumentace, na což teoreticky v rámci utajených porodů narazíte a v tuto chvíli to nemá příliš jednoduché řešení.",
+   "skupiny": [
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-01T08:05:54.407Z",
+   "upraveno": "2026-11-01T08:05:54.407Z"
   }
  ],
  "stitky": [
@@ -661,18 +1139,86 @@
     "t-mvhxlvdnt9wr",
     "t-mvhxurfpbqno"
    ],
-   "upraveno": "2026-10-21T12:42:40.273Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
   },
   {
    "predpis": "2020/12",
    "klic": "norma/cast_1/par_4/odst_1/pism_d",
    "citace": "§ 4 odst. 1 písm. d)",
    "zneni": "2025-11-01",
-   "textUst": "(1) Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím\n  d) informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
+   "textUst": "Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
    "stitky": [
-    "t-mvi27i0vidi6"
+    "t-mvi27i0vidi6",
+    "t-mvhxurfpbqno",
+    "t-mvth7p1ivefa",
+    "t-mvi3x0b7x0t7"
    ],
-   "upraveno": "2026-10-21T12:42:40.273Z"
+   "upraveno": "2026-11-02T20:40:45.972Z"
+  },
+  {
+   "predpis": "2016/134",
+   "klic": "norma/cast_10/par_211/odst_7",
+   "citace": "§ 211 odst. 7",
+   "zneni": "2025-04-03",
+   "textUst": "(7) Na komunikaci mezi zadavatelem a dodavatelem při zadávání veřejné zakázky se § 5 a 6 zákona o službách vytvářejících důvěru pro elektronické transakce neuplatní. Úkon učiněný prostřednictvím elektronického nástroje nebo datové schránky se považuje za podepsaný.",
+   "stitky": [
+    "t-mvi3wumvioru",
+    "t-mvi27i0vidi6",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-02T20:40:45.972Z"
+  },
+  {
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_8/odst_5",
+   "citace": "§ 8 odst. 5",
+   "zneni": "2026-01-01",
+   "textUst": "(5) Správce agendového informačního systému používá vlastní identifikátory fyzických osob a právnických osob a za účelem komunikace s informačním systémem základních registrů nebo informačním systémem sdílené služby používá agendové identifikátory fyzických osob a identifikátory právnických osob vedené v registru osob.",
+   "stitky": [
+    "t-mvi3wumvioru",
+    "t-mvhxurfpbqno",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-02T20:40:45.972Z"
+  },
+  {
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_1/pism_b",
+   "citace": "§ 4 odst. 1 písm. b)",
+   "zneni": "2025-11-01",
+   "textUst": "Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím kontaktního místa veřejné správy v případě digitálního úkonu, o kterém tak stanoví prováděcí právní předpis,",
+   "stitky": [
+    "t-mvi27i0vidi6",
+    "t-mvhxurfpbqno",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-02T20:40:45.972Z"
+  },
+  {
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_6",
+   "citace": "§ 4 odst. 6",
+   "zneni": "2025-11-01",
+   "textUst": "Vyhodnotí-li orgán veřejné moci po posouzení podmínek podle odstavce 5, že by mu umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo nepřiměřenou zátěž, zašle Agentuře žádost o vyjádření k tomuto závěru. V případě souhlasného vyjádření Agentury orgán veřejné moci vyznačí závěr v katalogu služeb. V případě nesouhlasného vyjádření Agentury a pokud orgán veřejné moci na závěru trvá, rozhodne o tom, zda by umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo orgánu veřejné moci nepřiměřenou zátěž, vláda.",
+   "stitky": [
+    "t-mvth7p1ivefa",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-02T20:40:45.972Z"
+  },
+  {
+   "predpis": "2026/60",
+   "klic": "norma/cast_1/hlava_2/par_8/odst_1",
+   "citace": "§ 8 odst. 1",
+   "zneni": "2026-05-27",
+   "textUst": "Správce dat, který je ohlašovatelem agendy podle zákona o základních registrech, vytváří jako součást svého lokálního katalogu dat datový slovník agendy s popisem dat vedených v rámci agendy.",
+   "stitky": [
+    "t-mvi27i0vidi6",
+    "t-mvhxurfpbqno",
+    "t-mvth7p1ivefa",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-02T20:40:45.972Z"
   }
  ],
  "poradi": [

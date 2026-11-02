@@ -1,0 +1,56 @@
+- V oblasti informačních systémů
+	- Definuje některé pojmy z oblasti eGovernmentu a informačních systémů
+	- Stanovuje rámec pro celou oblast ISVS
+	- Definuje, co je informační systém a co je ISVS
+	- Definuje základní role spojené se správou ISVS
+		- Správce informačního systému
+		- Provozovatel informačního systému
+		- Uživatel informačního systému
+	- Definuje speciální typy informačních systémů a povinnosti správců pro
+		- Elektronické systémy spisové služby
+		- Systémy pro personalistiku a oděňování
+		- Ekonomické systémy a účetnictví
+		- E-mailové systémy a platformy
+	- Definuje kategorii Určený informační systém a některá jeho specifika
+	- Stanovuje povinnosti správcům určených informačních systémů
+		- Požádat o stanovisko Odbor hlavního architekta v záměru projektu a v realizaci projektu ICT
+		- Požádat o stanovisko Odbor hlavního architekta před realizací projektů určených IS
+		- Požádat o stanovisko Odbor hlavního architekta před zahájením poskytování či změně služby určeného IS (kolaudace)
+		- Realizovat dlouhodobé řízení ICT
+		- Zpracovat a aktualizovat dokumentaci ISVS
+		- Realizovat provoz a rozvoj ISVS a informačních činností výhradně se souhlasným stanoviskem OHA
+		- Realizovat rozvoj či pořízení informačních systémů v souladu s IKČR
+	- Zakazuje realizovat rozvoj či pořízení určených informačních systémů a nebo uvedení do provozu bez souhlasného stanoviska OHA
+	- stanovuje, že porušení povinností podle zákona o ISVS je porušením rozpočtové kázně (se všemi důsledky)
+	- Stanovuje povinnost využívat pro vazby a propojování výhradně referenční rozhraní
+	- Stanovuje povinnost provozovat a služby z ISVS poskytovat výhradně  
+		prostřednictvím Centrálního místa služeb
+- V oblasti cloud computingu
+	- Stanovuje základní povinnosti k využívání cloudu ve veřejné správě
+	- Definuje jako cloud
+		- Státní cloud ve státních datových centrech
+		- Komerční cloud poskytováním služeb cloudu splňujícím standardy
+	- Definuje Katalog Cloud computingu, který se skládá z
+		- Katalogu nabídek cloudových služeb, který zavádí jako povinně využívaný dynamický nákupní systém pro cloud
+		- Katalogu poptávky cloudových služeb
+		- Katalogu využívání cloudových služeb veřejnou správou
+		- Katalogu poskytovatelů cloudových služeb
+	- Stanovuje povinnost poptávat a nabízet výhradně služby uvedené v katalogu
+	- Stanovuje povinnost oznámit využívání cloudu do Katalogu využívání cloud computingu
+	- Stanovuje postupy pro registraci poskytovatelů a cloudových služeb a pro zápisy do katalogů
+- V oblasti řízení ICT
+	- Zakotvuje jako závazné a povinné strategické dokumenty
+		- Informační koncepci České republiky
+		- Informační koncepci orgánu veřejné správy, jež musí být v souladu s IKČR
+	- Stanovuje zejména vládě, Radě vlády pro informační společnost a Digitální a informační agentuře  povinnosti související s IK a se znalostmi k informačním systémům
+	- Stanovuje orgánům veřejné správy zpracovávat, aktualizovat, udržovat, provádět a vyhodnocovat jejich Informační koncepci
+	- Stanovuje orgánům veřejné správy mít svoje koncepce a systémy v souladu s IKČR. Stanovuje správcům informačních systémů zpracovávat a udržovat provozní dokumentaci
+- Dále zákon
+	- Definuje Portál veřejné správy, udává jeho cíl a služby a stanovuje některé související povinnosti
+	- Stanovuje povinnosti správcům informačních systémů vůči subjektům, jako třeba přístup k údajům vedeným o nich a nebo výpisy údajů
+	- Definuje využívání zaručené elektronické identifikace v rámci portálů a v rámci poskytování služeb
+	- Stanovuje, že zaručená elektronická identifikace správně využitá při službách informačních systémů nahrazuje podpis a je jednou z forem vlastnoručního podpisu
+	- stanovuje povinnosti přístupu subjektu k datům a výpisům z jeho ISVS
+	- Definuje Centrální místo služeb jako infrastrukturu KIVS a stanovuje povinnosti využívat CMS správcům ISVS
+	- Stanovuje povinnosti související s přístupem k údajům v informačních systémech a s jejich výpisy
+	- Dává subjektům, jež mají elektronickou identifikaci, práva k přístupům, k údajům a výpisům z informačních systémů
