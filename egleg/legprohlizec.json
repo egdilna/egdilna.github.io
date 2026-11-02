@@ -244,12 +244,53 @@
     "2025-01-01"
    ],
    "zkontrolovano": "2026-10-21T12:42:36.359Z"
+  },
+  "2016/134": {
+   "pridano": "2026-11-02T20:40:35.320Z",
+   "zneni": {
+    "2025-04-03": {
+     "soubory": [
+      "predpisy/2016-134/2025-04-03-1.json",
+      "predpisy/2016-134/2025-04-03-2.json"
+     ],
+     "pocet": 2755,
+     "stazeno": "2026-11-02T20:40:36.753Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "134/2016 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o zadávání veřejných zakázek",
+   "datumVydani": "ze dne 19. dubna 2016",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2016-04-29",
+    "2016-10-01",
+    "2017-05-22",
+    "2017-07-01",
+    "2018-01-01",
+    "2018-10-18",
+    "2019-02-01",
+    "2019-11-26",
+    "2021-01-01",
+    "2021-06-01",
+    "2022-01-01",
+    "2022-02-01",
+    "2022-09-01",
+    "2023-07-16",
+    "2024-01-01",
+    "2025-01-01",
+    "2025-04-03",
+    "2027-01-01"
+   ],
+   "zkontrolovano": "2026-11-02T20:40:35.449Z"
   }
  },
  "skupiny": [
   {
-   "id": "s-mvgu8bknkv6n",
-   "nazev": "EG Správa dat",
+   "id": "s-mvi32tes9fqw",
+   "nazev": "EG a klienti",
    "popis": ""
   },
   {
@@ -263,8 +304,13 @@
    "popis": ""
   },
   {
-   "id": "s-mvi32tes9fqw",
-   "nazev": "EG a klienti",
+   "id": "s-mvgu8bknkv6n",
+   "nazev": "EG Správa dat",
+   "popis": ""
+  },
+  {
+   "id": "s-mvthk1z0reum",
+   "nazev": "EG kurzy",
    "popis": ""
   }
  ],
@@ -371,13 +417,18 @@
  ],
  "skupinyKomentaru": [
   {
+   "id": "sk-mvi2lxfdt078",
+   "nazev": "Komentáře pro AI",
+   "popis": ""
+  },
+  {
    "id": "sk-mvi2alz38wrl",
    "nazev": "Výklady a komentáře",
    "popis": ""
   },
   {
-   "id": "sk-mvi2lxfdt078",
-   "nazev": "Komentáře pro AI",
+   "id": "sk-mvpfx38fmi0t",
+   "nazev": "technická realizace",
    "popis": ""
   }
  ],
@@ -498,8 +549,8 @@
  ],
  "stitky": [
   {
-   "id": "t-mvhxlvdnt9wr",
-   "nazev": "spisová služba",
+   "id": "t-mvi27i0vidi6",
+   "nazev": "důležité ustanovení",
    "popis": ""
   },
   {
@@ -508,8 +559,28 @@
    "popis": ""
   },
   {
-   "id": "t-mvi27i0vidi6",
-   "nazev": "důležité ustanovení",
+   "id": "t-mvhxlvdnt9wr",
+   "nazev": "spisová služba",
+   "popis": ""
+  },
+  {
+   "id": "t-mvi3wumvioru",
+   "nazev": "co se nesmí",
+   "popis": ""
+  },
+  {
+   "id": "t-mvth7p1ivefa",
+   "nazev": "kurz eg",
+   "popis": ""
+  },
+  {
+   "id": "t-mvth5ciudw8q",
+   "nazev": "kurz jak na ais",
+   "popis": ""
+  },
+  {
+   "id": "t-mvi3x0b7x0t7",
+   "nazev": "na co si dávat pozor",
    "popis": ""
   }
  ],
@@ -537,5 +608,12 @@
    ],
    "upraveno": "2026-10-21T12:42:40.273Z"
   }
+ ],
+ "poradi": [
+  "2020/12",
+  "2026/60",
+  "2009/111",
+  "2000/365",
+  "2004/499"
  ]
 }
