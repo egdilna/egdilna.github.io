@@ -23,7 +23,6 @@
         "rozpracované",
         "dopsat"
       ],
-      "draft": true,
       "children": [
         {
           "id": "zakladni-pilire-eg",
@@ -701,8 +700,8 @@
           "hide_children": true
         },
         {
-          "id": "cil-mifrace-a-doplneni-obsahu",
-          "title": "Cíl Mifrace a doplnění obsahu",
+          "id": "cil-migrace-a-doplneni-obsahu",
+          "title": "Cíl Migrace a doplnění obsahu",
           "file": "redakce-cil-migrace-a-doplneni-obsahu.md",
           "managed": true
         },
@@ -715,8 +714,7 @@
             "aktuálně",
             "Redakce"
           ],
-          "perex": "Stručně co je kde na webu...",
-          "draft": true
+          "perex": "Stručně co je kde na webu..."
         }
       ]
     }
