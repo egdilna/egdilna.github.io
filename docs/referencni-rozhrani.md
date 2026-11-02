@@ -1,13 +1,13 @@
-Referenční rozhraní definuje zákon [[predpis:111/2009]] a jde o sadu systémů a jejich rozhraní, kterými se propojují agendové informační systémy a řeší se povinnosti jako [[využívání referenčních údajů]], [[využívání agendových údajů]], [[egdilna:poskytovani-agendovych-udaju]], [[egdilna:vymena-udaju-mezi-agendami|]] a další.
+Referenční rozhraní definuje zákon [[111/2009]] a jde o sadu systémů a jejich rozhraní, kterými se propojují agendové informační systémy a řeší se povinnosti jako [[využívání referenčních údajů]], [[využívání agendových údajů]], [[poskytování agendových údajů]], [[egdilna:vymena-udaju-mezi-agendami|]] a další.
 
 Referenční rozhraní veřejné správy je jediným rozhraním, prostřednictvím kterého je možné uskutečňovat vazby mezi informačními systémy veřejné správy. Jedinou výjimkou jsou vazby mezi systémy jednoho správce – tedy takové vazby, které jsou činěny v rámci jednoho úřadu, ne však již resortu. Zároveň to také  neznamená zákaz uskutečňování těchto vazeb, pouze neexistuje povinnost.
 
 Pokud je tedy potřeba uskutečnit vazbu jednoho informačního systému veřejné správy na jiný, není ze zákona umožněno tuto vazbu činit například vytvořením vlastního aplikačního přístupového rozhraní, ale vždy musí být využito referenčního rozhraní.
 
-Referenční rozhraní a jeho využívání definuje zákon [[predpis:365/2000]] a jeho komponenty také definuje [[predpis:111/2009]]. Referenční rozhraní obsahuje tyto základní systémy:
+Referenční rozhraní a jeho využívání definuje zákon [[predpis:365/2000]] a jeho komponenty také definuje [[111/2009]]. Referenční rozhraní obsahuje tyto základní systémy:
 
   * [[informacni-system-zakladnich-registru]] pro [[využívání referenčních údajů]]
-  * [[:egdilna:informacni-system-sdilene-sluzby]] pro [[vyuzivani-agendovych-udaju]] a [[poskytovani-agendovych-udaju]]
+  * [[:egdilna:informacni-system-sdilene-sluzby]] pro [[vyuzivani-agendovych-udaju]] a [[poskytování agendových údajů]]
   * [[Informační systém pro hromadný výdej údajů]] pro multimodální dotazy (FAIS)
 
 Správcem referenčního rozhraní je [[subjekt:dia]].

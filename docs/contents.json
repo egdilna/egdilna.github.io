@@ -174,9 +174,34 @@
               ]
             },
             {
-              "id": "agendove-udaje",
-              "title": "Agendové údaje",
-              "file": "agendove-udaje.md",
+              "id": "informacni-system-sdilene-sluzby",
+              "title": "Informační systém sdílené služby",
+              "file": "informacni-system-sdilene-sluzby.md",
+              "aliases": [
+                "informační systém sdílených služeb",
+                "isss",
+                "egsb",
+                "egon service bus"
+              ],
+              "tags": [
+                "integrace informačních systémů",
+                "isvs a ais",
+                "klíčové pojmy",
+                "propojený datový fond",
+                "rámec pro AIS",
+                "výměna údajů"
+              ]
+            },
+            {
+              "id": "propojeny-datovy-fond",
+              "title": "Propojený datový fond",
+              "file": "propojeny-datovy-fond.md",
+              "aliases": [
+                "ppdf",
+                "propojeného datového fondu",
+                "propojenému datovému fondu",
+                "propojeným datovým fondem"
+              ],
               "tags": [
                 "Edukace",
                 "isvs a ais",
@@ -218,6 +243,22 @@
                 "digitální zákony",
                 "eg zákony",
                 "zákony eg"
+              ],
+              "children": [
+                {
+                  "id": "zakon-o-zakladnich-registrech",
+                  "title": "Zákon o základních registrech",
+                  "file": "zakon-o-zakladnich-registrech.md",
+                  "aliases": [
+                    "111/2009",
+                    "zákona o základních registrech",
+                    "zákoně o základních registrech"
+                  ],
+                  "tags": [
+                    "klíčové pojmy",
+                    "legislativa"
+                  ]
+                }
               ]
             }
           ],
@@ -325,6 +366,27 @@
                 "rámec pro AIS",
                 "isvs a ais"
               ]
+            },
+            {
+              "id": "vnejsi-integrace",
+              "title": "vnější integrace",
+              "file": "vnejsi-integrace.md",
+              "tags": [
+                "Edukace",
+                "isvs a ais",
+                "Řízení a rozvoj IS",
+                "integrace informačních systémů"
+              ]
+            },
+            {
+              "id": "vnitrni-integrace",
+              "title": "Vnitřní integrace",
+              "file": "vnitrni-integrace.md",
+              "tags": [
+                "isvs a ais",
+                "integrace informačních systémů",
+                "Řízení a rozvoj IS"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -379,6 +441,27 @@
                 "klíčové pojmy"
               ],
               "perex": "Jedinečný identifikátor fyzické osoby v jedné agendě"
+            },
+            {
+              "id": "agendove-udaje",
+              "title": "Agendové údaje",
+              "file": "agendove-udaje.md",
+              "tags": [
+                "Edukace",
+                "isvs a ais",
+                "klíčové pojmy",
+                "propojený datový fond",
+                "výměna údajů"
+              ]
+            },
+            {
+              "id": "referencni-udaje",
+              "title": "Referenční údaje",
+              "file": "referencni-udaje.md",
+              "tags": [
+                "klíčové pojmy",
+                "výměna údajů"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -390,11 +473,43 @@
       ]
     },
     {
+      "id": "odkazy",
+      "title": "Odkazy",
+      "file": "odkazy.md",
+      "type": "rozcestnik",
+      "multisection": true
+    },
+    {
       "id": "metodiky",
       "title": "Metodiky",
       "file": "metodiky.md",
       "type": "sekce",
-      "draft": true
+      "draft": true,
+      "children": [
+        {
+          "id": "postupy",
+          "title": "Postupy",
+          "children": [
+            {
+              "id": "ramcovy-postup-pro-realizaci-sdileni-udaju-v-propojenem-datovem-fondu",
+              "title": "Rámcový postup pro realizaci sdílení údajů v propojeném datovém fondu",
+              "file": "ramcovy-postup-pro-realizaci-sdileni-udaju-v-propojenem-datovem-fondu.md",
+              "type": "dokument",
+              "tags": [
+                "dokument",
+                "integrace informačních systémů",
+                "isvs a ais",
+                "propojený datový fond",
+                "rámec pro AIS",
+                "výměna údajů",
+                "metodiky",
+                "metodika"
+              ]
+            }
+          ],
+          "type": "rozcestnik"
+        }
+      ]
     },
     {
       "id": "egovedu",
@@ -584,24 +699,6 @@
           "perex": "Stručně co je kde na webu...",
           "draft": true
         }
-      ]
-    },
-    {
-      "id": "propojeny-datovy-fond",
-      "title": "Propojený datový fond",
-      "file": "propojeny-datovy-fond.md",
-      "aliases": [
-        "ppdf",
-        "propojeného datového fondu",
-        "propojenému datovému fondu",
-        "propojeným datovým fondem"
-      ],
-      "tags": [
-        "Edukace",
-        "isvs a ais",
-        "klíčové pojmy",
-        "propojený datový fond",
-        "výměna údajů"
       ]
     }
   ]

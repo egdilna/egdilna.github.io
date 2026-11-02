@@ -1,4 +1,4 @@
-Podle ustanovení § 5 zákona [[:predpis:111-2009|]] a souvisejících povinností musí [[:orgán veřejné moci|]] povinně využívat kromě referenčních také [[agendové údaje]] a to nehledě na to, zda má jejich výčet ve svém agendovém zákoně. Agendové údaje vedené v příslušných AISech využívá se stejnými principy jako při [[egdilna:vyuzivani-referencnich-udaju]].
+Podle ustanovení § 5 zákona [[:predpis:111-2009|]] a souvisejících povinností musí [[:orgán veřejné moci|]] povinně využívat kromě referenčních také [[agendové údaje]] a to nehledě na to, zda má jejich výčet ve svém agendovém zákoně. Agendové údaje vedené v příslušných AISech využívá se stejnými principy jako při [[využívání referenčních údajů]].
 
 
 
