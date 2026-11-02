@@ -132,6 +132,58 @@
                 "Řízení a rozvoj IS"
               ],
               "perex": "Co je to referenční rozhraní a z čeho se skládá a k čemu to vlastně je?"
+            },
+            {
+              "id": "vyuzivani-referencnich-udaju",
+              "title": "Využívání referenčních údajů",
+              "file": "vyuzivani-referencnich-udaju.md",
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "rámec pro AIS",
+                "výměna údajů",
+                "propojený datový fond"
+              ]
+            },
+            {
+              "id": "vyuzivani-agendovych-udaju",
+              "title": "Využívání agendových údajů",
+              "file": "vyuzivani-agendovych-udaju.md",
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "propojený datový fond",
+                "rámec pro AIS",
+                "výměna údajů"
+              ]
+            },
+            {
+              "id": "organ-verejne-moci",
+              "title": "orgán veřejné moci",
+              "file": "organ-verejne-moci.md",
+              "aliases": [
+                "ovm",
+                "orgánů veřejné moci",
+                "orgán veřejné moci",
+                "orgánům veřejné moci"
+              ],
+              "tags": [
+                "Edukace",
+                "klíčové pojmy",
+                "role ve veřejné správě"
+              ]
+            },
+            {
+              "id": "agendove-udaje",
+              "title": "Agendové údaje",
+              "file": "agendove-udaje.md",
+              "tags": [
+                "Edukace",
+                "isvs a ais",
+                "klíčové pojmy",
+                "propojený datový fond",
+                "výměna údajů"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -532,6 +584,24 @@
           "perex": "Stručně co je kde na webu...",
           "draft": true
         }
+      ]
+    },
+    {
+      "id": "propojeny-datovy-fond",
+      "title": "Propojený datový fond",
+      "file": "propojeny-datovy-fond.md",
+      "aliases": [
+        "ppdf",
+        "propojeného datového fondu",
+        "propojenému datovému fondu",
+        "propojeným datovým fondem"
+      ],
+      "tags": [
+        "Edukace",
+        "isvs a ais",
+        "klíčové pojmy",
+        "propojený datový fond",
+        "výměna údajů"
       ]
     }
   ]
