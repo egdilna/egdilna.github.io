@@ -1,0 +1,1 @@
+⚠️ Pozor na jednu věc: Jde o napůl právní a napůl technický stav. Zejména v právním prostoru různých regulací rádi hledáme přesné definice a schováváme se za ně, ale to v moderní době není dobrý nápad. Naučme se spíš než hledat přesné definice a vymezování všeho kolem, trochu o tom přemýšlet selským rozumem. Půjde nám to pak všechno o hodně lépe.
