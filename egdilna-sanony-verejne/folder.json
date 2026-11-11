@@ -502,10 +502,10 @@
     {
       "path": "Data/Vzory dat a předepsaná data a práce s nimi/Formuláře a data/EasyForms dokumentace a vzory",
       "color": "slama",
-      "description": "",
+      "description": "Śoubory dokumentace pro EasyForms i pro další potřebné komponenty zjednodušených formulářů a také XML vzory a schémata a vzorové formuláře",
       "tags": [],
       "created": "2026-11-11T07:53:41.851Z",
-      "updated": "2026-11-11T07:53:41.851Z"
+      "updated": "2026-11-11T08:16:10.832Z"
     }
   ],
   "files": [
@@ -3026,6 +3026,6 @@
       "size": 11487
     }
   ],
-  "updated": "2026-11-11T08:15:04.270Z",
+  "updated": "2026-11-11T08:16:10.832Z",
   "links": []
 }
