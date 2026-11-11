@@ -3013,8 +3013,19 @@
       "created": "2026-11-11T08:12:39.154Z",
       "updated": "2026-11-11T08:12:39.154Z",
       "size": 1620401
+    },
+    {
+      "name": "EF schéma 1 easyforms-detail-podani.xsd",
+      "description": "Schéma pro XML s obsahem formuláře a to zejména objekty Detail podání",
+      "folder": "Data/Vzory dat a předepsaná data a práce s nimi/Formuláře a data/EasyForms dokumentace a vzory",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-11-11T08:15:04.270Z",
+      "updated": "2026-11-11T08:15:04.270Z",
+      "size": 11487
     }
   ],
-  "updated": "2026-11-11T08:12:39.154Z",
+  "updated": "2026-11-11T08:15:04.270Z",
   "links": []
 }
