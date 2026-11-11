@@ -1,7 +1,7 @@
 {
   "version": 1,
   "projectName": "EGdata DKM",
-  "projectDescription": "",
+  "projectDescription": "eGovernmentí data a struktury a znalosti na jednom místě",
   "ghPath": "egdilna/egdilna.github.io/egdata.dkmdata",
   "settings": {
     "tabs": [
