@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<detail_podání>
+  <identifikátor>RppForms-39</identifikátor>
+  <typ>F603</typ>
+  <popis>TESTOVACÍ FORMULÁŘ. NEJDE O PODÁNÍ DLE SPRÁVNÍHO ŘÁDU, POUZE O TESTOVÁNÍ NOVÉHO SYSTÉMU. ZPRÁVU PROSÍM SMAŽTE.
+Poplatek, který obyvatelé platí za zajištění sběru, svozu a likvidace komunálního odpadu. Poplatek zpravidla hradí
+osoby s trvalým pobytem v obci nebo vlastníci nemovitostí určených k bydlení. Hradí se jednou ročně způsobem zvoleným
+ve formuláři.</popis>
+  <agenda_kód>A42</agenda_kód>
+  <agenda_název>Místní poplatky</agenda_název>
+  <služba_kód>S13613</služba_kód>
+  <služba_název>Poplatek za obecní systém odpadového hospodářství</služba_název>
+  <úkon_kód>U35275</úkon_kód>
+  <verze>1</verze>
+  <platnost_od>2026-03-16</platnost_od>
+  <příjemce>
+    <obchodní_firma>Obec Vzorov</obchodní_firma>
+    <ičo>00298765</ičo>
+    <datová_schránka>vzk7301</datová_schránka>
+    <sídlo>
+      <adresní_místo>
+        <kód_adresního_místa>41208364</kód_adresního_místa>
+        <obec>Vysoký Újezd</obec>
+        <okres>Beroun</okres>
+      </adresní_místo>
+    </sídlo>
+  </příjemce>
+  <žadatel>
+    <fyzická_osoba>
+      <jméno>Jan</jméno>
+      <příjmení>Novák</příjmení>
+      <datum_narození>1985-04-12</datum_narození>
+      <kontakt>
+        <email>jan.novak@example.com</email>
+        <telefon>+420601234567</telefon>
+        <id_datové_schránky>nvk4821</id_datové_schránky>
+      </kontakt>
+      <adresa>
+        <obec>Praha</obec>
+        <část_obce>Karlín</část_obce>
+        <ulice>Sokolovská</ulice>
+        <číslo_popisné>458</číslo_popisné>
+        <číslo_orientační>12</číslo_orientační>
+        <psč>18600</psč>
+      </adresa>
+    </fyzická_osoba>
+  </žadatel>
+  <počet_osob_v_domácnosti>2</počet_osob_v_domácnosti>
+  <důvod_slevy_nebo_osvobození text="Student / osoba dlouhodobě pobývající mimo obec">2</důvod_slevy_nebo_osvobození>
+  <způsob_zaplacení_poplatku text="Zaslání QR kódu k platbě">1</způsob_zaplacení_poplatku>
+  <přílohy/>
+</detail_podání>
