@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<detail_podání>
+  <identifikátor>RppForms-2</identifikátor>
+  <agenda_kód>A777</agenda_kód>
+  <agenda_název>Kontrolní agenda</agenda_název>
+  <služba_kód>S7007</služba_kód>
+  <služba_název>Informační povinnost občana</služba_název>
+  <úkon_kód>U70071</úkon_kód>
+  <verze>1</verze>
+  <příjemce>
+    <obchodní_firma>Nová firma a. s.</obchodní_firma>
+    <ičo>80706050</ičo>
+    <datová_schránka>abc1234</datová_schránka>
+    <sídlo>
+      <adresní_místo>
+        <kód_adresního_místa>12345</kód_adresního_místa>
+      </adresní_místo>
+    </sídlo>
+  </příjemce>
+  <žadatel>
+    <fyzická_podnikající_osoba>
+      <ičo>74125896</ičo>
+      <název>Karel Dvořák – truhlářství</název>
+      <kontakt>
+        <email>karel.dvorak@example.com</email>
+        <telefon>+420603456789</telefon>
+        <id_datové_schránky>kdv6213</id_datové_schránky>
+      </kontakt>
+      <adresa>
+        <obec>Kolín</obec>
+        <část_obce>Kolín II</část_obce>
+        <ulice>Polní</ulice>
+        <číslo_popisné>158</číslo_popisné>
+        <číslo_orientační>4</číslo_orientační>
+        <psč>28002</psč>
+      </adresa>
+    </fyzická_podnikající_osoba>
+  </žadatel>
+  <zástupce_žadatele>
+    <kód_zastoupení>5c1f0e7a-2b64-4d0c-9a3e-8f47b6d21e90</kód_zastoupení>
+    <fyzická_osoba>
+      <jméno>Eva</jméno>
+      <příjmení>Malá</příjmení>
+      <datum_narození>1982-11-30</datum_narození>
+      <kontakt>
+        <email>eva.mala@example.com</email>
+        <telefon>+420604567890</telefon>
+        <id_datové_schránky>ema3057</id_datové_schránky>
+      </kontakt>
+      <adresa>
+        <obec>Lhota</obec>
+        <část_obce>Lhota</část_obce>
+        <číslo_evidenční>57</číslo_evidenční>
+        <psč>27714</psč>
+      </adresa>
+    </fyzická_osoba>
+  </zástupce_žadatele>
+  <jméno_psa>Rex</jméno_psa>
+  <přílohy>
+    <příloha>
+      <název xml:lang="cs">Doklad o zaplacení</název>
+      <název_souboru>doklad-o-zaplaceni.pdf</název_souboru>
+      <typ_média>application/pdf</typ_média>
+    </příloha>
+    <příloha>
+      <název xml:lang="cs">Další přiložený soubor</název>
+      <název_souboru>fotografie-objektu.jpg</název_souboru>
+      <typ_média>image/jpeg</typ_média>
+    </příloha>
+  </přílohy>
+</detail_podání>
