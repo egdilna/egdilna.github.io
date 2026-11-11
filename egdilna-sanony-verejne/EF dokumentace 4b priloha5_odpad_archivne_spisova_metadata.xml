@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumenty:dokument xmlns:dokumenty="http://dia.gov.cz/ns/metadata-dokumentu-verejnopravnich-puvodcu">
+  <dokumenty:jid>PO-ZOPDS-2026-2563</dokumenty:jid>
+  <dokumenty:odesílatel>
+    <osoby:fyzická_osoba xmlns:osoby="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/osoby">
+      <osoby:jméno>Jan</osoby:jméno>
+      <osoby:příjmení>Novák</osoby:příjmení>
+      <osoby:datum_narození>1985-04-12</osoby:datum_narození>
+      <osoby:trvalé_bydliště>
+        <místa:adresní_místo xmlns:místa="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/mista">
+          <místa:kód_adresního_místa>22348824</místa:kód_adresního_místa>
+        </místa:adresní_místo>
+      </osoby:trvalé_bydliště>
+      <osoby:datová_schránka>nvk4821</osoby:datová_schránka>
+    </osoby:fyzická_osoba>
+  </dokumenty:odesílatel>
+  <dokumenty:příjemce>
+    <osoby:právnická_osoba xmlns:osoby="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/osoby">
+      <osoby:obchodní_firma>Obec Vzorov</osoby:obchodní_firma>
+      <osoby:ičo>00298765</osoby:ičo>
+      <osoby:datová_schránka>vzk7301</osoby:datová_schránka>
+      <osoby:sídlo>
+        <místa:adresní_místo xmlns:místa="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/mista">
+          <místa:kód_adresního_místa>41208364</místa:kód_adresního_místa>
+        </místa:adresní_místo>
+      </osoby:sídlo>
+    </osoby:právnická_osoba>
+  </dokumenty:příjemce>
+  <dokumenty:věc xml:lang="cs">Služby obcí: Poplatek za obecní systém odpadového hospodářství</dokumenty:věc>
+</dokumenty:dokument>
