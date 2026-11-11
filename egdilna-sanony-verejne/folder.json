@@ -490,6 +490,14 @@
       "tags": [],
       "created": "2026-11-11T07:52:12.126Z",
       "updated": "2026-11-11T07:52:12.126Z"
+    },
+    {
+      "path": "Data/Vzory dat a předepsaná data a práce s nimi/Formuláře a data",
+      "color": "tyrkysova",
+      "description": "",
+      "tags": [],
+      "created": "2026-11-11T07:52:46.952Z",
+      "updated": "2026-11-11T07:52:46.952Z"
     }
   ],
   "files": [
@@ -2812,6 +2820,6 @@
       "updated": "2026-10-05T15:48:03.907Z"
     }
   ],
-  "updated": "2026-11-11T07:52:12.128Z",
+  "updated": "2026-11-11T07:52:46.952Z",
   "links": []
 }
