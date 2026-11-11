@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "projectName": "",
+  "projectDescription": "",
+  "ghPath": "egdilna/egdilna.github.io/egdata.dkmdata",
+  "settings": {
+    "tabs": [
+      {
+        "id": "z_mwc9cfqq3jv7li",
+        "kind": "inbox",
+        "name": "",
+        "icon": "",
+        "showCount": true,
+        "hideEmpty": false
+      },
+      {
+        "id": "z_mwc9cfqralz81u",
+        "kind": "all",
+        "name": "",
+        "icon": "",
+        "showCount": true,
+        "hideEmpty": false
+      },
+      {
+        "id": "z_mwc9cfqrl3w354",
+        "kind": "archive",
+        "name": "",
+        "icon": "",
+        "showCount": true,
+        "hideEmpty": true
+      }
+    ],
+    "modules": []
+  },
+  "entityTypes": [],
+  "aspects": [],
+  "relationTypes": [],
+  "selectLists": [],
+  "tagSets": [],
+  "savedViews": [],
+  "jsonExports": [],
+  "entities": []
+}
