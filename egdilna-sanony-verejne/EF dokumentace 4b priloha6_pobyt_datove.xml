@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<detail_podání>
+  <identifikátor>RppForms-40</identifikátor>
+  <typ>F603</typ>
+  <popis>TESTOVACÍ FORMULÁŘ. NEJDE O PODÁNÍ DLE SPRÁVNÍHO ŘÁDU, POUZE O TESTOVÁNÍ NOVÉHO SYSTÉMU. ZPRÁVU PROSÍM SMAŽTE.
+Služba umožňuje ubytovatelům přihlásit se u obce k poplatku z pobytu. Tuto povinnost mají osoby nebo provozovatelé
+ubytovacích zařízení, kteří poskytují krátkodobé ubytování za úplatu. Na základě oznámení obec poplatníka zaeviduje a
+poskytne informace o způsobu evidence ubytovaných osob a odvádění poplatku podle obecně závazné vyhlášky.</popis>
+  <agenda_kód>A42</agenda_kód>
+  <agenda_název>Místní poplatky</agenda_název>
+  <služba_kód>S1005</služba_kód>
+  <služba_název>Poplatek z pobytu</služba_název>
+  <úkon_kód>U7693</úkon_kód>
+  <verze>1</verze>
+  <platnost_od>2026-03-16</platnost_od>
+  <příjemce>
+    <obchodní_firma>Obec Vysoký Újezd</obchodní_firma>
+    <ičo>00287431</ičo>
+    <datová_schránka>vuj5093</datová_schránka>
+    <sídlo>
+      <adresní_místo>
+        <kód_adresního_místa>1591801</kód_adresního_místa>
+        <obec>Vysoký Újezd</obec>
+        <okres>Beroun</okres>
+      </adresní_místo>
+    </sídlo>
+  </příjemce>
+  <žadatel>
+    <fyzická_osoba>
+      <jméno>Marie</jméno>
+      <příjmení>Svobodová</příjmení>
+      <datum_narození>1990-08-23</datum_narození>
+      <kontakt>
+        <email>marie.svobodova@example.com</email>
+        <telefon>+420602345678</telefon>
+        <id_datové_schránky>msv7412</id_datové_schránky>
+      </kontakt>
+      <adresa>
+        <obec>Radim</obec>
+        <část_obce>Radim</část_obce>
+        <číslo_popisné>87</číslo_popisné>
+        <psč>28103</psč>
+      </adresa>
+    </fyzická_osoba>
+  </žadatel>
+  <údaje_o_ubytovacím_zařízení>24</údaje_o_ubytovacím_zařízení>
+  <typ_ubytovacího_zařízení text="Jiné ubytovací zařízení">6</typ_ubytovacího_zařízení>
+  <kapacita_ubytování>24</kapacita_ubytování>
+  <zahájení_poskytování_ubytování>2026-03-27</zahájení_poskytování_ubytování>
+  <přílohy/>
+</detail_podání>
