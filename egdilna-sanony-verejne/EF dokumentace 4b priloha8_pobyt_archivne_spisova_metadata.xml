@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokumenty:dokument xmlns:dokumenty="http://dia.gov.cz/ns/metadata-dokumentu-verejnopravnich-puvodcu">
+  <dokumenty:jid>PO-ZOPDS-2026-2534</dokumenty:jid>
+  <dokumenty:odesílatel>
+    <osoby:fyzická_osoba xmlns:osoby="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/osoby">
+      <osoby:jméno>Marie</osoby:jméno>
+      <osoby:příjmení>Svobodová</osoby:příjmení>
+      <osoby:datum_narození>1990-08-23</osoby:datum_narození>
+      <osoby:trvalé_bydliště>
+        <místa:adresní_místo xmlns:místa="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/mista">
+          <místa:kód_adresního_místa>22835946</místa:kód_adresního_místa>
+        </místa:adresní_místo>
+      </osoby:trvalé_bydliště>
+      <osoby:datová_schránka>msv7412</osoby:datová_schránka>
+    </osoby:fyzická_osoba>
+  </dokumenty:odesílatel>
+  <dokumenty:příjemce>
+    <osoby:právnická_osoba xmlns:osoby="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/osoby">
+      <osoby:obchodní_firma>Obec Vysoký Újezd</osoby:obchodní_firma>
+      <osoby:ičo>00287431</osoby:ičo>
+      <osoby:datová_schránka>vuj5093</osoby:datová_schránka>
+      <osoby:sídlo>
+        <místa:adresní_místo xmlns:místa="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/mista">
+          <místa:kód_adresního_místa>1591801</místa:kód_adresního_místa>
+        </místa:adresní_místo>
+      </osoby:sídlo>
+    </osoby:právnická_osoba>
+  </dokumenty:příjemce>
+  <dokumenty:věc xml:lang="cs">Služby obcí: Přihlášení k poplatku z pobytu</dokumenty:věc>
+</dokumenty:dokument>
