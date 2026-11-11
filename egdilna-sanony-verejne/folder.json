@@ -482,6 +482,14 @@
       "tags": [],
       "created": "2026-10-05T14:42:18.589Z",
       "updated": "2026-10-05T14:42:18.589Z"
+    },
+    {
+      "path": "Data/Vzory dat a předepsaná data a práce s nimi",
+      "color": "",
+      "description": "",
+      "tags": [],
+      "created": "2026-11-11T07:52:12.126Z",
+      "updated": "2026-11-11T07:52:12.126Z"
     }
   ],
   "files": [
@@ -2804,6 +2812,6 @@
       "updated": "2026-10-05T15:48:03.907Z"
     }
   ],
-  "updated": "2026-10-05T15:48:03.907Z",
+  "updated": "2026-11-11T07:52:12.128Z",
   "links": []
 }
