@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns="http://dia.gov.cz/ns/dokumenty-z-formularu-ZoPDS">
+  <jid>PO-ZOPDS-2026-2563</jid>
+  <odesílatel>
+    <osoby:fyzická_osoba xmlns:osoby="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/osoby">
+      <osoby:jméno>Jan</osoby:jméno>
+      <osoby:příjmení>Novák</osoby:příjmení>
+      <osoby:datum_narození>1985-04-12</osoby:datum_narození>
+      <osoby:trvalé_bydliště>
+        <místa:adresní_místo xmlns:místa="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/mista">
+          <místa:kód_adresního_místa>22348824</místa:kód_adresního_místa>
+        </místa:adresní_místo>
+      </osoby:trvalé_bydliště>
+      <osoby:datová_schránka>nvk4821</osoby:datová_schránka>
+    </osoby:fyzická_osoba>
+  </odesílatel>
+  <příjemce>
+    <osoby:právnická_osoba xmlns:osoby="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/osoby">
+      <osoby:obchodní_firma>Obec Vzorov</osoby:obchodní_firma>
+      <osoby:ičo>00298765</osoby:ičo>
+      <osoby:datová_schránka>vzk7301</osoby:datová_schránka>
+      <osoby:sídlo>
+        <místa:adresní_místo xmlns:místa="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/mista">
+          <místa:kód_adresního_místa>41208364</místa:kód_adresního_místa>
+        </místa:adresní_místo>
+      </osoby:sídlo>
+    </osoby:právnická_osoba>
+  </příjemce>
+  <uživatel_služby>
+    <osoby:fyzická_osoba xmlns:osoby="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/osoby">
+      <osoby:jméno>Jan</osoby:jméno>
+      <osoby:příjmení>Novák</osoby:příjmení>
+      <osoby:datum_narození>1985-04-12</osoby:datum_narození>
+      <osoby:trvalé_bydliště>
+        <místa:adresní_místo xmlns:místa="http://dia.gov.cz/ns/spolecne-casti-elektronickych-dokumentu/mista">
+          <místa:kód_adresního_místa>22348824</místa:kód_adresního_místa>
+        </místa:adresní_místo>
+      </osoby:trvalé_bydliště>
+      <osoby:datová_schránka>nvk4821</osoby:datová_schránka>
+    </osoby:fyzická_osoba>
+  </uživatel_služby>
+  <vyplněn_v_isvs>
+    <kód>3</kód>
+    <název xml:lang="cs">Portál veřejné správy</název>
+  </vyplněn_v_isvs>
+  <způsob_provedení_úkonu>
+    <kód>1</kód>
+    <název xml:lang="cs">Datová schránka</název>
+  </způsob_provedení_úkonu>
+  <byl_vytvořen_formulářem>
+    <identifikátor>RppForms-39</identifikátor>
+    <název xml:lang="cs">Služby obcí: Poplatek za obecní systém odpadového hospodářství</název>
+    <verze>1</verze>
+    <úkon>
+      <kód>U35275</kód>
+      <název xml:lang="cs"/>
+    </úkon>
+    <služba>
+      <kód>S13613</kód>
+      <název xml:lang="cs">Poplatek za obecní systém odpadového hospodářství</název>
+    </služba>
+    <agenda>
+      <kód>A42</kód>
+      <název xml:lang="cs">Místní poplatky</název>
+    </agenda>
+  </byl_vytvořen_formulářem>
+  <počet_příloh>0</počet_příloh>
+  <přílohy/>
+  <věc xml:lang="cs">Služby obcí: Poplatek za obecní systém odpadového hospodářství</věc>
+  <doručit_osvědčení_do_datové_schránky>false</doručit_osvědčení_do_datové_schránky>
+  <služba_v_přenesené_působnosti>false</služba_v_přenesené_působnosti>
+</dokument>
