@@ -2991,8 +2991,19 @@
       "created": "2026-11-11T08:09:30.041Z",
       "updated": "2026-11-11T08:09:30.041Z",
       "size": 8346112
+    },
+    {
+      "name": "EF vzor 1 4 vzor_pruvodni_dopis.pdf",
+      "description": "",
+      "folder": "Data/Vzory dat a předepsaná data a práce s nimi/Formuláře a data/EasyForms dokumentace a vzory",
+      "version": 1,
+      "tags": [],
+      "notes": [],
+      "created": "2026-11-11T08:11:22.049Z",
+      "updated": "2026-11-11T08:11:22.049Z",
+      "size": 1611459
     }
   ],
-  "updated": "2026-11-11T08:09:30.041Z",
+  "updated": "2026-11-11T08:11:25.746Z",
   "links": []
 }
