@@ -464,7 +464,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-20T15:28:18.071Z",
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvgukntzrbk5",
@@ -478,7 +478,7 @@
    ],
    "poznamka": "Tohle mimochodem udává maximální dobu faktické změny údaje z agendové činnosti.",
    "vytvoreno": "2026-10-20T15:37:53.831Z",
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvgx5uqe6yb1",
@@ -492,7 +492,7 @@
    ],
    "poznamka": "Zde není ale zcela jasné, zda se to týká dat souvisejících s výkonem spisové služby, nebo i tzv. agendových dat pro agendy vykonávané v multiagendové aplikaci řešící také ESSL. DIA k tomu vydala stanovisko, ale to to jen trochu vysvětluje.",
    "vytvoreno": "2026-10-20T16:50:21.782Z",
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvgxkiu0s7z0",
@@ -506,7 +506,7 @@
    ],
    "poznamka": "To znamená všechny orgány veřejné správy, včetně státních právnických osob, ale jen pro ISVS",
    "vytvoreno": "2026-10-20T17:01:46.200Z",
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvhwmczazt1r",
@@ -520,7 +520,7 @@
    ],
    "poznamka": "Koordinuje, je ohlašovatelem agendy o správě dat a především realizuje vše kolem zákona o správě dat. Dále taky ale poskytuje konzultace a školení a provozuje celý data.gov.cz",
    "vytvoreno": "2026-10-21T09:22:58.485Z",
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvhxtpzb9go3",
@@ -534,7 +534,7 @@
    ],
    "poznamka": "Tohle je hlavní a nejzákladnější povinnost. Tedy nejen faktický výkon spisové služby v elektronické podobě, ale především ESSL v souladu a to pokud možno potvrzeném atestem. Ale pozor, i mimo potvrzení atestem musí být ESSL vždy v souladu a to nejen se zmíněnou konkrétní legislativou, ale s právními předpisy celkově.",
    "vytvoreno": "2026-10-21T09:56:41.543Z",
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvi32tes492n",
@@ -549,7 +549,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-21T12:23:43.972Z",
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvpfuhx02m65",
@@ -565,7 +565,7 @@
    ],
    "poznamka": "Vlastní identifikátor může být Stykový identifikátor, Klientský identifikátor a nebo neveřejný interní technický identifikátor, ale rozhodně ne samotné AIFO.",
    "vytvoreno": "2026-10-26T15:55:34.068Z",
-   "upraveno": "2026-10-26T15:55:34.068Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvse1semnm5j",
@@ -580,7 +580,7 @@
    ],
    "poznamka": "Nehledě na to co říká zákon o ISVS, podle tohoto ustanovení pro službu a úkon na přepážce KMVS postačí toto ustanovení a uvedení v nařízení vlády.",
    "vytvoreno": "2026-10-28T17:28:33.550Z",
-   "upraveno": "2026-10-28T17:28:33.550Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvthdutea5k5",
@@ -596,7 +596,7 @@
    ],
    "poznamka": "Tímhle se myslí veškeré portály, včetně například portálu občana, dále ale také portálová frontend rozhraní informačních systémů veřejné zprávy, pokud je systém má vytvořené",
    "vytvoreno": "2026-10-29T11:49:41.569Z",
-   "upraveno": "2026-10-29T11:54:30.780Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvthwg8b1qqc",
@@ -611,7 +611,7 @@
    ],
    "poznamka": "Pozor na to, že tady se hovoří o konkrétním informačním systému veřejné zprávy a ne o obecných portálech, jako je například portál občana v rámci portálu veřejné zprávy.",
    "vytvoreno": "2026-10-29T12:04:09.131Z",
-   "upraveno": "2026-10-29T12:04:09.131Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
   },
   {
    "id": "v-mvvcaekaq1aw",
@@ -627,7 +627,24 @@
    ],
    "poznamka": "Na tohle se dost často zapomíná. Je to povinnost ohlašovatele, ne každého OVS zvlášť. Cílem je standardizace.",
    "vytvoreno": "2026-10-30T19:02:34.810Z",
-   "upraveno": "2026-10-30T19:02:34.810Z"
+   "upraveno": "2026-11-12T17:20:53.822Z"
+  },
+  {
+   "id": "v-mwdt64s4s0aa",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_3",
+   "citace": "§ 4 odst. 3",
+   "zneni": "2025-11-01",
+   "text": "Orgány veřejné moci zveřejňují prostřednictvím Agentury elektronické formuláře, které po prokázání totožnosti uživatele služby s využitím elektronické identifikace zajistí automatizované doplnění údajů nezbytných pro poskytnutí digitální služby vedených v základním registru nebo agendovém informačním systému, které jsou orgánu veřejné moci zpřístupněné pro výkon agendy, nebo využívaných orgánem veřejné moci na základě souhlasu uživatele služby. Formát, strukturu a obsah formuláře stanoví orgán veřejné moci zveřejněním. Nezveřejní-li orgán veřejné moci elektronický formulář, má uživatel služby právo učinit digitální úkon podle své volby v jakémkoli výstupním datovém formátu podle zákona upravujícího archivnictví a spisovou službu6).",
+   "nazev": "Povinné online formuláře a jejich fungování",
+   "skupiny": [
+    "s-mvi32tes9fqw",
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "Tedy buď formuláře přes Zjednodušené formuláře na PVS, nebo odkazem na formulář OVM přes Portál občana",
+   "vytvoreno": "2026-11-12T17:15:00.148Z",
+   "upraveno": "2026-11-12T17:15:00.148Z"
   }
  ],
  "skupinyKomentaru": [
@@ -1141,6 +1158,21 @@
    ],
    "vytvoreno": "2026-11-01T08:05:54.407Z",
    "upraveno": "2026-11-01T08:05:54.407Z"
+  },
+  {
+   "id": "k-mwdt8cc6bk5t",
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_3",
+   "citace": "§ 4 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "Orgány veřejné moci zveřejňují prostřednictvím Agentury elektronické formuláře, které po prokázání totožnosti uživatele služby s využitím elektronické identifikace zajistí automatizované doplnění údajů nezbytných pro poskytnutí digitální služby vedených v základním registru nebo agendovém informačním systému, které jsou orgánu veřejné moci zpřístupněné pro výkon agendy, nebo využívaných orgánem veřejné moci na základě souhlasu uživatele služby. Formát, strukturu a obsah formuláře stanoví orgán veřejné moci zveřejněním. Nezveřejní-li orgán veřejné moci elektronický formulář, má uživatel služby právo učinit digitální úkon podle své volby v jakémkoli výstupním datovém formátu podle zákona upravujícího archivnictví a spisovou službu6).",
+   "text": "To lze splnit online formulářem na portálu OVM, online formulářovým nástrojem v portálu jako ISVS, nebo třeba i zjednodušeným formulářem přes EasyForms na PVS. Formulář musí vždy umožňovat vše tady uvedené.",
+   "skupiny": [
+    "sk-mvi2lxfdt078",
+    "sk-mvpfx38fmi0t"
+   ],
+   "vytvoreno": "2026-11-12T17:16:43.254Z",
+   "upraveno": "2026-11-12T17:16:43.254Z"
   }
  ],
  "stitky": [
@@ -1191,7 +1223,7 @@
     "t-mvhxlvdnt9wr",
     "t-mvhxurfpbqno"
    ],
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.821Z"
   },
   {
    "predpis": "2020/12",
@@ -1205,7 +1237,7 @@
     "t-mvth7p1ivefa",
     "t-mvi3x0b7x0t7"
    ],
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.821Z"
   },
   {
    "predpis": "2016/134",
@@ -1218,7 +1250,7 @@
     "t-mvi27i0vidi6",
     "t-mvi3x0b7x0t7"
    ],
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.821Z"
   },
   {
    "predpis": "2009/111",
@@ -1231,7 +1263,7 @@
     "t-mvhxurfpbqno",
     "t-mvi3x0b7x0t7"
    ],
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.821Z"
   },
   {
    "predpis": "2020/12",
@@ -1244,7 +1276,7 @@
     "t-mvhxurfpbqno",
     "t-mvi3x0b7x0t7"
    ],
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.821Z"
   },
   {
    "predpis": "2020/12",
@@ -1256,7 +1288,7 @@
     "t-mvth7p1ivefa",
     "t-mvi3x0b7x0t7"
    ],
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.821Z"
   },
   {
    "predpis": "2026/60",
@@ -1270,7 +1302,22 @@
     "t-mvth7p1ivefa",
     "t-mvi3x0b7x0t7"
    ],
-   "upraveno": "2026-11-02T20:40:45.972Z"
+   "upraveno": "2026-11-12T17:20:53.821Z"
+  },
+  {
+   "predpis": "2020/12",
+   "klic": "norma/cast_1/par_4/odst_3",
+   "citace": "§ 4 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "Orgány veřejné moci zveřejňují prostřednictvím Agentury elektronické formuláře, které po prokázání totožnosti uživatele služby s využitím elektronické identifikace zajistí automatizované doplnění údajů nezbytných pro poskytnutí digitální služby vedených v základním registru nebo agendovém informačním systému, které jsou orgánu veřejné moci zpřístupněné pro výkon agendy, nebo využívaných orgánem veřejné moci na základě souhlasu uživatele služby. Formát, strukturu a obsah formuláře stanoví orgán veřejné moci zveřejněním. Nezveřejní-li orgán veřejné moci elektronický formulář, má uživatel služby právo učinit digitální úkon podle své volby v jakémkoli výstupním datovém formátu podle zákona upravujícího archivnictví a spisovou službu6).",
+   "stitky": [
+    "t-mvi27i0vidi6",
+    "t-mvhxurfpbqno",
+    "t-mvth7p1ivefa",
+    "t-mvth5ciudw8q",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-12T17:20:53.821Z"
   }
  ],
  "poradi": [
