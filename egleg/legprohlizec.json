@@ -14,7 +14,8 @@
     "2009/111",
     "2000/365",
     "2004/499",
-    "2020/329"
+    "2020/329",
+    "2023/360"
    ]
   }
  ],
@@ -397,6 +398,30 @@
     "2023-07-01"
    ],
    "zkontrolovano": "2026-11-12T17:20:38.302Z"
+  },
+  "2023/360": {
+   "pridano": "2026-11-12T17:20:46.618Z",
+   "zneni": {
+    "2024-07-01": {
+     "soubory": [
+      "predpisy/2023-360/2024-07-01-1.json"
+     ],
+     "pocet": 394,
+     "stazeno": "2026-11-12T17:20:47.045Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "360/2023 Sb.",
+   "typ": "VYHLÁŠKA",
+   "nazev": "o dlouhodobém řízení informačních systémů veřejné správy",
+   "datumVydani": "ze dne 7. prosince 2023",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2023-12-15",
+    "2024-07-01"
+   ],
+   "zkontrolovano": "2026-11-12T17:20:46.708Z"
   }
  },
  "skupiny": [
