@@ -13,7 +13,8 @@
     "2026/60",
     "2009/111",
     "2000/365",
-    "2004/499"
+    "2004/499",
+    "2020/329"
    ]
   }
  ],
@@ -370,6 +371,32 @@
     "2028-01-01"
    ],
    "zkontrolovano": "2026-11-02T20:40:41.091Z"
+  },
+  "2020/329": {
+   "pridano": "2026-11-12T17:20:38.192Z",
+   "zneni": {
+    "2023-07-01": {
+     "soubory": [
+      "predpisy/2020-329/2023-07-01-1.json"
+     ],
+     "pocet": 28,
+     "stazeno": "2026-11-12T17:20:38.672Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "329/2020 Sb.",
+   "typ": "VYHLÁŠKA",
+   "nazev": "o seznamu položek popisu informačního systému veřejné správy a soukromoprávního systému pro využívání údajů",
+   "datumVydani": "ze dne 28. července 2020",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2020-07-31",
+    "2020-08-01",
+    "2022-02-01",
+    "2023-07-01"
+   ],
+   "zkontrolovano": "2026-11-12T17:20:38.302Z"
   }
  },
  "skupiny": [
@@ -384,6 +411,11 @@
    "popis": ""
   },
   {
+   "id": "s-mvthk1z0reum",
+   "nazev": "EG kurzy",
+   "popis": ""
+  },
+  {
    "id": "s-mvhxtpzbc69o",
    "nazev": "EG spisová služba",
    "popis": ""
@@ -391,11 +423,6 @@
   {
    "id": "s-mvgu8bknkv6n",
    "nazev": "EG Správa dat",
-   "popis": ""
-  },
-  {
-   "id": "s-mvthk1z0reum",
-   "nazev": "EG kurzy",
    "popis": ""
   }
  ],
@@ -585,13 +612,13 @@
    "popis": ""
   },
   {
-   "id": "sk-mvi2alz38wrl",
-   "nazev": "Výklady a komentáře",
+   "id": "sk-mvpfx38fmi0t",
+   "nazev": "technická realizace",
    "popis": ""
   },
   {
-   "id": "sk-mvpfx38fmi0t",
-   "nazev": "technická realizace",
+   "id": "sk-mvi2alz38wrl",
+   "nazev": "Výklady a komentáře",
    "popis": ""
   }
  ],
@@ -1093,6 +1120,11 @@
  ],
  "stitky": [
   {
+   "id": "t-mvi3wumvioru",
+   "nazev": "co se nesmí",
+   "popis": ""
+  },
+  {
    "id": "t-mvi27i0vidi6",
    "nazev": "důležité ustanovení",
    "popis": ""
@@ -1100,16 +1132,6 @@
   {
    "id": "t-mvhxurfpbqno",
    "nazev": "klíčové povinnosti eg",
-   "popis": ""
-  },
-  {
-   "id": "t-mvhxlvdnt9wr",
-   "nazev": "spisová služba",
-   "popis": ""
-  },
-  {
-   "id": "t-mvi3wumvioru",
-   "nazev": "co se nesmí",
    "popis": ""
   },
   {
@@ -1125,6 +1147,11 @@
   {
    "id": "t-mvi3x0b7x0t7",
    "nazev": "na co si dávat pozor",
+   "popis": ""
+  },
+  {
+   "id": "t-mvhxlvdnt9wr",
+   "nazev": "spisová služba",
    "popis": ""
   }
  ],
@@ -1226,6 +1253,8 @@
   "2026/60",
   "2009/111",
   "2000/365",
-  "2004/499"
+  "2004/499",
+  "2016/134",
+  "2011/372"
  ]
 }
