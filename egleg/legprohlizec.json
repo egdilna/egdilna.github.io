@@ -34,7 +34,8 @@
    "stitky": [
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
-    "t-mwdtrxwfb8bk"
+    "t-mwdtrxwfb8bk",
+    "t-mwdtt5a1w8c3"
    ],
    "budouci": false,
    "citace": "12/2020 Sb.",
@@ -75,7 +76,8 @@
    "stitky": [
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
-    "t-mwdtrxwfb8bk"
+    "t-mwdtrxwfb8bk",
+    "t-mwdtt5a1w8c3"
    ],
    "budouci": false,
    "citace": "60/2026 Sb.",
@@ -105,7 +107,8 @@
    "stitky": [
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
-    "t-mwdtrxwfb8bk"
+    "t-mwdtrxwfb8bk",
+    "t-mwdtt5a1w8c3"
    ],
    "budouci": false,
    "citace": "111/2009 Sb.",
@@ -166,7 +169,8 @@
    "stitky": [
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
-    "t-mwdtrxwfb8bk"
+    "t-mwdtrxwfb8bk",
+    "t-mwdtt5a1w8c3"
    ],
    "budouci": false,
    "citace": "365/2000 Sb.",
@@ -236,7 +240,8 @@
     "t-mvhxlvdnt9wr",
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
-    "t-mwdtrxwfb8bk"
+    "t-mwdtrxwfb8bk",
+    "t-mwdtt5a1w8c3"
    ],
    "budouci": false,
    "citace": "499/2004 Sb.",
@@ -284,7 +289,8 @@
     }
    },
    "stitky": [
-    "t-mwdtrxwfb8bk"
+    "t-mwdtrxwfb8bk",
+    "t-mwdtt5a1w8c3"
    ],
    "budouci": false,
    "citace": "134/2016 Sb.",
@@ -327,7 +333,8 @@
     }
    },
    "stitky": [
-    "t-mwdtrxwfb8bk"
+    "t-mwdtrxwfb8bk",
+    "t-mwdtt5a1w8c3"
    ],
    "budouci": false,
    "citace": "372/2011 Sb.",
@@ -393,7 +400,9 @@
      "stazeno": "2026-11-12T17:20:38.672Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwdtt5a1w8c3"
+   ],
    "budouci": false,
    "citace": "329/2020 Sb.",
    "typ": "VYHLÁŠKA",
@@ -419,7 +428,9 @@
      "stazeno": "2026-11-12T17:20:47.045Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwdtt5a1w8c3"
+   ],
    "budouci": false,
    "citace": "360/2023 Sb.",
    "typ": "VYHLÁŠKA",
@@ -1193,6 +1204,11 @@
   {
    "id": "t-mvi27i0vidi6",
    "nazev": "důležité ustanovení",
+   "popis": ""
+  },
+  {
+   "id": "t-mwdtt5a1w8c3",
+   "nazev": "klíčové eg předpisy i podzákonné",
    "popis": ""
   },
   {
