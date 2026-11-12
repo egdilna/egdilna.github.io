@@ -33,7 +33,8 @@
    },
    "stitky": [
     "t-mvth5ciudw8q",
-    "t-mvth7p1ivefa"
+    "t-mvth7p1ivefa",
+    "t-mwdtrxwfb8bk"
    ],
    "budouci": false,
    "citace": "12/2020 Sb.",
@@ -73,7 +74,8 @@
    },
    "stitky": [
     "t-mvth5ciudw8q",
-    "t-mvth7p1ivefa"
+    "t-mvth7p1ivefa",
+    "t-mwdtrxwfb8bk"
    ],
    "budouci": false,
    "citace": "60/2026 Sb.",
@@ -102,7 +104,8 @@
    },
    "stitky": [
     "t-mvth5ciudw8q",
-    "t-mvth7p1ivefa"
+    "t-mvth7p1ivefa",
+    "t-mwdtrxwfb8bk"
    ],
    "budouci": false,
    "citace": "111/2009 Sb.",
@@ -162,7 +165,8 @@
    },
    "stitky": [
     "t-mvth5ciudw8q",
-    "t-mvth7p1ivefa"
+    "t-mvth7p1ivefa",
+    "t-mwdtrxwfb8bk"
    ],
    "budouci": false,
    "citace": "365/2000 Sb.",
@@ -231,7 +235,8 @@
    "stitky": [
     "t-mvhxlvdnt9wr",
     "t-mvth5ciudw8q",
-    "t-mvth7p1ivefa"
+    "t-mvth7p1ivefa",
+    "t-mwdtrxwfb8bk"
    ],
    "budouci": false,
    "citace": "499/2004 Sb.",
@@ -278,7 +283,9 @@
      "stazeno": "2026-11-02T20:40:36.753Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwdtrxwfb8bk"
+   ],
    "budouci": false,
    "citace": "134/2016 Sb.",
    "typ": "ZÁKON",
@@ -319,7 +326,9 @@
      "stazeno": "2026-11-02T20:40:42.494Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwdtrxwfb8bk"
+   ],
    "budouci": false,
    "citace": "372/2011 Sb.",
    "typ": "ZÁKON",
@@ -1187,6 +1196,11 @@
    "popis": ""
   },
   {
+   "id": "t-mwdtrxwfb8bk",
+   "nazev": "klíčové eg zákony",
+   "popis": ""
+  },
+  {
    "id": "t-mvhxurfpbqno",
    "nazev": "klíčové povinnosti eg",
    "popis": ""
@@ -1327,6 +1341,8 @@
   "2000/365",
   "2004/499",
   "2016/134",
-  "2011/372"
+  "2011/372",
+  "2020/329",
+  "2023/360"
  ]
 }
