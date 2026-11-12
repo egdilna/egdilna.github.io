@@ -35,7 +35,8 @@
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
     "t-mwdtrxwfb8bk",
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "12/2020 Sb.",
@@ -77,7 +78,8 @@
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
     "t-mwdtrxwfb8bk",
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "60/2026 Sb.",
@@ -108,7 +110,8 @@
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
     "t-mwdtrxwfb8bk",
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "111/2009 Sb.",
@@ -170,7 +173,8 @@
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
     "t-mwdtrxwfb8bk",
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "365/2000 Sb.",
@@ -241,7 +245,8 @@
     "t-mvth5ciudw8q",
     "t-mvth7p1ivefa",
     "t-mwdtrxwfb8bk",
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "499/2004 Sb.",
@@ -290,7 +295,8 @@
    },
    "stitky": [
     "t-mwdtrxwfb8bk",
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "134/2016 Sb.",
@@ -334,7 +340,8 @@
    },
    "stitky": [
     "t-mwdtrxwfb8bk",
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "372/2011 Sb.",
@@ -401,7 +408,8 @@
     }
    },
    "stitky": [
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "329/2020 Sb.",
@@ -429,7 +437,8 @@
     }
    },
    "stitky": [
-    "t-mwdtt5a1w8c3"
+    "t-mwdtt5a1w8c3",
+    "t-mwdtuz5mlrja"
    ],
    "budouci": false,
    "citace": "360/2023 Sb.",
@@ -1234,6 +1243,11 @@
   {
    "id": "t-mvi3x0b7x0t7",
    "nazev": "na co si dávat pozor",
+   "popis": ""
+  },
+  {
+   "id": "t-mwdtuz5mlrja",
+   "nazev": "předpis je právě zpracováván a tvoří se komentáře a vyznačení a tagování",
    "popis": ""
   },
   {
