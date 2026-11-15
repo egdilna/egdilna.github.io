@@ -405,6 +405,20 @@
                 "integrace informačních systémů",
                 "Řízení a rozvoj IS"
               ]
+            },
+            {
+              "id": "pozadavky-kb-k-isvs-podle-vyssich-povinnosti",
+              "title": "Požadavky KB k ISVS podle vyšších povinností",
+              "file": "tabulka-pozadavky-kb-byhlaska-vyssi.md",
+              "managed": true,
+              "tags": [
+                "Naše práce",
+                "Řízení a rozvoj IS",
+                "kybernetická bezpečnost",
+                "bezpečnost informací",
+                ".další věci k is"
+              ],
+              "perex": "Tabulka s jednotlivými požadavky na řešení IS dle vyhlášky 409/2026 tedy pro subjekty ve vyšších povinnostech. Speciálně vhodné pro správu a rozvoj ISVS, je rozděleno i na správce a dodavatele."
             }
           ],
           "type": "rozcestnik",
