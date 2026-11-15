@@ -473,7 +473,10 @@
      "stazeno": "2026-11-15T08:41:32.296Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwhkp6hsl1yw",
+    "t-mwhks7ftak4z"
+   ],
    "budouci": false,
    "citace": "264/2025 Sb.",
    "typ": "ZÁKON",
@@ -484,7 +487,8 @@
     "2025-08-04",
     "2025-11-01"
    ],
-   "zkontrolovano": "2026-11-15T08:41:31.645Z"
+   "zkontrolovano": "2026-11-15T08:41:31.645Z",
+   "popis": "Nový ZKB. Samotný zákon jen stanovuje rámec a podrobnosti jednotlivých povinností jsou v prováděcích vyhláškách."
   },
   "2025/409": {
    "pridano": "2026-11-15T08:41:37.892Z",
@@ -497,7 +501,9 @@
      "stazeno": "2026-11-15T08:41:38.232Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwhks7ftak4z"
+   ],
    "budouci": false,
    "citace": "409/2025 Sb.",
    "typ": "VYHLÁŠKA",
@@ -508,7 +514,8 @@
     "2025-10-14",
     "2025-11-01"
    ],
-   "zkontrolovano": "2026-11-15T08:41:37.974Z"
+   "zkontrolovano": "2026-11-15T08:41:37.974Z",
+   "popis": "Konkrétní rámec pro vyšší povinnosti"
   },
   "2025/410": {
    "pridano": "2026-11-15T08:41:41.513Z",
@@ -521,7 +528,9 @@
      "stazeno": "2026-11-15T08:41:41.840Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwhks7ftak4z"
+   ],
    "budouci": false,
    "citace": "410/2025 Sb.",
    "typ": "VYHLÁŠKA",
@@ -532,7 +541,8 @@
     "2025-10-14",
     "2025-11-01"
    ],
-   "zkontrolovano": "2026-11-15T08:41:41.606Z"
+   "zkontrolovano": "2026-11-15T08:41:41.606Z",
+   "popis": "Konkrétní rámec pro nižší povinnosti"
   }
  },
  "skupiny": [
