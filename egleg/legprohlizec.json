@@ -23,7 +23,8 @@
    "nazev": "Kybernetická bezpečnost a KI",
    "popis": "",
    "predpisy": [
-    "2025/264"
+    "2025/264",
+    "2025/409"
    ]
   }
  ],
@@ -483,6 +484,30 @@
     "2025-11-01"
    ],
    "zkontrolovano": "2026-11-15T08:41:31.645Z"
+  },
+  "2025/409": {
+   "pridano": "2026-11-15T08:41:37.892Z",
+   "zneni": {
+    "2025-11-01": {
+     "soubory": [
+      "predpisy/2025-409/2025-11-01-1.json"
+     ],
+     "pocet": 677,
+     "stazeno": "2026-11-15T08:41:38.232Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "409/2025 Sb.",
+   "typ": "VYHLÁŠKA",
+   "nazev": "o bezpečnostních opatřeních poskytovatele regulované služby v režimu vyšších povinností",
+   "datumVydani": "ze dne 26. září 2025",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2025-10-14",
+    "2025-11-01"
+   ],
+   "zkontrolovano": "2026-11-15T08:41:37.974Z"
   }
  },
  "skupiny": [
