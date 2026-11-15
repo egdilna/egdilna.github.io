@@ -17,6 +17,14 @@
     "2020/329",
     "2023/360"
    ]
+  },
+  {
+   "id": "o-mwhktjrr40z0",
+   "nazev": "Kybernetická bezpečnost a KI",
+   "popis": "",
+   "predpisy": [
+    "2025/264"
+   ]
   }
  ],
  "predpisy": {
@@ -451,6 +459,30 @@
     "2024-07-01"
    ],
    "zkontrolovano": "2026-11-12T17:20:46.708Z"
+  },
+  "2025/264": {
+   "pridano": "2026-11-15T08:41:31.558Z",
+   "zneni": {
+    "2025-11-01": {
+     "soubory": [
+      "predpisy/2025-264/2025-11-01-1.json"
+     ],
+     "pocet": 852,
+     "stazeno": "2026-11-15T08:41:32.296Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "264/2025 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o kybernetické bezpečnosti",
+   "datumVydani": "ze dne 11. června 2025",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2025-08-04",
+    "2025-11-01"
+   ],
+   "zkontrolovano": "2026-11-15T08:41:31.645Z"
   }
  },
  "skupiny": [
@@ -1253,6 +1285,16 @@
   {
    "id": "t-mvhxlvdnt9wr",
    "nazev": "spisová služba",
+   "popis": ""
+  },
+  {
+   "id": "t-mwhkp6hsl1yw",
+   "nazev": "kb",
+   "popis": ""
+  },
+  {
+   "id": "t-mwhks7ftak4z",
+   "nazev": "kybernetická bezpečnost",
    "popis": ""
   }
  ],
