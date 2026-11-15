@@ -570,6 +570,11 @@
    "id": "s-mvgu8bknkv6n",
    "nazev": "EG Správa dat",
    "popis": ""
+  },
+  {
+   "id": "s-mwhll94mg6nz",
+   "nazev": "KB vyšší povinnosti",
+   "popis": ""
   }
  ],
  "vyznaceni": [
@@ -766,6 +771,1791 @@
    "poznamka": "Tedy buď formuláře přes Zjednodušené formuláře na PVS, nebo odkazem na formulář OVM přes Portál občana",
    "vytvoreno": "2026-11-12T17:15:00.148Z",
    "upraveno": "2026-11-12T17:15:00.148Z"
+  },
+  {
+   "id": "v-mwhll94ry6an",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_11/odst_2/pism_e",
+   "citace": "§ 11 odst. 2 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u významných změn zajistí jejich testování před uvedením do provozu a",
+   "nazev": "Testování změn před nasazením",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rdokl",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_11/odst_2/pism_f",
+   "citace": "§ 11 odst. 2 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u významných změn zajistí možnost navrácení do původního stavu.",
+   "nazev": "Možnost návratu (rollback)",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rls5t",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_11/odst_2/pism_a",
+   "citace": "§ 11 odst. 2 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u významných změn dokumentuje jejich řízení,",
+   "nazev": "Dokumentace změn a aktualizace dokumentace",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rhw7t",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_11/odst_2/pism_d",
+   "citace": "§ 11 odst. 2 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u významných změn aktualizuje bezpečnostní a provozní dokumentaci,",
+   "nazev": "Dokumentace změn a aktualizace dokumentace",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rdpht",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_12/odst_1/pism_e",
+   "citace": "§ 12 odst. 1 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v souvislosti s plánovanou akvizicí, vývojem a údržbou aktiv zajistí oddělení provozního, zálohovacího, vývojového, testovacího, administrátorského a jiného specifického prostředí, a zajistí ochranu informací a dat, které se v něm vyskytují.",
+   "nazev": "Oddělení prostředí",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94r7da4",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_12/odst_2/pism_a",
+   "citace": "§ 12 odst. 2 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba zajistí při provedení akvizice nebo vývoje technického aktiva využívajícího autentizační mechanismus, zejména za účelem ověření identity uživatelů nebo administrátorů, plnění požadavků podle § 19 odst. 2,",
+   "nazev": "Vícefaktorová autentizace u nově pořizovaných nebo vyvíjených aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94r8ijv",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_12/odst_2/pism_b",
+   "citace": "§ 12 odst. 2 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba zajistí při provedení akvizice nebo vývoje technického aktiva využívajícího kryptografické algoritmy, plnění požadavku podle § 25 odst. 1 písm. a) a § 25 odst. 3 písm. a) a",
+   "nazev": "Odolná kryptografie u nově pořizovaných nebo vyvíjených aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94r2oru",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_12/odst_2/pism_c",
+   "citace": "§ 12 odst. 2 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba zajistí při provedení akvizice nebo vývoje technického aktiva dostupnost bezpečnostních aktualizací po dobu jeho životního cyklu.",
+   "nazev": "Dostupnost bezpečnostních aktualizací po celý životní cyklus",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rcvy3",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_1",
+   "citace": "§ 13 odst. 1",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba na základě bezpečnostních a provozních potřeb řídí přístup k aktivům a přijímá bezpečnostní opatření, která slouží k zajištění ochrany přístupových a autentizačních údajů, které jsou používány pro ověření identity podle § 19 a 20.",
+   "nazev": "Ochrana přístupových a autentizačních údajů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rbehs",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_a",
+   "citace": "§ 13 odst. 2 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům řídí přístup na základě skupin nebo rolí,",
+   "nazev": "Řízení přístupu podle skupin nebo rolí",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rk6ip",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_b",
+   "citace": "§ 13 odst. 2 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům přidělí každému uživateli a administrátorovi přistupujícímu k aktivům přístupová práva a oprávnění na úroveň nezbytně nutnou k výkonu práce a jedinečný identifikátor daného typu účtu, přičemž odděluje uživatelské a administrátorské účty jedné osoby,",
+   "nazev": "Jedinečný identifikátor účtu a princip minimálních oprávnění",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rtjwl",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_c",
+   "citace": "§ 13 odst. 2 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům řídí identifikátory, přístupová práva a oprávnění účtů technických aktiv,",
+   "nazev": "Správa identifikátorů a oprávnění technických (strojových) účtů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rvrrd",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_d",
+   "citace": "§ 13 odst. 2 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům zavádí v souladu s písmenem c) bezpečnostní opatření pro řízení přístupu technických aktiv,",
+   "nazev": "Správa identifikátorů a oprávnění technických (strojových) účtů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rixzw",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_e",
+   "citace": "§ 13 odst. 2 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům zavádí bezpečnostní opatření potřebná pro bezpečné používání mobilních zařízení a jiných obdobných technických aktiv, popřípadě i bezpečnostní opatření spojená s využitím technických aktiv, která povinná osoba nemá ve své správě,",
+   "nazev": "Bezpečné používání mobilních a cizích zařízení",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94r0hcd",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_f",
+   "citace": "§ 13 odst. 2 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům omezí a kontroluje používání programových prostředků a vybavení, které mohou být schopné překonat systémové nebo aplikační kontroly,",
+   "nazev": "Omezení nástrojů schopných obejít kontroly",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rvs1c",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_g",
+   "citace": "§ 13 odst. 2 písm. g)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům přiděluje a odebírá přístupová práva a oprávnění v souladu s politikou řízení přístupu,",
+   "nazev": "Přidělování a odebírání práv dle politiky a jejich pravidelný přezkum",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rq9dx",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_h",
+   "citace": "§ 13 odst. 2 písm. h)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům provádí pravidelné přezkoumání veškerých přístupových práv a oprávnění včetně rozdělení do skupin a rolí,",
+   "nazev": "Přidělování a odebírání práv dle politiky a jejich pravidelný přezkum",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rnetz",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_i",
+   "citace": "§ 13 odst. 2 písm. i)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům zajistí bezodkladné odebrání nebo změnu přístupových práv a oprávnění při změně pozice nebo zařazení na základě skupin a rolí,",
+   "nazev": "Bezodkladná změna práv při změně pozice",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rbti0",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_j",
+   "citace": "§ 13 odst. 2 písm. j)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům zajistí deaktivaci účtů a bezodkladné odebrání nebo změnu přístupových práv a oprávnění při ukončení nebo změně smluvního vztahu, na základě kterého došlo ke zřízení přístupu k aktivům,",
+   "nazev": "Deaktivace účtu při ukončení vztahu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94rmv4f",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_k",
+   "citace": "§ 13 odst. 2 písm. k)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům dokumentuje přidělování a odebírání přístupových práv a oprávnění a",
+   "nazev": "Záznam o přidělování a odebírání práv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94r5eha",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_13/odst_2/pism_l",
+   "citace": "§ 13 odst. 2 písm. l)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále při řízení přístupu k aktivům využívá nástroj pro správu a ověřování identity podle § 19 a nástroj pro řízení přístupových práv a oprávnění podle § 20.",
+   "nazev": "Použití nástroje pro správu identit a pro řízení oprávnění",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94smjpx",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_14/odst_1/pism_d",
+   "citace": "§ 14 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba při zvládání kybernetických bezpečnostních událostí a incidentů definuje a dodržuje pravidla a postupy pro identifikaci, sběr, získání a uchování věrohodných podkladů potřebných pro analýzu kybernetického bezpečnostního incidentu,",
+   "nazev": "Uchování věrohodných podkladů pro analýzu incidentu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sxpw4",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_14/odst_1/pism_f",
+   "citace": "§ 14 odst. 1 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba při zvládání kybernetických bezpečnostních událostí a incidentů zajistí, že uživatelé, administrátoři, osoby zastávající bezpečnostní role, další zaměstnanci a dodavatelé budou oznamovat neobvyklé chování technických aktiv a podezření na zranitelnosti,",
+   "nazev": "Hlášení neobvyklého chování a podezření na zranitelnosti",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sj6zl",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_1/par_14/odst_1/pism_l",
+   "citace": "§ 14 odst. 1 písm. l)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba při zvládání kybernetických bezpečnostních událostí a incidentů vede záznamy o kybernetických bezpečnostních incidentech a o jejich zvládání,",
+   "nazev": "Vedení záznamů o incidentech",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sd21v",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_17/pism_b",
+   "citace": "§ 17 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci fyzické bezpečnosti stanoví fyzický bezpečnostní perimetr ohraničující oblast, ve které jsou uchovávány nebo zpracovávány informace a data, nebo ve které jsou umístěna technická aktiva regulované služby,",
+   "nazev": "Fyzický bezpečnostní perimetr",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sg1ey",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_17/pism_c",
+   "citace": "§ 17 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci fyzické bezpečnosti rozdělí fyzické bezpečnostní perimetry stanovené podle písmene b) s ohledem na hodnocení umístěných technických aktiv do jednotlivých úrovní fyzické ochrany a tyto stanovené fyzické bezpečnostní perimetry a jejich úrovně fyzické ochrany dokumentuje a",
+   "nazev": "Rozdělení perimetrů do úrovní fyzické ochrany",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94svcu6",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_17/pism_d",
+   "citace": "§ 17 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci fyzické bezpečnosti přijme u každého fyzického bezpečnostního perimetru s ohledem na jeho úroveň fyzické ochrany stanovenou podle písmene c) relevantní bezpečnostní opatření fyzické ochrany k zamezení neoprávněnému vstupu, k zamezení poškození, odcizení, zneužití aktiv, neoprávněným zásahům do nich a narušení bezpečnosti poskytování regulované služby, k zajištění fyzické ochrany budov a jiných ohraničených prostor, pro zajištění detekce narušení fyzického bezpečnostního perimetru a k evidenci vstupů a přístupů do fyzického bezpečnostního perimetru.",
+   "nazev": "Úrovně fyzické ochrany a opatření na perimetru",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94szf46",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_a",
+   "citace": "§ 18 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru zajistí a dokumentuje segmentaci komunikační sítě, včetně oddělení provozního, zálohovacího, vývojového, testovacího, administrátorského a jiného specifického prostředí,",
+   "nazev": "Segmentace sítě a oddělení prostředí",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94si433",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_b",
+   "citace": "§ 18 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru zajistí řízení komunikace v rámci komunikační sítě,",
+   "nazev": "Řízení komunikace v komunikační síti",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94slwrv",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_c",
+   "citace": "§ 18 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru zajistí řízení vzdáleného přístupu ke komunikační síti,",
+   "nazev": "Řízení vzdáleného přístupu a vzdálené správy",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94st9ou",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_d",
+   "citace": "§ 18 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru zajistí řízení vzdálené správy technických aktiv,",
+   "nazev": "Řízení vzdáleného přístupu a vzdálené správy",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94szcko",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_e",
+   "citace": "§ 18 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru povoluje v souladu s písmeny b) až d) pouze takovou komunikaci, která je nezbytná pro řádné zajištění regulované služby,",
+   "nazev": "Povolena jen nezbytná komunikace",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s5dlh",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_f",
+   "citace": "§ 18 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru zajistí v souladu s písmeny c) a d) časové omezení komunikace a opětovné ověření identity administrátorů a uživatelů po stanovené době,",
+   "nazev": "Časové omezení relace a opětovné ověření",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s2dl1",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_g",
+   "citace": "§ 18 písm. g)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru zajistí pomocí aktuálně odolných kryptografických algoritmů upravených v § 25 a síťových protokolů důvěrnost a integritu při přenosu informací a dat,",
+   "nazev": "Šifrování přenosu (důvěrnost a integrita)",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sld5e",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_h",
+   "citace": "§ 18 písm. h)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru využívá nástroj, který zajistí ochranu integrity komunikační sítě, a",
+   "nazev": "Ochrana integrity sítě a dokumentace topologie",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s3i56",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_18/pism_i",
+   "citace": "§ 18 písm. i)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro ochranu bezpečnosti komunikační sítě, a to včetně jejího síťového perimetru dokumentuje topologii komunikační sítě a infrastruktury.",
+   "nazev": "Ochrana integrity sítě a dokumentace topologie",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sjcw0",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_1",
+   "citace": "§ 19 odst. 1",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro správu a ověření identity administrátorů, uživatelů a technických aktiv, který zajišťuje ověření identity před zahájením jejich aktivit, řízení počtu možných neúspěšných pokusů o přihlášení, odolnost uložených a přenášených autentizačních údajů vůči hrozbám a zranitelnostem, které by mohly narušit jejich důvěrnost nebo integritu, opětovné ověření identity po stanovené době nečinnosti, dodržení důvěrnosti při vytváření výchozích autentizačních údajů a při obnově přístupu a centralizovanou správu identit s ohledem na vazby mezi aktivy.",
+   "nazev": "Nástroj pro správu a ověřování identit",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s9l4l",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_1/pism_a",
+   "citace": "§ 19 odst. 1 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro správu a ověření identity administrátorů, uživatelů a technických aktiv, který zajišťuje ověření identity před zahájením jejich aktivit,",
+   "nazev": "Ověření identity před zahájením aktivit",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s199s",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_1/pism_b",
+   "citace": "§ 19 odst. 1 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro správu a ověření identity administrátorů, uživatelů a technických aktiv, který zajišťuje řízení počtu možných neúspěšných pokusů o přihlášení,",
+   "nazev": "Řízení počtu neúspěšných pokusů o přihlášení",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s6wj5",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_1/pism_c",
+   "citace": "§ 19 odst. 1 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro správu a ověření identity administrátorů, uživatelů a technických aktiv, který zajišťuje odolnost uložených a přenášených autentizačních údajů vůči hrozbám a zranitelnostem, které by mohly narušit jejich důvěrnost nebo integritu,",
+   "nazev": "Odolnost uložených a přenášených autentizačních údajů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s3xq8",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_1/pism_d",
+   "citace": "§ 19 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro správu a ověření identity administrátorů, uživatelů a technických aktiv, který zajišťuje opětovné ověření identity po stanovené době nečinnosti,",
+   "nazev": "Opětovné ověření po době nečinnosti",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sxpso",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_1/pism_e",
+   "citace": "§ 19 odst. 1 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro správu a ověření identity administrátorů, uživatelů a technických aktiv, který zajišťuje dodržení důvěrnosti při vytváření výchozích autentizačních údajů a při obnově přístupu a",
+   "nazev": "Důvěrnost výchozích údajů a při obnově přístupu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sld21",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_1/pism_f",
+   "citace": "§ 19 odst. 1 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro správu a ověření identity administrátorů, uživatelů a technických aktiv, který zajišťuje centralizovanou správu identit s ohledem na vazby mezi aktivy.",
+   "nazev": "Centralizovaná správa identit",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sl9ny",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_2/pism_a",
+   "citace": "§ 19 odst. 2 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba při ověření identity administrátorů, uživatelů a technických aktiv využívá autentizační mechanismus, který je založen na vícefaktorové autentizaci s alespoň dvěma různými typy faktorů, nebo využívá autentizační mechanismus, který je založen na aktuálně odolné kontinuální autentizaci založené na modelu nulové důvěry, a",
+   "nazev": "Vícefaktorová autentizace (nebo kontinuální ověřování v modelu nulové důvěry)",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s92i1",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_2/pism_b",
+   "citace": "§ 19 odst. 2 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba při ověření identity administrátorů, uživatelů a technických aktiv do doby splnění požadavků podle písmene a) využívá autentizaci pomocí kryptografických klíčů nebo certifikátů.",
+   "nazev": "Přechodně autentizace klíči nebo certifikáty",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94smawi",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_3",
+   "citace": "§ 19 odst. 3",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavků podle odstavce 2 písm. a) vede evidenci technických aktiv, účtů a autentizačních mechanismů, které tyto požadavky nesplňují, a to včetně odůvodnění.",
+   "nazev": "Evidence účtů a aktiv nesplňujících vícefaktorovou autentizaci",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sq15b",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_4/pism_a",
+   "citace": "§ 19 odst. 4 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavku podle odstavce 2 využívá nástroj založený na autentizaci pomocí identifikátoru účtu a hesla, kdy tento nástroj musí vynucovat pravidlo délky hesla alespoň 12 znaků pro účty uživatelů, 17 znaků pro účty administrátorů, 22 znaků pro účty technických aktiv,",
+   "nazev": "Politika hesel — minimální délka",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s90ip",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_4/pism_b",
+   "citace": "§ 19 odst. 4 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavku podle odstavce 2 využívá nástroj založený na autentizaci pomocí identifikátoru účtu a hesla, kdy tento nástroj musí vynucovat pravidlo umožňující zadat heslo o délce alespoň 64 znaků,",
+   "nazev": "Politika hesel — možnost dlouhého hesla",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s553w",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_4/pism_c",
+   "citace": "§ 19 odst. 4 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavku podle odstavce 2 využívá nástroj založený na autentizaci pomocí identifikátoru účtu a hesla, kdy tento nástroj musí vynucovat pravidlo neomezující použití malých a velkých písmen, číslic a speciálních znaků,",
+   "nazev": "Politika hesel — neomezená znaková sada",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s4ni5",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_4/pism_d",
+   "citace": "§ 19 odst. 4 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavku podle odstavce 2 využívá nástroj založený na autentizaci pomocí identifikátoru účtu a hesla, kdy tento nástroj musí vynucovat pravidlo umožňující uživatelům a administrátorům změnu hesla, přičemž období mezi dvěma změnami hesla nesmí být kratší než 30 minut,",
+   "nazev": "Politika hesel — minimální interval mezi změnami",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sqa6v",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_4/pism_e",
+   "citace": "§ 19 odst. 4 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavku podle odstavce 2 využívá nástroj založený na autentizaci pomocí identifikátoru účtu a hesla, kdy tento nástroj musí vynucovat pravidlo povinné změny hesla v intervalu alespoň jednou za 18 měsíců a",
+   "nazev": "Politika hesel — vynucená změna alespoň jednou za 18 měsíců",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s96qq",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_4/pism_f/bod_1",
+   "citace": "§ 19 odst. 4 písm. f) bod 1",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavku podle odstavce 2 využívá nástroj založený na autentizaci pomocí identifikátoru účtu a hesla, kdy tento nástroj musí vynucovat pravidlo neumožňující uživatelům a administrátorům zvolit si jednoduchá a často používaná hesla,",
+   "nazev": "Politika hesel — zákaz slabých a odvozených hesel",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94su0h7",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_4/pism_f/bod_2",
+   "citace": "§ 19 odst. 4 písm. f) bod 2",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavku podle odstavce 2 využívá nástroj založený na autentizaci pomocí identifikátoru účtu a hesla, kdy tento nástroj musí vynucovat pravidlo neumožňující uživatelům a administrátorům tvořit hesla na základě mnohonásobně opakujících se znaků, přihlašovacího jména, adresy elektronické pošty, názvu systému nebo obdobným způsobem a",
+   "nazev": "Politika hesel — zákaz slabých a odvozených hesel",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s79ev",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_4/pism_f/bod_3",
+   "citace": "§ 19 odst. 4 písm. f) bod 3",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby splnění požadavku podle odstavce 2 využívá nástroj založený na autentizaci pomocí identifikátoru účtu a hesla, kdy tento nástroj musí vynucovat pravidlo neumožňující uživatelům a administrátorům opětovné použití dříve používaných hesel s pamětí alespoň 12 předchozích hesel.",
+   "nazev": "Politika hesel — historie alespoň 12 hesel",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sn71p",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_5/pism_a",
+   "citace": "§ 19 odst. 5 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v souladu s odstavcem 4 zajistí bezodkladné vynucení změny výchozího hesla uživatelů a administrátorů po prvním přihlášení,",
+   "nazev": "Vynucení změny výchozího hesla po prvním přihlášení",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sfxlc",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_5/pism_b",
+   "citace": "§ 19 odst. 5 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v souladu s odstavcem 4 zajistí bezodkladné vynucení změny výchozího hesla technického aktiva,",
+   "nazev": "Vynucení změny výchozího hesla po prvním přihlášení",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s5vrp",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_5/pism_c",
+   "citace": "§ 19 odst. 5 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v souladu s odstavcem 4 zajistí vytváření hesla účtu technického aktiva složeného z náhodného řetězce malých a velkých písmen, číslic a speciálních znaků,",
+   "nazev": "Náhodná hesla technických účtů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94ssrp4",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_5/pism_d",
+   "citace": "§ 19 odst. 5 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v souladu s odstavcem 4 zajistí bezodkladné vynucení změny přístupového hesla v případě důvodného podezření na narušení jeho důvěrnosti,",
+   "nazev": "Vynucení změny hesla při podezření na kompromitaci",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sw3n3",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_5/pism_e",
+   "citace": "§ 19 odst. 5 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v souladu s odstavcem 4 zajistí vytvoření náhodného výchozího hesla nebo identifikátoru sloužícího k vytvoření nebo k obnovení přístupu a zajistí jeho důvěrnost a",
+   "nazev": "Jednorázové údaje pro vytvoření nebo obnovu přístupu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94so9ca",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_5/pism_f",
+   "citace": "§ 19 odst. 5 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v souladu s odstavcem 4 zajistí bezodkladné zneplatnění hesla nebo identifikátoru sloužícího k vytvoření nebo k obnovení přístupu po jeho prvním použití nebo uplynutí nejvýše 24 hodin od jeho vytvoření.",
+   "nazev": "Jednorázové údaje pro vytvoření nebo obnovu přístupu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s9yf7",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_19/odst_6",
+   "citace": "§ 19 odst. 6",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u administrátorského účtu zejména určeného pro případ obnovy po kybernetickém bezpečnostním incidentu musí zajistit bezodkladnou změnu výchozího hesla, vytvoření hesla náhodným řetězcem složeným z malých a velkých písmen, číslic a speciálních znaků, délku hesla složeného alespoň z 22 znaků, bezpečné uložení hesla, omezení manipulace s účtem a jeho heslem, kdy s tímto účtem a jeho heslem mohou manipulovat pouze pověřené osoby, a to v nezbytně nutných případech, změnu hesla po jeho použití, při jakékoli změně pověřených osob, v případě důvodného podezření na jeho kompromitaci nebo v intervalu alespoň jednou za 18 měsíců a evidování manipulace a pokusy o manipulaci s tímto účtem a jeho heslem.",
+   "nazev": "Zvláštní režim záložního administrátorského účtu pro obnovu po incidentu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sxwvi",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_20/pism_a",
+   "citace": "§ 20 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro řízení přístupových práv a oprávnění využívá nástroj, který je centralizovaný s ohledem na vazby mezi aktivy,",
+   "nazev": "Centralizovaný nástroj pro řízení oprávnění",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sxnfl",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_20/pism_b",
+   "citace": "§ 20 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro řízení přístupových práv a oprávnění využívá nástroj, kterým řídí práva pro přístup k jednotlivým aktivům a",
+   "nazev": "Řízení práv k jednotlivým aktivům",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s17w6",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_20/pism_c",
+   "citace": "§ 20 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro řízení přístupových práv a oprávnění využívá nástroj, kterým řídí oprávnění pro čtení a zápis informací a dat a změnu oprávnění.",
+   "nazev": "Řízení oprávnění pro čtení, zápis a změnu oprávnění",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94st0pr",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_1/pism_a",
+   "citace": "§ 21 odst. 1 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro detekci kybernetických bezpečnostních událostí, který zajišťuje ověření a kontrolu přenášených dat v rámci komunikační sítě a mezi komunikačními sítěmi,",
+   "nazev": "Kontrola přenášených dat v síti a mezi sítěmi",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s80qs",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_1/pism_b",
+   "citace": "§ 21 odst. 1 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro detekci kybernetických bezpečnostních událostí, který zajišťuje ověření a kontrolu přenášených dat na síťovém perimetru komunikační sítě a",
+   "nazev": "Kontrola dat na síťovém perimetru",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sn5aq",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_1/pism_c",
+   "citace": "§ 21 odst. 1 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro detekci kybernetických bezpečnostních událostí, který zajišťuje aktivní blokování nežádoucí komunikace v rámci komunikační sítě.",
+   "nazev": "Aktivní blokování nežádoucí komunikace",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94st17t",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_2/pism_a",
+   "citace": "§ 21 odst. 2 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá s ohledem na vazby mezi aktivy pro detekci kybernetických bezpečnostních událostí centrálně spravovaný nástroj, který u jednotlivých relevantních technických aktiv zajišťuje nepřetržitou a automatickou ochranu před škodlivým kódem,",
+   "nazev": "Ochrana před škodlivým kódem",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s6uhl",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_2/pism_b",
+   "citace": "§ 21 odst. 2 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá s ohledem na vazby mezi aktivy pro detekci kybernetických bezpečnostních událostí centrálně spravovaný nástroj, který u jednotlivých relevantních technických aktiv zajišťuje řízení a sledování používání vyměnitelných zařízení a datových nosičů,",
+   "nazev": "Řízení vyměnitelných nosičů a automatického spouštění",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s6x5y",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_2/pism_c",
+   "citace": "§ 21 odst. 2 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá s ohledem na vazby mezi aktivy pro detekci kybernetických bezpečnostních událostí centrálně spravovaný nástroj, který u jednotlivých relevantních technických aktiv zajišťuje řízení automatického spouštění obsahu, zejména u vyměnitelných zařízení a datových nosičů,",
+   "nazev": "Řízení vyměnitelných nosičů a automatického spouštění",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94scvnc",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_2/pism_d",
+   "citace": "§ 21 odst. 2 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá s ohledem na vazby mezi aktivy pro detekci kybernetických bezpečnostních událostí centrálně spravovaný nástroj, který u jednotlivých relevantních technických aktiv zajišťuje řízení oprávnění ke spouštění kódu,",
+   "nazev": "Řízení oprávnění ke spuštění kódu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s1eda",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_2/pism_e",
+   "citace": "§ 21 odst. 2 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá s ohledem na vazby mezi aktivy pro detekci kybernetických bezpečnostních událostí centrálně spravovaný nástroj, který u jednotlivých relevantních technických aktiv zajišťuje řízení a sledování komunikace aplikací, jejich služeb a procesů,",
+   "nazev": "Sledování komunikace aplikací a procesů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sbjen",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_2/pism_f",
+   "citace": "§ 21 odst. 2 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá s ohledem na vazby mezi aktivy pro detekci kybernetických bezpečnostních událostí centrálně spravovaný nástroj, který u jednotlivých relevantních technických aktiv zajišťuje detekci kybernetických bezpečnostních událostí technických aktiv a",
+   "nazev": "Detekce na základě chování",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94stclv",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_2/pism_g",
+   "citace": "§ 21 odst. 2 písm. g)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá s ohledem na vazby mezi aktivy pro detekci kybernetických bezpečnostních událostí centrálně spravovaný nástroj, který u jednotlivých relevantních technických aktiv zajišťuje detekci kybernetických bezpečnostních událostí na základě chování technických aktiv, administrátorů a uživatelů.",
+   "nazev": "Detekce na základě chování",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94shdz5",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_21/odst_3",
+   "citace": "§ 21 odst. 3",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba provádí pravidelnou a bezodkladnou aktualizaci nástroje používaného podle odstavců 1 a 2, a to včetně jeho nastavení a detekčních pravidel.",
+   "nazev": "Aktualizace detekčních nástrojů a pravidel",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94slhtm",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_1",
+   "citace": "§ 22 odst. 1",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba na základě hodnocení aktiv a svých bezpečnostních potřeb určí technická aktiva, u kterých je zaznamenávání bezpečnostních a relevantních provozních událostí prováděno, a aktualizuje rozsah technických aktiv podle odstavce 1 písm. a) v pravidelných intervalech a při významných změnách.",
+   "nazev": "Určení aktiv, u kterých se loguje",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sgtn6",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_2",
+   "citace": "§ 22 odst. 2",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba zaznamenává bezpečnostní a relevantní provozní události detekované podle § 21, v rámci komunikační sítě, na síťovém perimetru a technických aktiv určených podle odstavce 1 písm. a).",
+   "nazev": "Logování v síti, na perimetru a u určených aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s9ypg",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_a",
+   "citace": "§ 22 odst. 3 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává přihlašování a odhlašování ke všem účtům, a to včetně neúspěšných pokusů,",
+   "nazev": "Logování přihlášení a odhlášení včetně neúspěšných",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94syzi5",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_b",
+   "citace": "§ 22 odst. 3 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává provedení a neúspěšné pokusy o provedení privilegované činnosti,",
+   "nazev": "Logování privilegovaných činností včetně neúspěšných pokusů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sbg0x",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_c",
+   "citace": "§ 22 odst. 3 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává manipulace a neúspěšné pokusy o manipulaci s účty, oprávněními a právy,",
+   "nazev": "Logování manipulace s účty a oprávněními",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sntiw",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_d",
+   "citace": "§ 22 odst. 3 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává neprovedení činností v důsledku nedostatku přístupových práv nebo oprávnění,",
+   "nazev": "Logování odepření přístupu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sy2me",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_e",
+   "citace": "§ 22 odst. 3 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává zahájení a ukončení činností technických aktiv,",
+   "nazev": "Logování běhu a chybových hlášení aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sxfjj",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_f",
+   "citace": "§ 22 odst. 3 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává kritická a chybová hlášení technických aktiv,",
+   "nazev": "Logování běhu a chybových hlášení aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94siy8x",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_g",
+   "citace": "§ 22 odst. 3 písm. g)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává přístupy a neúspěšné pokusy o přístupy k záznamům událostí,",
+   "nazev": "Ochrana a sledování přístupu k záznamům",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94shx4r",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_h",
+   "citace": "§ 22 odst. 3 písm. h)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává manipulace a neúspěšné pokusy o manipulaci se záznamy událostí,",
+   "nazev": "Ochrana a sledování přístupu k záznamům",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sw5ka",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_3/pism_i",
+   "citace": "§ 22 odst. 3 písm. i)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává změny a neúspěšné pokusy o změny nastavení nástrojů pro zaznamenávání událostí a",
+   "nazev": "Ochrana a sledování přístupu k záznamům",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sb8cl",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_4",
+   "citace": "§ 22 odst. 4",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci zaznamenávání událostí podle odstavce 2 zaznamenává následující informace o události: datum a čas včetně specifikace časového pásma, typ činnosti, jednoznačnou identifikaci technického aktiva, které činnost zaznamenalo, a to i v případě, kdy v komunikační síti dochází ke změně této síťové identifikace, jednoznačnou identifikaci účtu, pod kterým byla činnost provedena, a to i v případě, kdy v komunikační síti dochází ke změně této síťové identifikace, jednoznačnou identifikaci zařízení původce, a to i v případě, kdy v komunikační síti dochází ke změně této síťové identifikace, a úspěšnost nebo neúspěšnost činnosti.",
+   "nazev": "Povinné položky každého záznamu",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94shnih",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_5/pism_a",
+   "citace": "§ 22 odst. 5 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále s ohledem na události zaznamenané podle odstavce 2 zajistí důvěrnost a integritu získaných informací, včetně ochrany před neoprávněným čtením a jakoukoliv změnou,",
+   "nazev": "Důvěrnost a integrita logů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s9zh6",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_5/pism_b",
+   "citace": "§ 22 odst. 5 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále s ohledem na události zaznamenané podle odstavce 2 používá s ohledem na vazby mezi aktivy centralizovaný nástroj pro sběr a uchovávání záznamů těchto událostí a",
+   "nazev": "Centralizovaný sběr a uchovávání logů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sqsao",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_5/pism_c",
+   "citace": "§ 22 odst. 5 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba dále s ohledem na události zaznamenané podle odstavce 2 uchovává záznamy těchto událostí alespoň po dobu 18 měsíců.",
+   "nazev": "Uchování logů alespoň 18 měsíců",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sbvs6",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_22/odst_6",
+   "citace": "§ 22 odst. 6",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba zajišťuje nepřetržitou synchronizaci jednotného času technických aktiv.",
+   "nazev": "Synchronizace jednotného času",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94scy82",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_23/odst_1/pism_a",
+   "citace": "§ 23 odst. 1 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro nepřetržité vyhodnocování kybernetických bezpečnostních událostí detekovaných podle § 21, který zajišťuje sběr, vyhledávání a seskupování souvisejících záznamů za účelem detekce kybernetických bezpečnostních událostí,",
+   "nazev": "Nástroj pro nepřetržité vyhodnocování událostí",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sk8ep",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_23/odst_1/pism_b",
+   "citace": "§ 23 odst. 1 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro nepřetržité vyhodnocování kybernetických bezpečnostních událostí detekovaných podle § 21, který zajišťuje nepřetržité poskytování informací o detekovaných kybernetických bezpečnostních událostech, včasné varování vybraných bezpečnostních rolí a dalších relevantních osob a",
+   "nazev": "Včasné varování bezpečnostních rolí",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s9vj5",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_23/odst_1/pism_c",
+   "citace": "§ 23 odst. 1 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba používá nástroj pro nepřetržité vyhodnocování kybernetických bezpečnostních událostí detekovaných podle § 21, který zajišťuje vyhodnocování kybernetických bezpečnostních událostí s cílem identifikace kybernetických bezpečnostních incidentů.",
+   "nazev": "Identifikace incidentů z událostí",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94skm00",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_23/odst_2",
+   "citace": "§ 23 odst. 2",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba při používání nástroje pro nepřetržité vyhodnocování kybernetických bezpečnostních událostí v souladu s odstavcem 1 zajistí omezení případů nesprávného nebo nežádoucího vyhodnocování kybernetických bezpečnostních událostí, pravidelnou aktualizaci nastavení nástroje včetně jeho pravidel pro detekci a vyhodnocování kybernetických bezpečnostních událostí a pravidelnou aktualizaci pravidel pro nepřetržité poskytování informací o detekovaných kybernetických bezpečnostních událostech včetně včasného varování vybraných bezpečnostních rolí a dalších relevantních osob.",
+   "nazev": "Omezení planých poplachů a aktualizace pravidel",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94spbde",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_24/odst_1",
+   "citace": "§ 24 odst. 1",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro zajištění bezpečnosti regulované služby užívá technická aktiva, která jsou jejich výrobcem, dodavatelem nebo jinou osobou podporována a zajistí aplikování schválených bezpečnostních aktualizací vydaných pro tato aktiva.",
+   "nazev": "Používání podporovaných aktiv a aplikace aktualizací",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s6kzb",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_24/odst_2",
+   "citace": "§ 24 odst. 2",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba do doby plnění podle odstavce 1 zavede bezpečnostní opatření, která zaručí obdobnou nebo vyšší úroveň bezpečnosti těchto technických aktiv, a eviduje technická aktiva, která již nejsou výrobcem, dodavatelem nebo jinou osobou podporována a na která není možné aplikovat poslední schválenou bezpečnostní aktualizaci.",
+   "nazev": "Evidence a kompenzace nepodporovaných aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sikuz",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_24/odst_3",
+   "citace": "§ 24 odst. 3",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci aplikační bezpečnosti zajistí trvalou ochranu aplikací, informací, transakcí a přenášených identifikátorů relací před neoprávněnou činností a popřením provedených činností.",
+   "nazev": "Ochrana aplikací, transakcí a identifikátorů relací",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94swo66",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_24/odst_4",
+   "citace": "§ 24 odst. 4",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci skenování zranitelností technických aktiv provádí pravidelné skenování zranitelností technických aktiv regulované služby z vnitřní a vnější komunikační sítě a alespoň jednou ročně. zohlední výsledky skenování zranitelností technických aktiv v rámci řízení rizik podle § 8 a zavádí bezpečnostní opatření na základě zjištěných výsledků.",
+   "nazev": "Pravidelné skenování zranitelností",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sghyp",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_24/odst_5",
+   "citace": "§ 24 odst. 5",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v rámci penetračního testování provádí penetrační testování technických aktiv s ohledem na hodnocení těchto aktiv a hodnocení rizik z vnitřní a vnější komunikační sítě, před jejich uvedením do provozu a v souvislosti s významnou změnou podle § 11 odst. 3, zohlední výsledky penetračního testování při řízení rizik podle § 8 a zavádí bezpečnostní opatření na základě zjištěných výsledků, provádí v souladu s odstavcem 5 písm. a) bodem 1 pravidelně penetrační testování, a to alespoň jednou za 2 roky, v odůvodněných případech, pokud nemůže provést penetrační testování v rozsahu nebo intervalu stanoveném v odstavci 5 písm. c), může rozdělit toto penetrační testování do systematických celků. V takovém případě je nutno provést penetrační testování v rozsahu stanoveném v odstavci 5 písm. a) nejpozději do 5 let, u penetračních testů v souladu s odstavcem 5 písm. a) eviduje termín provedení a konkrétní fyzické osoby provádějící toto penetrační testování.",
+   "nazev": "Penetrační testování",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sabx5",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_24/odst_6",
+   "citace": "§ 24 odst. 6",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba provede opětovné otestování nálezu zjištěného na základě provedeného skenování zranitelností nebo penetračního testování za účelem ověření funkčnosti zavedených bezpečnostních opatření.",
+   "nazev": "Opětovné otestování nálezů po nápravě",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sunw4",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_25/odst_1",
+   "citace": "§ 25 odst. 1",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba při zajištění bezpečnosti technických aktiv a jejich komunikace používá pouze aktuálně odolné kryptografické algoritmy, prosazuje bezpečné nakládání s kryptografickými algoritmy a zohledňuje doporučení a metodiky v oblasti kryptografických algoritmů vydané Národním úřadem pro kybernetickou a informační bezpečnost.",
+   "nazev": "Pouze aktuálně odolné algoritmy",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sh8gr",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_25/odst_2",
+   "citace": "§ 25 odst. 2",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba zajišťuje bezpečnou hlasovou, audiovizuální a textovou komunikaci, a to včetně e-mailové komunikace, a nouzovou komunikaci v rámci organizace.",
+   "nazev": "Bezpečná komunikace včetně e-mailu a nouzová komunikace",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sx9wn",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_25/odst_3/pism_a",
+   "citace": "§ 25 odst. 3 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v případě využívání kryptografických klíčů a certifikátů pro ochranu technických aktiv a komunikační sítě používá pouze aktuálně odolné kryptografické klíče a certifikáty a",
+   "nazev": "Pouze odolné klíče a certifikáty",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94so6oy",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_25/odst_3/pism_b",
+   "citace": "§ 25 odst. 3 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba v případě využívání kryptografických klíčů a certifikátů pro ochranu technických aktiv a komunikační sítě používá nástroj pro správu kryptografických klíčů a certifikátů, který zajistí generování, distribuci, ukládání, změny, omezení platnosti, zneplatnění certifikátů a řádnou likvidaci kryptografických klíčů, umožní kontrolu a audit a zajistí důvěrnost a integritu kryptografických klíčů.",
+   "nazev": "Nástroj pro správu klíčů a certifikátů",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94spzas",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_26/odst_1",
+   "citace": "§ 26 odst. 1",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba zavede bezpečnostní opatření pro zajišťování dostupnosti regulované služby, kterými zajistí dostupnost regulované služby podle cílů stanovených podle § 15, odolnost regulované služby vůči hrozbám a zranitelnostem, které by mohly snížit její dostupnost a redundanci aktiv nezbytných pro zajišťování dostupnosti regulované služby.",
+   "nazev": "Zajištění dostupnosti, odolnosti a redundance",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94skhym",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_26/odst_2",
+   "citace": "§ 26 odst. 2",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro zajišťování dostupnosti regulované služby v souladu s odstavcem 1 vytváří pravidelné zálohy konfigurací a nastavení technických aktiv, informací a dat nezbytných zejména pro účely obnovy regulované služby v případě kybernetického bezpečnostního incidentu.",
+   "nazev": "Pravidelné zálohy",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sn9lp",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_26/odst_3/pism_a",
+   "citace": "§ 26 odst. 3 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u záloh vytvářených podle odstavce 2 zajistí pravidelné testování jejich integrity, dostupnosti a obnovitelnosti,",
+   "nazev": "Testování záloh",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94s6p1z",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_26/odst_3/pism_b",
+   "citace": "§ 26 odst. 3 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u záloh vytvářených podle odstavce 2 zajistí dokumentování výsledků testů provedených podle odstavce 3 písm. a),",
+   "nazev": "Testování záloh",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94swlxj",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_26/odst_3/pism_c",
+   "citace": "§ 26 odst. 3 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u záloh vytvářených podle odstavce 2 zajistí ochranu ukládaných záloh a dat v nich obsažených před narušením jejich integrity a důvěrnosti, a to alespoň šifrováním těchto záloh v souladu s § 25, a",
+   "nazev": "Šifrování a ochrana záloh",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94siwa5",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_26/odst_3/pism_d",
+   "citace": "§ 26 odst. 3 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba u záloh vytvářených podle odstavce 2 zajistí ochranu ukládaných záloh a dat v nich obsažených před narušením jejich dostupnosti.",
+   "nazev": "Šifrování a ochrana záloh",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sdspn",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_26/odst_4",
+   "citace": "§ 26 odst. 4",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba pro zajišťování dostupnosti regulované služby zajistí bezpečnou správu konfigurací a nastavení technických aktiv s ohledem na hodnocení těchto aktiv a hodnocení rizik.",
+   "nazev": "Bezpečná správa konfigurací a nastavení aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94suwur",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_26/odst_5",
+   "citace": "§ 26 odst. 5",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba za účelem omezení šíření kybernetického bezpečnostního incidentu a snížení jeho dopadu odděluje zálohovací prostředí od jiných prostředí podle § 18 písm. a).",
+   "nazev": "Oddělení zálohovacího prostředí",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94shgsm",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_27/pism_a",
+   "citace": "§ 27 písm. a)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba včetně požadavků uvedených v § 3 až 26 pro zajištění kybernetické bezpečnosti průmyslových, řídicích a obdobných specifických technických aktiv dále využívá nástroje a zavádí bezpečnostní opatření, která zajistí omezení fyzického přístupu k průmyslovým, řídicím a obdobným specifickým technickým aktivům,",
+   "nazev": "Omezení fyzického přístupu k průmyslovým a řídicím aktivům",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94stx4v",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_27/pism_b",
+   "citace": "§ 27 písm. b)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba včetně požadavků uvedených v § 3 až 26 pro zajištění kybernetické bezpečnosti průmyslových, řídicích a obdobných specifických technických aktiv dále využívá nástroje a zavádí bezpečnostní opatření, která zajistí omezení oprávnění k přístupu k průmyslovým, řídicím a obdobným specifickým technickým aktivům,",
+   "nazev": "Omezení oprávnění k přístupu k průmyslovým a řídicím aktivům",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94snhs7",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_27/pism_c",
+   "citace": "§ 27 písm. c)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba včetně požadavků uvedených v § 3 až 26 pro zajištění kybernetické bezpečnosti průmyslových, řídicích a obdobných specifických technických aktiv dále využívá nástroje a zavádí bezpečnostní opatření, která zajistí segmentaci a oddělení komunikačních sítí průmyslových, řídicích a obdobných specifických technických aktiv od jiných prostředí a segmentaci a oddělení těchto komunikačních sítí podle § 18,",
+   "nazev": "Segmentace sítí průmyslových a řídicích aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94spfbv",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_27/pism_d",
+   "citace": "§ 27 písm. d)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba včetně požadavků uvedených v § 3 až 26 pro zajištění kybernetické bezpečnosti průmyslových, řídicích a obdobných specifických technických aktiv dále využívá nástroje a zavádí bezpečnostní opatření, která zajistí omezení vzdálených přístupů a vzdálené správy průmyslových, řídicích a obdobných specifických technických aktiv, včetně omezení komunikace mimo komunikační síť povinné osoby,",
+   "nazev": "Omezení vzdáleného přístupu k průmyslovým a řídicím aktivům",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sjxxx",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_27/pism_e",
+   "citace": "§ 27 písm. e)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba včetně požadavků uvedených v § 3 až 26 pro zajištění kybernetické bezpečnosti průmyslových, řídicích a obdobných specifických technických aktiv dále využívá nástroje a zavádí bezpečnostní opatření, která zajistí ochranu jednotlivých průmyslových, řídicích a obdobných specifických technických aktiv před využitím známých zranitelností a hrozeb a",
+   "nazev": "Ochrana průmyslových a řídicích aktiv před známými zranitelnostmi",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
+  },
+  {
+   "id": "v-mwhll94sshxt",
+   "predpis": "2025/409",
+   "klic": "norma/cast_2/hlava_2/par_27/pism_f",
+   "citace": "§ 27 písm. f)",
+   "zneni": "2025-11-01",
+   "text": "Povinná osoba včetně požadavků uvedených v § 3 až 26 pro zajištění kybernetické bezpečnosti průmyslových, řídicích a obdobných specifických technických aktiv dále využívá nástroje a zavádí bezpečnostní opatření, která zajistí dostupnost a obnovu průmyslových, řídicích a obdobných specifických technických aktiv pro zajištění dostupnosti regulované služby.",
+   "nazev": "Dostupnost a obnova průmyslových a řídicích aktiv",
+   "skupiny": [
+    "s-mwhll94mg6nz"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-15T08:53:53.403Z",
+   "upraveno": "2026-11-15T08:53:53.403Z"
   }
  ],
  "skupinyKomentaru": [
