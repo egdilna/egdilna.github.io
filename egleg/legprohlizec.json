@@ -104,7 +104,8 @@
     "2028-01-01",
     "2029-01-01"
    ],
-   "zkontrolovano": "2026-10-21T12:42:25.388Z"
+   "zkontrolovano": "2026-10-21T12:42:25.388Z",
+   "popis": "Celá oblast správy dat veřejné správy. Od obecných povinností až po datové slovníky a katalogy. Zpřesňuje Národní katalog dat jako zdroj nejen o otevřených datech, ale i o popisech datových struktur VS a mimo jiné zakotvuje povinnost vytvářet a přebírat datové slovníky a datové popisy apod. Také řeší tzv. Řízený přístup k datům, kdy jde o přístup k určitým datům nikoliv jako otevřený, ale jako řízený na základě prokázaného zájmu."
   },
   "2009/111": {
    "pridano": "2026-10-21T12:42:28.735Z",
