@@ -394,7 +394,8 @@
     "2023-12-15",
     "2024-07-01"
    ],
-   "zkontrolovano": "2026-11-12T17:20:46.708Z"
+   "zkontrolovano": "2026-11-12T17:20:46.708Z",
+   "popis": "Prováděcí vyhláška k zákonu č. 365/2000 Sb. Stanoví dlouhodobé řízení jako soubor procesů a činností a povinností pro orgán veřejné správy. Určuje strukturu a náležitosti informační koncepce OVS a procesy její tvorby a aktualizace a vyhodnocování. Udává konkrétní procesní a technické povinnosti pro návrh, pořizování, vývoj, provoz, rozvoj a ukončování informačních systémů veřejné správy v nejširším slova smyslu. Stanovuje také povinné role v rámci OVS/OVM správce a co tyto role povinně zajišžtují. Ale řeší i technické aspekty ISVS, jako je struktura údajů a jejich kategorizace, technické požadavky apod."
   },
   "2025/264": {
    "pridano": "2026-11-15T08:41:31.558Z",
@@ -2889,7 +2890,6 @@
   "2020/329",
   "2026/60",
   "2004/499",
-  "2011/372",
   "2025/264",
   "2025/409",
   "2025/410",
