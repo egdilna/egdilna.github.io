@@ -71,7 +71,8 @@
     "2025-02-08",
     "2025-11-01"
    ],
-   "zkontrolovano": "2026-10-21T12:42:21.452Z"
+   "zkontrolovano": "2026-10-21T12:42:21.452Z",
+   "popis": "Tzv. Digitální Ústava zakotvuje na obecné úrovni klíčová práva stran elektronické komunikace a digitálního fungování veŕejné správy. Určuje jednotlivá práva a k nim rámcové povinnosti pro orgány veřejné moci. Naplnění obecných práv ukládá všem úřadům a u naplnění povinností poskytovat služby jako digitální stanovuje určité výjinky u malých obcí. Tato práva jsou základem EG. Dále zákon zakotvuje Digitální a informační agenturu a udává základ pro její činnosti. Obsahuje také oblast elektronických dokladů a jejich využívání."
   },
   "2026/60": {
    "pridano": "2026-10-21T12:42:25.321Z",
@@ -3098,6 +3099,11 @@
    "popis": ""
   },
   {
+   "id": "t-mwhkp6hsl1yw",
+   "nazev": "kb",
+   "popis": ""
+  },
+  {
    "id": "t-mwdtt5a1w8c3",
    "nazev": "klíčové eg předpisy i podzákonné",
    "popis": ""
@@ -3123,6 +3129,11 @@
    "popis": ""
   },
   {
+   "id": "t-mwhks7ftak4z",
+   "nazev": "kybernetická bezpečnost",
+   "popis": ""
+  },
+  {
    "id": "t-mvi3x0b7x0t7",
    "nazev": "na co si dávat pozor",
    "popis": ""
@@ -3135,16 +3146,6 @@
   {
    "id": "t-mvhxlvdnt9wr",
    "nazev": "spisová služba",
-   "popis": ""
-  },
-  {
-   "id": "t-mwhkp6hsl1yw",
-   "nazev": "kb",
-   "popis": ""
-  },
-  {
-   "id": "t-mwhks7ftak4z",
-   "nazev": "kybernetická bezpečnost",
    "popis": ""
   }
  ],
@@ -3265,6 +3266,9 @@
   "2016/134",
   "2011/372",
   "2020/329",
-  "2023/360"
+  "2023/360",
+  "2025/264",
+  "2025/409",
+  "2025/410"
  ]
 }
