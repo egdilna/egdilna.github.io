@@ -168,7 +168,8 @@
     "2025-07-01",
     "2026-01-01"
    ],
-   "zkontrolovano": "2026-10-21T12:42:28.802Z"
+   "zkontrolovano": "2026-10-21T12:42:28.802Z",
+   "popis": "Stanovuje jednotlivé základní registry a jejich obsah a povinnosti správců a editorů. Určuje, co jsou referenční údaje a agendové údaje a u obojího stanovuje nezpochybnitelnou povinnost úřadů (orgány veřejné moci) využívat je vždy bez nutnosti klienta je dokládat a některým soukromoprávním subjektům (soukromoprávní uživatel údajů) možnost či povinnost některé z nich využívat (což tak ale musí stanovit jiný agendový zákon). Registr práv a povinností má také referenční (a tedy závazné) údaje o fungování a působnosti úřadů a o agendách a jejich struktuře a to včetně struktury a výměny údajů. Dále upravuje některé související technické aspekty, jako je napojení na Referenční rozhraní, vedení informací o každém ISVS a nebo využívat jednotný autentizační systém statu apod."
   },
   "2000/365": {
    "pridano": "2026-10-21T12:42:32.712Z",
