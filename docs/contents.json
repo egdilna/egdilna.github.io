@@ -224,15 +224,6 @@
               ]
             },
             {
-              "id": "ico",
-              "title": "IČO",
-              "file": "ico.md",
-              "tags": [
-                "pojem",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "klientsky-identifikator",
               "title": "Klientský identifikátor",
               "file": "klientsky-identifikator.md",
@@ -244,33 +235,6 @@
                 "znalosti eg",
                 "pro úřady",
                 "pro lidi",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "zdrojovy-identifikator-fyzicke-osoby",
-              "title": "Zdrojový identifikátor fyzické osoby",
-              "file": "zdrojovy-identifikator-fyzicke-osoby.md",
-              "aliases": [
-                "ZIFO"
-              ],
-              "tags": [
-                "pojem",
-                "pro úřady",
-                "pro správce",
-                "pro architekty",
-                "znalosti eg",
-                "důležité",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "dic",
-              "title": "DIČ",
-              "file": "dic.md",
-              "tags": [
-                "zkratka",
-                "pojem",
                 ".migrace z dokuwiki"
               ]
             },
@@ -443,6 +407,54 @@
                     "pojem",
                     "znalosti eg",
                     "spisovka",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "agendovy-identifikator-fyzicke-osoby",
+                  "title": "Agendový identifikátor fyzické osoby",
+                  "file": "agendovy-identifikator-fyzicke-osoby.md",
+                  "aliases": [
+                    "AIFO"
+                  ],
+                  "tags": [
+                    "klíčové pojmy"
+                  ],
+                  "perex": "Jedinečný identifikátor fyzické osoby v jedné agendě"
+                },
+                {
+                  "id": "zdrojovy-identifikator-fyzicke-osoby",
+                  "title": "Zdrojový identifikátor fyzické osoby",
+                  "file": "zdrojovy-identifikator-fyzicke-osoby.md",
+                  "aliases": [
+                    "ZIFO"
+                  ],
+                  "tags": [
+                    "pojem",
+                    "pro úřady",
+                    "pro správce",
+                    "pro architekty",
+                    "znalosti eg",
+                    "důležité",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "dic",
+                  "title": "DIČ",
+                  "file": "dic.md",
+                  "tags": [
+                    "zkratka",
+                    "pojem",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "ico",
+                  "title": "IČO",
+                  "file": "ico.md",
+                  "tags": [
+                    "pojem",
                     ".migrace z dokuwiki"
                   ]
                 }
@@ -1606,18 +1618,6 @@
           "title": "Data a údaje",
           "file": "data-a-udaje.md",
           "children": [
-            {
-              "id": "agendovy-identifikator-fyzicke-osoby",
-              "title": "Agendový identifikátor fyzické osoby",
-              "file": "agendovy-identifikator-fyzicke-osoby.md",
-              "aliases": [
-                "AIFO"
-              ],
-              "tags": [
-                "klíčové pojmy"
-              ],
-              "perex": "Jedinečný identifikátor fyzické osoby v jedné agendě"
-            },
             {
               "id": "agendove-udaje",
               "title": "Agendové údaje",
