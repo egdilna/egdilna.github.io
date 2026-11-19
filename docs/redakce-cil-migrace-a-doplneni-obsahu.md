@@ -2,4 +2,4 @@ S tvorbou nového webu EGdílny souvisí i migrace z předchozí wiki. A když u
 
 
 
-**🎯 Migrace a doplnění obsahu na novou EGdílnu** — 📅 31. 12. 2026 · 📊 2 %
+**🎯 Migrace a doplnění obsahu na novou EGdílnu** — 📅 31. 12. 2026 · 📊 93 %
