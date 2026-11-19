@@ -44,81 +44,6 @@
               "managed": true
             },
             {
-              "id": "ais-registru-zastupovani",
-              "title": "AIS Registru zastupování",
-              "file": "ais-reza.md",
-              "aliases": [
-                "ais reza"
-              ],
-              "tags": [
-                "isvs a ais",
-                "klíčové pojmy",
-                "rámec pro AIS"
-              ]
-            },
-            {
-              "id": "ais-vyrozumivaci",
-              "title": "AIS vyrozumívací",
-              "file": "ais-vyrozumivaci.md",
-              "aliases": [
-                "aisv"
-              ],
-              "tags": [
-                "isvs a ais",
-                "klíčové pojmy",
-                "rámec pro AIS",
-                "Řízení a rozvoj IS"
-              ]
-            },
-            {
-              "id": "zodpovednosti-technickeho-spravce",
-              "title": "Zodpovědnosti technického správce",
-              "file": "zodpovednosti-technickeho-spravce.md",
-              "tags": [
-                ".rámec generický ais",
-                "architektonické znalosti",
-                "isvs a ais",
-                "Řízení a rozvoj IS"
-              ]
-            },
-            {
-              "id": "zodpovednosti-vecneho-gestora",
-              "title": "Zodpovědnosti věcného gestora",
-              "file": "zodpovednosti-vecneho-gestora.md",
-              "tags": [
-                "Řízení a rozvoj IS",
-                "isvs a ais",
-                ".rámec generický ais"
-              ]
-            },
-            {
-              "id": "zodpovednosti-vecneho-spravce",
-              "title": "Zodpovědnosti věcného správce",
-              "file": "zodpovednosti-vecneho-spravce.md",
-              "tags": [
-                ".rámec generický ais",
-                "architektonické znalosti",
-                "isvs a ais",
-                "Řízení a rozvoj IS"
-              ]
-            },
-            {
-              "id": "referencni-rozhrani",
-              "title": "Referenční rozhraní",
-              "file": "referencni-rozhrani.md",
-              "aliases": [
-                "rreferenčním rozhraní",
-                "referenčnímu rozhraní"
-              ],
-              "tags": [
-                "isvs a ais",
-                "klíčové pojmy",
-                "rámec pro AIS",
-                "Řízení a rozvoj IS"
-              ],
-              "perex": "Co je to referenční rozhraní a z čeho se skládá a k čemu to vlastně je?"
-            },
-            {
               "id": "vyuzivani-referencnich-udaju",
               "title": "Využívání referenčních údajů",
               "file": "vyuzivani-referencnich-udaju.md",
@@ -276,34 +201,6 @@
               ]
             },
             {
-              "id": "registr-prav-a-povinnosti",
-              "title": "Registr práv a povinností",
-              "file": "registr-prav-a-povinnosti.md",
-              "aliases": [
-                "RPP"
-              ],
-              "tags": [
-                "pojem",
-                "důležité",
-                "znalosti eg",
-                "pro úřady",
-                "pro lidi",
-                "pro architekty",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "registr-osob",
-              "title": "Registr osob",
-              "file": "registr-osob.md",
-              "tags": [
-                "pojem",
-                "důležité",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "referencni-identita",
               "title": "Referenční identita",
               "file": "referencni-identita.md",
@@ -368,17 +265,6 @@
               ]
             },
             {
-              "id": "registr-obyvatel",
-              "title": "Registr obyvatel",
-              "file": "registr-obyvatel.md",
-              "tags": [
-                "pojem",
-                "důležité",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "dic",
               "title": "DIČ",
               "file": "dic.md",
@@ -407,16 +293,6 @@
               "title": "Portál občana",
               "file": "portal-obcana.md",
               "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "registr-uzemni-identifikace-adres-a-nemovitosti",
-              "title": "Registr územní identifikace adres a nemovitostí",
-              "file": "registr-uzemni-identifikace-adres-a-nemovitosti.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1189,20 +1065,6 @@
               ]
             },
             {
-              "id": "klicove-role-is-zodpovednosti",
-              "title": "Klíčové role k IS a jejich zodpovědnosti",
-              "file": "klicove-role-is-zodpovednosti.md",
-              "tags": [
-                "dokument",
-                "znalosti eg",
-                "metodika",
-                "pro úřady",
-                "pro ajťáky",
-                "pro manažery",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "urceny-informacni-system",
               "title": "Určený informační systém",
               "file": "urceny-informacni-system.md",
@@ -1310,14 +1172,6 @@
                 "metodika",
                 "pro správce",
                 "pro ajťáky",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "klicove-role-k-is",
-              "title": "Klíčové role k IS",
-              "file": "klicove-role-k-is.md",
-              "tags": [
                 ".migrace z dokuwiki"
               ]
             },
@@ -1597,6 +1451,98 @@
                 ".migrace z dokuwiki"
               ],
               "perex": "Sada původních vzorových požadavků na webové stránky z roku 2021"
+            },
+            {
+              "id": "ais-registru-zastupovani",
+              "title": "AIS Registru zastupování",
+              "file": "ais-reza.md",
+              "aliases": [
+                "ais reza"
+              ],
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "rámec pro AIS"
+              ]
+            },
+            {
+              "id": "ais-vyrozumivaci",
+              "title": "AIS vyrozumívací",
+              "file": "ais-vyrozumivaci.md",
+              "aliases": [
+                "aisv"
+              ],
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "rámec pro AIS",
+                "Řízení a rozvoj IS"
+              ]
+            },
+            {
+              "id": "registr-obyvatel",
+              "title": "Registr obyvatel",
+              "file": "registr-obyvatel.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-osob",
+              "title": "Registr osob",
+              "file": "registr-osob.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-prav-a-povinnosti",
+              "title": "Registr práv a povinností",
+              "file": "registr-prav-a-povinnosti.md",
+              "aliases": [
+                "RPP"
+              ],
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro lidi",
+                "pro architekty",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-uzemni-identifikace-adres-a-nemovitosti",
+              "title": "Registr územní identifikace adres a nemovitostí",
+              "file": "registr-uzemni-identifikace-adres-a-nemovitosti.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "referencni-rozhrani",
+              "title": "Referenční rozhraní",
+              "file": "referencni-rozhrani.md",
+              "aliases": [
+                "rreferenčním rozhraní",
+                "referenčnímu rozhraní"
+              ],
+              "tags": [
+                "isvs a ais",
+                "klíčové pojmy",
+                "rámec pro AIS",
+                "Řízení a rozvoj IS"
+              ],
+              "perex": "Co je to referenční rozhraní a z čeho se skládá a k čemu to vlastně je?"
             }
           ],
           "type": "rozcestnik",
@@ -1997,6 +1943,67 @@
               "tags": [
                 "znalosti eg",
                 ".migrace z dokuwiki"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zodpovednosti-a-funkce-k-is",
+          "title": "Zodpovědnosti a funkce k IS",
+          "type": "rozcestnik",
+          "children": [
+            {
+              "id": "klicove-role-k-is",
+              "title": "Klíčové role k IS",
+              "file": "klicove-role-k-is.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klicove-role-is-zodpovednosti",
+              "title": "Klíčové role k IS a jejich zodpovědnosti",
+              "file": "klicove-role-is-zodpovednosti.md",
+              "tags": [
+                "dokument",
+                "znalosti eg",
+                "metodika",
+                "pro úřady",
+                "pro ajťáky",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zodpovednosti-vecneho-gestora",
+              "title": "Zodpovědnosti věcného gestora",
+              "file": "zodpovednosti-vecneho-gestora.md",
+              "tags": [
+                "Řízení a rozvoj IS",
+                "isvs a ais",
+                ".rámec generický ais"
+              ]
+            },
+            {
+              "id": "zodpovednosti-vecneho-spravce",
+              "title": "Zodpovědnosti věcného správce",
+              "file": "zodpovednosti-vecneho-spravce.md",
+              "tags": [
+                ".rámec generický ais",
+                "architektonické znalosti",
+                "isvs a ais",
+                "Řízení a rozvoj IS"
+              ]
+            },
+            {
+              "id": "zodpovednosti-technickeho-spravce",
+              "title": "Zodpovědnosti technického správce",
+              "file": "zodpovednosti-technickeho-spravce.md",
+              "tags": [
+                ".rámec generický ais",
+                "architektonické znalosti",
+                "isvs a ais",
+                "Řízení a rozvoj IS"
               ]
             }
           ]
