@@ -598,7 +598,8 @@
     "2024-02-01",
     "2026-01-01"
    ],
-   "zkontrolovano": "2026-11-19T11:26:02.419Z"
+   "zkontrolovano": "2026-11-19T11:26:02.419Z",
+   "popis": "Tzv. Zákon o datovkách. Řeší datové schránky a jejich povinnost či možnost využívání, odesílání a doručování dokumentů a úkonů přes datové schránky a související technické věci. Dále řeší autorizovanou konverzi dokumentů na žádost a z moci úřední."
   }
  },
  "skupiny": [
@@ -3406,6 +3407,7 @@
   "2025/410",
   "2016/134",
   "2012/259",
-  "2016/297"
+  "2016/297",
+  "2008/300"
  ]
 }
