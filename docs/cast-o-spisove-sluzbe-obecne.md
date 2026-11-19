@@ -4,10 +4,16 @@ U malých původců, jako jsou třeba školy, zařízení  sociálních služeb 
 
 Pokud budete při čtení mít chaos v pojmech, podívejte se na [[cast-slovnik-pojmu-spisovky]]
 
+## Co je spisová služba a proč jí máme řešit
+
 {{Co je spisová služba a proč jí máme řešit}}
+
+## Legislativní rámec spisové služby
 
 {{Legislativní rámec spisové služby}}
 
 {{Povinné vnitřní předpisy u původce}}
+
+## Podrobný popis procesů spisové služby
 
 {{Podrobný popis procesů spisové služby}}
