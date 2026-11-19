@@ -1875,79 +1875,6 @@
           ]
         },
         {
-          "id": "archimate",
-          "title": "ArchiMate",
-          "file": "archimate.md",
-          "tags": [
-            "pojem",
-            "znalosti eg",
-            "pro architekty",
-            "pro manažery",
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "architektonicky-model",
-          "title": "Architektonický model",
-          "file": "architektonicky-model.md",
-          "tags": [
-            "pojem",
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "klicove-oblasti-architektury",
-          "title": "Klíčové oblasti architektury",
-          "file": "klicove-oblasti-architektury.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "zaneseni-prvku-zaeg-do-archimate",
-          "title": "Zanesení prvků ZAEG do architektury dle vrstev",
-          "file": "zaneseni-prvku-zaeg-do-archimate.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "zaneseni-vazeb-zaeg-do-archimate",
-          "title": "Zanesení vazeb ZAEG do architektury podle vrstev a oblastí",
-          "file": "zaneseni-vazeb-zaeg-do-archimate.md",
-          "tags": [
-            "ArchiMate",
-            "Typizovaná architektura IS",
-            "Využívání architektury",
-            "Znalostní architektura",
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "nastroj-archimate-editor",
-          "title": "Nástroj ArchiMate editor architektury",
-          "file": "nastroj-archimate-editor.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "kupa",
-          "title": "KUPA",
-          "file": "kupa.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "sablona-adr",
-          "title": "Minimalistická šablona dokumentu ADR",
-          "file": "sablona-adr.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
           "id": "desi-hodnoceni-a-kriteria",
           "title": "Kritéria a oblasti hodnocení podle DESI",
           "file": "desi-hodnoceni-a-kriteria.md",
@@ -1969,7 +1896,74 @@
         {
           "id": "architektura-a-priprava",
           "title": "Architektura a příprava",
-          "file": "architektura-a-priprava.md"
+          "file": "architektura-a-priprava.md",
+          "children": [
+            {
+              "id": "archimate",
+              "title": "ArchiMate",
+              "file": "archimate.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "pro architekty",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "architektonicky-model",
+              "title": "Architektonický model",
+              "file": "architektonicky-model.md",
+              "tags": [
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klicove-oblasti-architektury",
+              "title": "Klíčové oblasti architektury",
+              "file": "klicove-oblasti-architektury.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zaneseni-prvku-zaeg-do-archimate",
+              "title": "Zanesení prvků ZAEG do architektury dle vrstev",
+              "file": "zaneseni-prvku-zaeg-do-archimate.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zaneseni-vazeb-zaeg-do-archimate",
+              "title": "Zanesení vazeb ZAEG do architektury podle vrstev a oblastí",
+              "file": "zaneseni-vazeb-zaeg-do-archimate.md",
+              "tags": [
+                "ArchiMate",
+                "Typizovaná architektura IS",
+                "Využívání architektury",
+                "Znalostní architektura",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "kupa",
+              "title": "KUPA",
+              "file": "kupa.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-adr",
+              "title": "Minimalistická šablona dokumentu ADR",
+              "file": "sablona-adr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            }
+          ]
         },
         {
           "id": "data-a-pece-o-ne",
@@ -2174,6 +2168,14 @@
             "Naše práce"
           ],
           "perex": "Máme pro vás veřejnou knihovnu legislativy, se štítky a klíčovými ustanoveními, komentáři a pokročilým exportem a propojením dat."
+        },
+        {
+          "id": "nastroj-archimate-editor",
+          "title": "Nástroj ArchiMate editor architektury",
+          "file": "nastroj-archimate-editor.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
         }
       ],
       "type": "rozcestnik",
