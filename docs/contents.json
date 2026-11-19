@@ -830,6 +830,16 @@
           "type": "rozcestnik"
         },
         {
+          "id": "predpisy",
+          "title": "Právní předpisy",
+          "file": "predpisy.md",
+          "type": "rozcestnik",
+          "multisection": true,
+          "tags": [
+            "legislativa"
+          ]
+        },
+        {
           "id": "oblast-informacni-systemy",
           "title": "Informační systémy",
           "file": "informacni-systemy.md",

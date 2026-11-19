@@ -6,7 +6,7 @@ Toto je provozní řád informačního systému xxx
 
 Provozní řád vydává xxx jako správce informačního systému.
 
-Provozní řád je vydáván a realizován na základě povinností uvedených v zákoně [[365/20000]] pro informační systémy veřejné správy a provozní informační systémy orgánů veřejné správy a dle struktury uvedené ve vyhlášce [[360/2023]].
+Provozní řád je vydáván a realizován na základě povinností uvedených v zákoně [[365/2000]] pro informační systémy veřejné správy a provozní informační systémy orgánů veřejné správy a dle struktury uvedené ve vyhlášce [[360/2023]].
 
 Tento provozní řád je nedílnou součástí provozní dokumentace zveřejněné na adrese xxx
 
