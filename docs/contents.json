@@ -44,19 +44,6 @@
               "managed": true
             },
             {
-              "id": "ohlasovatel-agendy",
-              "title": "Ohlašovatel agendy",
-              "file": "ohlasovatel-agendy.md",
-              "aliases": [
-                "ohlašovatele agendy",
-                "ohlašovatel",
-                "ohlašovatele"
-              ],
-              "tags": [
-                "klíčové pojmy"
-              ]
-            },
-            {
               "id": "ais-registru-zastupovani",
               "title": "AIS Registru zastupování",
               "file": "ais-reza.md",
@@ -156,22 +143,6 @@
               ]
             },
             {
-              "id": "organ-verejne-moci",
-              "title": "orgán veřejné moci",
-              "file": "organ-verejne-moci.md",
-              "aliases": [
-                "ovm",
-                "orgánů veřejné moci",
-                "orgán veřejné moci",
-                "orgánům veřejné moci"
-              ],
-              "tags": [
-                "Edukace",
-                "klíčové pojmy",
-                "role ve veřejné správě"
-              ]
-            },
-            {
               "id": "informacni-system-sdilene-sluzby",
               "title": "Informační systém sdílené služby",
               "file": "informacni-system-sdilene-sluzby.md",
@@ -217,14 +188,6 @@
                 "klíčové pojmy",
                 "propojený datový fond",
                 "výměna údajů"
-              ]
-            },
-            {
-              "id": "druhy-organu-verejne-spravy",
-              "title": "Druhy orgánů veřejné správy",
-              "file": "druhy-organu-verejne-spravy.md",
-              "tags": [
-                ".migrace z dokuwiki"
               ]
             },
             {
@@ -300,19 +263,6 @@
                 ".migrace z dokuwiki"
               ],
               "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
-            },
-            {
-              "id": "organ-verejne-spravy",
-              "title": "Orgán veřejné správy",
-              "file": "organ-verejne-spravy.md",
-              "aliases": [
-                "OVS"
-              ],
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
             },
             {
               "id": "zamena-ovs-a-ovm",
@@ -402,36 +352,6 @@
               ]
             },
             {
-              "id": "fyzicka-osoba",
-              "title": "Fyzická osoba",
-              "file": "fyzicka-osoba.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "pravnicka-osoba",
-              "title": "Právnická osoba",
-              "file": "pravnicka-osoba.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "podnikajici-fyzicka-osoba",
-              "title": "Podnikající fyzická osoba",
-              "file": "podnikajici-fyzicka-osoba.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "referencni-identita",
               "title": "Referenční identita",
               "file": "referencni-identita.md",
@@ -451,16 +371,6 @@
                 "důležité",
                 "znalosti eg",
                 "základnípilíře eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "pravnicky-subjekt",
-              "title": "Právnický subjekt",
-              "file": "pravnicky-subjekt.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
                 ".migrace z dokuwiki"
               ]
             },
@@ -521,17 +431,6 @@
                 "pojem",
                 "důležité",
                 "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "statni-pravnicka-osoba",
-              "title": "Státní právnická osoba",
-              "file": "statni-pravnicka-osoba.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                "důležité",
                 ".migrace z dokuwiki"
               ]
             },
@@ -638,6 +537,120 @@
               "tags": [
                 "základní pilíře",
                 "Oblast"
+              ],
+              "children": [
+                {
+                  "id": "druhy-organu-verejne-spravy",
+                  "title": "Druhy orgánů veřejné správy",
+                  "file": "druhy-organu-verejne-spravy.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "fyzicka-osoba",
+                  "title": "Fyzická osoba",
+                  "file": "fyzicka-osoba.md",
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "ohlasovatel-agendy",
+                  "title": "Ohlašovatel agendy",
+                  "file": "ohlasovatel-agendy.md",
+                  "aliases": [
+                    "ohlašovatele agendy",
+                    "ohlašovatel",
+                    "ohlašovatele"
+                  ],
+                  "tags": [
+                    "klíčové pojmy"
+                  ]
+                },
+                {
+                  "id": "organ-verejne-moci",
+                  "title": "orgán veřejné moci",
+                  "file": "organ-verejne-moci.md",
+                  "aliases": [
+                    "ovm",
+                    "orgánů veřejné moci",
+                    "orgán veřejné moci",
+                    "orgánům veřejné moci"
+                  ],
+                  "tags": [
+                    "Edukace",
+                    "klíčové pojmy",
+                    "role ve veřejné správě"
+                  ]
+                },
+                {
+                  "id": "organ-verejne-spravy",
+                  "title": "Orgán veřejné správy",
+                  "file": "organ-verejne-spravy.md",
+                  "aliases": [
+                    "OVS"
+                  ],
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "podnikajici-fyzicka-osoba",
+                  "title": "Podnikající fyzická osoba",
+                  "file": "podnikajici-fyzicka-osoba.md",
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravnicka-osoba",
+                  "title": "Právnická osoba",
+                  "file": "pravnicka-osoba.md",
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravnicky-subjekt",
+                  "title": "Právnický subjekt",
+                  "file": "pravnicky-subjekt.md",
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "statni-pravnicka-osoba",
+                  "title": "Státní právnická osoba",
+                  "file": "statni-pravnicka-osoba.md",
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    "důležité",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "verejnopravni-puvodce",
+                  "title": "Veřejnoprávní původce",
+                  "file": "verejnopravni-puvodce.md",
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    "spisovka",
+                    ".migrace z dokuwiki"
+                  ]
+                }
               ]
             }
           ],
