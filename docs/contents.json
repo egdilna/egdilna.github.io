@@ -251,28 +251,30 @@
                 "EIDAS",
                 "eDoklady",
                 ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "edoklady-obcan",
-              "title": "Používání eDokladů Občanem (Prokazující osobou)",
-              "file": "edoklady-obcan.md",
-              "tags": [
-                "Důvěryhodnost",
-                "EIDAS",
-                "eDoklady",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "edoklady-overujici",
-              "title": "Používání eDokladů Ověřovatelem",
-              "file": "edoklady-overujici.md",
-              "tags": [
-                "Důvěryhodnost",
-                "EIDAS",
-                "eDoklady",
-                ".migrace z dokuwiki"
+              ],
+              "children": [
+                {
+                  "id": "edoklady-obcan",
+                  "title": "Používání eDokladů Občanem (Prokazující osobou)",
+                  "file": "edoklady-obcan.md",
+                  "tags": [
+                    "Důvěryhodnost",
+                    "EIDAS",
+                    "eDoklady",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "edoklady-overujici",
+                  "title": "Používání eDokladů Ověřovatelem",
+                  "file": "edoklady-overujici.md",
+                  "tags": [
+                    "Důvěryhodnost",
+                    "EIDAS",
+                    "eDoklady",
+                    ".migrace z dokuwiki"
+                  ]
+                }
               ]
             },
             {
@@ -628,6 +630,15 @@
                 "Elektronický podpis",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "subjekty-osoby-role",
+              "title": "Subjekty osoby role",
+              "type": "rozcestnik",
+              "tags": [
+                "základní pilíře",
+                "Oblast"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -837,20 +848,20 @@
                 "legislativa"
               ],
               "perex": "Jaké jsou zásadní předpisy stran EG a co v nich najdete?"
+            },
+            {
+              "id": "predpisy",
+              "title": "Právní předpisy",
+              "file": "predpisy.md",
+              "type": "rozcestnik",
+              "multisection": true,
+              "tags": [
+                "legislativa"
+              ]
             }
           ],
           "draft": true,
           "type": "rozcestnik"
-        },
-        {
-          "id": "predpisy",
-          "title": "Právní předpisy",
-          "file": "predpisy.md",
-          "type": "rozcestnik",
-          "multisection": true,
-          "tags": [
-            "legislativa"
-          ]
         },
         {
           "id": "oblast-informacni-systemy",

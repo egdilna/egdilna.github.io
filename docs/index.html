@@ -330,6 +330,72 @@ mark.critic{background:var(--color-critic-mark-bg);color:var(--color-critic-mark
 .vypis .em{grid-row:span 2;font-size:20px}
 .vypis b{font-family:var(--font-heading);font-weight:600;font-size:16px}
 .vypis span.p{grid-column:2;color:var(--color-text-muted);font-size:14px;font-family:var(--font-body)}
+/* ---------- datové stránky (CSV/TSV/JSON) ---------- */
+.data-ovladani{font-family:var(--font-ui);font-size:14px;margin:0 0 10px;display:grid;gap:10px}
+.data-radek{display:flex;flex-wrap:wrap;gap:10px;align-items:end}
+.data-hledat{display:grid;gap:3px;flex:1 1 240px;color:var(--color-text-muted);font-size:13px}
+.data-hledat input,.data-filtr input[type=text],.data-filtr input[type=date]{font:inherit;font-size:15px;padding:7px 10px;border:1px solid var(--color-border);border-radius:8px;background:var(--color-surface);color:var(--color-text);width:100%}
+.data-filtr.rozsah input{width:9em}
+.data-pohled{display:flex;gap:4px;flex-wrap:wrap}
+.data-pohled button,.data-zrusit,.data-dalsi,#j-kopirovat{font:inherit;font-size:13px;border:1px solid var(--color-border);background:var(--color-surface);color:var(--color-text);border-radius:8px;padding:6px 11px;cursor:pointer}
+.data-pohled button[aria-pressed="true"]{background:var(--color-primary);border-color:var(--color-primary);color:var(--color-text-inverse)}
+.data-pohled button:hover,.data-zrusit:hover,.data-dalsi:hover{border-color:var(--odkaz)}
+.data-filtry{display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start}
+.data-filtr{border:1px solid var(--color-border);border-radius:8px;background:var(--color-surface);padding:0;margin:0;min-width:0}
+.data-filtr summary{cursor:pointer;padding:6px 11px}
+.data-filtr summary .data-vyb{color:var(--odkaz)}
+.data-filtr fieldset{border:0;margin:0;padding:4px 11px 9px;display:grid;gap:3px;max-height:240px;overflow:auto}
+.data-filtr label{display:flex;gap:6px;align-items:baseline;white-space:nowrap}
+.data-filtr label.nula{opacity:.55}
+.data-filtr small{color:var(--color-text-muted)}
+.data-filtr.rozsah{display:flex;gap:8px;padding:6px 11px;align-items:center}
+.data-filtr.rozsah legend{float:left;padding:0;margin-right:4px;color:var(--color-text-muted)}
+.data-stav{font-family:var(--font-ui);font-size:13px;color:var(--color-text-muted);margin:0 0 8px}
+.data-obal{max-height:75vh;overflow:auto}
+.data-tab thead th,.j-tab thead th{position:sticky;top:0;background:var(--color-surface);z-index:1;padding:0}
+.data-tab thead th button,.j-tab thead th button{font:inherit;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--color-text-muted);background:none;border:0;padding:9px 12px;cursor:pointer;display:flex;gap:6px;width:100%;text-align:left;white-space:nowrap}
+.data-tab thead th[aria-sort="ascending"] button,.data-tab thead th[aria-sort="descending"] button,.j-tab thead th[aria-sort="ascending"] button,.j-tab thead th[aria-sort="descending"] button{color:var(--color-text)}
+.data-sipka{opacity:.6}
+.data-tab tbody th,.j-tab tbody th{text-align:left;font-weight:600}
+.obsah td.cislo,.obsah th.cislo{text-align:right;font-variant-numeric:tabular-nums}
+.data-tab tbody tr:hover,.j-tab tbody tr:hover{background:var(--color-bg-alt)}
+.data-odznak{display:inline-block;font-size:12px;padding:1px 8px;margin:1px 3px 1px 0;border-radius:999px;background:var(--color-bg-alt);border:1px solid var(--color-border)}
+.data-karty{list-style:none;margin:0 0 20px;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.data-karty li{border:1px solid var(--color-border);border-radius:12px;background:var(--color-surface);padding:12px 14px;font-family:var(--font-ui);font-size:14px}
+.obsah .data-karta-h{font-size:16px;margin:0 0 6px;border:0;padding:0}
+.data-karty dl,.data-zaznam,.j-dl{margin:0;display:grid;gap:4px}
+.data-karty dl div,.data-zaznam div,.j-dl>div{display:grid;grid-template-columns:minmax(90px,36%) minmax(0,1fr);gap:10px;align-items:baseline}
+.data-karty dt,.data-zaznam dt,.j-dl dt{color:var(--color-text-muted);font-family:var(--font-ui);font-size:13px}
+.data-karty dd,.data-zaznam dd,.j-dl dd{margin:0;overflow-wrap:anywhere}
+.data-zaznam,.j-dl{border:1px solid var(--color-border);border-radius:12px;background:var(--color-surface);padding:10px 14px;margin:0 0 16px}
+.data-zaznam div,.j-dl>div{padding:5px 0;border-top:1px solid var(--color-border)}
+.data-zaznam div:first-child,.j-dl>div:first-child{border-top:0}
+.data-zaznam dd p:last-child{margin-bottom:0}
+.j-sekce{margin:0 0 6px}
+.obsah .j-h{margin:14px 0 6px;padding:0;border:0}
+.j-h button{font:inherit;color:inherit;background:none;border:0;padding:2px 0;cursor:pointer;display:flex;gap:8px;align-items:baseline;text-align:left}
+.j-h button::before{content:"›";display:inline-block;width:12px;transition:transform .15s;color:var(--color-text-muted)}
+.j-h button[aria-expanded="true"]::before{transform:rotate(90deg)}
+.j-h small{font-family:var(--font-ui);font-size:12px;font-weight:400;color:var(--color-text-muted)}
+.j-telo{padding-left:14px;border-left:2px solid var(--color-border);margin-left:4px}
+.j-popis{display:block;color:var(--color-text-muted);font-size:13px;margin:0 0 6px}
+.j-odznaky{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:4px}
+.j-odznaky li{font-size:13px;padding:1px 9px;border-radius:999px;background:var(--color-bg-alt);border:1px solid var(--color-border)}
+.j-null{color:var(--color-text-muted)}
+.j-ano{color:var(--color-critic-ins-fg)}
+.j-ne{color:var(--color-critic-del-fg)}
+.j-vnor summary{cursor:pointer;color:var(--odkaz)}
+.j-tab-obal{max-height:70vh;overflow:auto}
+.j-vysledky{list-style:none;margin:0 0 14px;padding:0;border:1px solid var(--color-border);border-radius:10px;background:var(--color-surface);font-family:var(--font-ui);font-size:14px;max-height:50vh;overflow:auto}
+.j-vysledky a{display:block;padding:7px 12px;border-top:1px solid var(--color-border);text-decoration:none;color:var(--color-text)}
+.j-vysledky li:first-child a{border-top:0}
+.j-vysledky small{display:block;color:var(--color-text-muted);font-size:12px}
+.j-zdroj{max-height:75vh}
+.j-k{color:var(--color-primary-light)}
+.j-s{color:var(--color-critic-ins-fg)}
+.j-c{color:var(--color-accent)}
+.j-l{color:var(--color-critic-del-fg)}
+
 .podnadpis{font-family:var(--font-heading);font-size:22px;margin:34px 0 12px}
 
 .clanky-hlava{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;font-size:14px;color:var(--color-text-muted);margin-bottom:18px}
@@ -889,7 +955,7 @@ function pripravitStrom(uzly,rodic,hloubka){
   }).filter(Boolean);
 }
 async function nactiWeb(data){
-  W.stranky.clear(); W.clanky=new Map(); W.poradi=[]; W.texty.clear(); W.index=null; W.zpetne=null; W.stitkyIndex=null; W.koncepty=new Set();
+  W.stranky.clear(); W.clanky=new Map(); W.poradi=[]; W.texty.clear(); W.data=new Map(); W.jsonSchema=new Map(); W.dataSeznam=null; W.index=null; W.zpetne=null; W.stitkyIndex=null; W.koncepty=new Set();
   const cfg=data?data.cfg:JSON.parse(await nactiText(new URL("wiki.json",W.zaklad).href));
   const obsah=data?data.obsah:JSON.parse(await nactiText(new URL("contents.json",W.zaklad).href));
   W.cfg=cfg||{};
@@ -1085,6 +1151,9 @@ function rozebratHash(){
   const h=decodeURIComponent(location.hash.slice(1));
   if(!h) return {id:domovId()};
   if(h.startsWith("/stitek/")) return {stitek:h.slice(8)};
+  // datová stránka: #id?hledat=…&f.Sloupec=… (stav filtrů); hodnoty se dekódují až v URLSearchParams
+  const sur=location.hash.slice(1), q=sur.indexOf("?");
+  if(q>0&&!/^[^?]*\?tag=/.test(sur)){ const id=decodeURIComponent(sur.slice(0,q)); if(!/[/:]/.test(id)) return {id,dotaz:new URLSearchParams(sur.slice(q+1))}; }
   let m=h.match(/^([^/?:]+)\?tag=(.+)$/); if(m) return {id:m[1],tag:m[2]};
   m=h.match(/^([^/?:]+)\/([^:]+)(?::(.+))?$/); if(m) return {id:m[1],clanek:m[2],kotva:m[3]};
   m=h.match(/^([^/?:]+):(.+)$/); if(m) return {id:m[1],kotva:m[2]};
@@ -1092,6 +1161,7 @@ function rozebratHash(){
 }
 function skocitNa(id){
   const el=document.getElementById(id); if(!el) return false;
+  odkrytPredky(el);
   el.scrollIntoView(); if(!el.hasAttribute("tabindex")) el.setAttribute("tabindex","-1"); el.focus({preventScroll:true});
   return true;
 }
@@ -1152,6 +1222,7 @@ function stitkyStrankyHtml(u){
 function nastavitTitulek(...casti){ document.title=[...casti,W.cfg.title||"Web"].filter(Boolean).join(" · "); }
 
 async function vykreslitStranku(u,r){
+  if(druhDat(u)&&u.adresa) return vykreslitData(u,r);
   W.aktualni=u; W.zdrojStranky=null;
   oznacitVeStromu(u.id);
   const art=$("#stranka");
@@ -1360,9 +1431,9 @@ async function zpetneOdkazy(u,klic){
   if(!W.zpetne){
     const mapa=new Map();
     // nejdřív zaregistrovat všechny články, aby odkazy na ně šlo rozpoznat
-    await Promise.all([...W.stranky.values()].filter(x=>x.adresa&&!x.virtualni).map(async x=>{ try{ const cl=rozpoznatClanky(await nactiText(x.adresa)); if(cl) registrovatClanky(x,cl); }catch{} }));
+    await Promise.all([...W.stranky.values()].filter(x=>x.adresa&&!x.virtualni&&!druhDat(x)).map(async x=>{ try{ const cl=rozpoznatClanky(await nactiText(x.adresa)); if(cl) registrovatClanky(x,cl); }catch{} }));
     await Promise.all([...W.stranky.values()].map(async zdroj=>{
-      if(!zdroj.adresa||zdroj.virtualni) return;
+      if(!zdroj.adresa||zdroj.virtualni||druhDat(zdroj)) return;
       let text=""; try{ text=await nactiText(zdroj.adresa); }catch{ return; }
       const zakl=zaklad(zdroj.adresa), cile=new Set();
       text=text.replace(/```[\s\S]*?```/g,"");
@@ -1522,13 +1593,512 @@ function kalendar(novinky){
   kresli();
 }
 
+/* =============================================================
+   DATOVÉ STRÁNKY — soubor CSV/TSV se zobrazí jako tabulka (hledání, filtry, řazení, záznam),
+   soubor JSON (i JSON Lines) jako čitelná struktura (sekce, tabulky polí, sbalování, hledání).
+   Data se jen čtou. Nastavení je u stránky v contents.json: "table" (CSV/TSV) a "json" (JSON).
+   ============================================================= */
+const DATA_TEXTY={
+  cs:{hledat:"Hledat v datech",hledatJson:"Hledat v datech",filtry:"Filtry",zrusitFiltry:"Zrušit filtry",zobrazeni:"Zobrazení",
+    tabulka:"Tabulka",karty:"Karty",zaznamu:["záznam","záznamy","záznamů"],zobrazeno:"Zobrazeno",z:"z",dalsich:"Zobrazit dalších",
+    zbyva:"zbývá",nic:"Žádný záznam neodpovídá hledání a filtrům.",prazdne:"(prázdné)",od:"od",do:"do",vybrano:"vybráno",
+    zpet:"Zpět na výsledky",predchozi:"Předchozí záznam",dalsi:"Další záznam",radit:"Řadit podle",
+    chybaDat:"Data se nepodařilo přečíst",ano:"ano",ne:"ne",nic2:"—",polozek:["položka","položky","položek"],
+    polozka:"Položka",rozbalitVse:"Rozbalit vše",sbalitVse:"Sbalit vše",zdroj:"Zdroj JSON",kopirovat:"Kopírovat",
+    zkopirovano:"Zkopírováno",zobrazitVse:"Zobrazit všech",objekt:"objekt",nalezeno:"Nalezeno",mist:"míst",
+    zadnyNalez:"Nic nenalezeno.",prazdnyObjekt:"(prázdné)",tabulkaPole:"Tabulka",prepnout:"Rozbalit / sbalit"},
+  en:{hledat:"Search the data",hledatJson:"Search the data",filtry:"Filters",zrusitFiltry:"Clear filters",zobrazeni:"View",
+    tabulka:"Table",karty:"Cards",zaznamu:["record","records","records"],zobrazeno:"Showing",z:"of",dalsich:"Show next",
+    zbyva:"remaining",nic:"No record matches the search and filters.",prazdne:"(empty)",od:"from",do:"to",vybrano:"selected",
+    zpet:"Back to results",predchozi:"Previous record",dalsi:"Next record",radit:"Sort by",
+    chybaDat:"Could not read the data",ano:"yes",ne:"no",nic2:"—",polozek:["item","items","items"],
+    polozka:"Item",rozbalitVse:"Expand all",sbalitVse:"Collapse all",zdroj:"JSON source",kopirovat:"Copy",
+    zkopirovano:"Copied",zobrazitVse:"Show all",objekt:"object",nalezeno:"Found",mist:"places",
+    zadnyNalez:"Nothing found.",prazdnyObjekt:"(empty)",tabulkaPole:"Table",prepnout:"Expand / collapse"}
+};
+const DT=()=>DATA_TEXTY[W.cfg.language==="en"?"en":"cs"];
+const tvar=(n,t)=>n===1?t[0]:n>=2&&n<=4?t[1]:t[2];
+const DATA_STRANKA=100;
+
+function druhDat(u){
+  const m=String(u.file||"").replace(/[?#].*$/,"").match(/\.(csv|tsv|tab|json|jsonl|ndjson)$/i);
+  if(!m) return null;
+  const p=m[1].toLowerCase();
+  return p==="json"?"json":p==="jsonl"||p==="ndjson"?"jsonl":p==="csv"?"csv":"tsv";
+}
+/* Čtení dat: UTF-8, a když v něm text neprojde, windows-1250 (tak ukládá CSV český Excel). */
+async function nactiData(adresa){
+  if(W.nahled&&W.nahled.soubory&&adresa in W.nahled.soubory) return W.nahled.soubory[adresa];
+  if(W.texty.has(adresa)) return W.texty.get(adresa);
+  const r=await fetch(adresa+(adresa.includes("?")?"&":"?")+"_="+Date.now(),{cache:"no-store"});
+  if(!r.ok){ const e=new Error("HTTP "+r.status); e.status=r.status; throw e; }
+  const b=await r.arrayBuffer(); let t;
+  try{ t=new TextDecoder("utf-8",{fatal:true}).decode(b); }catch{ t=new TextDecoder("windows-1250").decode(b); }
+  t=t.replace(/^\uFEFF/,"").replace(/\r\n?/g,"\n");
+  W.texty.set(adresa,t);
+  return t;
+}
+
+/* ---------- hodnoty ---------- */
+function parseCislo(s){
+  const t=String(s??"").replace(/[\s\u00a0\u202f]/g,"");
+  if(/^[-+]?\d+(?:,\d+)?$/.test(t)) return parseFloat(t.replace(",","."));
+  if(/^[-+]?\d*\.?\d+(?:[eE][-+]?\d+)?$/.test(t)) return parseFloat(t);
+  return null;
+}
+function parseDatum(s){
+  const t=String(s??"").trim(); let m;
+  if((m=t.match(/^(\d{4})-(\d{1,2})-(\d{1,2})(?:[T ][\d:.]+(?:Z|[+-]\d\d:?\d\d)?)?$/))) return {r:+m[1],m:+m[2],d:+m[3]};
+  if((m=t.match(/^(\d{1,2})\.\s?(\d{1,2})\.\s?(\d{4})$/))) return {r:+m[3],m:+m[2],d:+m[1]};
+  return null;
+}
+const klicDatumu=d=>d?`${d.r}-${String(d.m).padStart(2,"0")}-${String(d.d).padStart(2,"0")}`:"";
+const jeUrl=s=>/^https?:\/\/\S+$/i.test(String(s).trim());
+const jeEmail=s=>/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(String(s).trim());
+function odhadTypu(hodnoty){
+  const v=hodnoty.filter(x=>String(x).trim()!=="").slice(0,300);
+  if(!v.length) return "text";
+  if(v.every(x=>parseCislo(x)!==null)) return "cislo";
+  if(v.every(x=>parseDatum(x))) return "datum";
+  if(v.every(jeUrl)) return "url";
+  if(v.every(jeEmail)) return "email";
+  return "text";
+}
+const rozdelitSeznam=s=>String(s??"").split(/\s*[;,|]\s*/).map(x=>x.trim()).filter(Boolean);
+function formatHodnota(typ,s,zakl,blok){
+  s=String(s??"");
+  if(!s.trim()) return "";
+  const jazyk=W.cfg.language||"cs";
+  if(typ==="cislo"){ const n=parseCislo(s); return n===null?esc(s):esc(n.toLocaleString(jazyk)); }
+  if(typ==="datum"){ const d=parseDatum(s); return d?esc(new Date(d.r,d.m-1,d.d).toLocaleDateString(jazyk)):esc(s); }
+  if(typ==="url"){ const h=/^https?:/i.test(s)?s:"https://"+s; let t=s.replace(/^https?:\/\/(www\.)?/i,"").replace(/\/$/,""); if(t.length>48) t=t.slice(0,45)+"…"; return `<a href="${escAttr(h)}" target="_blank" rel="noopener">${esc(t)}</a>`; }
+  if(typ==="email") return `<a href="mailto:${escAttr(s.trim())}">${esc(s.trim())}</a>`;
+  if(typ==="markdown") return blok?md(s,zakl):inline(s,zakl);
+  if(typ==="seznam") return `<span class="data-seznam">${rozdelitSeznam(s).map(x=>`<span class="data-odznak">${esc(x)}</span>`).join("")}</span>`;
+  return esc(s).replace(/\n/g,"<br>");
+}
+
+/* ---------- CSV / TSV ---------- */
+function rozebratCsv(text,oddel){
+  if(!oddel){
+    const prvni=text.split("\n",1)[0]; const pocty={"\t":0,";":0,",":0}; let v=false;
+    for(const c of prvni){ if(c==='"') v=!v; else if(!v&&c in pocty) pocty[c]++; }
+    oddel=Object.keys(pocty).sort((a,b)=>pocty[b]-pocty[a])[0];
+    if(!pocty[oddel]) oddel=",";
+  }
+  const radky=[]; let r=[], b="", v=false, uv=false;
+  for(let i=0;i<text.length;i++){
+    const c=text[i];
+    if(v){ if(c==='"'){ if(text[i+1]==='"'){ b+='"'; i++; } else v=false; } else b+=c; continue; }
+    if(c==='"'&&b===""&&!uv){ v=true; uv=true; continue; }
+    if(c===oddel){ r.push(b); b=""; uv=false; continue; }
+    if(c==="\n"){ r.push(b); radky.push(r); r=[]; b=""; uv=false; continue; }
+    b+=c;
+  }
+  if(b!==""||r.length){ r.push(b); radky.push(r); }
+  return radky.filter(x=>x.length>1||x[0].trim()!=="");
+}
+/* Tabulka připravená k zobrazení: sloupce s typy, záznamy s klíčem (adresou) a textem pro hledání. */
+function ziskatTabulku(u,text){
+  W.data=W.data||new Map();
+  const kes=u.adresa+"\n"+JSON.stringify(u.table||{});
+  if(W.data.get(u.id)?.kes===kes&&W.data.get(u.id).text===text) return W.data.get(u.id);
+  const radky=rozebratCsv(text,druhDat(u)==="tsv"?"\t":null);
+  const hlava=(radky.shift()||[]);
+  let sirka=hlava.length; for(const r of radky) if(r.length>sirka) sirka=r.length;
+  const pouzite=new Set();
+  const nazvy=Array.from({length:sirka},(_,i)=>{ let n=String(hlava[i]??"").trim()||"Sloupec "+(i+1); if(pouzite.has(n)){ let k=2; while(pouzite.has(n+" ("+k+")")) k++; n=n+" ("+k+")"; } pouzite.add(n); return n; });
+  const bunky=radky.map(r=>nazvy.map((_,i)=>String(r[i]??"").trim()));
+  const cfg=u.table||{}, typyCfg=cfg.columns||{};
+  const sloupce=nazvy.map((n,i)=>({nazev:n,i,odhad:odhadTypu(bunky.map(b=>b[i])),typ:null}));
+  sloupce.forEach(s=>{ s.typ=typyCfg[s.nazev]||s.odhad; });
+  const najit=n=>n?sloupce.find(s=>s.nazev===n):null;
+  const titulS=najit(cfg.title)||sloupce.find(s=>s.typ!=="skryty")||sloupce[0];
+  const klicS=najit(cfg.key);
+  const klice=new Set();
+  const zaznamy=bunky.map((b,n)=>{
+    const titul=titulS?b[titulS.i]:"";
+    let k=slug(klicS?b[klicS.i]:titul)||"r"+(n+1);
+    if(klice.has(k)){ let x=2; while(klice.has(k+"-"+x)) x++; k=k+"-"+x; }
+    klice.add(k);
+    return {b,klic:k,titul:titul||"#"+(n+1),poradi:n,hledat:bezDiakritiky(sloupce.filter(s=>s.typ!=="skryty").map(s=>b[s.i]).join(" \u0001 "))};
+  });
+  const viditelne=sloupce.filter(s=>s.typ!=="skryty");
+  let zobrazit=(cfg.show||[]).map(najit).filter(Boolean);
+  if(!zobrazit.length) zobrazit=viditelne.slice();
+  if(titulS&&zobrazit.includes(titulS)) zobrazit=[titulS,...zobrazit.filter(s=>s!==titulS)];
+  else if(titulS) zobrazit=[titulS,...zobrazit];
+  let filtry=(cfg.filters||[]).map(najit).filter(Boolean);
+  if(!cfg.filters){ // automaticky: textové sloupce s 2–15 různými hodnotami
+    filtry=viditelne.filter(s=>s!==titulS&&(s.typ==="text"||s.typ==="seznam")&&(()=>{ const r=new Set(); for(const z of zaznamy){ if(/^(https?:|www\.)|@/.test(z.b[s.i])) return false; for(const h of hodnotyFiltru(s,z.b[s.i])) r.add(h); if(r.size>15) return false; } return r.size>=2&&r.size<zaznamy.length; })()).slice(0,4);
+  }
+  const karta=(cfg.card||[]).map(najit).filter(Boolean);
+  const D={kes,text,sloupce,zaznamy,titulS,klicS,zobrazit,filtry,karta:karta.length?karta:zobrazit.filter(s=>s!==titulS).slice(0,3),
+    podleKlice:new Map(zaznamy.map(z=>[z.klic,z])),cfg};
+  W.data.set(u.id,D);
+  return D;
+}
+const hodnotyFiltru=(s,h)=>s.typ==="seznam"?(rozdelitSeznam(h).length?rozdelitSeznam(h):[""]):[String(h??"").trim()];
+const jeRozsah=s=>s.typ==="cislo"||s.typ==="datum";
+const hodnotaRozsahu=(s,h)=>s.typ==="cislo"?parseCislo(h):klicDatumu(parseDatum(h))||null;
+function stavTabulky(D,q){
+  q=q||new URLSearchParams();
+  const st={hledat:q.get("hledat")||"",razeni:q.get("razeni")??(D.cfg.sort||""),pohled:q.get("pohled")||D.cfg.view||"tabulka",pocet:Math.max(DATA_STRANKA,+q.get("pocet")||0),f:{},od:{},do:{}};
+  for(const s of D.filtry){
+    const v=q.getAll("f."+s.nazev); if(v.length) st.f[s.nazev]=new Set(v.map(x=>x==="∅"?"":x));
+    if(q.get("od."+s.nazev)) st.od[s.nazev]=q.get("od."+s.nazev);
+    if(q.get("do."+s.nazev)) st.do[s.nazev]=q.get("do."+s.nazev);
+  }
+  return st;
+}
+function dotazTabulky(D,st){
+  const q=new URLSearchParams();
+  if(st.hledat) q.set("hledat",st.hledat);
+  if(st.razeni!==(D.cfg.sort||"")) q.set("razeni",st.razeni);
+  if(st.pohled!==(D.cfg.view||"tabulka")) q.set("pohled",st.pohled);
+  if(st.pocet>DATA_STRANKA) q.set("pocet",st.pocet);
+  for(const [k,v] of Object.entries(st.f)) for(const x of v) q.append("f."+k,x===""?"∅":x);
+  for(const [k,v] of Object.entries(st.od)) if(v) q.set("od."+k,v);
+  for(const [k,v] of Object.entries(st.do)) if(v) q.set("do."+k,v);
+  return q.toString();
+}
+function prochaziFiltry(D,st,z,krome){
+  if(st.hledat){ const slova=bezDiakritiky(st.hledat).split(/\s+/).filter(Boolean); if(!slova.every(w=>z.hledat.includes(w))) return false; }
+  for(const s of D.filtry){
+    if(s===krome) continue;
+    const vyb=st.f[s.nazev];
+    if(vyb&&vyb.size&&!hodnotyFiltru(s,z.b[s.i]).some(h=>vyb.has(h))) return false;
+    if(jeRozsah(s)&&(st.od[s.nazev]||st.do[s.nazev])){
+      const h=hodnotaRozsahu(s,z.b[s.i]); if(h===null||h==="") return false;
+      const od=s.typ==="cislo"?parseCislo(st.od[s.nazev]):klicDatumu(parseDatum(st.od[s.nazev]))||st.od[s.nazev];
+      const d=s.typ==="cislo"?parseCislo(st.do[s.nazev]):klicDatumu(parseDatum(st.do[s.nazev]))||st.do[s.nazev];
+      if(st.od[s.nazev]&&od!==null&&h<od) return false;
+      if(st.do[s.nazev]&&d!==null&&h>d) return false;
+    }
+  }
+  return true;
+}
+function seraditZaznamy(D,st,z){
+  const sest=st.razeni.startsWith("-"), s=D.sloupce.find(x=>x.nazev===st.razeni.replace(/^-/,""));
+  if(!s) return z;
+  const jazyk=W.cfg.language||"cs";
+  const klic=x=>{ const h=x.b[s.i]; if(!h) return null; return s.typ==="cislo"?parseCislo(h):s.typ==="datum"?klicDatumu(parseDatum(h))||h:h; };
+  return z.slice().sort((a,b)=>{
+    const x=klic(a), y=klic(b);
+    if(x===null&&y===null) return a.poradi-b.poradi;
+    if(x===null) return 1; if(y===null) return -1;
+    const c=typeof x==="number"&&typeof y==="number"?x-y:String(x).localeCompare(String(y),jazyk,{sensitivity:"base",numeric:true});
+    return (sest?-c:c)||a.poradi-b.poradi;
+  });
+}
+const adresaZaznamu=(u,z)=>"#"+u.id+"/"+z.klic;
+
+function vykreslitTabulku(u,r,D){
+  if(r.clanek) return vykreslitZaznam(u,r,D);
+  const t=DT(), st=stavTabulky(D,r.dotaz), art=$("#stranka"), zakl=zaklad(u.adresa);
+  vykreslitDrobky(drobkyStranky(u));
+  const filtrHtml=s=>{
+    if(jeRozsah(s)){
+      const typ=s.typ==="datum"?"date":"text", hod=k=>{ const v=st[k][s.nazev]||""; if(s.typ!=="datum") return v; const d=parseDatum(v); return d?klicDatumu(d):v; };
+      return `<fieldset class="data-filtr rozsah"><legend>${esc(s.nazev)}</legend><label>${esc(t.od)} <input type="${typ}" inputmode="${s.typ==="cislo"?"decimal":""}" data-od="${escAttr(s.nazev)}" value="${escAttr(hod("od"))}"></label><label>${esc(t.do)} <input type="${typ}" inputmode="${s.typ==="cislo"?"decimal":""}" data-do="${escAttr(s.nazev)}" value="${escAttr(hod("do"))}"></label></fieldset>`;
+    }
+    const pocty=new Map();
+    for(const z of D.zaznamy) for(const h of new Set(hodnotyFiltru(s,z.b[s.i]))) pocty.set(h,(pocty.get(h)||0)+1);
+    const hodnoty=[...pocty.keys()].sort((a,b)=>a===""?1:b===""?-1:a.localeCompare(b,W.cfg.language||"cs",{sensitivity:"base",numeric:true}));
+    const vyb=st.f[s.nazev]||new Set();
+    return `<details class="data-filtr"${vyb.size?" open":""}><summary>${esc(s.nazev)}<span class="data-vyb" data-vyb="${escAttr(s.nazev)}">${vyb.size?` · ${vyb.size} ${esc(t.vybrano)}`:""}</span></summary><fieldset><legend class="sr-only">${esc(s.nazev)}</legend>${hodnoty.map(h=>`<label><input type="checkbox" data-f="${escAttr(s.nazev)}" value="${escAttr(h)}"${vyb.has(h)?" checked":""}> <span>${esc(h===""?t.prazdne:h)}</span> <small data-pocet></small></label>`).join("")}</fieldset></details>`;
+  };
+  art.innerHTML=hlavaHtml(u,u.title,u.emoji,u.perex?esc(u.perex):"",typStitek(u)+stitkyStrankyHtml(u))
+    +`<div class="obsah data" id="obsah-stranky">
+      <div class="data-ovladani">
+        <div class="data-radek"><label class="data-hledat"><span>${esc(t.hledat)}</span><input type="search" id="data-hledat" value="${escAttr(st.hledat)}" autocomplete="off"></label>
+        <div class="data-pohled" role="group" aria-label="${escAttr(t.zobrazeni)}"><button type="button" data-pohled="tabulka" aria-pressed="${st.pohled!=="karty"}">▦ ${esc(t.tabulka)}</button><button type="button" data-pohled="karty" aria-pressed="${st.pohled==="karty"}">▤ ${esc(t.karty)}</button></div></div>
+        ${D.filtry.length?`<div class="data-filtry" role="group" aria-label="${escAttr(t.filtry)}">${D.filtry.map(filtrHtml).join("")}<button type="button" class="data-zrusit" id="data-zrusit">${esc(t.zrusitFiltry)}</button></div>`:""}
+      </div>
+      <p class="data-stav" id="data-stav" role="status"></p>
+      <div id="data-vysledky"></div>
+    </div>`;
+  const box=$("#data-vysledky");
+  const ulozit=()=>{ const q=dotazTabulky(D,st); history.replaceState(null,"","#"+u.id+(q?"?"+q:"")); };
+  const prekreslit=fokus=>{
+    const vysl=seraditZaznamy(D,st,D.zaznamy.filter(z=>prochaziFiltry(D,st,z)));
+    W.dataSeznam={id:u.id,klice:vysl.map(z=>z.klic),hash:location.hash||"#"+u.id};
+    // počty u filtrů: kolik záznamů by hodnota dala při ostatních filtrech
+    for(const s of D.filtry){
+      if(jeRozsah(s)) continue;
+      const pocty=new Map();
+      for(const z of D.zaznamy) if(prochaziFiltry(D,st,z,s)) for(const h of new Set(hodnotyFiltru(s,z.b[s.i]))) pocty.set(h,(pocty.get(h)||0)+1);
+      art.querySelectorAll(`input[data-f="${CSS.escape(s.nazev)}"]`).forEach(ch=>{ const n=pocty.get(ch.value)||0; const p=ch.parentNode.querySelector("[data-pocet]"); p.textContent=`(${n})`; ch.parentNode.classList.toggle("nula",!n&&!ch.checked); });
+      const v=art.querySelector(`[data-vyb="${CSS.escape(s.nazev)}"]`); if(v) v.textContent=st.f[s.nazev]?.size?` · ${st.f[s.nazev].size} ${t.vybrano}`:"";
+    }
+    const n=vysl.length, vidno=vysl.slice(0,st.pocet);
+    $("#data-stav").textContent=n===D.zaznamy.length?`${n} ${tvar(n,t.zaznamu)}`:`${t.zobrazeno} ${n} ${t.z} ${D.zaznamy.length} ${tvar(D.zaznamy.length,t.zaznamu)}`;
+    if(!n){ box.innerHTML=`<p class="tichy">${esc(t.nic)}</p>`; return; }
+    let h;
+    if(st.pohled==="karty"){
+      h=`<ul class="data-karty">${vidno.map(z=>`<li><h2 class="data-karta-h"><a href="${escAttr(adresaZaznamu(u,z))}">${esc(z.titul)}</a></h2>${D.karta.length?`<dl>${D.karta.filter(s=>z.b[s.i]).map(s=>`<div><dt>${esc(s.nazev)}</dt><dd>${formatHodnota(s.typ,z.b[s.i],zakl)}</dd></div>`).join("")}</dl>`:""}</li>`).join("")}</ul>`;
+    }else{
+      const raz=st.razeni.replace(/^-/,""), sest=st.razeni.startsWith("-");
+      h=`<div class="tabulka data-obal" role="region" aria-label="${escAttr(u.title)}" tabindex="0"><table class="data-tab"><thead><tr>${D.zobrazit.map(s=>{
+          const a=s.nazev===raz?(sest?"descending":"ascending"):"none";
+          return `<th scope="col" aria-sort="${a}" class="${s.typ==="cislo"?"cislo":""}"><button type="button" data-razeni="${escAttr(s.nazev)}">${esc(s.nazev)}<span class="data-sipka" aria-hidden="true">${a==="ascending"?"▲":a==="descending"?"▼":"↕"}</span></button></th>`;
+        }).join("")}</tr></thead><tbody>${vidno.map(z=>`<tr>${D.zobrazit.map(s=>s===D.titulS?`<th scope="row"><a href="${escAttr(adresaZaznamu(u,z))}">${esc(z.titul)}</a></th>`:`<td class="${s.typ==="cislo"?"cislo":""}">${formatHodnota(s.typ,z.b[s.i],zakl)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+    }
+    if(n>vidno.length){ const dal=Math.min(DATA_STRANKA,n-vidno.length); h+=`<p><button type="button" class="data-dalsi" id="data-dalsi">${esc(t.dalsich)} ${dal} (${esc(t.zbyva)} ${n-vidno.length})</button></p>`; }
+    box.innerHTML=h;
+    aktivovatOdkazy(box);
+    if(fokus) box.querySelector(fokus)?.focus();
+  };
+  let casovac=0;
+  $("#data-hledat").addEventListener("input",e=>{ clearTimeout(casovac); casovac=setTimeout(()=>{ st.hledat=e.target.value.trim(); st.pocet=DATA_STRANKA; ulozit(); prekreslit(); },220); });
+  art.querySelector(".data-pohled").addEventListener("click",e=>{ const b=e.target.closest("button[data-pohled]"); if(!b) return; st.pohled=b.dataset.pohled; art.querySelectorAll("[data-pohled]").forEach(x=>x.setAttribute("aria-pressed",x===b)); ulozit(); prekreslit(); });
+  $("#obsah-stranky").addEventListener("change",e=>{
+    const ch=e.target;
+    if(ch.dataset.f!=null){ const s=st.f[ch.dataset.f]=st.f[ch.dataset.f]||new Set(); ch.checked?s.add(ch.value):s.delete(ch.value); if(!s.size) delete st.f[ch.dataset.f]; }
+    else if(ch.dataset.od!=null) st.od[ch.dataset.od]=ch.value.trim();
+    else if(ch.dataset.do!=null) st.do[ch.dataset.do]=ch.value.trim();
+    else return;
+    st.pocet=DATA_STRANKA; ulozit(); prekreslit();
+  });
+  $("#data-zrusit")?.addEventListener("click",()=>{ st.f={}; st.od={}; st.do={}; st.hledat=""; $("#data-hledat").value=""; art.querySelectorAll(".data-filtry input").forEach(i=>{ if(i.type==="checkbox") i.checked=false; else i.value=""; }); ulozit(); prekreslit(); $("#data-hledat").focus(); });
+  box.addEventListener("click",e=>{
+    const b=e.target.closest("button"); if(!b) return;
+    if(b.dataset.razeni!=null){ const n=b.dataset.razeni; st.razeni=st.razeni===n?"-"+n:st.razeni==="-"+n?"":n; ulozit(); prekreslit(`button[data-razeni="${CSS.escape(n)}"]`); }
+    else if(b.id==="data-dalsi"){ const pred=st.pocet; st.pocet+=DATA_STRANKA; ulozit(); prekreslit(); const odk=box.querySelectorAll(st.pohled==="karty"?".data-karty a":"tbody th a")[pred]; odk?.focus(); }
+  });
+  prekreslit();
+  panelProStranku(u,"",[],u.tags||[]);
+  nastavitTitulek(u.title);
+}
+
+function vykreslitZaznam(u,r,D){
+  const t=DT(), z=D.podleKlice.get(r.clanek);
+  if(!z) return vykreslitChybu(T.neexistuje,T.neexistujeText);
+  const art=$("#stranka"), zakl=zaklad(u.adresa);
+  const seznam=W.dataSeznam?.id===u.id?W.dataSeznam:{klice:D.zaznamy.map(x=>x.klic),hash:"#"+u.id};
+  W.aktualni={...u,id:u.id+"/"+z.klic,title:z.titul};
+  const drobky=drobkyStranky(u); drobky[drobky.length-1]={t:u.title,h:seznam.hash}; drobky.push({t:z.titul});
+  vykreslitDrobky(drobky);
+  let telo;
+  if(D.cfg.record){
+    const sab=String(D.cfg.record).replace(/\(\(([^()]+)\)\)/g,(cely,n)=>{ const s=D.sloupce.find(x=>x.nazev===n.trim()); return s?z.b[s.i]:cely; });
+    telo=md(sab,zakl);
+  }else{
+    telo=`<dl class="data-zaznam">${D.sloupce.filter(s=>s.typ!=="skryty"&&s!==D.titulS&&z.b[s.i]).map(s=>`<div><dt>${esc(s.nazev)}</dt><dd>${formatHodnota(s.typ,z.b[s.i],zakl,true)}</dd></div>`).join("")}</dl>`;
+  }
+  const i=seznam.klice.indexOf(z.klic), p=i>0?D.podleKlice.get(seznam.klice[i-1]):null, d=i>=0&&i<seznam.klice.length-1?D.podleKlice.get(seznam.klice[i+1]):null;
+  const nav=(p||d)?`<nav class="strankovani" aria-label="${escAttr(t.predchozi+" / "+t.dalsi)}">${p?`<a href="${escAttr(adresaZaznamu(u,p))}"><small>← ${esc(t.predchozi)}</small>${esc(p.titul)}</a>`:""}${d?`<a class="dalsi" href="${escAttr(adresaZaznamu(u,d))}"><small>${esc(t.dalsi)} →</small>${esc(d.titul)}</a>`:""}</nav>`:"";
+  art.innerHTML=hlavaHtml(u,z.titul,u.emoji,"",`<a href="${escAttr(seznam.hash)}">← ${esc(t.zpet)}</a>`)
+    +`<div class="obsah" id="obsah-stranky">${telo}</div>`+nav;
+  aktivovatOdkazy(art);
+  panelProStranku(W.aktualni,telo,[],[]);
+  nastavitTitulek(z.titul,u.title);
+}
+
+/* ---------- JSON ---------- */
+const JSON_TITULKY=["nazev","název","name","title","jmeno","jméno","label","nadpis","id","kod","kód","key"];
+const jePrimitiv=v=>v===null||typeof v!=="object";
+const lidskyKlic=k=>{ const s=String(k).replace(/([a-z])([A-Z])/g,"$1 $2").replace(/[_-]+/g," ").trim(); return s.charAt(0).toUpperCase()+s.slice(1); };
+const vzorCesty=c=>c.filter(x=>typeof x!=="number").join(".");
+const idCesty=c=>"j-"+(c.length?c.map(x=>typeof x==="number"?String(x):slug(String(x))||"x").join("."):"koren");
+function popisySchematu(sch){
+  const mapa=new Map(); if(!sch||typeof sch!=="object") return mapa;
+  const defs={...(sch.$defs||{}),...(sch.definitions||{})};
+  const rozres=s=>{ let n=0; while(s&&s.$ref&&n++<20){ const m=String(s.$ref).match(/^#\/(?:\$defs|definitions)\/(.+)$/); s=m?defs[decodeURIComponent(m[1])]:null; } return s||{}; };
+  const projdi=(s,cesta,hloubka)=>{
+    s=rozres(s); if(hloubka>12) return;
+    for(const x of [...(s.allOf||[]),...(s.anyOf||[]),...(s.oneOf||[])]) projdi(x,cesta,hloubka+1);
+    if(s.items) projdi(s.items,cesta,hloubka+1);
+    for(const [k,v] of Object.entries(s.properties||{})){
+      const c=cesta?cesta+"."+k:k, vv=rozres(v), st=mapa.get(c)||{};
+      mapa.set(c,{title:st.title||vv.title||v.title,description:st.description||vv.description||v.description,format:st.format||vv.format||v.format,poradi:st.poradi??Object.keys(s.properties).indexOf(k)});
+      projdi(v,c,hloubka+1);
+    }
+  };
+  projdi(sch,"",0);
+  return mapa;
+}
+function formatJsonHodnota(v,popis,zakl){
+  const t=DT(), jazyk=W.cfg.language||"cs";
+  if(v===null||v==="") return `<span class="j-null">${esc(t.nic2)}</span>`;
+  if(typeof v==="boolean") return v?`<span class="j-ano">✓ ${esc(t.ano)}</span>`:`<span class="j-ne">✗ ${esc(t.ne)}</span>`;
+  if(typeof v==="number") return esc(v.toLocaleString(jazyk));
+  const s=String(v), f=popis?.format;
+  if(f==="uri"||f==="url"||jeUrl(s)) return formatHodnota("url",s);
+  if(f==="email"||jeEmail(s)) return formatHodnota("email",s);
+  if((f==="date"||f==="date-time"||!f)&&parseDatum(s)) return formatHodnota("datum",s);
+  return esc(s).replace(/\n/g,"<br>");
+}
+function vykreslitJson(u,r,text,druh){
+  const t=DT(), cfg=u.json||{}, art=$("#stranka"), zakl=zaklad(u.adresa);
+  let data=druh==="jsonl"?text.split("\n").filter(x=>x.trim()).map(x=>JSON.parse(x)):JSON.parse(text);
+  if(cfg.path) for(const k of String(cfg.path).split(".").filter(Boolean)) data=data?.[/^\d+$/.test(k)&&Array.isArray(data)?+k:k];
+  if(data===undefined) throw new Error("path: "+cfg.path);
+  const schema=W.jsonSchema?.get(u.id)||new Map();
+  const skryt=new Set(cfg.hide||[]), tabulky=new Set(cfg.tables||[]), otevrit=cfg.open??2;
+  const titulky=[...(cfg.title?[].concat(cfg.title):[]),...JSON_TITULKY];
+  const popisek=(cesta,klic)=>{ const v=vzorCesty(cesta); return (cfg.labels||{})[v]||schema.get(v)?.title||lidskyKlic(klic); };
+  const titulPolozky=(o,i)=>{ if(o&&typeof o==="object"&&!Array.isArray(o)){ for(const k of titulky){ const x=Object.keys(o).find(y=>y.toLowerCase()===k.toLowerCase()); if(x&&jePrimitiv(o[x])&&o[x]!==null&&o[x]!=="") return String(o[x]); } } return t.polozka+" "+(i+1); };
+  const poctem=v=>Array.isArray(v)?`${v.length} ${tvar(v.length,t.polozek)}`:`${Object.keys(v).length} ${tvar(Object.keys(v).length,t.polozek)}`;
+  const serazeneKlice=(o,cesta)=>{ const k=Object.keys(o).filter(x=>!skryt.has(vzorCesty([...cesta,x]))); const s=x=>schema.get(vzorCesty([...cesta,x]))?.poradi; return k.map((x,i)=>[x,i]).sort((a,b)=>{ const pa=s(a[0]), pb=s(b[0]); return (pa??1e6+a[1])-(pb??1e6+b[1]); }).map(x=>x[0]); };
+  const LIMIT=100;
+  const sekce=(cesta,nadpis,obsahHtml,hloubka,pocet,popis)=>{
+    const id=idCesty(cesta), lvl=Math.min(6,2+hloubka), otevreno=hloubka<otevrit;
+    return `<section class="j-sekce j-u${Math.min(hloubka,4)}"><h${lvl} class="j-h" id="${escAttr(id)}"><button type="button" aria-expanded="${otevreno}" aria-controls="${escAttr(id)}-t">${esc(nadpis)}${pocet?`<small> · ${esc(pocet)}</small>`:""}</button></h${lvl}><div class="j-telo" id="${escAttr(id)}-t"${otevreno?"":" hidden"}>${popis?`<p class="j-popis">${esc(popis)}</p>`:""}${obsahHtml}</div></section>`;
+  };
+  const objektHtml=(o,cesta,hloubka)=>{
+    const klice=serazeneKlice(o,cesta);
+    if(!klice.length) return `<p class="tichy">${esc(t.prazdnyObjekt)}</p>`;
+    const prim=klice.filter(k=>jePrimitiv(o[k])||(Array.isArray(o[k])&&o[k].every(jePrimitiv)&&o[k].length<=30));
+    const slozite=klice.filter(k=>!prim.includes(k));
+    let h="";
+    if(prim.length) h+=`<dl class="j-dl">${prim.map(k=>{ const c=[...cesta,k], p=schema.get(vzorCesty(c)); return `<div id="${escAttr(idCesty(c))}"><dt>${esc(popisek(c,k))}${p?.description?`<small class="j-popis">${esc(p.description)}</small>`:""}</dt><dd>${Array.isArray(o[k])?odznakyHtml(o[k],p):formatJsonHodnota(o[k],p,zakl)}</dd></div>`; }).join("")}</dl>`;
+    for(const k of slozite){ const c=[...cesta,k]; h+=sekce(c,popisek(c,k),uzelHtml(o[k],c,hloubka+1),hloubka,poctem(o[k]),schema.get(vzorCesty(c))?.description); }
+    return h;
+  };
+  const odznakyHtml=(a,p)=>a.length?`<ul class="j-odznaky">${a.map(x=>`<li>${formatJsonHodnota(x,p,zakl)}</li>`).join("")}</ul>`:`<span class="j-null">${esc(t.nic2)}</span>`;
+  const vhodnaTabulka=(a,cesta)=>{
+    if(!a.length||!a.every(x=>x&&typeof x==="object"&&!Array.isArray(x))) return null;
+    const klice=[]; const vidim=new Set();
+    for(const x of a) for(const k of Object.keys(x)) if(!vidim.has(k)&&!skryt.has(vzorCesty([...cesta,k]))){ vidim.add(k); klice.push(k); }
+    if(tabulky.has(vzorCesty(cesta))) return klice;
+    if(klice.length>10) return null;
+    let prim=0, celkem=0, spolecne=0;
+    for(const x of a){ let n=0; for(const k of klice){ if(k in x){ n++; celkem++; if(jePrimitiv(x[k])) prim++; } } spolecne+=n/klice.length; }
+    return prim/Math.max(1,celkem)>=0.75&&spolecne/a.length>=0.5?klice:null;
+  };
+  const poleHtml=(a,cesta,hloubka,vse)=>`<div class="j-pole">${poleVnitrek(a,cesta,hloubka,vse)}</div>`;
+  const poleVnitrek=(a,cesta,hloubka,vse)=>{
+    if(!a.length) return `<p class="tichy">${esc(t.prazdnyObjekt)}</p>`;
+    const p=schema.get(vzorCesty(cesta));
+    if(a.every(jePrimitiv)) return a.length<=30&&a.every(x=>String(x??"").length<60)?odznakyHtml(a,p):`<ol class="j-seznam">${a.slice(0,vse?a.length:LIMIT).map((x,i)=>`<li id="${escAttr(idCesty([...cesta,i]))}">${formatJsonHodnota(x,p,zakl)}</li>`).join("")}</ol>`+vic(a,cesta,vse);
+    const kol=vhodnaTabulka(a,cesta);
+    const vidno=a.slice(0,vse?a.length:LIMIT);
+    if(kol){
+      return `<div class="tabulka j-tab-obal" role="region" aria-label="${escAttr(popisek(cesta,cesta[cesta.length-1]??""))}" tabindex="0"><table class="j-tab"><thead><tr>${kol.map(k=>`<th scope="col" aria-sort="none"><button type="button" data-jrazeni="${escAttr(k)}">${esc(popisek([...cesta,k],k))}<span class="data-sipka" aria-hidden="true">↕</span></button></th>`).join("")}</tr></thead><tbody>${vidno.map((x,i)=>`<tr id="${escAttr(idCesty([...cesta,i]))}">${kol.map((k,j)=>{
+        const v=x[k], c=[...cesta,i,k], pp=schema.get(vzorCesty(c)), raz=jePrimitiv(v)?(typeof v==="number"?v:String(v??"")):"";
+        const obsah=k in x?(jePrimitiv(v)?formatJsonHodnota(v,pp,zakl):Array.isArray(v)&&v.every(jePrimitiv)?odznakyHtml(v,pp):`<details class="j-vnor"><summary>${esc(poctem(v))}</summary>${uzelHtml(v,c,hloubka+1)}</details>`):"";
+        return j===0?`<th scope="row" data-s="${escAttr(raz)}">${obsah}</th>`:`<td data-s="${escAttr(raz)}"${typeof v==="number"?' class="cislo"':""}>${obsah}</td>`;
+      }).join("")}</tr>`).join("")}</tbody></table></div>`+vic(a,cesta,vse);
+    }
+    return vidno.map((x,i)=>{ const c=[...cesta,i]; return jePrimitiv(x)?`<p id="${escAttr(idCesty(c))}">${formatJsonHodnota(x,p,zakl)}</p>`:sekce(c,titulPolozky(x,i),uzelHtml(x,c,hloubka+1),hloubka,Array.isArray(x)?poctem(x):"",""); }).join("")+vic(a,cesta,vse);
+  };
+  const vic=(a,cesta,vse)=>!vse&&a.length>LIMIT?`<p><button type="button" class="data-dalsi" data-jvse="${escAttr(JSON.stringify(cesta))}">${esc(t.zobrazitVse)} ${a.length} ${tvar(a.length,t.polozek)}</button></p>`:"";
+  const uzelHtml=(v,cesta,hloubka,vse)=>jePrimitiv(v)?`<p>${formatJsonHodnota(v,schema.get(vzorCesty(cesta)),zakl)}</p>`:Array.isArray(v)?poleHtml(v,cesta,hloubka,vse):objektHtml(v,cesta,hloubka);
+
+  vykreslitDrobky(drobkyStranky(u));
+  const telo=uzelHtml(data,[],0);
+  art.innerHTML=hlavaHtml(u,u.title,u.emoji,u.perex?esc(u.perex):"",typStitek(u)+stitkyStrankyHtml(u))
+    +`<div class="obsah data" id="obsah-stranky">
+      <div class="data-ovladani"><div class="data-radek">
+        <label class="data-hledat"><span>${esc(t.hledatJson)}</span><input type="search" id="j-hledat" autocomplete="off"></label>
+        <div class="data-pohled"><button type="button" id="j-rozbalit">${esc(t.rozbalitVse)}</button><button type="button" id="j-sbalit">${esc(t.sbalitVse)}</button><button type="button" id="j-zdroj" aria-pressed="false">{ } ${esc(t.zdroj)}</button></div>
+      </div></div>
+      <div id="j-nalezy" role="status"></div>
+      <div id="j-data">${telo}</div>
+      <div id="j-zdroj-box" hidden><p><button type="button" id="j-kopirovat">${esc(t.kopirovat)}</button> <span id="j-kop-stav" role="status"></span></p><pre class="j-zdroj"><code></code></pre></div>
+    </div>`;
+  const koren=$("#j-data");
+  const prepnout=(btn,otevrit)=>{ const tel=document.getElementById(btn.getAttribute("aria-controls")); if(!tel) return; btn.setAttribute("aria-expanded",otevrit); tel.hidden=!otevrit; };
+  koren.addEventListener("click",e=>{
+    const b=e.target.closest("button"); if(!b) return;
+    if(b.hasAttribute("aria-expanded")) prepnout(b,b.getAttribute("aria-expanded")!=="true");
+    else if(b.dataset.jvse){
+      const cesta=JSON.parse(b.dataset.jvse); let v=data; for(const k of cesta) v=v[k];
+      const pole=b.closest(".j-pole"), hl=+(pole.closest(".j-sekce")?.className.match(/j-u(\d)/)?.[1]??-1)+1;
+      pole.innerHTML=poleVnitrek(v,cesta,hl,true); aktivovatOdkazy(pole);
+      pole.querySelector(`#${CSS.escape(idCesty([...cesta,LIMIT]))}`)?.querySelector("a,button,th,td")?.focus();
+    }else if(b.dataset.jrazeni!=null){
+      const th=b.closest("th"), tab=b.closest("table"), tb=tab.tBodies[0], i=[...th.parentNode.children].indexOf(th);
+      const sm=th.getAttribute("aria-sort")==="ascending"?"descending":"ascending";
+      tab.querySelectorAll("thead th").forEach(x=>{ x.setAttribute("aria-sort","none"); x.querySelector(".data-sipka").textContent="↕"; });
+      th.setAttribute("aria-sort",sm); b.querySelector(".data-sipka").textContent=sm==="ascending"?"▲":"▼";
+      const radky=[...tb.rows], klic=r=>{ const s=r.children[i]?.dataset.s??""; const n=parseFloat(s); return s!==""&&!isNaN(n)&&String(n)===s?n:s; };
+      radky.sort((a,b)=>{ const x=klic(a), y=klic(b); if(x===""&&y!=="") return 1; if(y===""&&x!=="") return -1; const c=typeof x==="number"&&typeof y==="number"?x-y:String(x).localeCompare(String(y),W.cfg.language||"cs",{sensitivity:"base",numeric:true}); return sm==="ascending"?c:-c; });
+      radky.forEach(r=>tb.append(r)); b.focus();
+    }
+  });
+  $("#j-rozbalit").onclick=()=>{ koren.querySelectorAll(".j-h button").forEach(b=>prepnout(b,true)); koren.querySelectorAll("details").forEach(d=>d.open=true); };
+  $("#j-sbalit").onclick=()=>{ koren.querySelectorAll(".j-h button").forEach(b=>prepnout(b,false)); };
+  $("#j-zdroj").onclick=e=>{
+    const zap=e.currentTarget.getAttribute("aria-pressed")!=="true", box=$("#j-zdroj-box");
+    e.currentTarget.setAttribute("aria-pressed",zap); box.hidden=!zap; koren.hidden=zap;
+    if(zap&&!box.dataset.hotovo){ box.querySelector("code").innerHTML=zvyraznitJson(JSON.stringify(data,null,2)); box.dataset.hotovo="1"; }
+  };
+  $("#j-kopirovat").onclick=async()=>{ try{ await navigator.clipboard.writeText(JSON.stringify(data,null,2)); $("#j-kop-stav").textContent=t.zkopirovano; }catch{ $("#j-kop-stav").textContent=T.nelzeKopirovat; } };
+  // hledání: projde klíče i hodnoty, vypíše místa jako odkazy s cestou
+  let listy=null, casovac=0;
+  const sebrat=()=>{ const out=[]; const jdi=(v,c,popisy)=>{ if(out.length>20000) return;
+      if(jePrimitiv(v)){ out.push({c,popisy,text:String(v??""),hledat:bezDiakritiky(popisy.join(" ")+" "+String(v??""))}); return; }
+      if(Array.isArray(v)) v.forEach((x,i)=>jdi(x,[...c,i],[...popisy,jePrimitiv(x)?String(i+1):titulPolozky(x,i)]));
+      else for(const k of Object.keys(v)) if(!skryt.has(vzorCesty([...c,k]))) jdi(v[k],[...c,k],[...popisy,popisek([...c,k],k)]); };
+    jdi(data,[],[]); return out; };
+  $("#j-hledat").addEventListener("input",e=>{ clearTimeout(casovac); casovac=setTimeout(()=>{
+    const box=$("#j-nalezy"), slova=bezDiakritiky(e.target.value).split(/\s+/).filter(Boolean);
+    if(!slova.length){ box.innerHTML=""; return; }
+    listy=listy||sebrat();
+    const nal=listy.filter(x=>slova.every(w=>x.hledat.includes(w)));
+    box.innerHTML=nal.length?`<p class="tichy">${esc(t.nalezeno)} ${nal.length} ${esc(t.mist)}</p><ul class="vysledky j-vysledky">${nal.slice(0,50).map(x=>`<li><a href="#${escAttr(u.id+":"+cilNalezu(x.c))}"><small>${esc(x.popisy.join(" › "))}</small>${esc(x.text.length>120?x.text.slice(0,117)+"…":x.text)}</a></li>`).join("")}</ul>`:`<p class="tichy">${esc(t.zadnyNalez)}</p>`;
+  },220); });
+  // cíl nálezu: nejbližší předek, který má v DOM kotvu (řádek tabulky, sekce, položka)
+  const cilNalezu=c=>{ for(let n=c.length;n>=0;n--){ const id=idCesty(c.slice(0,n)); if(document.getElementById(id)) return id; } return "obsah-stranky"; };
+  $("#j-nalezy").addEventListener("click",e=>{ const a=e.target.closest("a[href*=':j-']"); if(!a) return; e.preventDefault(); history.replaceState(null,"",a.getAttribute("href")); skocitNa(a.getAttribute("href").split(":").slice(1).join(":")); });
+  aktivovatOdkazy(art);
+  panelProStranku(u,telo,[],u.tags||[]);
+  nastavitTitulek(u.title);
+}
+function zvyraznitJson(s){
+  return s.replace(/("(?:\\.|[^"\\])*")(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d+)?(?:[eE][+-]?\d+)?|[^"\w-]+|[\w-]+/g,(m,str,dvoj,lit)=>{
+    if(str) return dvoj?`<span class="j-k">${esc(str)}</span>${esc(dvoj)}`:`<span class="j-s">${esc(str)}</span>`;
+    if(lit) return `<span class="j-l">${m}</span>`;
+    if(/^-?\d/.test(m)) return `<span class="j-c">${m}</span>`;
+    return esc(m);
+  });
+}
+/* Odkrytí sbalených předků — aby skok na kotvu (obsah stránky, nález, sdílený odkaz) vždy něco ukázal */
+function odkrytPredky(el){
+  for(let p=el.parentElement;p;p=p.parentElement){
+    if(p.classList?.contains("j-telo")&&p.hidden){ p.hidden=false; const b=document.querySelector(`[aria-controls="${CSS.escape(p.id)}"]`); if(b) b.setAttribute("aria-expanded","true"); }
+    if(p.tagName==="DETAILS") p.open=true;
+  }
+  if(el.classList?.contains("j-h")){ const b=el.querySelector("button[aria-expanded]"); if(b&&b.getAttribute("aria-expanded")!=="true") b.click(); }
+}
+async function vykreslitData(u,r){
+  W.aktualni=u; W.zdrojStranky=null;
+  oznacitVeStromu(u.id);
+  const art=$("#stranka"), druh=druhDat(u);
+  let text;
+  try{
+    text=await nactiData(u.adresa);
+    if((druh==="json"||druh==="jsonl")&&!W.jsonSchema?.has(u.id)){
+      W.jsonSchema=W.jsonSchema||new Map();
+      let sch=null;
+      const cesta=u.json?.schema||(/(^|\/)data\.json$/i.test(String(u.file).replace(/[?#].*$/,""))?"schema.json":null);
+      if(cesta){ try{ sch=JSON.parse(await nactiData(new URL(cesta,zaklad(u.adresa)).href)); }catch{} }
+      W.jsonSchema.set(u.id,popisySchematu(sch));
+    }
+  }catch(e){
+    vykreslitDrobky(drobkyStranky(u));
+    art.innerHTML=hlavaHtml(u,u.title,u.emoji)+`<div class="obsah">${navrhChyby(u,e)}</div>`;
+    panelProStranku(u,"",[],[]); nastavitTitulek(u.title); return;
+  }
+  try{
+    if(druh==="csv"||druh==="tsv") return vykreslitTabulku(u,r,ziskatTabulku(u,text));
+    return vykreslitJson(u,r,text,druh);
+  }catch(e){
+    vykreslitDrobky(drobkyStranky(u));
+    art.innerHTML=hlavaHtml(u,u.title,u.emoji)+`<div class="obsah"><div class="ep ep-danger" role="note"><span class="ep-icon" aria-hidden="true">❗</span><div class="ep-body"><strong>${esc(DT().chybaDat)}.</strong> ${esc(e.message)}</div></div></div>`;
+    panelProStranku(u,"",[],[]); nastavitTitulek(u.title);
+  }
+}
+
 /* ---------- hledání ---------- */
 async function pripravitIndex(){
   if(W.index) return W.index;
   const st=[...W.stranky.values()].filter(u=>!u.hidden&&!u.virtualni);
   W.index=await Promise.all(st.map(async u=>{
     let text="";
-    try{ if(u.adresa) text=await vlozitStranky(await nactiText(u.adresa),0,[u.id]); }catch{}
+    try{ if(u.adresa&&!druhDat(u)) text=await vlozitStranky(await nactiText(u.adresa),0,[u.id]); }catch{}
     const multi=rozpoznatMulti(text);
     if(multi){
       rozbalitMulti(u,multi);
