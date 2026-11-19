@@ -62,7 +62,7 @@ Důležité je
 
 ## Strukturovaná data v ISVS a jejich sdílení
 
-Tuto problematiku řeší celá oblast datové architektury a nový [[ikcr-hc-7]] za [[ikcr-ap-p-18]] z IKČR. Musí se řešit spousta věcí od potřeby správného pochopení výměny dat přes [[propojeny-datovy-fond]] a komplexní datovou architekturu, přes [[Základy konceptuálních modelů]] v rámci datové architektury agendy i řešení až po technické požadavky ke správě a klasifikaci dat shrnuté v metodice [[Odkazy/Metodický pokyn ke správě dat dle vyhlášky č. 360/2023 Sb.|Metodický pokyn ke správě dat dle vyhlášky č. 360/2023 Sb.]]. Datová správa a datová architektura jsou velice komplexní oblasti. Důležité je [[Úřadovat nad údaji a ne nad dokumenty]] a naučit se [[Jak všechno dělat nad daty]]
+Tuto problematiku řeší celá oblast datové architektury a nový [[ikcr-hc-7]] za [[Architektonické principy IKČR/P18: Datová suverenita a nezávislost (Data sovereignty and independence)|P18: Datová suverenita a nezávislost (Data sovereignty and independence)]] z IKČR. Musí se řešit spousta věcí od potřeby správného pochopení výměny dat přes [[propojeny-datovy-fond]] a komplexní datovou architekturu, přes [[Základy konceptuálních modelů]] v rámci datové architektury agendy i řešení až po technické požadavky ke správě a klasifikaci dat shrnuté v metodice [[Odkazy/Metodický pokyn ke správě dat dle vyhlášky č. 360/2023 Sb.|Metodický pokyn ke správě dat dle vyhlášky č. 360/2023 Sb.]]. Datová správa a datová architektura jsou velice komplexní oblasti. Důležité je [[Úřadovat nad údaji a ne nad dokumenty]] a naučit se [[Jak všechno dělat nad daty]]
 
 Důležité je
 

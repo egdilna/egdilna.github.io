@@ -2046,6 +2046,53 @@
           "file": "strategie-a-koncepce.md",
           "children": [
             {
+              "id": "ikcr",
+              "title": "Informační koncepce ČR",
+              "file": "ikcr.md",
+              "aliases": [
+                "IKČR",
+                "Informační koncepce České republiky"
+              ],
+              "tags": [
+                "znalosti EG",
+                "strategie",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ikcr-cile",
+              "title": "Cíle IKČR",
+              "file": "ikcr-cile.md",
+              "type": "rozcestnik",
+              "multisection": true,
+              "tags": [
+                "strategie",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ikcr-architektonicke-principy",
+              "title": "Architektonické principy IKČR",
+              "file": "ikcr-architektonicke-principy.md",
+              "type": "rozcestnik",
+              "multisection": true,
+              "tags": [
+                "strategie",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ikcr-zasady-rizeni",
+              "title": "Zásady řízení ICT podle IKČR",
+              "file": "ikcr-zasady-rizeni.md",
+              "type": "rozcestnik",
+              "multisection": true,
+              "tags": [
+                "strategie",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
               "id": "narodni-architektonicky-plan",
               "title": "Národní architektonický plán",
               "file": "narodni-architektonicky-plan.md",
