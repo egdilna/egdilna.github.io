@@ -1875,27 +1875,6 @@
           ]
         },
         {
-          "id": "archimate",
-          "title": "ArchiMate",
-          "file": "archimate.md",
-          "tags": [
-            "pojem",
-            "znalosti eg",
-            "pro architekty",
-            "pro manažery",
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "architektonicky-model",
-          "title": "Architektonický model",
-          "file": "architektonicky-model.md",
-          "tags": [
-            "pojem",
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
           "id": "klicove-oblasti-architektury",
           "title": "Klíčové oblasti architektury",
           "file": "klicove-oblasti-architektury.md",
@@ -1969,7 +1948,30 @@
         {
           "id": "architektura-a-priprava",
           "title": "Architektura a příprava",
-          "file": "architektura-a-priprava.md"
+          "file": "architektura-a-priprava.md",
+          "children": [
+            {
+              "id": "archimate",
+              "title": "ArchiMate",
+              "file": "archimate.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "pro architekty",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "architektonicky-model",
+              "title": "Architektonický model",
+              "file": "architektonicky-model.md",
+              "tags": [
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            }
+          ]
         },
         {
           "id": "data-a-pece-o-ne",
