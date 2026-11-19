@@ -550,7 +550,8 @@
     "2022-02-01",
     "2023-04-01"
    ],
-   "zkontrolovano": "2026-11-19T11:24:19.134Z"
+   "zkontrolovano": "2026-11-19T11:24:19.134Z",
+   "popis": "Transponuje část EIDAS. Řeší oblast elektronické identifikace a využití prostředků ZEID (zaručené elektronické identifikace)."
   }
  },
  "skupiny": [
@@ -3182,6 +3183,11 @@
    "popis": ""
   },
   {
+   "id": "t-mwngq3yqf271",
+   "nazev": "elektronická identifikace",
+   "popis": ""
+  },
+  {
    "id": "t-mwhkp6hsl1yw",
    "nazev": "kb",
    "popis": ""
@@ -3229,11 +3235,6 @@
   {
    "id": "t-mvhxlvdnt9wr",
    "nazev": "spisová služba",
-   "popis": ""
-  },
-  {
-   "id": "t-mwngq3yqf271",
-   "nazev": "elektronická identifikace",
    "popis": ""
   }
  ],
@@ -3357,6 +3358,7 @@
   "2025/409",
   "2025/410",
   "2016/134",
-  "2012/259"
+  "2012/259",
+  "2016/297"
  ]
 }
