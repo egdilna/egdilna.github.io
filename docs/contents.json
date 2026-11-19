@@ -823,6 +823,20 @@
               "tags": [
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "legislativa-oblast-egovernment",
+              "title": "Oblast právních předpisů eGovernment",
+              "file": "legislativa-oblast-egovernment.md",
+              "managed": true,
+              "tags": [
+                ".export z leg knihovny egdílny",
+                "architektonické znalosti",
+                "Edukace",
+                "egovedu",
+                "legislativa"
+              ],
+              "perex": "Jaké jsou zásadní předpisy stran EG a co v nich najdete?"
             }
           ],
           "draft": true,
