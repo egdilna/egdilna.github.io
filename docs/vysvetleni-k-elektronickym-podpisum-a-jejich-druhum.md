@@ -26,10 +26,16 @@ Důležité pojmy spojené s elektronickými podpisy:
 
 ## Typy podpisu dle formy a důvěryhodnosti
 
+### Prostý elektronický podpis
+
 {{Prostý elektronický podpis}}
+### Elektronický podpis podle zákona 297/2016
+
 {{Elektronický podpis podle zákona 297/2016}}
 
 ## Důležité poznámky
 
 {{Co je a není podpis}}
+### Nic jako biometrický podpis neexistuje
+
 {{Nic jako biometrický podpis neexistuje}}

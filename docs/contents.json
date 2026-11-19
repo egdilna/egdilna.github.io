@@ -112,10 +112,10 @@
               "file": "elektronicka-identifikace-pravnicke-osoby.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 "Elektronická identifikace",
                 "Záludnosti EG",
-                "Časté omyly",
+                "časté omyly",
                 "Mandáty",
                 ".migrace z dokuwiki"
               ],
@@ -126,8 +126,8 @@
               "title": "eDoklady",
               "file": "edoklady.md",
               "tags": [
-                "Základní pilíře EG",
-                "EIDAS",
+                "základní pilíře",
+                "eIDAS",
                 "eDoklady",
                 ".migrace z dokuwiki"
               ],
@@ -138,7 +138,7 @@
                   "file": "edoklady-obcan.md",
                   "tags": [
                     "Důvěryhodnost",
-                    "EIDAS",
+                    "eIDAS",
                     "eDoklady",
                     ".migrace z dokuwiki"
                   ]
@@ -149,7 +149,7 @@
                   "file": "edoklady-overujici.md",
                   "tags": [
                     "Důvěryhodnost",
-                    "EIDAS",
+                    "eIDAS",
                     "eDoklady",
                     ".migrace z dokuwiki"
                   ]
@@ -161,7 +161,7 @@
               "title": "Záměna OVS a OVM",
               "file": "zamena-ovs-a-ovm.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "důležité",
                 "časté omyly",
                 ".migrace z dokuwiki"
@@ -172,9 +172,9 @@
               "title": "Referenční identita",
               "file": "referencni-identita.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -183,12 +183,12 @@
               "title": "Základní registry",
               "file": "zakladni-registry.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro správce",
-                "základní pilíře eg",
+                "základní pilíře",
                 ".migrace z dokuwiki"
               ]
             },
@@ -197,7 +197,7 @@
               "title": "Základní produkty EG",
               "file": "zakladni-produkty-eg.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "důležité",
                 ".migrace z dokuwiki"
               ]
@@ -224,8 +224,8 @@
                   "title": "Fyzická osoba",
                   "file": "fyzicka-osoba.md",
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
+                    "klíčové pojmy",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -266,8 +266,8 @@
                     "OVS"
                   ],
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
+                    "klíčové pojmy",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -276,8 +276,8 @@
                   "title": "Podnikající fyzická osoba",
                   "file": "podnikajici-fyzicka-osoba.md",
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
+                    "klíčové pojmy",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -286,8 +286,8 @@
                   "title": "Právnická osoba",
                   "file": "pravnicka-osoba.md",
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
+                    "klíčové pojmy",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -296,8 +296,8 @@
                   "title": "Právnický subjekt",
                   "file": "pravnicky-subjekt.md",
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
+                    "klíčové pojmy",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -306,8 +306,8 @@
                   "title": "Státní právnická osoba",
                   "file": "statni-pravnicka-osoba.md",
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
+                    "klíčové pojmy",
+                    "znalosti EG",
                     "důležité",
                     ".migrace z dokuwiki"
                   ]
@@ -317,9 +317,9 @@
                   "title": "Veřejnoprávní původce",
                   "file": "verejnopravni-puvodce.md",
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
-                    "spisovka",
+                    "klíčové pojmy",
+                    "znalosti EG",
+                    "spisová služba",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -343,11 +343,11 @@
                     "ZIFO"
                   ],
                   "tags": [
-                    "pojem",
+                    "klíčové pojmy",
                     "pro úřady",
                     "pro správce",
                     "pro architekty",
-                    "znalosti eg",
+                    "znalosti EG",
                     "důležité",
                     ".migrace z dokuwiki"
                   ]
@@ -358,7 +358,7 @@
                   "file": "dic.md",
                   "tags": [
                     "zkratka",
-                    "pojem",
+                    "klíčové pojmy",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -367,7 +367,7 @@
                   "title": "IČO",
                   "file": "ico.md",
                   "tags": [
-                    "pojem",
+                    "klíčové pojmy",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -379,8 +379,8 @@
                     "KI"
                   ],
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
+                    "klíčové pojmy",
+                    "znalosti EG",
                     "pro úřady",
                     "pro lidi",
                     ".migrace z dokuwiki"
@@ -393,7 +393,7 @@
               "title": "Atestace",
               "file": "atestace.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -402,9 +402,9 @@
               "title": "Atestace dlouhodobého řízení",
               "file": "atestace-dlouhodobeho-rizeni.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro manažery",
                 ".migrace z dokuwiki"
@@ -436,7 +436,7 @@
               "tags": [
                 ".export z leg knihovny egdílny",
                 "legislativa",
-                "Naše práce"
+                "naše práce"
               ],
               "perex": "Přehled těch nejdůležitějších digitálních zákon§zákonů",
               "aliases": [
@@ -680,10 +680,10 @@
                   "title": "Registr zastupování",
                   "file": "registr-zastupovani.md",
                   "tags": [
-                    "pojem",
+                    "klíčové pojmy",
                     "důležité",
-                    "znalosti eg",
-                    "základnípilíře eg",
+                    "znalosti EG",
+                    "základní pilíře",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -700,9 +700,9 @@
                   "title": "Registr obyvatel",
                   "file": "registr-obyvatel.md",
                   "tags": [
-                    "pojem",
+                    "klíčové pojmy",
                     "důležité",
-                    "znalosti eg",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -711,9 +711,9 @@
                   "title": "Registr osob",
                   "file": "registr-osob.md",
                   "tags": [
-                    "pojem",
+                    "klíčové pojmy",
                     "důležité",
-                    "znalosti eg",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -725,9 +725,9 @@
                     "RPP"
                   ],
                   "tags": [
-                    "pojem",
+                    "klíčové pojmy",
                     "důležité",
-                    "znalosti eg",
+                    "znalosti EG",
                     "pro úřady",
                     "pro lidi",
                     "pro architekty",
@@ -739,8 +739,8 @@
                   "title": "Registr územní identifikace adres a nemovitostí",
                   "file": "registr-uzemni-identifikace-adres-a-nemovitosti.md",
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
+                    "klíčové pojmy",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -795,9 +795,9 @@
                     "ESSL"
                   ],
                   "tags": [
-                    "pojem",
-                    "znalosti eg",
-                    "spisovka",
+                    "klíčové pojmy",
+                    "znalosti EG",
+                    "spisová služba",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -889,7 +889,7 @@
               "tags": [
                 "typizovaný ais",
                 "rámec pro AIS",
-                "dokument",
+                "dokumenty",
                 "architektonické znalosti",
                 ".rámec generický ais"
               ]
@@ -944,7 +944,7 @@
               "file": "tabulka-pozadavky-kb-byhlaska-vyssi.md",
               "managed": true,
               "tags": [
-                "Naše práce",
+                "naše práce",
                 "Řízení a rozvoj IS",
                 "kybernetická bezpečnost",
                 "bezpečnost informací",
@@ -965,7 +965,7 @@
               "title": "Druhy informačních systémů spravovaných OVS",
               "file": "druhy-informacnich-systemu-spravovanych-ovs.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro správce",
                 ".migrace z dokuwiki"
@@ -976,7 +976,7 @@
               "title": "Aplikační oblasti",
               "file": "aplikacni-oblasti.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -995,9 +995,9 @@
               "title": "Dlouhodobé řízení IS",
               "file": "dlouhodobe-rizeni-is.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro správce",
                 "pro manažery",
@@ -1010,7 +1010,7 @@
               "title": "Atestace informačního systému",
               "file": "atestace-informacniho-systemu.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
                 "pro úřady",
                 "pro správce",
@@ -1023,8 +1023,8 @@
               "title": "Co musí obsahovat smlouvy s dodavateli ICT",
               "file": "co-musi-obsahovat-smlouvy-s-dodavateli-ict.md",
               "tags": [
-                "znalosti eg",
-                "metodika",
+                "znalosti EG",
+                "metodiky",
                 "pro úřady",
                 "pro ajťáky",
                 "pro manažery",
@@ -1040,7 +1040,7 @@
                 "ISVS"
               ],
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "základní pilíře",
                 "důležité",
                 "znalosti EG",
@@ -1052,8 +1052,8 @@
               "title": "Správce ISVS",
               "file": "spravce-isvs.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1108,8 +1108,8 @@
               "title": "Věcný správce IS",
               "file": "vecny-spravce-is.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 "důležité",
                 ".migrace z dokuwiki"
               ]
@@ -1119,8 +1119,8 @@
               "title": "Technický správce IS",
               "file": "technicky-spravce-is.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 "důležité",
                 ".migrace z dokuwiki"
               ]
@@ -1131,7 +1131,7 @@
               "file": "procesni-povinnosti-dlouhodobeho-rizeni.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro ajťáky",
                 ".migrace z dokuwiki"
@@ -1142,9 +1142,9 @@
               "title": "Regulované informační systémy",
               "file": "regulovane-informacni-systemy.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro správce",
                 ".migrace z dokuwiki"
@@ -1155,8 +1155,8 @@
               "title": "Provozní dokumentace",
               "file": "provozni-dokumentace.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 "základní pilíře",
                 "pro správce",
                 "důležité",
@@ -1168,8 +1168,8 @@
               "title": "Určený informační systém",
               "file": "urceny-informacni-system.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1179,7 +1179,7 @@
               "file": "adis.md",
               "tags": [
                 "zkratka",
-                "pojem",
+                "klíčové pojmy",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1189,8 +1189,8 @@
               "file": "kolaudacni-stanovisko-oha.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
-                "pojem",
+                "znalosti EG",
+                "klíčové pojmy",
                 "Rozvoj ISVS",
                 "Úřady a OHA",
                 ".migrace z dokuwiki"
@@ -1203,8 +1203,8 @@
               "file": "stanovisko-oha.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
-                "pojem",
+                "znalosti EG",
+                "klíčové pojmy",
                 "Rozvoj ISVS",
                 "Úřady a OHA",
                 ".migrace z dokuwiki"
@@ -1216,8 +1216,8 @@
               "title": "Informační systém podle § 3a",
               "file": "informacni-system-podle-3a.md",
               "tags": [
-                "Spisová služba",
-                "Dokumenty",
+                "spisová služba",
+                "dokumenty",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1234,7 +1234,7 @@
               "title": "Struktura provozního řádu",
               "file": "struktura-provozniho-radu.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "pro správce",
                 ".migrace z dokuwiki"
               ]
@@ -1244,7 +1244,7 @@
               "title": "Struktura provozní dokumentace",
               "file": "struktura-provozni-dokumentace.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "důležité",
                 "pro ajťáky",
                 "pro správce",
@@ -1258,7 +1258,7 @@
               "tags": [
                 "pro ajťáky",
                 "pro správce",
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1267,8 +1267,8 @@
               "title": "Rozdělení obsahu provozní dokumentace do zdrojů",
               "file": "rozdeleni-obsahu-provozni-dokumentace-do-zdroju.md",
               "tags": [
-                "znalosti eg",
-                "metodika",
+                "znalosti EG",
+                "metodiky",
                 "pro správce",
                 "pro ajťáky",
                 ".migrace z dokuwiki"
@@ -1279,7 +1279,7 @@
               "title": "Typizované vnitřní role v úřadu související s ICT",
               "file": "typizovane-vnitrni-role-v-uradu-k-ict.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro manažery",
                 ".migrace z dokuwiki"
@@ -1290,9 +1290,9 @@
               "title": "Rozšířené popisy činností věcného gestora",
               "file": "rozsirene-popisy-cinnosti-vecneho-gestora.md",
               "tags": [
-                "dokument",
-                "metodika",
-                "znalosti eg",
+                "dokumenty",
+                "metodiky",
+                "znalosti EG",
                 "pro správce",
                 "pro úřady",
                 ".migrace z dokuwiki"
@@ -1303,8 +1303,8 @@
               "title": "Věcný gestor za agendu či oblast",
               "file": "vecny-gestor-agenda-oblast.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 "důležité",
                 "pro úřady",
                 ".migrace z dokuwiki"
@@ -1336,7 +1336,7 @@
                 "Pragmatický přístup"
               ],
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1348,7 +1348,7 @@
                 "TCE"
               ],
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1357,7 +1357,7 @@
               "title": "Konkrétní obecné procesy OVS dlouhodobého řízení",
               "file": "konkretni-obecne-procesy-ovs-dlouhodobeho-rizeni.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro architekty",
                 ".migrace z dokuwiki"
@@ -1424,8 +1424,8 @@
               "title": "Podmínky atestace dlouhodobého řízení ISVS",
               "file": "podminky-atestace-dlouhodobeho-rizeni-isvs.md",
               "tags": [
-                "dokument",
-                "metodika",
+                "dokumenty",
+                "metodiky",
                 "z archi gov cz",
                 ".migrace z dokuwiki"
               ]
@@ -1470,8 +1470,8 @@
               "title": "Seznam povolání v IT a prací a platových tříd",
               "file": "seznam-it-povolani-praci-a-platovych-trid.md",
               "tags": [
-                "nástroj",
-                "znalosti eg",
+                "nástroje",
+                "znalosti EG",
                 "pro manažery",
                 "pro ajťáky",
                 ".migrace z dokuwiki"
@@ -1482,9 +1482,9 @@
               "title": "Vyhláška o dlouhodobém řízení",
               "file": "vyhlaska-o-dlouhodobem-rizeni.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
-                "legislativa eg",
+                "klíčové pojmy",
+                "znalosti EG",
+                "legislativa",
                 ".migrace z dokuwiki"
               ]
             }
@@ -1522,7 +1522,7 @@
               "tags": [
                 "Datové schránky",
                 "Elektronická komunikace",
-                "Dokumenty",
+                "dokumenty",
                 ".migrace z dokuwiki"
               ],
               "perex": "Datové schránky se využívají dvěma způsoby. Pro veřejnoprávní a soukromoprávní zasílání zpráv."
@@ -1540,7 +1540,7 @@
               "title": "Co je spisová služba a proč jí máme řešit",
               "file": "co-je-spisova-sluzba-a-proc.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1549,7 +1549,7 @@
               "title": "Objekty spisové služby",
               "file": "objekty-spisove-sluzby.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ],
               "perex": "Jaké jsou základní objekty a entity spisové služby"
@@ -1560,10 +1560,10 @@
               "file": "pozadavky-na-essl.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 "pro ajťáky",
                 "pro úřady",
-                "spisovka",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1572,9 +1572,9 @@
               "title": "Atest ESSL",
               "file": "atest-essl.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
-                "spisovka",
+                "klíčové pojmy",
+                "znalosti EG",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1583,9 +1583,9 @@
               "title": "Atestace ESSL",
               "file": "atestace-essl.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1594,7 +1594,7 @@
               "title": "Průběh dokumentu systémem ESSL",
               "file": "zivotni-cyklus-dokumentu-v-essl.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1603,7 +1603,7 @@
               "title": "Podrobný popis procesů spisové služby",
               "file": "podrobny-popis-procesu-spisove-sluzby.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1621,8 +1621,7 @@
               "title": "Legislativní rámec spisové služby",
               "file": "legislativni-ramec-spisove-sluzby.md",
               "tags": [
-                "egdilna:dalsi-legislativni-vazby-spisove-sluzby",
-                "Spisová služba",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ],
               "perex": "Tato kapitola obsahuje pomeřně podrobný rámec legislativy pro spisovou službu a jeho vysvětlení v kontextu potřeb původce."
@@ -1632,7 +1631,7 @@
               "title": "Svatá trojice předpisů – úrovně legislativy ke spisové službě",
               "file": "trojice-legislativy-spisove-sluzby.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 "Klíčová EG legislativa",
                 ".migrace z dokuwiki"
               ],
@@ -1643,7 +1642,7 @@
               "title": "Zákon č. 499/2004 Sb., o archivnictví a spisové službě",
               "file": "zakon-499-2004-popis.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 "Klíčová EG legislativa",
                 ".migrace z dokuwiki"
               ],
@@ -1654,7 +1653,7 @@
               "title": "Vyhláška č. 259/2012 Sb., o podrobnostech výkonu spisové služby",
               "file": "vyhlaska-259-2012-popis.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 "Klíčová EG legislativa",
                 ".migrace z dokuwiki"
               ],
@@ -1665,7 +1664,7 @@
               "title": "Povinné vnitřní předpisy u původce",
               "file": "povinne-vnitrni-predpisy-spisove-sluzby-u-puvodce.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1683,7 +1682,7 @@
               "file": "dokumenty-vzdy-predavane-archivu-jako-archivalie.md",
               "tags": [
                 "Povinnosti úřadů",
-                "Spisová služba",
+                "spisová služba",
                 "Záludnosti EG",
                 ".migrace z dokuwiki"
               ]
@@ -1693,8 +1692,8 @@
               "title": "Práce s doručeným dokumentem",
               "file": "prace-s-dorucenym-dokumentem.md",
               "tags": [
-                "Dokumenty",
-                "Spisová služba",
+                "dokumenty",
+                "spisová služba",
                 "Povinnosti úřadů",
                 ".migrace z dokuwiki"
               ]
@@ -1705,11 +1704,11 @@
               "file": "spravny-digitalni-dokument.md",
               "tags": [
                 "Co je nutné zajistit u OVM",
-                "Dokumenty",
+                "dokumenty",
                 "Důvěryhodnost",
                 "Elektronický podpis",
                 "Povinnosti úřadů",
-                "Spisová služba",
+                "spisová služba",
                 "Záludnosti EG",
                 ".migrace z dokuwiki"
               ],
@@ -1753,7 +1752,7 @@
               "file": "rozdeleni-procesu-a-cinnosti-v-uradu.md",
               "tags": [
                 "pro úřady",
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ],
               "perex": "Rozdělení procesů do určitých logických skupin dle výkonu a rozsahu povinností"
@@ -1771,7 +1770,7 @@
               "title": "Doporučená literatura ke spisové službě",
               "file": "knihy-spisova-sluzba.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ],
               "perex": "Doporučení knih ke spisové službě. Pozor ale na aktuálnost vzhledem ke změnám legislativy."
@@ -1806,8 +1805,8 @@
               "title": "Metodika pro školy: Spisová služba u původce prakticky",
               "file": "cast-prakticky-spisova-sluzba-u-puvodce.md",
               "tags": [
-                "Spisová služba",
-                "Dokumenty",
+                "spisová služba",
+                "dokumenty",
                 "Povinnosti úřadů",
                 "Povinnosti nemocnic",
                 ".migrace z dokuwiki"
@@ -1827,7 +1826,7 @@
               "title": "Publikované vzorové spisové plány pro školy",
               "file": "vzorove-spisove-plany-pro-skoly.md",
               "tags": [
-                "Spisová služba",
+                "spisová služba",
                 ".migrace z dokuwiki"
               ]
             },
@@ -1836,8 +1835,8 @@
               "title": "Detailní rozbor změn legislativy ke spisové službě",
               "file": "rozbor-novelizace-predpisu-ssl.md",
               "tags": [
-                "Spisová služba",
-                "Naše metodiky",
+                "spisová služba",
+                "metodiky",
                 ".migrace z dokuwiki"
               ],
               "perex": "\"Ministerstvo vnitra zpracovalo rozbor a přehled změn legislativy ke spisové službě a to zejména novelizace vyhlášky o podrobnostech výkonu spisové služby a národního standardu pro elektronické systémy spisové služby.\""
@@ -1920,7 +1919,7 @@
               "title": "Identifikátory subjektů",
               "file": "identifikatory-subjektu.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro architekty",
                 "pro lidi",
@@ -1972,7 +1971,7 @@
               "title": "Základní konceptuální prvky",
               "file": "zakladni-konceptualni-prvky.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "KDM",
                 ".migrace z dokuwiki"
               ]
@@ -2029,7 +2028,7 @@
             "pro ajťáky",
             "pro architekty",
             "pro úřady",
-            "znalosti eg",
+            "znalosti EG",
             "nepřehlédněte",
             "kde začít",
             ".migrace z dokuwiki"
@@ -2063,7 +2062,7 @@
               "file": "narodni-architektonicke-principy.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2073,7 +2072,7 @@
               "file": "narodni-zasady-rizeni-ict.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2082,8 +2081,8 @@
               "title": "Pracovní skupina pro architekturu při Radě vlády pro informační společnost",
               "file": "psa-rvis.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 "důležité",
                 ".migrace z dokuwiki"
               ]
@@ -2096,7 +2095,7 @@
                 "Informační koncepce OVS"
               ],
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2105,7 +2104,7 @@
               "title": "Procesy OVS spojené s informační koncepcí",
               "file": "procesy-ovs-spojene-s-informacni-koncepci.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro manažery",
                 ".migrace z dokuwiki"
@@ -2184,7 +2183,7 @@
               "title": "Oblasti vnitřní digitalizace",
               "file": "oblasti-vnitrni-digitalizace.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro manažery",
                 ".migrace z dokuwiki"
@@ -2207,7 +2206,7 @@
                 "Informační koncepce",
                 "Řízení ICT",
                 "Tvorba IK OVS",
-                "Naše metodiky",
+                "metodiky",
                 ".migrace z dokuwiki"
               ]
             }
@@ -2223,8 +2222,8 @@
               "title": "ArchiMate",
               "file": "archimate.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 "pro architekty",
                 "pro manažery",
                 ".migrace z dokuwiki"
@@ -2235,7 +2234,7 @@
               "title": "Architektonický model",
               "file": "architektonicky-model.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2288,7 +2287,7 @@
               "title": "Dokumentace POC",
               "file": "dokumentace-poc.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro ajťáky",
                 ".migrace z dokuwiki"
@@ -2319,7 +2318,7 @@
               "title": "Veřejnoprávní mandát",
               "file": "verejnopravni-mandat.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
                 ".migrace z dokuwiki"
               ]
@@ -2337,7 +2336,7 @@
               "title": "Soukromoprávní mandát",
               "file": "soukromopravni-mandat.md",
               "tags": [
-                "pojem",
+                "klíčové pojmy",
                 "důležité",
                 ".migrace z dokuwiki"
               ]
@@ -2363,7 +2362,7 @@
               "title": "Ověření role osoby",
               "file": "overeni-role-osoby.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2372,7 +2371,7 @@
               "title": "Ověření oprávnění osoby",
               "file": "overeni-opravneni-osoby.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2381,8 +2380,8 @@
               "title": "Mandát",
               "file": "mandat.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2391,7 +2390,7 @@
               "title": "Kdy, kdo a jak ověřuje oprávnění mandátů",
               "file": "kdy-kdo-jak-overuje-opravneni-mandatu.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2400,17 +2399,16 @@
               "title": "Vysvětlení používání a ověřování oprávnění k zastupování",
               "file": "vysvetleni-pouzivani-a-overovani-mandatu-k-zastupovani.md",
               "tags": [
-                "dokument",
-                "metodika",
+                "dokumenty",
+                "metodiky",
                 "důležité",
                 "naše práce",
-                "znalosti eg",
+                "znalosti EG",
                 "pro úřady",
                 "pro architekty",
                 "pro správce",
                 "Registr zastupování",
                 "Mandáty",
-                "Metodiky EG",
                 ".migrace z dokuwiki"
               ],
               "perex": "Podrobný rozbor používání mandátů a oprávnění k zastupování ve veřejné správě"
@@ -2420,7 +2418,7 @@
               "title": "Získání oprávnění",
               "file": "ziskani-opravneni.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "důležité",
                 "Jak má fungovat ISVS",
                 "Co je nutné zajistit u OVM",
@@ -2448,9 +2446,9 @@
               "title": "Klíčové role k IS a jejich zodpovědnosti",
               "file": "klicove-role-is-zodpovednosti.md",
               "tags": [
-                "dokument",
-                "znalosti eg",
-                "metodika",
+                "dokumenty",
+                "znalosti EG",
+                "metodiky",
                 "pro úřady",
                 "pro ajťáky",
                 "pro manažery",
@@ -2501,9 +2499,9 @@
               "title": "Vysvětlení k elektronickým podpisům a jejich druhům",
               "file": "vysvetleni-k-elektronickym-podpisum-a-jejich-druhum.md",
               "tags": [
-                "dokument",
-                "znalosti eg",
-                "metodika",
+                "dokumenty",
+                "znalosti EG",
+                "metodiky",
                 "naše práce",
                 "Elektronický podpis",
                 "eIDAS",
@@ -2529,7 +2527,7 @@
               "title": "Druhy elektronického podpisu",
               "file": "druhy-elektronickeho-podpisu.md",
               "tags": [
-                "znalosti eg",
+                "znalosti EG",
                 "Elektronický podpis",
                 "eIDAS",
                 "Důvěryhodnost",
@@ -2542,8 +2540,8 @@
               "title": "Prostý elektronický podpis",
               "file": "prosty-elektronicky-podpis.md",
               "tags": [
-                "pojem",
-                "znalosti eg",
+                "klíčové pojmy",
+                "znalosti EG",
                 "Elektronický podpis",
                 "eIDAS",
                 ".migrace z dokuwiki"
@@ -2556,7 +2554,7 @@
               "file": "elektronicky-podpis-podle-zakona-297-2016.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 ".migrace z dokuwiki"
               ],
               "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
@@ -2566,9 +2564,9 @@
               "title": "Kvalifikované validační prvky",
               "file": "kvalifikovane-validacni-prvky.md",
               "tags": [
-                "Dokumenty",
-                "Spisová služba",
-                "Základní pilíře EG",
+                "dokumenty",
+                "spisová služba",
+                "základní pilíře",
                 "Záludnosti EG",
                 ".migrace z dokuwiki"
               ],
@@ -2579,8 +2577,8 @@
               "title": "Nic jako biometrický podpis neexistuje",
               "file": "nic-jako-biometricky-podpis-neexistuje.md",
               "tags": [
-                "znalosti eg",
-                "částé omyly",
+                "znalosti EG",
+                "časté omyly",
                 "důležité",
                 "Elektronický podpis",
                 "eIDAS",
@@ -2594,7 +2592,7 @@
               "title": "Služby vytvářející důvěru podle EIDAS",
               "file": "seznam-sluzeb-eidas.md",
               "tags": [
-                "EIDAS",
+                "eIDAS",
                 "Elektronická identifikace",
                 "Elektronický podpis",
                 ".migrace z dokuwiki"
@@ -2661,14 +2659,13 @@
               "file": "nesmi-vznikat-papir.md",
               "tags": [
                 "důležité",
-                "znalosti eg",
+                "znalosti EG",
                 "časté omyly",
                 "Co je nutné zajistit u OVM",
-                "Dokumenty",
+                "dokumenty",
                 "Povinnosti úřadů",
-                "Základní pilíře EG",
+                "základní pilíře",
                 "Záludnosti EG",
-                "Časté omyly",
                 "Vnitřní digitalizace",
                 ".migrace z dokuwiki"
               ],
@@ -2714,14 +2711,13 @@
               "file": "ramcovy-postup-pro-realizaci-sdileni-udaju-v-propojenem-datovem-fondu.md",
               "type": "dokument",
               "tags": [
-                "dokument",
+                "dokumenty",
                 "integrace informačních systémů",
                 "isvs a ais",
                 "propojený datový fond",
                 "rámec pro AIS",
                 "výměna údajů",
-                "metodiky",
-                "metodika"
+                "metodiky"
               ]
             }
           ],
@@ -2753,8 +2749,8 @@
                     "Edukace",
                     "egovedu",
                     "učební texty",
-                    "dokument",
-                    "Naše práce",
+                    "dokumenty",
+                    "naše práce",
                     "Chlubit se tím"
                   ],
                   "type": "dokument"
@@ -2777,7 +2773,7 @@
                   "file": "slide-ict-neni-informatika.md",
                   "tags": [
                     "důležité",
-                    "znalosti eg",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -2794,7 +2790,7 @@
                   "title": "Slide: Oblasti pro digitalizaci",
                   "file": "slide-oblasti-digitalizace-v-uradu.md",
                   "tags": [
-                    "znalosti eg",
+                    "znalosti EG",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -2843,9 +2839,9 @@
                   "title": "Slide: Dva druhy dokumentů a ESSL",
                   "file": "slide-dva-druhy-dokumentu-a-essl.md",
                   "tags": [
-                    "Spisová služba",
-                    "Časté omyly",
-                    "Dokumenty",
+                    "spisová služba",
+                    "časté omyly",
+                    "dokumenty",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -2870,7 +2866,7 @@
                   "title": "Slide: Dvě věci, o kterých je spisová služba",
                   "file": "slide-o-cem-spisova-sluzba-je.md",
                   "tags": [
-                    "Spisová služba",
+                    "spisová služba",
                     ".migrace z dokuwiki"
                   ]
                 },
@@ -2887,7 +2883,7 @@
                   "title": "Slide: Tři důvody existence spisové služby",
                   "file": "slide-tri-duvody-spisove-sluzby.md",
                   "tags": [
-                    "Spisová služba",
+                    "spisová služba",
                     "Záludnosti EG",
                     ".migrace z dokuwiki"
                   ]
@@ -2907,7 +2903,7 @@
               "title": "Naše metodické materiály",
               "file": "metodicke-dokumenty-egdilny.md",
               "tags": [
-                "sekce",
+                "Sekce",
                 "rozcestník",
                 "důležité",
                 "pro úřady",
@@ -2940,9 +2936,9 @@
           "file": "nastroje-egdilna-cz.md",
           "type": "systemova-stranka",
           "tags": [
-            "Nástroje",
+            "nástroje",
             "Web",
-            "Naše práce",
+            "naše práce",
             "Chlubit se tím"
           ],
           "perex": "Mrkněte na speciální web s více jak 30 opensource nástrojů z naší dílny. Od jednoduchých miniaplikací až po komplexní nástroje a platformy pro architekturu a správu čehokoliv. A vše je webové, otevřené a přístupné."
@@ -2957,7 +2953,7 @@
             "Chlubit se tím",
             "legislativa",
             "nástroje",
-            "Naše práce"
+            "naše práce"
           ],
           "perex": "Máme pro vás veřejnou knihovnu legislativy, se štítky a klíčovými ustanoveními, komentáři a pokročilým exportem a propojením dat."
         },

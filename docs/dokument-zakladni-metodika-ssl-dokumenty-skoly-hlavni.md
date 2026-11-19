@@ -104,31 +104,51 @@ Důležité pojmy spojené se spisovou službou a správou dokumentů
 
 # Část B: Digitální  dokumenty a práce s nim
 
+## Správný digitální dokument je takový, který...
+
 {{Správný digitální dokument je takový, který...}}
+
+## Kvalifikované validační prvky
 
 {{Kvalifikované validační prvky}}
 
 i
 # Část C: Výkon spisové služby ve škole
 
+## Rozdělení procesů a činností v úřadu
+
 {{Rozdělení procesů a činností v úřadu}}
 
 ℹ️Škola pochopitelně nemá výkon přenesené či samostatné působnosti, výše uvedený diagram je ilustrační spíše pro orgány územě samosprávnýcjh celků - tedy pro zřizovatele školy. Škola vykonává ale veřejnou správu, na to pozor. Její odborné činnosti řadíme do první kategorie. Jak sami vidíte, rozdělení kategorií je poněkud nešťastné, ale asi není možné pro každý typ organizace dělat samostatné rozdělování a proto jsme použili to, co je.
 
+## O spisové službě obecně
+
 {{Metodika pro školy: O spisové službě obecně}}
+
+## Spisová služba u původce prakticky
 
 {{Metodika pro školy: Spisová služba u původce prakticky}}
 
 ### Mrkněme se na vyhlášku...
 
+#### 💡 TIP: Procesní vyhláška se zdůrazněnými důležitými věcmi
+
 {{💡 TIP: Procesní vyhláška se zdůrazněnými důležitými věcmi}}
 
 ## Pár specialit ke škole
 
+### Informační systém podle § 3a
+
 {{Informační systém podle § 3a}}
+
+### Druhy dokumentů škol povinně předávané archivu
 
 {{Druhy dokumentů škol povinně předávané archivu}}
 
+### Publikované vzorové spisové plány pro školy
+
 {{Publikované vzorové spisové plány pro školy}}
+
+### Zdroje dalších informací ke spisové službě
 
 {{Zdroje dalších informací ke spisové službě}}

@@ -28,9 +28,15 @@ Důležité pojmy spojené se zastupováním a oprávněním:
 
 Pro účel výkonu veřejné správy je oprávnění důležité zejména v případě, kdy klient veřejné správy komunikuje elektronicky s OVM, ať už v rámci portálu, nebo jiným způsobem.
 
+### Mandát
+
 {{Mandát}}
 
+### Veřejnoprávní mandát
+
 {{Veřejnoprávní mandát}}
+
+### Soukromoprávní mandát
 
 {{Soukromoprávní mandát}}
 
@@ -38,13 +44,21 @@ Pro účel výkonu veřejné správy je oprávnění důležité zejména v př�
 
 {{Kdy, kdo a jak ověřuje oprávnění mandátů}}
 
+### Ověření oprávnění osoby
+
 {{Ověření oprávnění osoby}}
+
+### Ověření role osoby
 
 {{Ověření role osoby}}
 
 ### Druhy ověření pro potřeby působnosti OVM
 
+#### Ověřování role a oprávnění využitím údajů ze základních registrů
+
 {{Ověřování role a oprávnění využitím údajů ze základních registrů}}
+
+#### Ověřování role a oprávnění nahlížením do Registru zastupování
 
 {{Ověřování role a oprávnění nahlížením do Registru zastupování}}
 
