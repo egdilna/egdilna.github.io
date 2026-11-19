@@ -540,7 +540,8 @@
    ],
    "poznamka": "Tohle mimochodem udává maximální dobu faktické změny údaje z agendové činnosti.",
    "vytvoreno": "2026-10-20T15:37:53.831Z",
-   "upraveno": "2026-11-12T17:20:53.822Z"
+   "upraveno": "2026-11-19T10:42:14.000Z",
+   "nazev": "Povinný zápis údaje do AIS do 10 pracovních dnů"
   },
   {
    "id": "v-mvgx5uqe6yb1",
@@ -2788,14 +2789,14 @@
    "citace": "§ 4 odst. 5",
    "zneni": "2026-01-01",
    "text": "(5) Referenční údaj označený jako nesprávný má po dobu, po kterou je takto označen, pouze informativní povahu.",
-   "nazev": "Informativní povaha referenčního údaje označeného jako nesprávný",
+   "nazev": "Povaha referenčního údaje označeného jako nesprávný",
    "skupiny": [
     "s-mvgukntz1v5j",
     "s-mvthk1z0reum"
    ],
    "poznamka": "",
    "vytvoreno": "2026-11-19T10:40:19.000Z",
-   "upraveno": "2026-11-19T10:40:19.000Z"
+   "upraveno": "2026-11-19T10:42:14.000Z"
   },
   {
    "id": "v-mwnf5j7zbprh",
@@ -2828,6 +2829,54 @@
    "poznamka": "",
    "vytvoreno": "2026-11-19T10:40:19.000Z",
    "upraveno": "2026-11-19T10:40:19.000Z"
+  },
+  {
+   "id": "v-mwnf80331ktq",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4a",
+   "citace": "§ 4a",
+   "zneni": "2026-01-01",
+   "text": "§ 4a Údaje agendového informačního systému\n  (1) Agendový informační systém obsahuje údaje, které se vytvářejí nebo využívají při výkonu agendy nebo při správě a provozování agendového informačního systému.\n  (2) Údaj do agendového informačního systému zapisuje editor po vytvoření údaje při výkonu agendy nebo se využije ze základního registru nebo z jiného agendového informačního systému.\n  (3) Editor zapíše údaj do agendového informačního systému nebo provede jeho změnu bez zbytečného odkladu, nejpozději však do 10 pracovních dnů ode dne, kdy se dozví o vzniku nebo o změně skutečnosti, kterou údaj popisuje.",
+   "nazev": "Agendové údaje a povinnosti editora",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:42:14.000Z",
+   "upraveno": "2026-11-19T10:42:14.000Z"
+  },
+  {
+   "id": "v-mwnf8034mak3",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4a/odst_1",
+   "citace": "§ 4a odst. 1",
+   "zneni": "2026-01-01",
+   "text": "(1) Agendový informační systém obsahuje údaje, které se vytvářejí nebo využívají při výkonu agendy nebo při správě a provozování agendového informačního systému.",
+   "nazev": "Obsah agendového informačního systému",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:42:14.000Z",
+   "upraveno": "2026-11-19T10:42:14.000Z"
+  },
+  {
+   "id": "v-mwnf8035yip2",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4a/odst_2",
+   "citace": "§ 4a odst. 2",
+   "zneni": "2026-01-01",
+   "text": "(2) Údaj do agendového informačního systému zapisuje editor po vytvoření údaje při výkonu agendy nebo se využije ze základního registru nebo z jiného agendového informačního systému.",
+   "nazev": "Zápis údajů do AIS editorem nebo jejich převzetí ze ZR či jiného AIS",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:42:14.000Z",
+   "upraveno": "2026-11-19T10:42:14.000Z"
   }
  ],
  "skupinyKomentaru": [
