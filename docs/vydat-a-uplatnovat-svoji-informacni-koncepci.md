@@ -1,4 +1,4 @@
-Jedna ze základních povinností plynoucí ze zákona [[325/2000]] udává orgánu veřejné moci za úkol vydat, aktualizovat a uplatňovat v praxi svoji [[IK OVS]] a řídit se jí při aktivitách rozvoje ICT a informačních systémů.
+Jedna ze základních povinností plynoucí ze zákona [[365/2000]] udává orgánu veřejné moci za úkol vydat, aktualizovat a uplatňovat v praxi svoji [[IK OVS]] a řídit se jí při aktivitách rozvoje ICT a informačních systémů.
 
 S informační koncepcí OVS jsou spojeny [[Procesy OVS spojené s informační koncepcí]]. [[IK OVS|Informační koncepce OVS]] je základním koncepčním rámcem organizace a je tedy velice důležitá. OVS mimo jiné [[nesmi-delat-nic-co-neni-v-ik]] a musí také [[Určit záměry v IK a realizovat je]]
 
