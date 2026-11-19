@@ -515,7 +515,8 @@
     "2023-07-01",
     "2024-07-01"
    ],
-   "zkontrolovano": "2026-11-19T11:22:13.794Z"
+   "zkontrolovano": "2026-11-19T11:22:13.794Z",
+   "popis": "Prováděcí vyhláška k zákonu 499/2004 Sb. Udává jednotlivé procesní povinnosti spisové služby a jak se mají realizovat i s ohledem na ESSL."
   }
  },
  "skupiny": [
@@ -3316,6 +3317,7 @@
   "2025/264",
   "2025/409",
   "2025/410",
-  "2016/134"
+  "2016/134",
+  "2012/259"
  ]
 }
