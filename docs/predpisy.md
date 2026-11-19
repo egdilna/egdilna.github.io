@@ -1,5 +1,7 @@
 multisection
 
+[Oblast právních předpisů eGovernment](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg&pohled=oblast&oblast=o-mvgua7h3ycvj)
+
 ## 12/2020
 
 [Zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg&pohled=predpis&predpis=2020/12): Tzv. Digitální Ústava zakotvuje na obecné úrovni klíčová práva stran elektronické komunikace a digitálního fungování veŕejné správy. Určuje jednotlivá práva a k nim rámcové povinnosti pro orgány veřejné moci. Naplnění obecných práv ukládá všem úřadům a u naplnění povinností poskytovat služby jako digitální stanovuje určité výjinky u malých obcí. Tato práva jsou základem EG. Dále zákon zakotvuje Digitální a informační agenturu a udává základ pro její činnosti. Obsahuje také oblast elektronických dokladů a jejich využívání.
@@ -27,3 +29,15 @@ multisection
 ## 499/2004
 
 [Zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg&pohled=predpis&predpis=2004/499): Řeší oblast trvalého uchování tzv. archiválií, péči o ně, činnosti a povinnosti archivů a badatelskou činnost a přístup k archivům. Především ale zakotvuje celou oblast správy dokumentů u tzv. veřejnoprávních původců a dalších subjektů, kterým dává obecně povinnost vykonávat spisovou službu, řeší její elektronicý výkon a soulad s právním řádem, určuje Elektronický systém spisové služby a říká, co má splňovat, zakotvuje atestaci těchto systémů a udává povinnosti původců vůči archivům. Upravuje celý životní cyklud spisu, dokumentu a jejich metadat. Řeší další schopnosti správy dokumentů kromě spisové služby a požadavky na ně. Přílohy pak udávají typy dokumentů, které původci předávají archivu vždy nehledě na jejich správu.
+
+## 259/2012
+
+[Vyhláška č. 259/2012 Sb., o podrobnostech výkonu spisové služby](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg&pohled=predpis&predpis=2012/259): Prováděcí vyhláška k zákonu 499/2004 Sb. Udává jednotlivé procesní povinnosti spisové služby a jak se mají realizovat i s ohledem na ESSL.
+
+## 297/2016
+
+[Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg&pohled=predpis&predpis=2016/297): Transponuje část EIDAS. Řeší oblast elektronické identifikace a využití prostředků ZEID (zaručené elektronické identifikace).
+
+## 300/2008
+
+[Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů](https://nastroje.egdilna.cz/leg/?repo=egdilna/egdilna.github.io&slozka=egleg&pohled=predpis&predpis=2008/300): Tzv. Zákon o datovkách. Řeší datové schránky a jejich povinnost či možnost využívání, odesílání a doručování dokumentů a úkonů přes datové schránky a související technické věci. Dále řeší autorizovanou konverzi dokumentů na žádost a z moci úřední.
