@@ -6,13 +6,13 @@ Identifikátory se hojně vysvětlují i na wiki archi.gov.cz - doporučujeme ta
 
 Subjekty jsou vázány svojí identitu na identifikátory:
 
-  - [[Zdrojový identifikátor fyzické osoby]] ([[ZIFO]]): Jednoznačný neveřejný a nedostupný identifikátor osoby v Registru obyvatel
+  - [[Zdrojový identifikátor fyzické osoby]] ([[Zdrojový identifikátor fyzické osoby|ZIFO]]): Jednoznačný neveřejný a nedostupný identifikátor osoby v Registru obyvatel
   - [[Agendový identifikátor fyzické osoby]] ([[Agendový identifikátor fyzické osoby|AIFO]]): Identifikátor osoby odvozený ze ZIFO a z dané jedné agendy, využívá se pro identitikaci k výměně údajů o osobě a k jejich správě
-  - [[Klientský idenntifikátor]] ([[KI]]): Jednoznačný dostupný (někdy i veřejný) identifikátor osoby pro konkrétní účely určité oblasti či souboru agend, využívá se pro komunikaci s OVM či dalšími subjekty v určité oblasti, příkladem je třeba [[Kmenový identifikátor pacienta]] nebo [[IČZ]] nebo [[DIČ]]
-  - [[stykový identifikátor]] ([[KI]], [[KSI]]): Dostupný poloveřejný identifikátor osoby využívaný jako identifikátor při styku s veřejnou správou a jinými subjekty, příkladem je třeba [[číslo identifikačního dokladu]] nebo [[číslo průkazu služebního průkazu]] nebo Služební číslo u příslušníků bezpečnostního sboru. Používá se také zkratka KSI, neboť zkratka KI je v některćh oblastech již využívána k něčemu jinému.
+  - [[Klientský identifikátor]] ([[Klientský identifikátor|KI]]): Jednoznačný dostupný (někdy i veřejný) identifikátor osoby pro konkrétní účely určité oblasti či souboru agend, využívá se pro komunikaci s OVM či dalšími subjekty v určité oblasti, příkladem je třeba [[Kmenový identifikátor pacienta]] nebo [[IČZ]] nebo [[DIČ]]
+  - [[stykový identifikátor]] ([[Klientský identifikátor|KI]], [[KSI]]): Dostupný poloveřejný identifikátor osoby využívaný jako identifikátor při styku s veřejnou správou a jinými subjekty, příkladem je třeba [[číslo identifikačního dokladu]] nebo [[číslo průkazu služebního průkazu]] nebo Služební číslo u příslušníků bezpečnostního sboru. Používá se také zkratka KSI, neboť zkratka KI je v některćh oblastech již využívána k něčemu jinému.
   - [[vlastní identifikátor]] ([[VI]]): Neveřejný jednoznačný bezvýznamový identifikátor interně technicky využívaný jen pro potřeby [[vnitřní integrace]] u jednoho OVM
   - [[Bezvýznamový stykový identifikátor]] ([[BSI]]): je trochu specifickým technickým pseudostykovým identifikátorem využívaným při [[ZEID]], přiděluje jej [[NIA]] a je směřován vždy k poskytovateli služby [[SEP]].
-  - [[Identifikační číslo osoby]] ([[IČO]]): Jednoznačný oficiální veřejný identifikátor právnického subjektu v Registru osob a dalších systémech, používá se jako hlavní identifikátor firmy, OVM, SPUÚ a dalších právnických subjektů
+  - [[IČO|Identifikační číslo osoby]] ([[IČO]]): Jednoznačný oficiální veřejný identifikátor právnického subjektu v Registru osob a dalších systémech, používá se jako hlavní identifikátor firmy, OVM, SPUÚ a dalších právnických subjektů
   - [[Identifikační číslo provozovny]] ([[IČPo]]): Identifikátor ohlášené [[provozovna|provoznovny]] právnického subjektu v Registru osob. Nepoužívá se staré označení IČP, neboť IČP se používá ve zdravotnictví jako identifikační číslo pracoviště poskytovatele
 
 ## Vybrané další identifikátory subjektů

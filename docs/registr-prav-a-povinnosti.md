@@ -1,4 +1,4 @@
-Základní registr agend, orgánů veřejné moci, soukromoprávních uživatelů údajů a některých práv a povinností (Registr práv a povinností) je jedním ze [[základní registry|základních registrů]]. Obsahuje údaje o [[Agendy veřejné správy|agendách]], seznam subjektů, jež jsou [[orgán veřejné moci]] nebo [[soukromoprávní uživatel údajů]] a jejich působnosti v agendách a dále práva a povinnosti ohlášené v tomto registru.
+Základní registr agend, orgánů veřejné moci, soukromoprávních uživatelů údajů a některých práv a povinností (Registr práv a povinností) je jedním ze [[Základní registry|základních registrů]]. Obsahuje údaje o [[Agendy veřejné správy|agendách]], seznam subjektů, jež jsou [[orgán veřejné moci]] nebo [[soukromoprávní uživatel údajů]] a jejich působnosti v agendách a dále práva a povinnosti ohlášené v tomto registru.
 
 V RPP se vedou údaje o:
 

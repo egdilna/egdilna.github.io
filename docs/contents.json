@@ -428,6 +428,134 @@
                 "znalosti eg",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "referencni-identita",
+              "title": "Referenční identita",
+              "file": "referencni-identita.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-zastupovani",
+              "title": "Registr zastupování",
+              "file": "registr-zastupovani.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "základnípilíře eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravnicky-subjekt",
+              "title": "Právnický subjekt",
+              "file": "pravnicky-subjekt.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ico",
+              "title": "IČO",
+              "file": "ico.md",
+              "tags": [
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klientsky-identifikator",
+              "title": "Klientský identifikátor",
+              "file": "klientsky-identifikator.md",
+              "aliases": [
+                "KI"
+              ],
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "pro úřady",
+                "pro lidi",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zdrojovy-identifikator-fyzicke-osoby",
+              "title": "Zdrojový identifikátor fyzické osoby",
+              "file": "zdrojovy-identifikator-fyzicke-osoby.md",
+              "aliases": [
+                "ZIFO"
+              ],
+              "tags": [
+                "pojem",
+                "pro úřady",
+                "pro správce",
+                "pro architekty",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-opravneni",
+              "title": "Šablona oprávnění",
+              "file": "sablona-opravneni.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-obyvatel",
+              "title": "Registr obyvatel",
+              "file": "registr-obyvatel.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "statni-pravnicka-osoba",
+              "title": "Státní právnická osoba",
+              "file": "statni-pravnicka-osoba.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "dic",
+              "title": "DIČ",
+              "file": "dic.md",
+              "tags": [
+                "zkratka",
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zakladni-registry",
+              "title": "Základní registry",
+              "file": "zakladni-registry.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro správce",
+                "základní pilíře eg",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -814,6 +942,111 @@
                 ".migrace z dokuwiki"
               ],
               "perex": "Co vše řeší integrační platforma a proč je důležitá"
+            },
+            {
+              "id": "vecny-spravce-is",
+              "title": "Věcný správce IS",
+              "file": "vecny-spravce-is.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "technicky-spravce-is",
+              "title": "Technický správce IS",
+              "file": "technicky-spravce-is.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "procesni-povinnosti-dlouhodobeho-rizeni",
+              "title": "Procesní povinnosti dlouhodobého řízení",
+              "file": "procesni-povinnosti-dlouhodobeho-rizeni.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro ajťáky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "regulovane-informacni-systemy",
+              "title": "Regulované informační systémy",
+              "file": "regulovane-informacni-systemy.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro správce",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "procesy-ovs-spojene-s-informacni-koncepci",
+              "title": "Procesy OVS spojené s informační koncepcí",
+              "file": "procesy-ovs-spojene-s-informacni-koncepci.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "provozni-dokumentace",
+              "title": "Provozní dokumentace",
+              "file": "provozni-dokumentace.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "základní pilíře",
+                "pro správce",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klicove-role-is-zodpovednosti",
+              "title": "Klíčové role k IS a jejich zodpovědnosti",
+              "file": "klicove-role-is-zodpovednosti.md",
+              "tags": [
+                "dokument",
+                "znalosti eg",
+                "metodika",
+                "pro úřady",
+                "pro ajťáky",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "urceny-informacni-system",
+              "title": "Určený informační systém",
+              "file": "urceny-informacni-system.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "adis",
+              "title": "ADIS",
+              "file": "adis.md",
+              "tags": [
+                "zkratka",
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -933,6 +1166,22 @@
                 "pro lidi",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "zaklady-semantickych-slovniku",
+              "title": "Základy sémantických slovníků",
+              "file": "zaklady-semantickych-slovniku.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zaklady-konceptualnich-modelu",
+              "title": "Základy konceptuálních modelů",
+              "file": "zaklady-konceptualnich-modelu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -1032,6 +1281,85 @@
                     "Chlubit se tím"
                   ],
                   "type": "dokument"
+                }
+              ]
+            },
+            {
+              "id": "slidy-do-prezentaci",
+              "title": "Slidy do prezentací",
+              "type": "rozcestnik",
+              "perex": "Krátké kousky textu do prezentací a výuky",
+              "tags": [
+                "Edukace",
+                ".migrace z dokuwiki"
+              ],
+              "children": [
+                {
+                  "id": "slide-ict-neni-informatika",
+                  "title": "Slide: ICT není informatika",
+                  "file": "slide-ict-neni-informatika.md",
+                  "tags": [
+                    "důležité",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-fungovani-organizace",
+                  "title": "Slide: Fungování organizace",
+                  "file": "slide-fungovani-organizace.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-oblasti-digitalizace-v-uradu",
+                  "title": "Slide: Oblasti pro digitalizaci",
+                  "file": "slide-oblasti-digitalizace-v-uradu.md",
+                  "tags": [
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-organy-verejne-spravy",
+                  "title": "Slide: Co je OVS",
+                  "file": "slide-organy-verejne-spravy.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-ovs-a-ovm",
+                  "title": "Slide: OVS a OVM",
+                  "file": "slide-ovs-a-ovm.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-tri-typy-kontrol-v-is",
+                  "title": "Slide: Tři typy kontrol v IS",
+                  "file": "slide-tri-typy-kontrol-v-is.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-egdilna-do-prezentaci",
+                  "title": "Slide: Tuto prezentaci vám přináší EGdílna",
+                  "file": "slide-egdilna-do-prezentaci.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-dokument-versus-udaj",
+                  "title": "Slide: Dokument versus údaj",
+                  "file": "slide-dokument-versus-udaj.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
                 }
               ]
             }
