@@ -1,0 +1,9 @@
+Organizace v roli [[orgán veřejné správy]] musí dodržovat povinnosti stanovené zejména zákonem o informačních systémech veřejné správy (zákon [[365/2000]], bez ohledu na to, zda jsou samy správci těchto systémů či jiných informačních systémů. Tyto povinnosti zahrnují zejména tvorbu a uplatňování [[Informační koncepce OVS]] a dlouhodobé řízení. Podrobnosti k těmto povinnostem upravuje Vyhláška o dlouhodobém řízení (vyhláška [[360/2023]].)
+
+Nezávislé posouzení plnění těchto povinností zajišťuje atestace dlouhodobého řízení, která je prováděna atestačním střediskem. To posuzuje především informační koncepci orgánu veřejné správy, která je rovněž posílána Digitální a informační agentuře pro vyjádření. Hlavním posuzovatelem je však samotné atestační středisko. Středisko analyzuje, zda koncepce splňuje všechny potřebné požadavky, zda je její obsah náležitý a zda umožňuje smysluplný rozvoj ICT prostředků.
+
+Informační koncepce je platná nejpozději do šesti měsíců od jejího schválení za předpokladu, že je jí udělen atest. Atestační středisko udělí atest na celou dobu platnosti informační koncepce anebo určí, že některé požadavky nebyly splněny. V takovém případě se atest uděluje nanejvýš na dva roky, během kterých musí orgán veřejné správy vypracovat aktualizovanou informační koncepci, v níž musí odstranit zjištěné nedostatky, a předložit ji k atestaci. 
+
+Digitální a informační agentura má na starosti akreditaci jednotlivých atestačních středisek. Atestace dlouhodobého řízení probíhají podle standardizovaných pravidel, zajišťujících jejich nezávislost a porovnatelnost. Tyto [[Podmínky atestace dlouhodobého řízení ISVS]] vydává také DIA a jsou závazné jak pro atestační střediska, tak pro jednotlivé OVS.
+
+Kromě atestace dlouhodobého řízení u OVS jako celku se pak pro každý [[informační systém veřejné správy]] provádí také [[Atestace informačního systému]].

@@ -218,6 +218,416 @@
                 "propojený datový fond",
                 "výměna údajů"
               ]
+            },
+            {
+              "id": "druhy-organu-verejne-spravy",
+              "title": "Druhy orgánů veřejné správy",
+              "file": "druhy-organu-verejne-spravy.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "elektronicka-identifikace-pravnicke-osoby",
+              "title": "Elektronická identifikace právnické osoby",
+              "file": "elektronicka-identifikace-pravnicke-osoby.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "Elektronická identifikace",
+                "Záludnosti EG",
+                "Časté omyly",
+                "Mandáty",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Proč je nesmysl elektronická identifikace právnické osoby a co to má znamenat"
+            },
+            {
+              "id": "edoklady",
+              "title": "eDoklady",
+              "file": "edoklady.md",
+              "tags": [
+                "Základní pilíře EG",
+                "EIDAS",
+                "eDoklady",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "edoklady-obcan",
+              "title": "Používání eDokladů Občanem (Prokazující osobou)",
+              "file": "edoklady-obcan.md",
+              "tags": [
+                "Důvěryhodnost",
+                "EIDAS",
+                "eDoklady",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "edoklady-overujici",
+              "title": "Používání eDokladů Ověřovatelem",
+              "file": "edoklady-overujici.md",
+              "tags": [
+                "Důvěryhodnost",
+                "EIDAS",
+                "eDoklady",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "druhy-elektronickeho-podpisu",
+              "title": "Druhy elektronického podpisu",
+              "file": "druhy-elektronickeho-podpisu.md",
+              "tags": [
+                "znalosti eg",
+                "Elektronický podpis",
+                "eIDAS",
+                "Důvěryhodnost",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Jaké jsou druhy elektronického podpisu a jaká je jejich zákonná a technická důvěryhodnost"
+            },
+            {
+              "id": "elektronicky-podpis-podle-zakona-297-2016",
+              "title": "Elektronický podpis podle zákona 297/2016",
+              "file": "elektronicky-podpis-podle-zakona-297-2016.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
+            },
+            {
+              "id": "organ-verejne-spravy",
+              "title": "Orgán veřejné správy",
+              "file": "organ-verejne-spravy.md",
+              "aliases": [
+                "OVS"
+              ],
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zamena-ovs-a-ovm",
+              "title": "Záměna OVS a OVM",
+              "file": "zamena-ovs-a-ovm.md",
+              "tags": [
+                "znalosti eg",
+                "důležité",
+                "časté omyly",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-prav-a-povinnosti",
+              "title": "Registr práv a povinností",
+              "file": "registr-prav-a-povinnosti.md",
+              "aliases": [
+                "RPP"
+              ],
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro lidi",
+                "pro architekty",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-osob",
+              "title": "Registr osob",
+              "file": "registr-osob.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "mandat",
+              "title": "Mandát",
+              "file": "mandat.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "soukromopravni-mandat",
+              "title": "Soukromoprávní mandát",
+              "file": "soukromopravni-mandat.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "verejnopravni-mandat",
+              "title": "Veřejnoprávní mandát",
+              "file": "verejnopravni-mandat.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overeni-opravneni-osoby",
+              "title": "Ověření oprávnění osoby",
+              "file": "overeni-opravneni-osoby.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overeni-role-osoby",
+              "title": "Ověření role osoby",
+              "file": "overeni-role-osoby.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "fyzicka-osoba",
+              "title": "Fyzická osoba",
+              "file": "fyzicka-osoba.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravnicka-osoba",
+              "title": "Právnická osoba",
+              "file": "pravnicka-osoba.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "podnikajici-fyzicka-osoba",
+              "title": "Podnikající fyzická osoba",
+              "file": "podnikajici-fyzicka-osoba.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "referencni-identita",
+              "title": "Referenční identita",
+              "file": "referencni-identita.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-zastupovani",
+              "title": "Registr zastupování",
+              "file": "registr-zastupovani.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "základnípilíře eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravnicky-subjekt",
+              "title": "Právnický subjekt",
+              "file": "pravnicky-subjekt.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ico",
+              "title": "IČO",
+              "file": "ico.md",
+              "tags": [
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klientsky-identifikator",
+              "title": "Klientský identifikátor",
+              "file": "klientsky-identifikator.md",
+              "aliases": [
+                "KI"
+              ],
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "pro úřady",
+                "pro lidi",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zdrojovy-identifikator-fyzicke-osoby",
+              "title": "Zdrojový identifikátor fyzické osoby",
+              "file": "zdrojovy-identifikator-fyzicke-osoby.md",
+              "aliases": [
+                "ZIFO"
+              ],
+              "tags": [
+                "pojem",
+                "pro úřady",
+                "pro správce",
+                "pro architekty",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-opravneni",
+              "title": "Šablona oprávnění",
+              "file": "sablona-opravneni.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-obyvatel",
+              "title": "Registr obyvatel",
+              "file": "registr-obyvatel.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "statni-pravnicka-osoba",
+              "title": "Státní právnická osoba",
+              "file": "statni-pravnicka-osoba.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "dic",
+              "title": "DIČ",
+              "file": "dic.md",
+              "tags": [
+                "zkratka",
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zakladni-registry",
+              "title": "Základní registry",
+              "file": "zakladni-registry.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro správce",
+                "základní pilíře eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "portal-obcana",
+              "title": "Portál občana",
+              "file": "portal-obcana.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-uzemni-identifikace-adres-a-nemovitosti",
+              "title": "Registr územní identifikace adres a nemovitostí",
+              "file": "registr-uzemni-identifikace-adres-a-nemovitosti.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "neslucovani-agendovych-vazeb-u-fyzickych-osob",
+              "title": "Neslučování agendových vazeb u fyzických osob",
+              "file": "neslucovani-agendovych-vazeb-u-fyzickych-osob.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zakladni-produkty-eg",
+              "title": "Základní produkty EG",
+              "file": "zakladni-produkty-eg.md",
+              "tags": [
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "kdy-kdo-jak-overuje-opravneni-mandatu",
+              "title": "Kdy, kdo a jak ověřuje oprávnění mandátů",
+              "file": "kdy-kdo-jak-overuje-opravneni-mandatu.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overovani-role-a-opravneni-vyuzitim-udaju-ze-zakladnich-registru",
+              "title": "Ověřování role a oprávnění využitím údajů ze základních registrů",
+              "file": "overovani-role-a-opravneni-vyuzitim-udaju-ze-zakladnich-registru.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overovani-role-a-opravneni-nahlizenim-do-registru-zastupovani",
+              "title": "Ověřování role a oprávnění nahlížením do Registru zastupování",
+              "file": "overovani-role-a-opravneni-nahlizenim-do-registru-zastupovani.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-sluzeb-eidas",
+              "title": "Služby vytvářející důvěru podle EIDAS",
+              "file": "seznam-sluzeb-eidas.md",
+              "tags": [
+                "EIDAS",
+                "Elektronická identifikace",
+                "Elektronický podpis",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -259,7 +669,6 @@
                   "title": "Zákon o základních registrech",
                   "file": "zakon-o-zakladnich-registrech.md",
                   "aliases": [
-                    "111/2009",
                     "zákona o základních registrech",
                     "zákoně o základních registrech"
                   ],
@@ -278,10 +687,156 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "jednotliva-prava-ze-zakona-pds-s-podrobnostmi",
+              "title": "Jednotlivá práva ze zákona o PDS s podrobnostmi",
+              "file": "jednotliva-prava-ze-zakona-pds-s-podrobnostmi.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-cinit-digitalni-ukon",
+              "title": "Právo činit digitální úkon",
+              "file": "pravo-cinit-digitalni-ukon.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-digitalni-sluzbu",
+              "title": "Právo na digitální službu",
+              "file": "pravo-na-digitalni-sluzbu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-elektronickou-identifikaci-a-autentizaci",
+              "title": "Právo na elektronickou identifikaci a autentizaci",
+              "file": "pravo-na-elektronickou-identifikaci-a-autentizaci.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-informace-v-souvislosti-s-poskytovanim-digitalnich-sluzeb",
+              "title": "Právo na informace v souvislosti s poskytováním digitálních služeb",
+              "file": "pravo-na-informace-v-souvislosti-s-poskytovanim-digitalnich-sluzeb.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-nahrazeni-uredne-overeneho-podpisu-nebo-uznavaneho-elektronickeho-podpisu",
+              "title": "Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu",
+              "file": "pravo-na-nahrazeni-uredne-overeneho-podpisu-nebo-uznavaneho-elektronickeho-podpisu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-osvedceni-digitalniho-ukonu",
+              "title": "Právo na osvědčení digitálního úkonu",
+              "file": "pravo-na-osvedceni-digitalniho-ukonu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-prokazani-pravni-skutecnosti",
+              "title": "Právo na prokázání právní skutečnosti",
+              "file": "pravo-na-prokazani-pravni-skutecnosti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-technologickou-neutralitu",
+              "title": "Právo na technologickou neutralitu",
+              "file": "pravo-na-technologickou-neutralitu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-vyuziti-digitalniho-stejnopisu-prukazu",
+              "title": "Právo na využití digitálního stejnopisu průkazu",
+              "file": "pravo-na-vyuziti-digitalniho-stejnopisu-prukazu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-vyuzivani-udaju",
+              "title": "Právo na využívání údajů",
+              "file": "pravo-na-vyuzivani-udaju.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-zapis-kontaktniho-udaje",
+              "title": "Právo na zápis kontaktního údaje",
+              "file": "pravo-na-zapis-kontaktniho-udaje.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-zapis-pravni-skutecnosti",
+              "title": "Právo na zápis práva, povinnosti nebo právní skutečnosti",
+              "file": "pravo-na-zapis-pravni-skutecnosti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "nove-pojeti-kyberneticke-bezpecnosti-podle-nove-legislativy",
+              "title": "Nové pojetí kybernetické bezpečnosti na základě nové legislativy",
+              "file": "nove-pojeti-kyberneticke-bezpecnosti-podle-nove-legislativy.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "novy-legislativni-ramec-kyberneticke-bezpecnosti",
+              "title": "Nový legislativní rámec kybernetické bezpečnosti",
+              "file": "novy-legislativni-ramec-kyberneticke-bezpecnosti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vytah-povinnosti-souvisejici-s-pds",
+              "title": "Výtah seznamu povinností souvisejících s implementací PDS",
+              "file": "vytah-povinnosti-souvisejici-s-pds.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-analyza-dopadu-pds",
+              "title": "Připravená šablona analýzy dopadů práva na digitální služby na úřad",
+              "file": "sablona-analyza-dopadu-pds.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "draft": true,
           "type": "rozcestnik"
+        },
+        {
+          "id": "predpisy",
+          "title": "Právní předpisy",
+          "file": "predpisy.md",
+          "type": "rozcestnik",
+          "multisection": true,
+          "tags": [
+            "legislativa"
+          ]
         },
         {
           "id": "oblast-informacni-systemy",
@@ -419,6 +974,672 @@
                 ".další věci k is"
               ],
               "perex": "Tabulka s jednotlivými požadavky na řešení IS dle vyhlášky 409/2026 tedy pro subjekty ve vyšších povinnostech. Speciálně vhodné pro správu a rozvoj ISVS, je rozděleno i na správce a dodavatele."
+            },
+            {
+              "id": "definice-a-urceni-isvs",
+              "title": "Definice a určení ISVS",
+              "file": "definice-a-urceni-isvs.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "druhy-informacnich-systemu-spravovanych-ovs",
+              "title": "Druhy informačních systémů spravovaných OVS",
+              "file": "druhy-informacnich-systemu-spravovanych-ovs.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro správce",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "aplikacni-oblasti",
+              "title": "Aplikační oblasti",
+              "file": "aplikacni-oblasti.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "co-dela-vecny-a-technicky-spravce",
+              "title": "Popis co dělá věcný a technický správce informačního systému",
+              "file": "co-dela-vecny-a-technicky-spravce.md",
+              "tags": [
+                "Rozvoj ISVS",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Zhušněné shrnutí co dělá obecně věcný a co technický správce"
+            },
+            {
+              "id": "dlouhodobe-rizeni-is",
+              "title": "Dlouhodobé řízení IS",
+              "file": "dlouhodobe-rizeni-is.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro správce",
+                "pro manažery",
+                "pro ajťáky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ik-ovs",
+              "title": "IK OVS",
+              "file": "ik-ovs.md",
+              "aliases": [
+                "Informační koncepce OVS"
+              ],
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "atestace",
+              "title": "Atestace",
+              "file": "atestace.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "atestace-dlouhodobeho-rizeni",
+              "title": "Atestace dlouhodobého řízení",
+              "file": "atestace-dlouhodobeho-rizeni.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "atestace-informacniho-systemu",
+              "title": "Atestace informačního systému",
+              "file": "atestace-informacniho-systemu.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "pro úřady",
+                "pro správce",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "co-musi-obsahovat-smlouvy-s-dodavateli-ict",
+              "title": "Co musí obsahovat smlouvy s dodavateli ICT",
+              "file": "co-musi-obsahovat-smlouvy-s-dodavateli-ict.md",
+              "tags": [
+                "znalosti eg",
+                "metodika",
+                "pro úřady",
+                "pro ajťáky",
+                "pro manažery",
+                "pro správce",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "informacni-system-verejne-spravy",
+              "title": "Informační systém veřejné správy",
+              "file": "informacni-system-verejne-spravy.md",
+              "aliases": [
+                "ISVS"
+              ],
+              "tags": [
+                "pojem",
+                "základní pilíře",
+                "důležité",
+                "znalosti EG",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "spravce-isvs",
+              "title": "Správce ISVS",
+              "file": "spravce-isvs.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "typizovane-aplikacni-sluzby-ais",
+              "title": "Typizované aplikační služby AISu pro splnění povinností souvisejících s údaji",
+              "file": "typizovane-aplikacni-sluzby-ais.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-typizovane-aplikacni-sluzby-ais-skupina-ppdf-udaje",
+              "title": "Typizované služby AIS: Služby k propojenému datovému fondu a údajům",
+              "file": "seznam-typizovane-aplikacni-sluzby-ais-skupina-ppdf-udaje.md",
+              "tags": [
+                "Jak má fungovat ISVS",
+                "Rozvoj ISVS",
+                "Typizovaná architektura IS",
+                "Výměna dat ve veřejné správě",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "spoi",
+              "title": "SPOI",
+              "file": "spoi.md",
+              "tags": [
+                "Rozvoj ISVS",
+                "Typizovaná architektura IS",
+                "Výměna dat ve veřejné správě",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "SPOI nebo-li Single point of integration"
+            },
+            {
+              "id": "integracni-platforma",
+              "title": "Integrační platforma",
+              "file": "integracni-platforma.md",
+              "tags": [
+                "Co je nutné zajistit u OVM",
+                "Jak má fungovat ISVS",
+                "Rozvoj ISVS",
+                "Typizovaná architektura IS",
+                "Výměna dat ve veřejné správě",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Co vše řeší integrační platforma a proč je důležitá"
+            },
+            {
+              "id": "vecny-spravce-is",
+              "title": "Věcný správce IS",
+              "file": "vecny-spravce-is.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "technicky-spravce-is",
+              "title": "Technický správce IS",
+              "file": "technicky-spravce-is.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "procesni-povinnosti-dlouhodobeho-rizeni",
+              "title": "Procesní povinnosti dlouhodobého řízení",
+              "file": "procesni-povinnosti-dlouhodobeho-rizeni.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro ajťáky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "regulovane-informacni-systemy",
+              "title": "Regulované informační systémy",
+              "file": "regulovane-informacni-systemy.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro správce",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "procesy-ovs-spojene-s-informacni-koncepci",
+              "title": "Procesy OVS spojené s informační koncepcí",
+              "file": "procesy-ovs-spojene-s-informacni-koncepci.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "provozni-dokumentace",
+              "title": "Provozní dokumentace",
+              "file": "provozni-dokumentace.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "základní pilíře",
+                "pro správce",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klicove-role-is-zodpovednosti",
+              "title": "Klíčové role k IS a jejich zodpovědnosti",
+              "file": "klicove-role-is-zodpovednosti.md",
+              "tags": [
+                "dokument",
+                "znalosti eg",
+                "metodika",
+                "pro úřady",
+                "pro ajťáky",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "urceny-informacni-system",
+              "title": "Určený informační systém",
+              "file": "urceny-informacni-system.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "adis",
+              "title": "ADIS",
+              "file": "adis.md",
+              "tags": [
+                "zkratka",
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "kolaudacni-stanovisko-oha",
+              "title": "Kolaudační stanovisko OHA",
+              "file": "kolaudacni-stanovisko-oha.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "pojem",
+                "Rozvoj ISVS",
+                "Úřady a OHA",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Čemu se neformálně říká kolaudační stanovisko k určenému informačnímu systému a proč je potřeba"
+            },
+            {
+              "id": "stanovisko-oha",
+              "title": "Stanovisko OHA",
+              "file": "stanovisko-oha.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "pojem",
+                "Rozvoj ISVS",
+                "Úřady a OHA",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Kdo a kdy a jak musí v rámci řízení rozvoje ISVS žádat o jaká stanoviska Odbor hlavního architekta"
+            },
+            {
+              "id": "informacni-system-podle-3a",
+              "title": "Informační systém podle § 3a",
+              "file": "informacni-system-podle-3a.md",
+              "tags": [
+                "Spisová služba",
+                "Dokumenty",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-provozni-rad-is",
+              "title": "Šablona: Provozní řád informačního systému",
+              "file": "sablona-provozni-rad-is.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "struktura-provozniho-radu",
+              "title": "Struktura provozního řádu",
+              "file": "struktura-provozniho-radu.md",
+              "tags": [
+                "znalosti eg",
+                "pro správce",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "struktura-provozni-dokumentace",
+              "title": "Struktura provozní dokumentace",
+              "file": "struktura-provozni-dokumentace.md",
+              "tags": [
+                "znalosti eg",
+                "důležité",
+                "pro ajťáky",
+                "pro správce",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "procesy-a-zodpovednosti-tykajici-se-provozni-dokumentace-is",
+              "title": "Procesy a zodpovědnosti týkající se provozní dokumentace IS",
+              "file": "procesy-a-zodpovednosti-tykajici-se-provozni-dokumentace-is.md",
+              "tags": [
+                "pro ajťáky",
+                "pro správce",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "rozdeleni-obsahu-provozni-dokumentace-do-zdroju",
+              "title": "Rozdělení obsahu provozní dokumentace do zdrojů",
+              "file": "rozdeleni-obsahu-provozni-dokumentace-do-zdroju.md",
+              "tags": [
+                "znalosti eg",
+                "metodika",
+                "pro správce",
+                "pro ajťáky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klicove-role-k-is",
+              "title": "Klíčové role k IS",
+              "file": "klicove-role-k-is.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "typizovane-vnitrni-role-v-uradu-k-ict",
+              "title": "Typizované vnitřní role v úřadu související s ICT",
+              "file": "typizovane-vnitrni-role-v-uradu-k-ict.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "rozsirene-popisy-cinnosti-vecneho-gestora",
+              "title": "Rozšířené popisy činností věcného gestora",
+              "file": "rozsirene-popisy-cinnosti-vecneho-gestora.md",
+              "tags": [
+                "dokument",
+                "metodika",
+                "znalosti eg",
+                "pro správce",
+                "pro úřady",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vecny-gestor-agenda-oblast",
+              "title": "Věcný gestor za agendu či oblast",
+              "file": "vecny-gestor-agenda-oblast.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                "pro úřady",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-typizovane-aplikacni-sluzby-ais-skupina-subjekty-identita",
+              "title": "Typizované služby AIS: Služby k datovému kmeni a subjektům",
+              "file": "seznam-typizovane-aplikacni-sluzby-ais-skupina-subjekty-identita.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-aplikacni-oblasti",
+              "title": "Seznam aplikačních oblastí",
+              "file": "seznam-aplikacni-oblasti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ruzne-pristupy-k-zadavani-a-smluvnim-vztahum-s-dodavateli-dle-tce",
+              "title": "Různé přístupy k zadávání a smluvním vztahům s dodavateli dle TCE",
+              "file": "ruzne-pristupy-k-zadavani-a-smluvnim-vztahum-s-dodavateli-dle-tce.md",
+              "aliases": [
+                "Bezzubý přístup",
+                "Silový přístup",
+                "Pragmatický přístup"
+              ],
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "teorie-transakcnich-nakladu",
+              "title": "Teorie transakčních nákladů",
+              "file": "teorie-transakcnich-nakladu.md",
+              "aliases": [
+                "TCE"
+              ],
+              "tags": [
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "konkretni-obecne-procesy-ovs-dlouhodobeho-rizeni",
+              "title": "Konkrétní obecné procesy OVS dlouhodobého řízení",
+              "file": "konkretni-obecne-procesy-ovs-dlouhodobeho-rizeni.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro architekty",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "oblasti-vnitrni-digitalizace",
+              "title": "Oblasti vnitřní digitalizace",
+              "file": "oblasti-vnitrni-digitalizace.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "urcit-zamery-v-ik-a-realizovat-je",
+              "title": "Určit záměry v IK a realizovat je",
+              "file": "urcit-zamery-v-ik-a-realizovat-je.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "naplnovat-principy-a-zasady-ikcr",
+              "title": "Naplňovat principy a zásady IKČR",
+              "file": "naplnovat-principy-a-zasady-ikcr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "realizovat-cile-ikcr",
+              "title": "Realizovat cíle z IKČR",
+              "file": "realizovat-cile-ikcr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik",
+              "title": "Vlastní cíle a principy a požadavky ve své IK",
+              "file": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zamer-v-ik",
+              "title": "Záměr v informační koncepci",
+              "file": "zamer-v-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "soulad-se-svoji-ik",
+              "title": "Soulad se svojí informační koncepcí",
+              "file": "soulad-se-svoji-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vydat-a-uplatnovat-svoji-informacni-koncepci",
+              "title": "Vydat a uplatňovat svojí informační koncepci OVS",
+              "file": "vydat-a-uplatnovat-svoji-informacni-koncepci.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tip-cile-principy-u-vseho-zduvodnit",
+              "title": "💡 TIP: U všeho si udělám vazbu na cíle a principy",
+              "file": "tip-cile-principy-u-vseho-zduvodnit.md",
+              "tags": [
+                "tip eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tip-davam-si-rozumne-obecne-zamery-do-ik",
+              "title": "💡 TIP: Do IK OVS dáváme rozumné obecné záměry schopné realizace",
+              "file": "tip-davam-si-rozumne-obecne-zamery-do-ik.md",
+              "tags": [
+                "tip eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "povinnosti-k-rizeni-is",
+              "title": "Povinnosti k řízení IS",
+              "file": "povinnosti-k-rizeni-is.md",
+              "tags": [
+                "mapapovinnosti-eg-vytah",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-nove-zavazne-jaro26",
+              "title": "Co je nově závazné z OHA z března 2026",
+              "file": "seznam-nove-zavazne-jaro26.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "poradna-zamer-isvs-ik",
+              "title": "Poradna: Záměr na pořízení či změnu IS musí být v IK",
+              "file": "poradna-zamer-isvs-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "poradna-kb-nizsi-analyza-rizik",
+              "title": "Poradna: Proč se v nižších povinnostech nedělá analýza rizik",
+              "file": "poradna-kb-nizsi-analyza-rizik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ciselnik-faze-zivotniho-cyklu-is",
+              "title": "Číselník fází ISVS",
+              "file": "ciselnik-faze-zivotniho-cyklu-is.md",
+              "tags": [
+                "číselník",
+                "data",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ciselnik-kategorie-is",
+              "title": "Číselník kategorií ISVS",
+              "file": "ciselnik-kategorie-is.md",
+              "tags": [
+                "číselník",
+                "data",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ciselnik-stavy-zameru",
+              "title": "Číselník stavů záměru",
+              "file": "ciselnik-stavy-zameru.md",
+              "tags": [
+                "číselník",
+                "data",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tabulka-ddl-katalog-zameru",
+              "title": "Tabulka DDL katalogu záměrů",
+              "file": "tabulka-ddl-katalog-zameru.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vzor-do-ik-obce-tabulka-stavu-it-oblasti",
+              "title": "Vzor pro obce a ORP: Tabulka stavu IT podpory po skupinách",
+              "file": "vzor-do-ik-obce-tabulka-stavu-it-oblasti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Vzor tabulky do IK a znalostí o ICT v obecním úřadu"
+            },
+            {
+              "id": "proc-a-jak-vyplnit-tabulku-stavu-it-podpory-oblasti",
+              "title": "Jak si vyplnit tabulku stavu IT po oblastech a k čemu je to dobré",
+              "file": "proc-a-jak-vyplnit-tabulku-stavu-it-podpory-oblasti.md",
+              "tags": [
+                "Informační koncepce",
+                "Řízení ICT",
+                "Tvorba IK OVS",
+                "Naše metodiky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vzorove-pozadavky-na-webove-stranky",
+              "title": "Vzorové požadavky na webové stránky",
+              "file": "vzorove-pozadavky-na-webove-stranky.md",
+              "tags": [
+                "Webové stránky",
+                "Požadavky veřejných zakázek",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Sada původních vzorových požadavků na webové stránky z roku 2021"
             }
           ],
           "type": "rozcestnik",
@@ -445,6 +1666,26 @@
               "tags": [
                 "spisová služba",
                 "legislativa"
+              ]
+            },
+            {
+              "id": "dva-rezimy-datovych-schranek",
+              "title": "Dva režimy datových schránek",
+              "file": "dva-rezimy-datovych-schranek.md",
+              "tags": [
+                "Datové schránky",
+                "Elektronická komunikace",
+                "Dokumenty",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Datové schránky se využívají dvěma způsoby. Pro veřejnoprávní a soukromoprávní zasílání zpráv."
+            },
+            {
+              "id": "jmenny-rejstrik",
+              "title": "Jmenný rejstřík",
+              "file": "jmenny-rejstrik.md",
+              "tags": [
+                ".migrace z dokuwiki"
               ]
             }
           ],
@@ -494,12 +1735,210 @@
                 "klíčové pojmy",
                 "výměna údajů"
               ]
+            },
+            {
+              "id": "co-vedet-o-jednotlivych-druzich-konceptualnich-prvku",
+              "title": "Co vědět o jednotlivých druzích konceptuálních prvků",
+              "file": "co-vedet-o-jednotlivych-druzich-konceptualnich-prvku.md",
+              "tags": [
+                "Konceptuální modelování",
+                "Modelování znalostí",
+                "Znalostní architektura",
+                "Modelování dat",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "identifikatory-subjektu",
+              "title": "Identifikátory subjektů",
+              "file": "identifikatory-subjektu.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro architekty",
+                "pro lidi",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zaklady-semantickych-slovniku",
+              "title": "Základy sémantických slovníků",
+              "file": "zaklady-semantickych-slovniku.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zaklady-konceptualnich-modelu",
+              "title": "Základy konceptuálních modelů",
+              "file": "zaklady-konceptualnich-modelu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klasifikace-udaju-ve-verejne-sprave",
+              "title": "Klasifikace údajů ve veřejné správě",
+              "file": "klasifikace-udaju-ve-verejne-sprave.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "popis-dat",
+              "title": "Popis dat",
+              "file": "popis-dat.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zaklady-glosaru",
+              "title": "Základy glosářů",
+              "file": "zaklady-glosaru.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zakladni-konceptualni-prvky",
+              "title": "Základní konceptuální prvky",
+              "file": "zakladni-konceptualni-prvky.md",
+              "tags": [
+                "znalosti eg",
+                "KDM",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zajistit-duveryhodnost-udaju",
+              "title": "Zajistit důvěryhodnost údajů",
+              "file": "zajistit-duveryhodnost-udaju.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "traffic-light-protocol",
+              "title": "Traffic Light Protocol",
+              "file": "traffic-light-protocol.md",
+              "aliases": [
+                "TLP"
+              ],
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "uradovat-nad-udaji-a-ne-nad-dokumenty",
+              "title": "Úřadovat nad údaji a ne nad dokumenty",
+              "file": "uradovat-nad-udaji-a-ne-nad-dokumenty.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "jak-vse-delat-nad-daty",
+              "title": "Jak všechno dělat nad daty",
+              "file": "jak-vse-delat-nad-daty.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "kontrolni-seznam-ukoly-ssd-urad",
+              "title": "Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu",
+              "file": "kontrolni-seznam-ukoly-ssd-urad.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
           "tags": [
             "dopsat",
             "Oblast"
+          ]
+        },
+        {
+          "id": "archimate",
+          "title": "ArchiMate",
+          "file": "archimate.md",
+          "tags": [
+            "pojem",
+            "znalosti eg",
+            "pro architekty",
+            "pro manažery",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "architektonicky-model",
+          "title": "Architektonický model",
+          "file": "architektonicky-model.md",
+          "tags": [
+            "pojem",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "klicove-oblasti-architektury",
+          "title": "Klíčové oblasti architektury",
+          "file": "klicove-oblasti-architektury.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "zaneseni-prvku-zaeg-do-archimate",
+          "title": "Zanesení prvků ZAEG do architektury dle vrstev",
+          "file": "zaneseni-prvku-zaeg-do-archimate.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "zaneseni-vazeb-zaeg-do-archimate",
+          "title": "Zanesení vazeb ZAEG do architektury podle vrstev a oblastí",
+          "file": "zaneseni-vazeb-zaeg-do-archimate.md",
+          "tags": [
+            "ArchiMate",
+            "Typizovaná architektura IS",
+            "Využívání architektury",
+            "Znalostní architektura",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "nastroj-archimate-editor",
+          "title": "Nástroj ArchiMate editor architektury",
+          "file": "nastroj-archimate-editor.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "kupa",
+          "title": "KUPA",
+          "file": "kupa.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "sablona-adr",
+          "title": "Minimalistická šablona dokumentu ADR",
+          "file": "sablona-adr.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "desi-hodnoceni-a-kriteria",
+          "title": "Kritéria a oblasti hodnocení podle DESI",
+          "file": "desi-hodnoceni-a-kriteria.md",
+          "tags": [
+            ".migrace z dokuwiki"
           ]
         }
       ]
@@ -572,6 +2011,85 @@
                     "Chlubit se tím"
                   ],
                   "type": "dokument"
+                }
+              ]
+            },
+            {
+              "id": "slidy-do-prezentaci",
+              "title": "Slidy do prezentací",
+              "type": "rozcestnik",
+              "perex": "Krátké kousky textu do prezentací a výuky",
+              "tags": [
+                "Edukace",
+                ".migrace z dokuwiki"
+              ],
+              "children": [
+                {
+                  "id": "slide-ict-neni-informatika",
+                  "title": "Slide: ICT není informatika",
+                  "file": "slide-ict-neni-informatika.md",
+                  "tags": [
+                    "důležité",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-fungovani-organizace",
+                  "title": "Slide: Fungování organizace",
+                  "file": "slide-fungovani-organizace.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-oblasti-digitalizace-v-uradu",
+                  "title": "Slide: Oblasti pro digitalizaci",
+                  "file": "slide-oblasti-digitalizace-v-uradu.md",
+                  "tags": [
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-organy-verejne-spravy",
+                  "title": "Slide: Co je OVS",
+                  "file": "slide-organy-verejne-spravy.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-ovs-a-ovm",
+                  "title": "Slide: OVS a OVM",
+                  "file": "slide-ovs-a-ovm.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-tri-typy-kontrol-v-is",
+                  "title": "Slide: Tři typy kontrol v IS",
+                  "file": "slide-tri-typy-kontrol-v-is.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-egdilna-do-prezentaci",
+                  "title": "Slide: Tuto prezentaci vám přináší EGdílna",
+                  "file": "slide-egdilna-do-prezentaci.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-dokument-versus-udaj",
+                  "title": "Slide: Dokument versus údaj",
+                  "file": "slide-dokument-versus-udaj.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
                 }
               ]
             }

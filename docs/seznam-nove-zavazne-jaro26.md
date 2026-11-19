@@ -1,0 +1,5 @@
+Digitální a informační agentura respektive Odbor hlavního architekta s platností od 30.3.2026 vyhlásil za závazné:
+
+* Metodický pokyn ke klíčovému principu Pouze jednou a zákazu výjimek OHA: Popisuje význam principu pouze jednou a jeho bezpodmínečnou realizaci publikováním a využíváním údajů v propojeném datovém fondu a nemožnost udělení generální výjimky při posuzování změn ISVS a definuje podmínky, za nichž lze OHA žádat o výjimku pro veřejně publikované údaje
+* Metodický pokyn k realizaci architektonických změn určených informačních systémů: Výklad a věcná definice toho, kdy jde o architektonickou změnu a tedy se na projekt správce ISVS vztahují veškeré povinnosti týkající se zejména posuzování OHA a uvedení konkrétních návodných příkladů
+* Architektonický vzor pro agendový informační systém: Závazný architektonický vzor a rámec požadavků na tzv. Generický AIS, tedy na každý agendový informační systém a podrobnosti jeho závazného plnění v rámci návrhů změn a jejich realizace při úpravách a pořizování AIS

@@ -1,0 +1,5 @@
+Orgán veřejné moci při své působnosti musí splnit povinnost [[Využívání referenčních údajů]]. Referenčními údaji jsou i údaje vedené v rámci Informačního systému o oprávněních k zastupování ([[Registr zastupování]]). 
+
+OVM má možnost kromě přístupu prostřednictvím příslušných služeb Registru práv a povinností také určitého přímého nahlížení do Registru zastupování. K tomu slouží informační systém [[AIS Registru zastupování|AIS REZA]]. Uživatel v příslušných činnostních rolích se může přihlásit do AIS REZA a kromě jiného si zobrazit příslušná oprávnění, nehledě na to, zda je definuje [[veřejnoprávní mandát]], nebo [[soukromoprávní mandát]].
+
+Jde ovšem o krajní příklad, kdy příslušný OVM nemá svůj [[agendový informační systém]] uzpůsobený využívání služeb [[ISZR]]. Je třeba zdůraznit, že i nahlížením se jedná o přístup k referenčním údajům, o kterém bude subjekt údajů řádně informován s uvedením činnosti a agendy. [[dia]] vydala pro úředníky pro tento případ [videonávod na YouTube](https://youtube.com/watch?v=78FS_XbNzHI&si=ziwXFsIgOYZX8ng2).

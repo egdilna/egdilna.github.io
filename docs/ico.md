@@ -1,0 +1,1 @@
+Identifikační číslo organizace (IČO) patří mezi [[Identifikátory subjektů]] a jde o základní jednoznačný identifikátor subjektu [[právnický subjekt]]. Identifikátor přiděluje a spravuje [[Registr osob]]. Narozdíl od identifikátorů fyzických osob je IČO veřejným identifikátorem.

@@ -1,0 +1,3 @@
+⚠️ Často se z důvodů neznalosti, ale i poněkud nelogického názvosloví, zaměňují pojmy a role [[orgán veřejné moci]] a [[orgán veřejné správy]]. Obojí jsou role organizace, ovšem jejich záměna vede ke špatným výkladům. [[orgán veřejné moci|OVM]] je role definovaná zákonem [[111/2009]] a jde o subjekt, který vykonává působnost v agendě veřejné správy a má související povinnosti, včetně využívání a výměny údajů. [[Orgán veřejné správy|OVS]] je role definovaná zákonem [[365/2000]] a jde o subjekt, který má určité povinnosti v rámci správy a rozvoje svých informačních systémů a povinnosti dlouhodobého řízení.
+
+Bohužel v dnešní době již neplatí zkratka, že [[orgán veřejné správy]] má něco společného s výkonem veřejné správy.

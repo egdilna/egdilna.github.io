@@ -1,0 +1,1 @@
+Daňové identifikační číslo je jednoznačným identifikátorem daňového subjektu pro účely správy daní. Je vydáván orgánem finanční správy a je spravován informačním systémem [[ADIS]] a je z principu veřejným identifikátorem.

@@ -1,0 +1,1 @@
+💡 TIP: Do IK OVS musí OVS [[Určit záměry v IK a realizovat je]]. Dáváme do IK obecnější než konkrétnější záměry, ale zase takové, ze kterých je jasno, co chceme dělat a změnit. Nezapomínáme na to, že realizace záměrů je součástí vyhodnocení IK. Pomoci s lepším pochopením může stránka [[Záměr v informační koncepci]].
