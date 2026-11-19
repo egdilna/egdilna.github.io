@@ -9,7 +9,16 @@ V rámci elektronických podpisů se často setkáváme s různými pojmy, kter�
 
 ## Základní pojmy
 
-{{page>slovnik:skupina-epodpis}}
+Důležité pojmy spojené s elektronickými podpisy:
+
+{{Slovník pojmů/Certifikát pro elektronický podpis}}
+{{Slovník pojmů/Elektronický podpis}}
+{{Slovník pojmů/Kvalifikovaný certifikát pro elektronický podpis}}
+{{Slovník pojmů/Kvalifikovaný elektronický podpis}}
+{{Slovník pojmů/Osobní identifikační údaje}}
+{{Slovník pojmů/Podepisující}}
+{{Slovník pojmů/Spoléhající se strana}}
+{{Slovník pojmů/Zaručený elektronický podpis}}
 
 ## Druhy elektronického podpisu
 

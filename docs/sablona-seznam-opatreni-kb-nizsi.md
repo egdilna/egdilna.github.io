@@ -6,4 +6,4 @@ Níže je připravená šablona pro dokument se seznamem a přehledem opatření
 
 -----
 
-{{src>https://raw.githubusercontent.com/egdilna/sablony/main/ostatni/sablona-seznam-opatreni-kb-nizsi.md}}
+Šablona je k dispozici na GitHubu: [sablona-seznam-opatreni-kb-nizsi.md](https://github.com/egdilna/sablony/blob/main/ostatni/sablona-seznam-opatreni-kb-nizsi.md)

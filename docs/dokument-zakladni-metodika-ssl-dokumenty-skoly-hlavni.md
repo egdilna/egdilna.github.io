@@ -38,7 +38,36 @@ To nejdůležitější je...
 # Část A: Škola a správa dokumentů obecně
 ## Důležité pojmy a jejich význam
 
-{{page>slovnik:skupina-spisovky}}
+Důležité pojmy spojené se spisovou službou a správou dokumentů
+
+
+{{Slovník pojmů/Autentický zdroj dat}}
+{{Slovník pojmů/Certifikát pro elektronický podpis}}
+{{Slovník pojmů/Dokument nepodléhající evidenci}}
+{{Slovník pojmů/Elektronická archivace}}
+{{Slovník pojmů/Elektronická kniha záznamů}}
+{{Slovník pojmů/Elektronické časové razítko}}
+{{Slovník pojmů/Elektronický podpis}}
+{{Slovník pojmů/Elektronický systém spisové služby}}
+{{Slovník pojmů/Evidovaný dokument}}
+{{Slovník pojmů/Jmenný rejstřík}}
+{{Slovník pojmů/Kvalifikovaná elektronická pečeť}}
+{{Slovník pojmů/Kvalifikované elektronické časové razítko}}
+{{Slovník pojmů/Kvalifikované validační prvky}}
+{{Slovník pojmů/Kvalifikovaný certifikát pro elektronický podpis}}
+{{Slovník pojmů/Kvalifikovaný elektronický podpis}}
+{{Slovník pojmů/Ověřování platnosti}}
+{{Slovník pojmů/Podatelna}}
+{{Slovník pojmů/Podepisující}}
+{{Slovník pojmů/Samostatná evidence}}
+{{Slovník pojmů/Spisová služba}}
+{{Slovník pojmů/Spisovna}}
+{{Slovník pojmů/Spisový a skartační plán}}
+{{Slovník pojmů/Spisový a skartační řád}}
+{{Slovník pojmů/Veřejnoprávní původce}}
+{{Slovník pojmů/Výkon spisové služby}}
+{{Slovník pojmů/Výpravna}}
+{{Slovník pojmů/Zaručený elektronický podpis}}
 ## Co je škola - její role
 Škola je typicky v těchto obecných rolích, ze kterých jí plynou nějaké povinnosti:
 

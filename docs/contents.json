@@ -25,6 +25,16 @@
       ],
       "children": [
         {
+          "id": "slovnik-pojmu",
+          "title": "Slovník pojmů",
+          "file": "slovnik-pojmu.md",
+          "type": "rozcestnik",
+          "multisection": true,
+          "tags": [
+            "slovník pojmů"
+          ]
+        },
+        {
           "id": "zakladni-pilire-eg",
           "title": "Základní pilíře EG",
           "file": "zakladni-pilire-eg.md",

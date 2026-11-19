@@ -10,4 +10,4 @@ OVS musí stran záměrů mimo jiné [[Určit záměry v IK a realizovat je]] a 
 
 Následující diagram ukazuje, jak se se záměrem pracuje jako se součástí přípravy realizace a to i ve vztahu k IK OVS.
 
-{{plantuml-jak-na-zamer-ik-a-realizaci}}
+![Diagram: Jak na záměr v IK a jeho realizaci](https://www.plantuml.com/plantuml/png/LP0_JiCm5CPtd-8fUtk0g8hAY1YAG31qUqqVuDQnBTi947401YvGCUK0FG9JsdlXs4cjJhQ-zxq_lszf7HfNLuAX4EgzuXzSlZArsL7f8BlPkxhlXEoFS7i7g-V73D02twFNKKZEQaibMeBiNhdpWJO8RNNwbPyPB1QJL1H3apQDSf9hvOpNKkDwyACV7rgCAid6XhOYYNpFLkCjwxxpLWFDu0q6hCZuSZeL1MzLWxBlhi-LNamRdxH0T_vMJTybi67xwOTBgQoB-oLgCJHUKPuF_L4RRD3pg1tvdLc4uq5DpWUw7FCtUQCr_XbZrud0R5QCI2dVA8v1Z2_Cvz6NmvPUkEGbGHkpgLaeUCS47Pym9l7ae1NOyiq78CX7m5BfCZnE2eqJ7EJGM5ThDWc--bLCG3cOW8mbiIN9RLs9Vm00/plantuml-jak-na-zamer-ik-a-realizaci.png)
