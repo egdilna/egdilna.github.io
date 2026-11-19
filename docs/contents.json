@@ -147,30 +147,6 @@
               ]
             },
             {
-              "id": "druhy-elektronickeho-podpisu",
-              "title": "Druhy elektronického podpisu",
-              "file": "druhy-elektronickeho-podpisu.md",
-              "tags": [
-                "znalosti eg",
-                "Elektronický podpis",
-                "eIDAS",
-                "Důvěryhodnost",
-                ".migrace z dokuwiki"
-              ],
-              "perex": "Jaké jsou druhy elektronického podpisu a jaká je jejich zákonná a technická důvěryhodnost"
-            },
-            {
-              "id": "elektronicky-podpis-podle-zakona-297-2016",
-              "title": "Elektronický podpis podle zákona 297/2016",
-              "file": "elektronicky-podpis-podle-zakona-297-2016.md",
-              "tags": [
-                "důležité",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ],
-              "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
-            },
-            {
               "id": "zamena-ovs-a-ovm",
               "title": "Záměna OVS a OVM",
               "file": "zamena-ovs-a-ovm.md",
@@ -189,21 +165,6 @@
                 "pojem",
                 "důležité",
                 "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "klientsky-identifikator",
-              "title": "Klientský identifikátor",
-              "file": "klientsky-identifikator.md",
-              "aliases": [
-                "KI"
-              ],
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                "pro úřady",
-                "pro lidi",
                 ".migrace z dokuwiki"
               ]
             },
@@ -236,17 +197,6 @@
               "tags": [
                 "znalosti eg",
                 "důležité",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "seznam-sluzeb-eidas",
-              "title": "Služby vytvářející důvěru podle EIDAS",
-              "file": "seznam-sluzeb-eidas.md",
-              "tags": [
-                "EIDAS",
-                "Elektronická identifikace",
-                "Elektronický podpis",
                 ".migrace z dokuwiki"
               ]
             },
@@ -418,77 +368,45 @@
                     "pojem",
                     ".migrace z dokuwiki"
                   ]
+                },
+                {
+                  "id": "klientsky-identifikator",
+                  "title": "Klientský identifikátor",
+                  "file": "klientsky-identifikator.md",
+                  "aliases": [
+                    "KI"
+                  ],
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    "pro úřady",
+                    "pro lidi",
+                    ".migrace z dokuwiki"
+                  ]
                 }
               ]
             },
             {
-              "id": "co-je-a-neni-podpis",
-              "title": "Co je a není podpis",
-              "file": "co-je-a-neni-podpis.md",
-              "tags": [
-                "důležité",
-                "Elektronický podpis",
-                "Důvěryhodnost",
-                ".migrace z dokuwiki"
-              ],
-              "perex": "Popis toho, co je a co není podpis a to zejména ve vazbě na elektronické podpisy a elektronické jednání"
-            },
-            {
-              "id": "kvalifikovane-validacni-prvky",
-              "title": "Kvalifikované validační prvky",
-              "file": "kvalifikovane-validacni-prvky.md",
-              "tags": [
-                "Dokumenty",
-                "Spisová služba",
-                "Základní pilíře EG",
-                "Záludnosti EG",
-                ".migrace z dokuwiki"
-              ],
-              "perex": "Co to znamená kvalifikovaný elektronický podpis a kdy je skutečně kvalifikovaný a jaké jsou vlastně validační prvky s nejvyšší úrovní důvěry"
-            },
-            {
-              "id": "nic-jako-biometricky-podpis-neexistuje",
-              "title": "Nic jako biometrický podpis neexistuje",
-              "file": "nic-jako-biometricky-podpis-neexistuje.md",
+              "id": "atestace",
+              "title": "Atestace",
+              "file": "atestace.md",
               "tags": [
                 "znalosti eg",
-                "částé omyly",
-                "důležité",
-                "Elektronický podpis",
-                "eIDAS",
-                "Důvěryhodnost",
                 ".migrace z dokuwiki"
-              ],
-              "perex": "Vysvětlení omylů a varování kolem takzvaných biometrických podpisů"
+              ]
             },
             {
-              "id": "prosty-elektronicky-podpis",
-              "title": "Prostý elektronický podpis",
-              "file": "prosty-elektronicky-podpis.md",
+              "id": "atestace-dlouhodobeho-rizeni",
+              "title": "Atestace dlouhodobého řízení",
+              "file": "atestace-dlouhodobeho-rizeni.md",
               "tags": [
                 "pojem",
+                "důležité",
                 "znalosti eg",
-                "Elektronický podpis",
-                "eIDAS",
+                "pro úřady",
+                "pro manažery",
                 ".migrace z dokuwiki"
-              ],
-              "perex": "Popis prostého elektronického podpisu a základních rozdílů od ostatních druhů elektronického podpisu"
-            },
-            {
-              "id": "vysvetleni-k-elektronickym-podpisum-a-jejich-druhum",
-              "title": "Vysvětlení k elektronickým podpisům a jejich druhům",
-              "file": "vysvetleni-k-elektronickym-podpisum-a-jejich-druhum.md",
-              "tags": [
-                "dokument",
-                "znalosti eg",
-                "metodika",
-                "naše práce",
-                "Elektronický podpis",
-                "eIDAS",
-                "Důvěryhodnost",
-                ".migrace z dokuwiki"
-              ],
-              "perex": "Ucelený přehled problematiky elektronických podpisů a jejich druhů a souvisejících úskalí"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -1060,40 +978,6 @@
                 "pro správce",
                 "pro manažery",
                 "pro ajťáky",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "ik-ovs",
-              "title": "IK OVS",
-              "file": "ik-ovs.md",
-              "aliases": [
-                "Informační koncepce OVS"
-              ],
-              "tags": [
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "atestace",
-              "title": "Atestace",
-              "file": "atestace.md",
-              "tags": [
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "atestace-dlouhodobeho-rizeni",
-              "title": "Atestace dlouhodobého řízení",
-              "file": "atestace-dlouhodobeho-rizeni.md",
-              "tags": [
-                "pojem",
-                "důležité",
-                "znalosti eg",
-                "pro úřady",
-                "pro manažery",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2346,6 +2230,18 @@
                 "důležité",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "ik-ovs",
+              "title": "IK OVS",
+              "file": "ik-ovs.md",
+              "aliases": [
+                "Informační koncepce OVS"
+              ],
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
             }
           ]
         },
@@ -2590,6 +2486,117 @@
                 "architektonické znalosti",
                 "isvs a ais",
                 "Řízení a rozvoj IS"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "elektronicke-podpisy-a-validace",
+          "title": "Elektronické podpisy a validace",
+          "type": "rozcestnik",
+          "children": [
+            {
+              "id": "vysvetleni-k-elektronickym-podpisum-a-jejich-druhum",
+              "title": "Vysvětlení k elektronickým podpisům a jejich druhům",
+              "file": "vysvetleni-k-elektronickym-podpisum-a-jejich-druhum.md",
+              "tags": [
+                "dokument",
+                "znalosti eg",
+                "metodika",
+                "naše práce",
+                "Elektronický podpis",
+                "eIDAS",
+                "Důvěryhodnost",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Ucelený přehled problematiky elektronických podpisů a jejich druhů a souvisejících úskalí"
+            },
+            {
+              "id": "co-je-a-neni-podpis",
+              "title": "Co je a není podpis",
+              "file": "co-je-a-neni-podpis.md",
+              "tags": [
+                "důležité",
+                "Elektronický podpis",
+                "Důvěryhodnost",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Popis toho, co je a co není podpis a to zejména ve vazbě na elektronické podpisy a elektronické jednání"
+            },
+            {
+              "id": "druhy-elektronickeho-podpisu",
+              "title": "Druhy elektronického podpisu",
+              "file": "druhy-elektronickeho-podpisu.md",
+              "tags": [
+                "znalosti eg",
+                "Elektronický podpis",
+                "eIDAS",
+                "Důvěryhodnost",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Jaké jsou druhy elektronického podpisu a jaká je jejich zákonná a technická důvěryhodnost"
+            },
+            {
+              "id": "prosty-elektronicky-podpis",
+              "title": "Prostý elektronický podpis",
+              "file": "prosty-elektronicky-podpis.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "Elektronický podpis",
+                "eIDAS",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Popis prostého elektronického podpisu a základních rozdílů od ostatních druhů elektronického podpisu"
+            },
+            {
+              "id": "elektronicky-podpis-podle-zakona-297-2016",
+              "title": "Elektronický podpis podle zákona 297/2016",
+              "file": "elektronicky-podpis-podle-zakona-297-2016.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
+            },
+            {
+              "id": "kvalifikovane-validacni-prvky",
+              "title": "Kvalifikované validační prvky",
+              "file": "kvalifikovane-validacni-prvky.md",
+              "tags": [
+                "Dokumenty",
+                "Spisová služba",
+                "Základní pilíře EG",
+                "Záludnosti EG",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Co to znamená kvalifikovaný elektronický podpis a kdy je skutečně kvalifikovaný a jaké jsou vlastně validační prvky s nejvyšší úrovní důvěry"
+            },
+            {
+              "id": "nic-jako-biometricky-podpis-neexistuje",
+              "title": "Nic jako biometrický podpis neexistuje",
+              "file": "nic-jako-biometricky-podpis-neexistuje.md",
+              "tags": [
+                "znalosti eg",
+                "částé omyly",
+                "důležité",
+                "Elektronický podpis",
+                "eIDAS",
+                "Důvěryhodnost",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Vysvětlení omylů a varování kolem takzvaných biometrických podpisů"
+            },
+            {
+              "id": "seznam-sluzeb-eidas",
+              "title": "Služby vytvářející důvěru podle EIDAS",
+              "file": "seznam-sluzeb-eidas.md",
+              "tags": [
+                "EIDAS",
+                "Elektronická identifikace",
+                "Elektronický podpis",
+                ".migrace z dokuwiki"
               ]
             }
           ]
