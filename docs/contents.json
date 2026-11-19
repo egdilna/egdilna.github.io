@@ -592,6 +592,42 @@
                 "důležité",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "kdy-kdo-jak-overuje-opravneni-mandatu",
+              "title": "Kdy, kdo a jak ověřuje oprávnění mandátů",
+              "file": "kdy-kdo-jak-overuje-opravneni-mandatu.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overovani-role-a-opravneni-vyuzitim-udaju-ze-zakladnich-registru",
+              "title": "Ověřování role a oprávnění využitím údajů ze základních registrů",
+              "file": "overovani-role-a-opravneni-vyuzitim-udaju-ze-zakladnich-registru.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overovani-role-a-opravneni-nahlizenim-do-registru-zastupovani",
+              "title": "Ověřování role a oprávnění nahlížením do Registru zastupování",
+              "file": "overovani-role-a-opravneni-nahlizenim-do-registru-zastupovani.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-sluzeb-eidas",
+              "title": "Služby vytvářející důvěru podle EIDAS",
+              "file": "seznam-sluzeb-eidas.md",
+              "tags": [
+                "EIDAS",
+                "Elektronická identifikace",
+                "Elektronický podpis",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -769,6 +805,22 @@
               "id": "novy-legislativni-ramec-kyberneticke-bezpecnosti",
               "title": "Nový legislativní rámec kybernetické bezpečnosti",
               "file": "novy-legislativni-ramec-kyberneticke-bezpecnosti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vytah-povinnosti-souvisejici-s-pds",
+              "title": "Výtah seznamu povinností souvisejících s implementací PDS",
+              "file": "vytah-povinnosti-souvisejici-s-pds.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-analyza-dopadu-pds",
+              "title": "Připravená šablona analýzy dopadů práva na digitální služby na úřad",
+              "file": "sablona-analyza-dopadu-pds.md",
               "tags": [
                 ".migrace z dokuwiki"
               ]
@@ -1476,6 +1528,109 @@
                 "tip eg",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "povinnosti-k-rizeni-is",
+              "title": "Povinnosti k řízení IS",
+              "file": "povinnosti-k-rizeni-is.md",
+              "tags": [
+                "mapapovinnosti-eg-vytah",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-nove-zavazne-jaro26",
+              "title": "Co je nově závazné z OHA z března 2026",
+              "file": "seznam-nove-zavazne-jaro26.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "poradna-zamer-isvs-ik",
+              "title": "Poradna: Záměr na pořízení či změnu IS musí být v IK",
+              "file": "poradna-zamer-isvs-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "poradna-kb-nizsi-analyza-rizik",
+              "title": "Poradna: Proč se v nižších povinnostech nedělá analýza rizik",
+              "file": "poradna-kb-nizsi-analyza-rizik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ciselnik-faze-zivotniho-cyklu-is",
+              "title": "Číselník fází ISVS",
+              "file": "ciselnik-faze-zivotniho-cyklu-is.md",
+              "tags": [
+                "číselník",
+                "data",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ciselnik-kategorie-is",
+              "title": "Číselník kategorií ISVS",
+              "file": "ciselnik-kategorie-is.md",
+              "tags": [
+                "číselník",
+                "data",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ciselnik-stavy-zameru",
+              "title": "Číselník stavů záměru",
+              "file": "ciselnik-stavy-zameru.md",
+              "tags": [
+                "číselník",
+                "data",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tabulka-ddl-katalog-zameru",
+              "title": "Tabulka DDL katalogu záměrů",
+              "file": "tabulka-ddl-katalog-zameru.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vzor-do-ik-obce-tabulka-stavu-it-oblasti",
+              "title": "Vzor pro obce a ORP: Tabulka stavu IT podpory po skupinách",
+              "file": "vzor-do-ik-obce-tabulka-stavu-it-oblasti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Vzor tabulky do IK a znalostí o ICT v obecním úřadu"
+            },
+            {
+              "id": "proc-a-jak-vyplnit-tabulku-stavu-it-podpory-oblasti",
+              "title": "Jak si vyplnit tabulku stavu IT po oblastech a k čemu je to dobré",
+              "file": "proc-a-jak-vyplnit-tabulku-stavu-it-podpory-oblasti.md",
+              "tags": [
+                "Informační koncepce",
+                "Řízení ICT",
+                "Tvorba IK OVS",
+                "Naše metodiky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vzorove-pozadavky-na-webove-stranky",
+              "title": "Vzorové požadavky na webové stránky",
+              "file": "vzorove-pozadavky-na-webove-stranky.md",
+              "tags": [
+                "Webové stránky",
+                "Požadavky veřejných zakázek",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Sada původních vzorových požadavků na webové stránky z roku 2021"
             }
           ],
           "type": "rozcestnik",
@@ -1664,6 +1819,30 @@
               "tags": [
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "uradovat-nad-udaji-a-ne-nad-dokumenty",
+              "title": "Úřadovat nad údaji a ne nad dokumenty",
+              "file": "uradovat-nad-udaji-a-ne-nad-dokumenty.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "jak-vse-delat-nad-daty",
+              "title": "Jak všechno dělat nad daty",
+              "file": "jak-vse-delat-nad-daty.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "kontrolni-seznam-ukoly-ssd-urad",
+              "title": "Kontrolní seznam implementace úkolů ze Strategie správy dat v úřadu",
+              "file": "kontrolni-seznam-ukoly-ssd-urad.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -1690,6 +1869,66 @@
           "file": "architektonicky-model.md",
           "tags": [
             "pojem",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "klicove-oblasti-architektury",
+          "title": "Klíčové oblasti architektury",
+          "file": "klicove-oblasti-architektury.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "zaneseni-prvku-zaeg-do-archimate",
+          "title": "Zanesení prvků ZAEG do architektury dle vrstev",
+          "file": "zaneseni-prvku-zaeg-do-archimate.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "zaneseni-vazeb-zaeg-do-archimate",
+          "title": "Zanesení vazeb ZAEG do architektury podle vrstev a oblastí",
+          "file": "zaneseni-vazeb-zaeg-do-archimate.md",
+          "tags": [
+            "ArchiMate",
+            "Typizovaná architektura IS",
+            "Využívání architektury",
+            "Znalostní architektura",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "nastroj-archimate-editor",
+          "title": "Nástroj ArchiMate editor architektury",
+          "file": "nastroj-archimate-editor.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "kupa",
+          "title": "KUPA",
+          "file": "kupa.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "sablona-adr",
+          "title": "Minimalistická šablona dokumentu ADR",
+          "file": "sablona-adr.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "desi-hodnoceni-a-kriteria",
+          "title": "Kritéria a oblasti hodnocení podle DESI",
+          "file": "desi-hodnoceni-a-kriteria.md",
+          "tags": [
             ".migrace z dokuwiki"
           ]
         }
