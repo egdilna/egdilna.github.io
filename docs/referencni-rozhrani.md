@@ -6,7 +6,7 @@ Pokud je tedy potřeba uskutečnit vazbu jednoho informačního systému veřejn
 
 Referenční rozhraní a jeho využívání definuje zákon [[365/2000]] a jeho komponenty také definuje [[111/2009]]. Referenční rozhraní obsahuje tyto základní systémy:
 
-  * [[informacni-system-zakladnich-registru]] pro [[využívání referenčních údajů]]
+  * [[Informační systém základních registrů]] pro [[využívání referenčních údajů]]
   * [[informacni-system-sdilene-sluzby]] pro [[vyuzivani-agendovych-udaju]] a [[poskytování agendových údajů]]
   * [[Informační systém pro hromadný výdej údajů]] pro multimodální dotazy (FAIS)
 

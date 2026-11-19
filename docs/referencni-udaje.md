@@ -8,6 +8,6 @@ Referenčními údaji jsou [[referenční údaje o osobě v Registru obyvatel]],
   * Orgán veřejné moci  musí povinně využívat referenční údaje nehledě na konkrétní oprávnění v jednotlivých zákonech, musí udržovat dle své potřeby aktuálnost údajů a musí plnit i další povinnosti, jako je reklamace údajů apod.
   * Soukromoprávní uživatel údajů může a musí využívat referenční údaje pokud tak stanoví konkrétní zákon a to pouze v rozsahu oprávnění dle tohoto zákona.
   * Referenční údaje jsou vázány na identitu reprezovanou příslušným identifikátorem, třeba u fyzických osob je to [[Agendový identifikátor fyzické osoby|AIFO]], u právnických subjektů je to [[egdilna:ic]], u agend je to Kód agendy, apod.
-  * Přístup k referenčním údajům je realizován prostřednictvím [[ISZR]] a smí k nim přistupovat pouze řádný [[agendový informační systém]] dle ohlášení v příslušné agendě, jak stanoví [[:Agendovy-model-verejne-spravy|]].
+  * Přístup k referenčním údajům je realizován prostřednictvím [[Informační systém základních registrů|ISZR]] a smí k nim přistupovat pouze řádný [[agendový informační systém]] dle ohlášení v příslušné agendě, jak stanoví [[:Agendovy-model-verejne-spravy|]].
   * Referenční údaj se automaticky neověřuje a je považován za správný, není-li označen reklamací za zpochybněný. OVM a SPUÚ nesmí po klientovi referenční údaj vyžadovat a požadovat jeho doložení.
 

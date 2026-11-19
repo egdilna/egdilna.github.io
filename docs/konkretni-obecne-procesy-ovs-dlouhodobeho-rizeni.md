@@ -1,4 +1,4 @@
-[[vyhlaska-o-dlouhodobem-rizeni]] stanovuje [[Procesní povinnosti dlouhodobého řízení]]. Níže je jejich rozpad do konkrétních byznysových procesů:
+[[Vyhláška o dlouhodobém řízení]] stanovuje [[Procesní povinnosti dlouhodobého řízení]]. Níže je jejich rozpad do konkrétních byznysových procesů:
 
 - Vnitřní proces Zavádění strategického řízení informatiky :  (určuje § 6 písm. a) vyhlášky 360/2023)
 - Vnitřní proces Sledování uplatňování strategického řízení informatiky :  (určuje § 6 písm. a) vyhlášky 360/2023)
