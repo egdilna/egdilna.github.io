@@ -2700,6 +2700,134 @@
    "poznamka": "",
    "vytvoreno": "2026-11-19T10:36:50.000Z",
    "upraveno": "2026-11-19T10:36:50.000Z"
+  },
+  {
+   "id": "v-mwnf5j7tkdsn",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4",
+   "citace": "§ 4",
+   "zneni": "2026-01-01",
+   "text": "§ 4 Údaje základního registru\n  (1) Základní registr obsahuje referenční údaje, referenční vazby, identifikátory fyzických osob, popřípadě autentizační údaje, provozní údaje a jiné zákonem stanovené údaje. Referenční vazby jsou kódy nebo identifikátory, kterými je odkazováno na referenční údaje v základních registrech. Autentizační údaje jsou údaje umožňující provést ověření identity fyzické osoby.\n  (2) Editor je zodpovědný za to, že jím zapsané referenční údaje jsou v souladu s údaji uvedenými v dokumentech, na jejichž základě jsou referenční údaje do příslušného základního registru zapsány; orgány veřejné moci, fyzické a právnické osoby jsou povinny poskytnout editorovi potřebnou součinnost k plnění jeho úkolů tím, že mu poskytnou údaje a podklady potřebné pro ověření správnosti zapisovaných referenčních údajů.\n  (3) Editor zapíše referenční údaj do základního registru nebo provede jeho změnu bez zbytečného odkladu, nejpozději však do 3 pracovních dnů ode dne, kdy se o vzniku nebo o změně skutečnosti, kterou referenční údaj popisuje, dozví.\n  (4) Referenční údaj je považován za správný, pokud není prokázán opak nebo pokud nevznikne oprávněná pochybnost o správnosti referenčního údaje. V případě pochybnosti editor nebo správce základního registru označí referenční údaj jako nesprávný; toto označení editor odstraní neprodleně poté, co ověří správnost údajů, jinak se postupuje obdobně podle odstavce 3.\n  (5) Referenční údaj označený jako nesprávný má po dobu, po kterou je takto označen, pouze informativní povahu.\n  (6) Má se za to, že ten, kdo vychází z referenčního údaje, je v dobré víře, že stav referenčního údaje odpovídá skutečnému stavu věci, ledaže musel vědět o jeho nesprávnosti.\n  (7) Proti tomu, kdo jedná v důvěře ve správnost referenčního údaje, nemůže ten, jehož se referenční údaj týká, namítat, že referenční údaj neodpovídá skutečnosti, ledaže prokáže, že referenční údaj je nesprávný a že jeho nesprávnost nezpůsobil.",
+   "nazev": "Referenční údaje a povinnosti editora",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:40:19.000Z",
+   "upraveno": "2026-11-19T10:40:19.000Z"
+  },
+  {
+   "id": "v-mwnf5j7u8k0e",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4/odst_1",
+   "citace": "§ 4 odst. 1",
+   "zneni": "2026-01-01",
+   "text": "(1) Základní registr obsahuje referenční údaje, referenční vazby, identifikátory fyzických osob, popřípadě autentizační údaje, provozní údaje a jiné zákonem stanovené údaje. Referenční vazby jsou kódy nebo identifikátory, kterými je odkazováno na referenční údaje v základních registrech. Autentizační údaje jsou údaje umožňující provést ověření identity fyzické osoby.",
+   "nazev": "Obsah základního registru",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:40:19.000Z",
+   "upraveno": "2026-11-19T10:40:19.000Z"
+  },
+  {
+   "id": "v-mwnf5j7vgde2",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4/odst_2",
+   "citace": "§ 4 odst. 2",
+   "zneni": "2026-01-01",
+   "text": "(2) Editor je zodpovědný za to, že jím zapsané referenční údaje jsou v souladu s údaji uvedenými v dokumentech, na jejichž základě jsou referenční údaje do příslušného základního registru zapsány; orgány veřejné moci, fyzické a právnické osoby jsou povinny poskytnout editorovi potřebnou součinnost k plnění jeho úkolů tím, že mu poskytnou údaje a podklady potřebné pro ověření správnosti zapisovaných referenčních údajů.",
+   "nazev": "Odpovědnost editora za soulad referenčních údajů s podklady",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:40:19.000Z",
+   "upraveno": "2026-11-19T10:40:19.000Z"
+  },
+  {
+   "id": "v-mwnf5j7w6bgq",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4/odst_3",
+   "citace": "§ 4 odst. 3",
+   "zneni": "2026-01-01",
+   "text": "(3) Editor zapíše referenční údaj do základního registru nebo provede jeho změnu bez zbytečného odkladu, nejpozději však do 3 pracovních dnů ode dne, kdy se o vzniku nebo o změně skutečnosti, kterou referenční údaj popisuje, dozví.",
+   "nazev": "Povinný zápis referenčního údaje do 3 pracovních dnů",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:40:19.000Z",
+   "upraveno": "2026-11-19T10:40:19.000Z"
+  },
+  {
+   "id": "v-mwnf5j7x5lj0",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4/odst_4",
+   "citace": "§ 4 odst. 4",
+   "zneni": "2026-01-01",
+   "text": "(4) Referenční údaj je považován za správný, pokud není prokázán opak nebo pokud nevznikne oprávněná pochybnost o správnosti referenčního údaje. V případě pochybnosti editor nebo správce základního registru označí referenční údaj jako nesprávný; toto označení editor odstraní neprodleně poté, co ověří správnost údajů, jinak se postupuje obdobně podle odstavce 3.",
+   "nazev": "Presumpce správnosti a povinné označení zpochybněného referenčního údaje",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:40:19.000Z",
+   "upraveno": "2026-11-19T10:40:19.000Z"
+  },
+  {
+   "id": "v-mwnf5j7ya031",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4/odst_5",
+   "citace": "§ 4 odst. 5",
+   "zneni": "2026-01-01",
+   "text": "(5) Referenční údaj označený jako nesprávný má po dobu, po kterou je takto označen, pouze informativní povahu.",
+   "nazev": "Informativní povaha referenčního údaje označeného jako nesprávný",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:40:19.000Z",
+   "upraveno": "2026-11-19T10:40:19.000Z"
+  },
+  {
+   "id": "v-mwnf5j7zbprh",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4/odst_6",
+   "citace": "§ 4 odst. 6",
+   "zneni": "2026-01-01",
+   "text": "(6) Má se za to, že ten, kdo vychází z referenčního údaje, je v dobré víře, že stav referenčního údaje odpovídá skutečnému stavu věci, ledaže musel vědět o jeho nesprávnosti.",
+   "nazev": "Dobrá víra při vycházení z referenčního údaje",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:40:19.000Z",
+   "upraveno": "2026-11-19T10:40:19.000Z"
+  },
+  {
+   "id": "v-mwnf5j806hp2",
+   "predpis": "2009/111",
+   "klic": "norma/cast_1/hlava_1/par_4/odst_7",
+   "citace": "§ 4 odst. 7",
+   "zneni": "2026-01-01",
+   "text": "(7) Proti tomu, kdo jedná v důvěře ve správnost referenčního údaje, nemůže ten, jehož se referenční údaj týká, namítat, že referenční údaj neodpovídá skutečnosti, ledaže prokáže, že referenční údaj je nesprávný a že jeho nesprávnost nezpůsobil.",
+   "nazev": "Ochrana toho, kdo jedná v důvěře ve správnost referenčního údaje",
+   "skupiny": [
+    "s-mvgukntz1v5j",
+    "s-mvthk1z0reum"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T10:40:19.000Z",
+   "upraveno": "2026-11-19T10:40:19.000Z"
   }
  ],
  "skupinyKomentaru": [
