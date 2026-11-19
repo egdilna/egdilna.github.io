@@ -626,6 +626,255 @@
       ]
     },
     {
+      "id": "k-roztrideni-migrace",
+      "title": "K roztřídění (migrace)",
+      "type": "rozcestnik",
+      "tags": [
+        ".migrace z dokuwiki"
+      ],
+      "children": [
+        {
+          "id": "aplikacni-oblasti",
+          "title": "Aplikační oblasti",
+          "file": "aplikacni-oblasti.md",
+          "tags": [
+            "znalosti eg",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "archimate",
+          "title": "ArchiMate",
+          "file": "archimate.md",
+          "tags": [
+            "pojem",
+            "znalosti eg",
+            "pro architekty",
+            "pro manažery",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "atestace",
+          "title": "Atestace",
+          "file": "atestace.md",
+          "tags": [
+            "znalosti eg",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "architektonicky-model",
+          "title": "Architektonický model",
+          "file": "architektonicky-model.md",
+          "tags": [
+            "pojem",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "atestace-dlouhodobeho-rizeni",
+          "title": "Atestace dlouhodobého řízení",
+          "file": "atestace-dlouhodobeho-rizeni.md",
+          "tags": [
+            "pojem",
+            "důležité",
+            "znalosti eg",
+            "pro úřady",
+            "pro manažery",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "atestace-informacniho-systemu",
+          "title": "Atestace informačního systému",
+          "file": "atestace-informacniho-systemu.md",
+          "tags": [
+            "pojem",
+            "důležité",
+            "pro úřady",
+            "pro správce",
+            "pro manažery",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "co-dela-vecny-a-technicky-spravce",
+          "title": "Popis co dělá věcný a technický správce informačního systému",
+          "file": "co-dela-vecny-a-technicky-spravce.md",
+          "tags": [
+            "Rozvoj ISVS",
+            ".migrace z dokuwiki"
+          ],
+          "perex": "Zhušněné shrnutí co dělá obecně věcný a co technický správce"
+        },
+        {
+          "id": "co-musi-obsahovat-smlouvy-s-dodavateli-ict",
+          "title": "Co musí obsahovat smlouvy s dodavateli ICT",
+          "file": "co-musi-obsahovat-smlouvy-s-dodavateli-ict.md",
+          "tags": [
+            "znalosti eg",
+            "metodika",
+            "pro úřady",
+            "pro ajťáky",
+            "pro manažery",
+            "pro správce",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "co-vedet-o-jednotlivych-druzich-konceptualnich-prvku",
+          "title": "Co vědět o jednotlivých druzích konceptuálních prvků",
+          "file": "co-vedet-o-jednotlivych-druzich-konceptualnich-prvku.md",
+          "tags": [
+            "Konceptuální modelování",
+            "Modelování znalostí",
+            "Znalostní architektura",
+            "Modelování dat",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "definice-a-urceni-isvs",
+          "title": "Definice a určení ISVS",
+          "file": "definice-a-urceni-isvs.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "dlouhodobe-rizeni-is",
+          "title": "Dlouhodobé řízení IS",
+          "file": "dlouhodobe-rizeni-is.md",
+          "tags": [
+            "pojem",
+            "důležité",
+            "znalosti eg",
+            "pro úřady",
+            "pro správce",
+            "pro manažery",
+            "pro ajťáky",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "druhy-elektronickeho-podpisu",
+          "title": "Druhy elektronického podpisu",
+          "file": "druhy-elektronickeho-podpisu.md",
+          "tags": [
+            "znalosti eg",
+            "Elektronický podpis",
+            "eIDAS",
+            "Důvěryhodnost",
+            ".migrace z dokuwiki"
+          ],
+          "perex": "Jaké jsou druhy elektronického podpisu a jaká je jejich zákonná a technická důvěryhodnost"
+        },
+        {
+          "id": "druhy-informacnich-systemu-spravovanych-ovs",
+          "title": "Druhy informačních systémů spravovaných OVS",
+          "file": "druhy-informacnich-systemu-spravovanych-ovs.md",
+          "tags": [
+            "znalosti eg",
+            "pro úřady",
+            "pro správce",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "druhy-organu-verejne-spravy",
+          "title": "Druhy orgánů veřejné správy",
+          "file": "druhy-organu-verejne-spravy.md",
+          "tags": [
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "dva-rezimy-datovych-schranek",
+          "title": "Dva režimy datových schránek",
+          "file": "dva-rezimy-datovych-schranek.md",
+          "tags": [
+            "Datové schránky",
+            "Elektronická komunikace",
+            "Dokumenty",
+            ".migrace z dokuwiki"
+          ],
+          "perex": "Datové schránky se využívají dvěma způsoby. Pro veřejnoprávní a soukromoprávní zasílání zpráv."
+        },
+        {
+          "id": "edoklady",
+          "title": "eDoklady",
+          "file": "edoklady.md",
+          "tags": [
+            "Základní pilíře EG",
+            "EIDAS",
+            "eDoklady",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "edoklady-obcan",
+          "title": "Používání eDokladů Občanem (Prokazující osobou)",
+          "file": "edoklady-obcan.md",
+          "tags": [
+            "Důvěryhodnost",
+            "EIDAS",
+            "eDoklady",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "edoklady-overujici",
+          "title": "Používání eDokladů Ověřovatelem",
+          "file": "edoklady-overujici.md",
+          "tags": [
+            "Důvěryhodnost",
+            "EIDAS",
+            "eDoklady",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "elektronicka-identifikace-pravnicke-osoby",
+          "title": "Elektronická identifikace právnické osoby",
+          "file": "elektronicka-identifikace-pravnicke-osoby.md",
+          "tags": [
+            "důležité",
+            "znalosti eg",
+            "Elektronická identifikace",
+            "Záludnosti EG",
+            "Časté omyly",
+            "Mandáty",
+            ".migrace z dokuwiki"
+          ],
+          "perex": "Proč je nesmysl elektronická identifikace právnické osoby a co to má znamenat"
+        },
+        {
+          "id": "elektronicky-podpis-podle-zakona-297-2016",
+          "title": "Elektronický podpis podle zákona 297/2016",
+          "file": "elektronicky-podpis-podle-zakona-297-2016.md",
+          "tags": [
+            "důležité",
+            "znalosti eg",
+            ".migrace z dokuwiki"
+          ],
+          "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
+        },
+        {
+          "id": "ik-ovs",
+          "title": "IK OVS",
+          "file": "ik-ovs.md",
+          "aliases": [
+            "Informační koncepce OVS"
+          ],
+          "tags": [
+            "znalosti eg",
+            ".migrace z dokuwiki"
+          ]
+        }
+      ]
+    },
+    {
       "id": "redakce",
       "title": "Redakce",
       "file": "redakce.md",

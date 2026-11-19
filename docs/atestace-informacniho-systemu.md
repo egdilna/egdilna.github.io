@@ -1,0 +1,9 @@
+V úřadech jsou pro výkon veřejné správy klíčové informační systémy veřejné správy. Jsou to informační systémy, které musí splňovat celou řadu požadavků stanovených konkrétními agendovými zákony, ale také zákonem o základních registrech a zákonem o informačních systémech veřejné správy. Aby bylo prokazatelné, že tyto informační systémy splňují základní požadavky a nebyly vytvořeny neodborně, je zaveden proces atestace.
+
+Atestace je nezávislé posouzení ze strany atestačního střediska, které určuje, zda informační systém splňuje stanovené požadavky a zda je vytvořen podle souhlasného stanoviska  Odboru hlavního architekta a jeho realizace odpovídá provozní dokumentaci. Atestace upravuje [[zákon o informačních systémech veřejné správy]] a existují dva typy atestací. První atestací na úrovni celého úřadu je [[Atestace dlouhodobého řízení]] (také jako atestace Informační koncepce), která zahrnuje záměry a podrobnosti k rozvoji jednotlivých informačních systémů. 
+
+U každého informačního systému veřejné správy a regulovaného informačního systému musí dojít k jeho atestaci, tedy k atestaci konkrétního informačního systému. Atestační středisko zejména projde a posoudí provozní dokumentaci a shodu finální realizace s tím, co bylo odsouhlaseno Odborem hlavního architekta v původním stanovisku.
+
+Kromě atestace je zde také povinnost spustit informační systém nebo jeho zásadní změnu teprve po souhlasném kolaudačním stanovisku odboru hlavního architekta. Existují tedy dvě stanoviska: jedno na začátku před realizací a druhé na konci před spuštěním, a k tomu je navíc atestace informačního systému veřejné správy, založená na jeho reálném řešení a provozní dokumentaci.
+
+Atestaci provádí atestační středisko, kterých je v České republice několik. Atestace mají stanovené podmínky, aby bylo zajištěno, že všechny atestace budou probíhat a vypadat stejně, budou za stejných podmínek a budou mít porovnatelné výsledky.
