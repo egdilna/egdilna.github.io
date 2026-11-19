@@ -1958,6 +1958,14 @@
       ]
     },
     {
+      "id": "praxe",
+      "title": "Praxe",
+      "type": "rozcestnik",
+      "tags": [
+        "Sekce"
+      ]
+    },
+    {
       "id": "odkazy",
       "title": "Odkazy",
       "file": "odkazy.md",
