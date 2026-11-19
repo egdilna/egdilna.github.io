@@ -4,7 +4,7 @@ Národní architektonický plán je přílohou a tedy součástí [[Informační
 
 NAP (Národní architektonický plán) je detailním rámcem pro správný návrh a realizaci eGovernmentu v souladu s národní architekturou EG.
 
-{{page>predpis:nap&noheader}}
+Je součástí rámce IKČR a je jejím navazujícím dokumentem. Podle zákona o ISVS je závazným a orgány veřejné správy musí rozvíjet svoje informační systémy v souladu s ním. Je velkou příručkou, jak se v rámci eGovernmentu má co dělat.
 
 V NAP každý najde prakticky všechno podstatné, co potřebuje pro realizaci funkční elektronizace veřejné správy vědět. Je přehledně rozdělen do propojených částí a kapitol a obsahuje celou řadu doplňujících informací, jako jsou konkrétní architektonické obrázky, které ilustrují to, co se v dané kapitole píše. A protože je publikován formou interaktivní Wiki, dá se jednotlivými odkazy rychle přeskakovat a velice snadno a rychle tak každý najde to, co právě v danou chvíli hledá. 
 

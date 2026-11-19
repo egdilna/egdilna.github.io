@@ -1,4 +1,4 @@
-{{tag>pokorektuře}}
+
 # Agendový informační systém
 
 Zkratka: AIS

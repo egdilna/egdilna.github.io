@@ -1,6 +1,6 @@
 Zákon [[499/2004]] mimo jiné každému jako původci stanovuje povinnost vždy předat určité typy dokumentů jako archiválie a tedy zakazuje jejich skartaci a nebo vyřazování mimo skartační řízení.
 
-{{page>predpis:ustanoveniodkaz-ssl-priloha2-povinne-archivalie}}
+Seznam druhů dokumentů vždy předávaných archivu jako archiválie stanoví příloha č. 2 zákona [[499/2004]].
 
 1. Zápisy ze zasedání orgánů zákonodárné, vládní a výkonné moci a orgánů územní samosprávy na všech stupních
 2. Zakládací listiny, statuty, organizační řády a další dokumenty o organizační struktuře, vedení, správě, řízení, kontrole, činnosti a jejich výsledcích
