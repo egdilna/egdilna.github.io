@@ -790,6 +790,28 @@
                     "spisovka",
                     ".migrace z dokuwiki"
                   ]
+                },
+                {
+                  "id": "informacni-system-zakladnich-registru",
+                  "title": "Informační systém základních registrů",
+                  "file": "informacni-system-zakladnich-registru.md",
+                  "aliases": [
+                    "ISZR"
+                  ],
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "rejstrik-isvs",
+                  "title": "Rejstřík ISVS",
+                  "file": "rejstrik-isvs.md",
+                  "aliases": [
+                    "RISVS"
+                  ],
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
                 }
               ]
             },
@@ -1442,6 +1464,17 @@
                 "znalosti eg",
                 "pro manažery",
                 "pro ajťáky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vyhlaska-o-dlouhodobem-rizeni",
+              "title": "Vyhláška o dlouhodobém řízení",
+              "file": "vyhlaska-o-dlouhodobem-rizeni.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "legislativa eg",
                 ".migrace z dokuwiki"
               ]
             }
@@ -2351,6 +2384,39 @@
                 "znalosti eg",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "vysvetleni-pouzivani-a-overovani-mandatu-k-zastupovani",
+              "title": "Vysvětlení používání a ověřování oprávnění k zastupování",
+              "file": "vysvetleni-pouzivani-a-overovani-mandatu-k-zastupovani.md",
+              "tags": [
+                "dokument",
+                "metodika",
+                "důležité",
+                "naše práce",
+                "znalosti eg",
+                "pro úřady",
+                "pro architekty",
+                "pro správce",
+                "Registr zastupování",
+                "Mandáty",
+                "Metodiky EG",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Podrobný rozbor používání mandátů a oprávnění k zastupování ve veřejné správě"
+            },
+            {
+              "id": "ziskani-opravneni",
+              "title": "Získání oprávnění",
+              "file": "ziskani-opravneni.md",
+              "tags": [
+                "znalosti eg",
+                "důležité",
+                "Jak má fungovat ISVS",
+                "Co je nutné zajistit u OVM",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Pro výkon veřejné správy musí agendový IS umět pracovat s oprávněními nebo-li mandát"
             }
           ]
         },
@@ -2813,6 +2879,14 @@
                   "tags": [
                     "Spisová služba",
                     "Záludnosti EG",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-druhy-procesu-v-uradu",
+                  "title": "Slide: Druhy procesů v úřadu",
+                  "file": "slide-druhy-procesu-v-uradu.md",
+                  "tags": [
                     ".migrace z dokuwiki"
                   ]
                 }

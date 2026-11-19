@@ -4,4 +4,4 @@ Veškeré potřebné technické a procesní podrobnosti jsou uvedeny na webovýc
 
 
 
-K rozhraní a službám EGSB může být připojen pouze [[agendový informační systém]] a nebo [[informační systém soukromoprávního uživatele údajů]] zapsaný v [[:egdilna:rejstrik-isvs|]].
+K rozhraní a službám EGSB může být připojen pouze [[agendový informační systém]] a nebo [[informační systém soukromoprávního uživatele údajů]] zapsaný v [[Rejstřík ISVS]].

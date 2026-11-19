@@ -6,4 +6,4 @@ Orgán veřejné moci je povinen v souladu s ustanovením zákona [[499/2004]] k
 
 OVM má tyto údaje využívat a tedy musí zjišťovat kombinací téchto údajů zejména [[veřejnoprávní mandát]] s oprávněním k zastupování. Pokud [[jednající osoba]] třeba zašle podání elektronickou poštou, OVM si musí s využitím údajů v základních registrech a dalších informačních systémech ověřit, zda je daná osoba třeba jednatelem právnické osoby, jejímž jménem učinila podání.
 
-❗ Toto platí navíc i v případě údajů o zapsaných v rámci [[Registr zastupování|Registru zastupování]], neboť i tyto údaje jsou referenční údaje v Registru práv a povinností. OVM tedy má tyto referenční údaje využívat a to příslušnými službami [[ISZR]] prostřednictvím svého agendového informačního systému.
+❗ Toto platí navíc i v případě údajů o zapsaných v rámci [[Registr zastupování|Registru zastupování]], neboť i tyto údaje jsou referenční údaje v Registru práv a povinností. OVM tedy má tyto referenční údaje využívat a to příslušnými službami [[Informační systém základních registrů|ISZR]] prostřednictvím svého agendového informačního systému.

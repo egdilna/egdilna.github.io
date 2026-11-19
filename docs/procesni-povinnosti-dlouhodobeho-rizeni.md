@@ -1,4 +1,4 @@
-Nová [[vyhlaska-o-dlouhodobem-rizeni]]stanovuje podrobnější procesní povinnosti [[Orgán veřejné správy|orgánu veřejné správy]] :
+Nová [[Vyhláška o dlouhodobém řízení]]stanovuje podrobnější procesní povinnosti [[Orgán veřejné správy|orgánu veřejné správy]] :
 
 - V oblasti strategie, plánování a organizace řízení informatiky
 	* zavádí strategické řízení informatiky

@@ -108,7 +108,7 @@ Uvnitř úřadu se činnosti realizují jeho byznysovými procesy. Proto je nezb
 - Nutné jsou dobře nastavené a dostatečně efektivní procesy vnitřního řízení úřadu.
 - Procesy v rámci agend se standardizovaně modelují a působící úřady tyto modely respektují a využívají, tomu se říká Procesní modelování agend.
 
-{{page>egdilna:druhy-procesu-v-uradu&noheader}}
+{{Slide: Druhy procesů v úřadu}}
 
 
 **Patro Propojený datový fond**

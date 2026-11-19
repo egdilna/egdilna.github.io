@@ -1,0 +1,3 @@
+Tohle je součástí [[Využívání referenčních údajů]] pro výkon agendy. Stručně řečeno, pokud jsou v agendě nějaké klientské subjekty (třeba klient veřejné správy), musí [[Správce ISVS]] zajistit, aby jeho systémy uměly [[Ověření role osoby]] a to automaticky s využitím [[Ověřování role a oprávnění využitím údajů ze základních registrů]]. Tedy buď kombinací údajů z Registru osob a Registru obyvatel, kompozitními službami ISZR a nebo také prostřednictvím ISZR získání údajů o mandátech jako referenčních údajů z [[Registr práv a povinností|Registru práv a povinností]] a to konkrétně jeho součásti [[Registr zastupování]].
+
+Další informace o formách a využívání oprávnění jsou v souhrnném dokumentu [[Vysvětlení používání a ověřování oprávnění k zastupování]].
