@@ -304,54 +304,6 @@
               ]
             },
             {
-              "id": "mandat",
-              "title": "Mandát",
-              "file": "mandat.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "soukromopravni-mandat",
-              "title": "Soukromoprávní mandát",
-              "file": "soukromopravni-mandat.md",
-              "tags": [
-                "pojem",
-                "důležité",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "verejnopravni-mandat",
-              "title": "Veřejnoprávní mandát",
-              "file": "verejnopravni-mandat.md",
-              "tags": [
-                "pojem",
-                "důležité",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "overeni-opravneni-osoby",
-              "title": "Ověření oprávnění osoby",
-              "file": "overeni-opravneni-osoby.md",
-              "tags": [
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "overeni-role-osoby",
-              "title": "Ověření role osoby",
-              "file": "overeni-role-osoby.md",
-              "tags": [
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "referencni-identita",
               "title": "Referenční identita",
               "file": "referencni-identita.md",
@@ -412,14 +364,6 @@
                 "pro architekty",
                 "znalosti eg",
                 "důležité",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "sablona-opravneni",
-              "title": "Šablona oprávnění",
-              "file": "sablona-opravneni.md",
-              "tags": [
                 ".migrace z dokuwiki"
               ]
             },
@@ -491,31 +435,6 @@
               "tags": [
                 "znalosti eg",
                 "důležité",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "kdy-kdo-jak-overuje-opravneni-mandatu",
-              "title": "Kdy, kdo a jak ověřuje oprávnění mandátů",
-              "file": "kdy-kdo-jak-overuje-opravneni-mandatu.md",
-              "tags": [
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "overovani-role-a-opravneni-vyuzitim-udaju-ze-zakladnich-registru",
-              "title": "Ověřování role a oprávnění využitím údajů ze základních registrů",
-              "file": "overovani-role-a-opravneni-vyuzitim-udaju-ze-zakladnich-registru.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "overovani-role-a-opravneni-nahlizenim-do-registru-zastupovani",
-              "title": "Ověřování role a oprávnění nahlížením do Registru zastupování",
-              "file": "overovani-role-a-opravneni-nahlizenim-do-registru-zastupovani.md",
-              "tags": [
                 ".migrace z dokuwiki"
               ]
             },
@@ -1993,6 +1912,94 @@
           "id": "data-a-pece-o-ne",
           "title": "Data a péče o ně",
           "file": "data-a-pece-o-ne.md"
+        },
+        {
+          "id": "zastupovani-a-mandaty",
+          "title": "Zastupování a mandáty",
+          "type": "rozcestnik",
+          "children": [
+            {
+              "id": "verejnopravni-mandat",
+              "title": "Veřejnoprávní mandát",
+              "file": "verejnopravni-mandat.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-opravneni",
+              "title": "Šablona oprávnění",
+              "file": "sablona-opravneni.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "soukromopravni-mandat",
+              "title": "Soukromoprávní mandát",
+              "file": "soukromopravni-mandat.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overovani-role-a-opravneni-vyuzitim-udaju-ze-zakladnich-registru",
+              "title": "Ověřování role a oprávnění využitím údajů ze základních registrů",
+              "file": "overovani-role-a-opravneni-vyuzitim-udaju-ze-zakladnich-registru.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overovani-role-a-opravneni-nahlizenim-do-registru-zastupovani",
+              "title": "Ověřování role a oprávnění nahlížením do Registru zastupování",
+              "file": "overovani-role-a-opravneni-nahlizenim-do-registru-zastupovani.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overeni-role-osoby",
+              "title": "Ověření role osoby",
+              "file": "overeni-role-osoby.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overeni-opravneni-osoby",
+              "title": "Ověření oprávnění osoby",
+              "file": "overeni-opravneni-osoby.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "mandat",
+              "title": "Mandát",
+              "file": "mandat.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "kdy-kdo-jak-overuje-opravneni-mandatu",
+              "title": "Kdy, kdo a jak ověřuje oprávnění mandátů",
+              "file": "kdy-kdo-jak-overuje-opravneni-mandatu.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            }
+          ]
         }
       ],
       "type": "rozcestnik",
