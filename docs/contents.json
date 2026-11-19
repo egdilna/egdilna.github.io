@@ -251,30 +251,28 @@
                 "EIDAS",
                 "eDoklady",
                 ".migrace z dokuwiki"
-              ],
-              "children": [
-                {
-                  "id": "edoklady-obcan",
-                  "title": "Používání eDokladů Občanem (Prokazující osobou)",
-                  "file": "edoklady-obcan.md",
-                  "tags": [
-                    "Důvěryhodnost",
-                    "EIDAS",
-                    "eDoklady",
-                    ".migrace z dokuwiki"
-                  ]
-                },
-                {
-                  "id": "edoklady-overujici",
-                  "title": "Používání eDokladů Ověřovatelem",
-                  "file": "edoklady-overujici.md",
-                  "tags": [
-                    "Důvěryhodnost",
-                    "EIDAS",
-                    "eDoklady",
-                    ".migrace z dokuwiki"
-                  ]
-                }
+              ]
+            },
+            {
+              "id": "edoklady-obcan",
+              "title": "Používání eDokladů Občanem (Prokazující osobou)",
+              "file": "edoklady-obcan.md",
+              "tags": [
+                "Důvěryhodnost",
+                "EIDAS",
+                "eDoklady",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "edoklady-overujici",
+              "title": "Používání eDokladů Ověřovatelem",
+              "file": "edoklady-overujici.md",
+              "tags": [
+                "Důvěryhodnost",
+                "EIDAS",
+                "eDoklady",
+                ".migrace z dokuwiki"
               ]
             },
             {
@@ -288,20 +286,18 @@
                 "Důvěryhodnost",
                 ".migrace z dokuwiki"
               ],
-              "perex": "Jaké jsou druhy elektronického podpisu a jaká je jejich zákonná a technická důvěryhodnost",
-              "children": [
-                {
-                  "id": "elektronicky-podpis-podle-zakona-297-2016",
-                  "title": "Elektronický podpis podle zákona 297/2016",
-                  "file": "elektronicky-podpis-podle-zakona-297-2016.md",
-                  "tags": [
-                    "důležité",
-                    "znalosti eg",
-                    ".migrace z dokuwiki"
-                  ],
-                  "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
-                }
-              ]
+              "perex": "Jaké jsou druhy elektronického podpisu a jaká je jejich zákonná a technická důvěryhodnost"
+            },
+            {
+              "id": "elektronicky-podpis-podle-zakona-297-2016",
+              "title": "Elektronický podpis podle zákona 297/2016",
+              "file": "elektronicky-podpis-podle-zakona-297-2016.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
             }
           ],
           "type": "rozcestnik",
@@ -576,34 +572,32 @@
               "tags": [
                 "znalosti eg",
                 ".migrace z dokuwiki"
-              ],
-              "children": [
-                {
-                  "id": "atestace-dlouhodobeho-rizeni",
-                  "title": "Atestace dlouhodobého řízení",
-                  "file": "atestace-dlouhodobeho-rizeni.md",
-                  "tags": [
-                    "pojem",
-                    "důležité",
-                    "znalosti eg",
-                    "pro úřady",
-                    "pro manažery",
-                    ".migrace z dokuwiki"
-                  ]
-                },
-                {
-                  "id": "atestace-informacniho-systemu",
-                  "title": "Atestace informačního systému",
-                  "file": "atestace-informacniho-systemu.md",
-                  "tags": [
-                    "pojem",
-                    "důležité",
-                    "pro úřady",
-                    "pro správce",
-                    "pro manažery",
-                    ".migrace z dokuwiki"
-                  ]
-                }
+              ]
+            },
+            {
+              "id": "atestace-dlouhodobeho-rizeni",
+              "title": "Atestace dlouhodobého řízení",
+              "file": "atestace-dlouhodobeho-rizeni.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "atestace-informacniho-systemu",
+              "title": "Atestace informačního systému",
+              "file": "atestace-informacniho-systemu.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "pro úřady",
+                "pro správce",
+                "pro manažery",
+                ".migrace z dokuwiki"
               ]
             },
             {
@@ -618,29 +612,6 @@
                 "pro manažery",
                 "pro správce",
                 ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "archimate",
-              "title": "ArchiMate",
-              "file": "archimate.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                "pro architekty",
-                "pro manažery",
-                ".migrace z dokuwiki"
-              ],
-              "children": [
-                {
-                  "id": "architektonicky-model",
-                  "title": "Architektonický model",
-                  "file": "architektonicky-model.md",
-                  "tags": [
-                    "pojem",
-                    ".migrace z dokuwiki"
-                  ]
-                }
               ]
             }
           ],
@@ -747,6 +718,27 @@
           "tags": [
             "dopsat",
             "Oblast"
+          ]
+        },
+        {
+          "id": "archimate",
+          "title": "ArchiMate",
+          "file": "archimate.md",
+          "tags": [
+            "pojem",
+            "znalosti eg",
+            "pro architekty",
+            "pro manažery",
+            ".migrace z dokuwiki"
+          ]
+        },
+        {
+          "id": "architektonicky-model",
+          "title": "Architektonický model",
+          "file": "architektonicky-model.md",
+          "tags": [
+            "pojem",
+            ".migrace z dokuwiki"
           ]
         }
       ]
