@@ -12,6 +12,6 @@ AIFO je tedy identifikátor závislý na agendě, v níž je fyzická osoba vede
 
 
 
-AIFO patří mezi [[identifikátory subjektů]] pro [[fyzické osoby]]. Díky němu je možná [[pseudonymizace identity]].
+AIFO patří mezi [[identifikátory subjektů]] pro [[Fyzická osoba|fyzické osoby]]. Díky němu je možná [[pseudonymizace identity]].
 
 

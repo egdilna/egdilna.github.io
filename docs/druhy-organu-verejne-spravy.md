@@ -1,4 +1,4 @@
-[[Orgány veřejné správy]], jak je definuje zákon 365/2000 a podrobnosti povinností stanovuje vyhláška 360/2023 si můžeme rozdělit do několika druhů:
+[[Orgán veřejné správy|Orgány veřejné správy]], jak je definuje zákon 365/2000 a podrobnosti povinností stanovuje vyhláška 360/2023 si můžeme rozdělit do několika druhů:
 
 1. Úřady obecně: Jsou vždy [[orgány veřejné moci]], nám se v tomto druhu jedná o ministerstva a ústřední správní úřady
 1. Kraje: řeší ICT i pro obce ve svém území

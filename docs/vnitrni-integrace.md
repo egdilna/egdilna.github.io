@@ -12,7 +12,7 @@ Nejčastějšími úkoly vnější integrace v úřadu jsou:
   * Zajištění vazby na ekonomické činnosti integrací na ekonomický systém
   * Zajištění vazby existence vztahu osoby s úřadem a její identity jako uživatele v IDM a integrace pro správu a propagaci identit uživatelů dovnitř systémů
   * Zajištění ukládání dat a dokumentů v databázi a úložištích mimo daný informační systém
-  * Udržování identity a její vnitřní propagace u subjektů (zejména fyzických osob a právnických subjektů) - ale vazba na základní registry je pak [[egdilna:vnejsi-integrace|vnější integrace]]
+  * Udržování identity a její vnitřní propagace u subjektů (zejména fyzických osob a právnických subjektů) - ale vazba na základní registry je pak [[vnější integrace]]
   * Zprostředkování tvorby dotazů na [[referenční rozhraní]] v rámci [[vnější integrace]] a zpětná propagace výsledků do zdrojových informačních systémů úřadu
 
 

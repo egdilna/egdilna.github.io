@@ -5,7 +5,7 @@ Agenda je defacto soubor činností, jde o faktický výkon veřejné správy. N
 
 Agenda je ohraničena zákonem (či zákony) a úřadům jež jsou součástí agendy se říká [[OVM působící v agendě]]. Tím, kdo za agendu zodpovídá je [[ohlašovatel agendy]].
 
-Agenda je evidována v [[Registru práv a povinností]] a obsahuje spoustu informací, včetně působnosti, systémů, činností a údajů. Za agendu zodpovídá ohlašovatel, což je ministerstvo, další úřady jsou působící v agendě.
+Agenda je evidována v [[Registr práv a povinností|Registru práv a povinností]] a obsahuje spoustu informací, včetně působnosti, systémů, činností a údajů. Za agendu zodpovídá ohlašovatel, což je ministerstvo, další úřady jsou působící v agendě.
 
 Agenda je soubor činností definovaných zákonem, či zákony (příklad je agenda občanských průkazů, státní sociální podpory, evidence řidičů apod.)
 
@@ -36,4 +36,4 @@ Ohlašovatelem je OVM, který je gestorem dané právní úpravy a má tedy povi
 
 
 
-Podrobnosti k agendám a jejich zásadním významu pro veřejnou správu udává třeba [[odkaz:Agendový model veřejné správy]]. [[odkaz:Seznam agend]] je veřejný.
+Podrobnosti k agendám a jejich zásadním významu pro veřejnou správu udává třeba [[Odkazy/Agendový model veřejné správy|Agendový model veřejné správy]]. [[Seznam agend]] je veřejný.

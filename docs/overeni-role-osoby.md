@@ -1,0 +1,3 @@
+Orgán veřejné moci pro případy působnosti musí ověřit, zda [[Mandát|jednající]] fyzická osoba, jednající jménem někoho jiného, má oprávnění jednat jménem [[zastupované]] osoby. Respektive to, zda třeba úkon činěný určitou osobou, za ni může činit jiná fyzická osoba.
+
+Toto řeší výhradně [[orgán veřejné moci|OVM]] na své straně a to získáním třeba údajů ze základních registrů a dalších ISVS, kde jsou zaznamenány vazby osob pro [[Veřejnoprávní mandát|veřejnoprávní mandáty]] a služby Registru práv a povinností přes Registr zastupování pro [[Soukromoprávní mandát|soukromoprávní mandáty]]. Toto se řeší třeba v případě, kdy OVM je doručen dokument odeslaný nějakou fyzickou osobou (jinou cestou, než přes ISVS, třeba portál) lze považovat za úkon činěný [[zastupovanou]] osobou.

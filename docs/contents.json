@@ -298,6 +298,136 @@
                 ".migrace z dokuwiki"
               ],
               "perex": "Popis podpisů, které jsou důvěryhodné podle nařízení eIDAS a zákona"
+            },
+            {
+              "id": "organ-verejne-spravy",
+              "title": "Orgán veřejné správy",
+              "file": "organ-verejne-spravy.md",
+              "aliases": [
+                "OVS"
+              ],
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zamena-ovs-a-ovm",
+              "title": "Záměna OVS a OVM",
+              "file": "zamena-ovs-a-ovm.md",
+              "tags": [
+                "znalosti eg",
+                "důležité",
+                "časté omyly",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-prav-a-povinnosti",
+              "title": "Registr práv a povinností",
+              "file": "registr-prav-a-povinnosti.md",
+              "aliases": [
+                "RPP"
+              ],
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                "pro úřady",
+                "pro lidi",
+                "pro architekty",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-osob",
+              "title": "Registr osob",
+              "file": "registr-osob.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "mandat",
+              "title": "Mandát",
+              "file": "mandat.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "soukromopravni-mandat",
+              "title": "Soukromoprávní mandát",
+              "file": "soukromopravni-mandat.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "verejnopravni-mandat",
+              "title": "Veřejnoprávní mandát",
+              "file": "verejnopravni-mandat.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overeni-opravneni-osoby",
+              "title": "Ověření oprávnění osoby",
+              "file": "overeni-opravneni-osoby.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "overeni-role-osoby",
+              "title": "Ověření role osoby",
+              "file": "overeni-role-osoby.md",
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "fyzicka-osoba",
+              "title": "Fyzická osoba",
+              "file": "fyzicka-osoba.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravnicka-osoba",
+              "title": "Právnická osoba",
+              "file": "pravnicka-osoba.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "podnikajici-fyzicka-osoba",
+              "title": "Podnikající fyzická osoba",
+              "file": "podnikajici-fyzicka-osoba.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -613,6 +743,77 @@
                 "pro správce",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "informacni-system-verejne-spravy",
+              "title": "Informační systém veřejné správy",
+              "file": "informacni-system-verejne-spravy.md",
+              "aliases": [
+                "ISVS"
+              ],
+              "tags": [
+                "pojem",
+                "základní pilíře",
+                "důležité",
+                "znalosti EG",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "spravce-isvs",
+              "title": "Správce ISVS",
+              "file": "spravce-isvs.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "typizovane-aplikacni-sluzby-ais",
+              "title": "Typizované aplikační služby AISu pro splnění povinností souvisejících s údaji",
+              "file": "typizovane-aplikacni-sluzby-ais.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-typizovane-aplikacni-sluzby-ais-skupina-ppdf-udaje",
+              "title": "Typizované služby AIS: Služby k propojenému datovému fondu a údajům",
+              "file": "seznam-typizovane-aplikacni-sluzby-ais-skupina-ppdf-udaje.md",
+              "tags": [
+                "Jak má fungovat ISVS",
+                "Rozvoj ISVS",
+                "Typizovaná architektura IS",
+                "Výměna dat ve veřejné správě",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "spoi",
+              "title": "SPOI",
+              "file": "spoi.md",
+              "tags": [
+                "Rozvoj ISVS",
+                "Typizovaná architektura IS",
+                "Výměna dat ve veřejné správě",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "SPOI nebo-li Single point of integration"
+            },
+            {
+              "id": "integracni-platforma",
+              "title": "Integrační platforma",
+              "file": "integracni-platforma.md",
+              "tags": [
+                "Co je nutné zajistit u OVM",
+                "Jak má fungovat ISVS",
+                "Rozvoj ISVS",
+                "Typizovaná architektura IS",
+                "Výměna dat ve veřejné správě",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Co vše řeší integrační platforma a proč je důležitá"
             }
           ],
           "type": "rozcestnik",
@@ -652,6 +853,14 @@
                 ".migrace z dokuwiki"
               ],
               "perex": "Datové schránky se využívají dvěma způsoby. Pro veřejnoprávní a soukromoprávní zasílání zpráv."
+            },
+            {
+              "id": "jmenny-rejstrik",
+              "title": "Jmenný rejstřík",
+              "file": "jmenny-rejstrik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "tags": [
@@ -710,6 +919,18 @@
                 "Modelování znalostí",
                 "Znalostní architektura",
                 "Modelování dat",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "identifikatory-subjektu",
+              "title": "Identifikátory subjektů",
+              "file": "identifikatory-subjektu.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro architekty",
+                "pro lidi",
                 ".migrace z dokuwiki"
               ]
             }
