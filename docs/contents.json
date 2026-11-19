@@ -1960,6 +1960,23 @@
     {
       "id": "praxe",
       "title": "Praxe",
+      "children": [
+        {
+          "id": "strategie-a-koncepce",
+          "title": "Strategie a koncepce",
+          "file": "strategie-a-koncepce.md"
+        },
+        {
+          "id": "architektura-a-priprava",
+          "title": "Architektura a příprava",
+          "file": "architektura-a-priprava.md"
+        },
+        {
+          "id": "data-a-pece-o-ne",
+          "title": "Data a péče o ně",
+          "file": "data-a-pece-o-ne.md"
+        }
+      ],
       "type": "rozcestnik",
       "tags": [
         "Sekce"
