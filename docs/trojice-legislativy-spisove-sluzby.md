@@ -1,0 +1,7 @@
+Základní legislativní rámec tvoří především [[499/2004]], [[259/2012]] a [[NSESSS]], doplněné o další zákony v nichž se řeší souvislosti s dokumenty a jejich správou.  
+1. Právní předpis Zákon 499/2004 o archivnictví a spisové službě : Zákon č. 499/2004 Sb., o archivnictví a spisové službě / Upravuje oblast archivů a péče o archiválie. Především ale upravuje povinnosti spisové služby a povinnosti původců a archivů v oblasti spisové služby, včetně elektronických systémů spisové služby. / http://www.zakonyprolidi.cz/cs/2004-499 
+1. Zákon 499/2004 o archivnictví a spisové službě je prováděn předpisem Vyhláška 259/2012 o podrobnostech výkonu spisové služby : Vyhláška č. 259/2012 Sb., o podrobnostech výkonu spisové služby / Vyhláška stanovuje povinnosti procesů a výkonu spisové služby u původců. Je prováděcím předpisem zákona 499/2004 / http://www.zakonyprolidi.cz/cs/2012-259
+1. Zákon 499/2004 o archivnictví a spisové službě je prováděn předpisem Národní standard pro elektronické systémy spisové služby (NSESS) : Národní standard pro elektronické systémy spisové služby / Závazný standard podle zákona 499/2004 a vyhlášky 259/2012 obsahuje technické závazné požadavky na ESSL a ISSD a jejich funkcionality.
+
+Hledáme-li tedy základní zakotvení povinnosti spisové služby, pak se 
+jedná zejména o ustanovení zákona. Hledáme-li podrobnosti, jak se má spisová služba vykonávat v organizaci a jaké základní dopady to má, pak je to ve vyhlášce. A konečně národní standard nám říká, jaké jsou technické požadavky na některé funkce informačních systémů.

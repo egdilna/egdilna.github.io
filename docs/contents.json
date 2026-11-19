@@ -1602,6 +1602,288 @@
               "tags": [
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "co-je-spisova-sluzba-a-proc",
+              "title": "Co je spisová služba a proč jí máme řešit",
+              "file": "co-je-spisova-sluzba-a-proc.md",
+              "tags": [
+                "Spisová služba",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "objekty-spisove-sluzby",
+              "title": "Objekty spisové služby",
+              "file": "objekty-spisove-sluzby.md",
+              "tags": [
+                "Spisová služba",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Jaké jsou základní objekty a entity spisové služby"
+            },
+            {
+              "id": "elektronicky-system-spisove-sluzby",
+              "title": "Elektronický systém spisové služby",
+              "file": "elektronicky-system-spisove-sluzby.md",
+              "aliases": [
+                "ESSL"
+              ],
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "spisovka",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pozadavky-na-essl",
+              "title": "Požadavky na ESSL",
+              "file": "pozadavky-na-essl.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "pro ajťáky",
+                "pro úřady",
+                "spisovka",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "atest-essl",
+              "title": "Atest ESSL",
+              "file": "atest-essl.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "spisovka",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "atestace-essl",
+              "title": "Atestace ESSL",
+              "file": "atestace-essl.md",
+              "tags": [
+                "pojem",
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zivotni-cyklus-dokumentu-v-essl",
+              "title": "Průběh dokumentu systémem ESSL",
+              "file": "zivotni-cyklus-dokumentu-v-essl.md",
+              "tags": [
+                "Spisová služba",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "podrobny-popis-procesu-spisove-sluzby",
+              "title": "Podrobný popis procesů spisové služby",
+              "file": "podrobny-popis-procesu-spisove-sluzby.md",
+              "tags": [
+                "Spisová služba",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "include-popis-procesu-spisove-sluzby",
+              "title": "Popis procesů spisové služby (vkládaná část)",
+              "file": "include-popis-procesu-spisove-sluzby.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            },
+            {
+              "id": "legislativni-ramec-spisove-sluzby",
+              "title": "Legislativní rámec spisové služby",
+              "file": "legislativni-ramec-spisove-sluzby.md",
+              "tags": [
+                "egdilna:dalsi-legislativni-vazby-spisove-sluzby",
+                "Spisová služba",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Tato kapitola obsahuje pomeřně podrobný rámec legislativy pro spisovou službu a jeho vysvětlení v kontextu potřeb původce."
+            },
+            {
+              "id": "trojice-legislativy-spisove-sluzby",
+              "title": "Svatá trojice předpisů – úrovně legislativy ke spisové službě",
+              "file": "trojice-legislativy-spisove-sluzby.md",
+              "tags": [
+                "Spisová služba",
+                "Klíčová EG legislativa",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Svatá trojice, zákon, vyhláška a standard"
+            },
+            {
+              "id": "zakon-499-2004-popis",
+              "title": "Zákon č. 499/2004 Sb., o archivnictví a spisové službě",
+              "file": "zakon-499-2004-popis.md",
+              "tags": [
+                "Spisová služba",
+                "Klíčová EG legislativa",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Podrobnější popis zákona ke spisové službě"
+            },
+            {
+              "id": "vyhlaska-259-2012-popis",
+              "title": "Vyhláška č. 259/2012 Sb., o podrobnostech výkonu spisové služby",
+              "file": "vyhlaska-259-2012-popis.md",
+              "tags": [
+                "Spisová služba",
+                "Klíčová EG legislativa",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Podrobnější popis procesní vyhlášky ke spisové službě"
+            },
+            {
+              "id": "povinne-vnitrni-predpisy-spisove-sluzby-u-puvodce",
+              "title": "Povinné vnitřní předpisy u původce",
+              "file": "povinne-vnitrni-predpisy-spisove-sluzby-u-puvodce.md",
+              "tags": [
+                "Spisová služba",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "skartacni-rizeni",
+              "title": "Skartační řízení",
+              "file": "skartacni-rizeni.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "dokumenty-vzdy-predavane-archivu-jako-archivalie",
+              "title": "Dokumenty vždy předávané archivu jako archiválie",
+              "file": "dokumenty-vzdy-predavane-archivu-jako-archivalie.md",
+              "tags": [
+                "Povinnosti úřadů",
+                "Spisová služba",
+                "Záludnosti EG",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "prace-s-dorucenym-dokumentem",
+              "title": "Práce s doručeným dokumentem",
+              "file": "prace-s-dorucenym-dokumentem.md",
+              "tags": [
+                "Dokumenty",
+                "Spisová služba",
+                "Povinnosti úřadů",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "spravny-digitalni-dokument",
+              "title": "Správný digitální dokument je takový, který...",
+              "file": "spravny-digitalni-dokument.md",
+              "tags": [
+                "Co je nutné zajistit u OVM",
+                "Dokumenty",
+                "Důvěryhodnost",
+                "Elektronický podpis",
+                "Povinnosti úřadů",
+                "Spisová služba",
+                "Záludnosti EG",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Pozor na to, aby vaše dokumenty splňovaly veškeré požadavky"
+            },
+            {
+              "id": "nesmi-vznikat-papir",
+              "title": "Nesmí vznikat papíry",
+              "file": "nesmi-vznikat-papir.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "časté omyly",
+                "Co je nutné zajistit u OVM",
+                "Dokumenty",
+                "Povinnosti úřadů",
+                "Základní pilíře EG",
+                "Záludnosti EG",
+                "Časté omyly",
+                "Vnitřní digitalizace",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Proč v úřadu nesmí vznikat papír a co to vlastně znamená"
+            },
+            {
+              "id": "bezpecnostni-klasifikace-dokumentu",
+              "title": "Bezpečnostní klasifikace dokumentů",
+              "file": "bezpecnostni-klasifikace-dokumentu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vnimani-dokumentu-z-agendoveho-a-spisovenskeho-pohledu",
+              "title": "Vnímání dokumentu z agendového a spisovenského pohledu",
+              "file": "vnimani-dokumentu-z-agendoveho-a-spisovenskeho-pohledu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "jak-pracovat-s-udaji-a-dokumenty",
+              "title": "Jak pracovat s údaji a dokumenty",
+              "file": "jak-pracovat-s-udaji-a-dokumenty.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "popis-dokument-versus-udaj-uplne-s-tabulkou",
+              "title": "Popis rozdílů mezi dokumentem a údajem",
+              "file": "popis-dokument-versus-udaj-uplne-s-tabulkou.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "rozdeleni-procesu-a-cinnosti-v-uradu",
+              "title": "Rozdělení procesů a činností v úřadu",
+              "file": "rozdeleni-procesu-a-cinnosti-v-uradu.md",
+              "tags": [
+                "pro úřady",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Rozdělení procesů do určitých logických skupin dle výkonu a rozsahu povinností"
+            },
+            {
+              "id": "poradna-essl-konflikt-skartacnich-rezimu",
+              "title": "Poradna: Jak vyřešit konflikt skartačního režimu před uložením do spisovny",
+              "file": "poradna-essl-konflikt-skartacnich-rezimu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "knihy-spisova-sluzba",
+              "title": "Doporučená literatura ke spisové službě",
+              "file": "knihy-spisova-sluzba.md",
+              "tags": [
+                "Spisová služba",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Doporučení knih ke spisové službě. Pozor ale na aktuálnost vzhledem ke změnám legislativy."
+            },
+            {
+              "id": "odkazy-zdroje-informaci-ssl",
+              "title": "Zdroje dalších informací ke spisové službě",
+              "file": "odkazy-zdroje-informaci-ssl.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "tags": [
@@ -2159,6 +2441,60 @@
                   "title": "Slide: Dokument versus údaj",
                   "file": "slide-dokument-versus-udaj.md",
                   "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-dva-druhy-dokumentu-a-essl",
+                  "title": "Slide: Dva druhy dokumentů a ESSL",
+                  "file": "slide-dva-druhy-dokumentu-a-essl.md",
+                  "tags": [
+                    "Spisová služba",
+                    "Časté omyly",
+                    "Dokumenty",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-dva-vyznamy-spisove-sluzby",
+                  "title": "Slide: Dva významy pojmu spisové služby",
+                  "file": "slide-dva-vyznamy-spisove-sluzby.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-faze-zivotniho-cyklu-dokumentu-prostrednictvim-procesu",
+                  "title": "Slide: Životní cyklus dokumentu podle fází a procesů",
+                  "file": "slide-faze-zivotniho-cyklu-dokumentu-prostrednictvim-procesu.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-o-cem-spisova-sluzba-je",
+                  "title": "Slide: Dvě věci, o kterých je spisová služba",
+                  "file": "slide-o-cem-spisova-sluzba-je.md",
+                  "tags": [
+                    "Spisová služba",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-pocty-verejnopravnich-puvodcu",
+                  "title": "Slide: Rámcové počty veřejnoprávních původců",
+                  "file": "slide-pocty-verejnopravnich-puvodcu.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "slide-tri-duvody-spisove-sluzby",
+                  "title": "Slide: Tři důvody existence spisové služby",
+                  "file": "slide-tri-duvody-spisove-sluzby.md",
+                  "tags": [
+                    "Spisová služba",
+                    "Záludnosti EG",
                     ".migrace z dokuwiki"
                   ]
                 }
