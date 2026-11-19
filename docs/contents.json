@@ -183,14 +183,6 @@
               ]
             },
             {
-              "id": "neslucovani-agendovych-vazeb-u-fyzickych-osob",
-              "title": "Neslučování agendových vazeb u fyzických osob",
-              "file": "neslucovani-agendovych-vazeb-u-fyzickych-osob.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "zakladni-produkty-eg",
               "title": "Základní produkty EG",
               "file": "zakladni-produkty-eg.md",
@@ -1681,25 +1673,6 @@
               "perex": "Pozor na to, aby vaše dokumenty splňovaly veškeré požadavky"
             },
             {
-              "id": "nesmi-vznikat-papir",
-              "title": "Nesmí vznikat papíry",
-              "file": "nesmi-vznikat-papir.md",
-              "tags": [
-                "důležité",
-                "znalosti eg",
-                "časté omyly",
-                "Co je nutné zajistit u OVM",
-                "Dokumenty",
-                "Povinnosti úřadů",
-                "Základní pilíře EG",
-                "Záludnosti EG",
-                "Časté omyly",
-                "Vnitřní digitalizace",
-                ".migrace z dokuwiki"
-              ],
-              "perex": "Proč v úřadu nesmí vznikat papír a co to vlastně znamená"
-            },
-            {
               "id": "bezpecnostni-klasifikace-dokumentu",
               "title": "Bezpečnostní klasifikace dokumentů",
               "file": "bezpecnostni-klasifikace-dokumentu.md",
@@ -1962,28 +1935,12 @@
               ]
             },
             {
-              "id": "zajistit-duveryhodnost-udaju",
-              "title": "Zajistit důvěryhodnost údajů",
-              "file": "zajistit-duveryhodnost-udaju.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "traffic-light-protocol",
               "title": "Traffic Light Protocol",
               "file": "traffic-light-protocol.md",
               "aliases": [
                 "TLP"
               ],
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "uradovat-nad-udaji-a-ne-nad-dokumenty",
-              "title": "Úřadovat nad údaji a ne nad dokumenty",
-              "file": "uradovat-nad-udaji-a-ne-nad-dokumenty.md",
               "tags": [
                 ".migrace z dokuwiki"
               ]
@@ -2112,22 +2069,6 @@
               ]
             },
             {
-              "id": "vydat-a-uplatnovat-svoji-informacni-koncepci",
-              "title": "Vydat a uplatňovat svojí informační koncepci OVS",
-              "file": "vydat-a-uplatnovat-svoji-informacni-koncepci.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "urcit-zamery-v-ik-a-realizovat-je",
-              "title": "Určit záměry v IK a realizovat je",
-              "file": "urcit-zamery-v-ik-a-realizovat-je.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "zamer-v-ik",
               "title": "Záměr v informační koncepci",
               "file": "zamer-v-ik.md",
@@ -2147,22 +2088,6 @@
               "id": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik",
               "title": "Vlastní cíle a principy a požadavky ve své IK",
               "file": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "realizovat-cile-ikcr",
-              "title": "Realizovat cíle z IKČR",
-              "file": "realizovat-cile-ikcr.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "naplnovat-principy-a-zasady-ikcr",
-              "title": "Naplňovat principy a zásady IKČR",
-              "file": "naplnovat-principy-a-zasady-ikcr.md",
               "tags": [
                 ".migrace z dokuwiki"
               ]
@@ -2596,6 +2521,88 @@
                 "EIDAS",
                 "Elektronická identifikace",
                 "Elektronický podpis",
+                ".migrace z dokuwiki"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "co-urady-musi",
+          "title": "Co úřady musí",
+          "type": "rozcestnik",
+          "children": [
+            {
+              "id": "vydat-a-uplatnovat-svoji-informacni-koncepci",
+              "title": "Vydat a uplatňovat svojí informační koncepci OVS",
+              "file": "vydat-a-uplatnovat-svoji-informacni-koncepci.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "urcit-zamery-v-ik-a-realizovat-je",
+              "title": "Určit záměry v IK a realizovat je",
+              "file": "urcit-zamery-v-ik-a-realizovat-je.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "realizovat-cile-ikcr",
+              "title": "Realizovat cíle z IKČR",
+              "file": "realizovat-cile-ikcr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "naplnovat-principy-a-zasady-ikcr",
+              "title": "Naplňovat principy a zásady IKČR",
+              "file": "naplnovat-principy-a-zasady-ikcr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zajistit-duveryhodnost-udaju",
+              "title": "Zajistit důvěryhodnost údajů",
+              "file": "zajistit-duveryhodnost-udaju.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "uradovat-nad-udaji-a-ne-nad-dokumenty",
+              "title": "Úřadovat nad údaji a ne nad dokumenty",
+              "file": "uradovat-nad-udaji-a-ne-nad-dokumenty.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "nesmi-vznikat-papir",
+              "title": "Nesmí vznikat papíry",
+              "file": "nesmi-vznikat-papir.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "časté omyly",
+                "Co je nutné zajistit u OVM",
+                "Dokumenty",
+                "Povinnosti úřadů",
+                "Základní pilíře EG",
+                "Záludnosti EG",
+                "Časté omyly",
+                "Vnitřní digitalizace",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Proč v úřadu nesmí vznikat papír a co to vlastně znamená"
+            },
+            {
+              "id": "neslucovani-agendovych-vazeb-u-fyzickych-osob",
+              "title": "Neslučování agendových vazeb u fyzických osob",
+              "file": "neslucovani-agendovych-vazeb-u-fyzickych-osob.md",
+              "tags": [
                 ".migrace z dokuwiki"
               ]
             }
