@@ -420,6 +420,75 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "co-je-a-neni-podpis",
+              "title": "Co je a není podpis",
+              "file": "co-je-a-neni-podpis.md",
+              "tags": [
+                "důležité",
+                "Elektronický podpis",
+                "Důvěryhodnost",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Popis toho, co je a co není podpis a to zejména ve vazbě na elektronické podpisy a elektronické jednání"
+            },
+            {
+              "id": "kvalifikovane-validacni-prvky",
+              "title": "Kvalifikované validační prvky",
+              "file": "kvalifikovane-validacni-prvky.md",
+              "tags": [
+                "Dokumenty",
+                "Spisová služba",
+                "Základní pilíře EG",
+                "Záludnosti EG",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Co to znamená kvalifikovaný elektronický podpis a kdy je skutečně kvalifikovaný a jaké jsou vlastně validační prvky s nejvyšší úrovní důvěry"
+            },
+            {
+              "id": "nic-jako-biometricky-podpis-neexistuje",
+              "title": "Nic jako biometrický podpis neexistuje",
+              "file": "nic-jako-biometricky-podpis-neexistuje.md",
+              "tags": [
+                "znalosti eg",
+                "částé omyly",
+                "důležité",
+                "Elektronický podpis",
+                "eIDAS",
+                "Důvěryhodnost",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Vysvětlení omylů a varování kolem takzvaných biometrických podpisů"
+            },
+            {
+              "id": "prosty-elektronicky-podpis",
+              "title": "Prostý elektronický podpis",
+              "file": "prosty-elektronicky-podpis.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "Elektronický podpis",
+                "eIDAS",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Popis prostého elektronického podpisu a základních rozdílů od ostatních druhů elektronického podpisu"
+            },
+            {
+              "id": "vysvetleni-k-elektronickym-podpisum-a-jejich-druhum",
+              "title": "Vysvětlení k elektronickým podpisům a jejich druhům",
+              "file": "vysvetleni-k-elektronickym-podpisum-a-jejich-druhum.md",
+              "tags": [
+                "dokument",
+                "znalosti eg",
+                "metodika",
+                "naše práce",
+                "Elektronický podpis",
+                "eIDAS",
+                "Důvěryhodnost",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Ucelený přehled problematiky elektronických podpisů a jejich druhů a souvisejících úskalí"
             }
           ],
           "type": "rozcestnik",
@@ -638,6 +707,14 @@
               "multisection": true,
               "tags": [
                 "legislativa"
+              ]
+            },
+            {
+              "id": "pravo-na-digitalni-sluzby",
+              "title": "Právo na digitální služby",
+              "file": "pravo-na-digitalni-sluzby.md",
+              "tags": [
+                ".migrace z dokuwiki"
               ]
             }
           ],
@@ -1576,6 +1653,64 @@
                 ".migrace z dokuwiki"
               ],
               "perex": "Sada původních vzorových požadavků na webové stránky z roku 2021"
+            },
+            {
+              "id": "podminky-atestace-dlouhodobeho-rizeni-isvs",
+              "title": "Podmínky atestace dlouhodobého řízení ISVS",
+              "file": "podminky-atestace-dlouhodobeho-rizeni-isvs.md",
+              "tags": [
+                "dokument",
+                "metodika",
+                "z archi gov cz",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-provozni-dokumentace-is",
+              "title": "Šablona: Provozní dokumentace informačního systému",
+              "file": "sablona-provozni-dokumentace-is.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-seznam-opatreni-kb-nizsi",
+              "title": "Šablona Přehled opatření KB pro subjekty v nižších povinnostech",
+              "file": "sablona-seznam-opatreni-kb-nizsi.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vytvoreni-jednoducheho-formulare-ovm-katalog-formularu-aissk",
+              "title": "Vytvoření jednoduchého elektronického formuláře pomocí Katalogu zjednodušených formulářů",
+              "file": "vytvoreni-jednoducheho-formulare-ovm-katalog-formularu-aissk.md",
+              "tags": [
+                "Elektronická komunikace",
+                "Formuláře",
+                "Digitální služby",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tabulka-it-povolani-platove-tridy-prace",
+              "title": "Tabulka IT povolání, prací a platových tříd",
+              "file": "tabulka-it-povolani-platove-tridy-prace.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-it-povolani-praci-a-platovych-trid",
+              "title": "Seznam povolání v IT a prací a platových tříd",
+              "file": "seznam-it-povolani-praci-a-platovych-trid.md",
+              "tags": [
+                "nástroj",
+                "znalosti eg",
+                "pro manažery",
+                "pro ajťáky",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -1891,6 +2026,89 @@
               "tags": [
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "dokument-zakladni-metodika-ssl-dokumenty-skoly-hlavni",
+              "title": "Základní metodika pro spisovou službu a správu dokumentů v prostředí školy",
+              "file": "dokument-zakladni-metodika-ssl-dokumenty-skoly-hlavni.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "cast-o-spisove-sluzbe-obecne",
+              "title": "Metodika pro školy: O spisové službě obecně",
+              "file": "cast-o-spisove-sluzbe-obecne.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            },
+            {
+              "id": "cast-prakticky-spisova-sluzba-u-puvodce",
+              "title": "Metodika pro školy: Spisová služba u původce prakticky",
+              "file": "cast-prakticky-spisova-sluzba-u-puvodce.md",
+              "tags": [
+                "Spisová služba",
+                "Dokumenty",
+                "Povinnosti úřadů",
+                "Povinnosti nemocnic",
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            },
+            {
+              "id": "povinne-predavane-archivalie-skoly",
+              "title": "Druhy dokumentů škol povinně předávané archivu",
+              "file": "povinne-predavane-archivalie-skoly.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vzorove-spisove-plany-pro-skoly",
+              "title": "Publikované vzorové spisové plány pro školy",
+              "file": "vzorove-spisove-plany-pro-skoly.md",
+              "tags": [
+                "Spisová služba",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "rozbor-novelizace-predpisu-ssl",
+              "title": "Detailní rozbor změn legislativy ke spisové službě",
+              "file": "rozbor-novelizace-predpisu-ssl.md",
+              "tags": [
+                "Spisová služba",
+                "Naše metodiky",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "\"Ministerstvo vnitra zpracovalo rozbor a přehled změn legislativy ke spisové službě a to zejména novelizace vyhlášky o podrobnostech výkonu spisové služby a národního standardu pro elektronické systémy spisové služby.\""
+            },
+            {
+              "id": "popis-interni-sdeleni",
+              "title": "Co s interními sděleními v organizaci",
+              "file": "popis-interni-sdeleni.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "nsesss-strukturovany-ke-stazeni",
+              "title": "Stažení NSESSS strukturovaného v otevřených formátech",
+              "file": "nsesss-strukturovany-ke-stazeni.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tip-zvyraznena-vyhlaska-spisovka",
+              "title": "💡 TIP: Procesní vyhláška se zdůrazněnými důležitými věcmi",
+              "file": "tip-zvyraznena-vyhlaska-spisovka.md",
+              "tags": [
+                "tip eg",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "tags": [
@@ -2059,6 +2277,22 @@
           "tags": [
             ".migrace z dokuwiki"
           ]
+        },
+        {
+          "id": "nejdulezitejsi-znalosti",
+          "title": "Rychlý rozcestník toho nejdůležitějšího ke znalostem v EG v praxi",
+          "file": "nejdulezitejsi-znalosti.md",
+          "tags": [
+            "rozcestník",
+            "pro správce",
+            "pro ajťáky",
+            "pro architekty",
+            "pro úřady",
+            "znalosti eg",
+            "nepřehlédněte",
+            "kde začít",
+            ".migrace z dokuwiki"
+          ]
         }
       ]
     },
@@ -2069,7 +2303,51 @@
         {
           "id": "strategie-a-koncepce",
           "title": "Strategie a koncepce",
-          "file": "strategie-a-koncepce.md"
+          "file": "strategie-a-koncepce.md",
+          "children": [
+            {
+              "id": "narodni-architektonicky-plan",
+              "title": "Národní architektonický plán",
+              "file": "narodni-architektonicky-plan.md",
+              "aliases": [
+                "NAP"
+              ],
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "narodni-architektonicke-principy",
+              "title": "Národní architektonické principy",
+              "file": "narodni-architektonicke-principy.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "narodni-zasady-rizeni-ict",
+              "title": "Národní zásady řízení ICT",
+              "file": "narodni-zasady-rizeni-ict.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "psa-rvis",
+              "title": "Pracovní skupina pro architekturu při Radě vlády pro informační společnost",
+              "file": "psa-rvis.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
+            }
+          ]
         },
         {
           "id": "architektura-a-priprava",
@@ -2137,6 +2415,25 @@
               "id": "sablona-adr",
               "title": "Minimalistická šablona dokumentu ADR",
               "file": "sablona-adr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "dokumentace-poc",
+              "title": "Dokumentace POC",
+              "file": "dokumentace-poc.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro ajťáky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-vzor-dokumentace-poc",
+              "title": "Šablona Dokumentace POC",
+              "file": "sablona-vzor-dokumentace-poc.md",
               "tags": [
                 ".migrace z dokuwiki"
               ]
@@ -2505,6 +2802,22 @@
                     ".migrace z dokuwiki"
                   ]
                 }
+              ]
+            },
+            {
+              "id": "metodicke-dokumenty-egdilny",
+              "title": "Naše metodické materiály",
+              "file": "metodicke-dokumenty-egdilny.md",
+              "tags": [
+                "sekce",
+                "rozcestník",
+                "důležité",
+                "pro úřady",
+                "pro správce",
+                "pro manažery",
+                "pro ajťáky",
+                "pro architekty",
+                ".migrace z dokuwiki"
               ]
             }
           ],
