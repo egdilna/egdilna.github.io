@@ -16,7 +16,8 @@
     "2004/499",
     "2020/329",
     "2023/360",
-    "2012/259"
+    "2012/259",
+    "2016/297"
    ]
   },
   {
@@ -517,6 +518,39 @@
    ],
    "zkontrolovano": "2026-11-19T11:22:13.794Z",
    "popis": "Prováděcí vyhláška k zákonu 499/2004 Sb. Udává jednotlivé procesní povinnosti spisové služby a jak se mají realizovat i s ohledem na ESSL."
+  },
+  "2016/297": {
+   "pridano": "2026-11-19T11:24:19.077Z",
+   "zneni": {
+    "2023-04-01": {
+     "soubory": [
+      "predpisy/2016-297/2023-04-01-1.json"
+     ],
+     "pocet": 236,
+     "stazeno": "2026-11-19T11:24:19.261Z"
+    }
+   },
+   "stitky": [
+    "t-mwdtt5a1w8c3",
+    "t-mwdtrxwfb8bk",
+    "t-mvth7p1ivefa",
+    "t-mwngq3yqf271"
+   ],
+   "budouci": false,
+   "citace": "297/2016 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o službách vytvářejících důvěru pro elektronické transakce",
+   "datumVydani": "ze dne 24. srpna 2016",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2016-09-19",
+    "2017-07-01",
+    "2021-07-24",
+    "2021-09-01",
+    "2022-02-01",
+    "2023-04-01"
+   ],
+   "zkontrolovano": "2026-11-19T11:24:19.134Z"
   }
  },
  "skupiny": [
@@ -3195,6 +3229,11 @@
   {
    "id": "t-mvhxlvdnt9wr",
    "nazev": "spisová služba",
+   "popis": ""
+  },
+  {
+   "id": "t-mwngq3yqf271",
+   "nazev": "elektronická identifikace",
    "popis": ""
   }
  ],
