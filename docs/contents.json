@@ -68,25 +68,6 @@
               ]
             },
             {
-              "id": "informacni-system-sdilene-sluzby",
-              "title": "Informační systém sdílené služby",
-              "file": "informacni-system-sdilene-sluzby.md",
-              "aliases": [
-                "informační systém sdílených služeb",
-                "isss",
-                "egsb",
-                "egon service bus"
-              ],
-              "tags": [
-                "integrace informačních systémů",
-                "isvs a ais",
-                "klíčové pojmy",
-                "propojený datový fond",
-                "rámec pro AIS",
-                "výměna údajů"
-              ]
-            },
-            {
               "id": "propojeny-datovy-fond",
               "title": "Propojený datový fond",
               "file": "propojeny-datovy-fond.md",
@@ -212,18 +193,6 @@
               ]
             },
             {
-              "id": "registr-zastupovani",
-              "title": "Registr zastupování",
-              "file": "registr-zastupovani.md",
-              "tags": [
-                "pojem",
-                "důležité",
-                "znalosti eg",
-                "základnípilíře eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "klientsky-identifikator",
               "title": "Klientský identifikátor",
               "file": "klientsky-identifikator.md",
@@ -249,14 +218,6 @@
                 "pro úřady",
                 "pro správce",
                 "základní pilíře eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "portal-obcana",
-              "title": "Portál občana",
-              "file": "portal-obcana.md",
-              "tags": [
                 ".migrace z dokuwiki"
               ]
             },
@@ -693,6 +654,158 @@
             "isvs a ais"
           ],
           "children": [
+            {
+              "id": "klicove-informacni-systemy",
+              "title": "Klíčové informační systémy",
+              "type": "rozcestnik",
+              "children": [
+                {
+                  "id": "informacni-system-sdilene-sluzby",
+                  "title": "Informační systém sdílené služby",
+                  "file": "informacni-system-sdilene-sluzby.md",
+                  "aliases": [
+                    "informační systém sdílených služeb",
+                    "isss",
+                    "egsb",
+                    "egon service bus"
+                  ],
+                  "tags": [
+                    "integrace informačních systémů",
+                    "isvs a ais",
+                    "klíčové pojmy",
+                    "propojený datový fond",
+                    "rámec pro AIS",
+                    "výměna údajů"
+                  ]
+                },
+                {
+                  "id": "registr-zastupovani",
+                  "title": "Registr zastupování",
+                  "file": "registr-zastupovani.md",
+                  "tags": [
+                    "pojem",
+                    "důležité",
+                    "znalosti eg",
+                    "základnípilíře eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "portal-obcana",
+                  "title": "Portál občana",
+                  "file": "portal-obcana.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "registr-obyvatel",
+                  "title": "Registr obyvatel",
+                  "file": "registr-obyvatel.md",
+                  "tags": [
+                    "pojem",
+                    "důležité",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "registr-osob",
+                  "title": "Registr osob",
+                  "file": "registr-osob.md",
+                  "tags": [
+                    "pojem",
+                    "důležité",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "registr-prav-a-povinnosti",
+                  "title": "Registr práv a povinností",
+                  "file": "registr-prav-a-povinnosti.md",
+                  "aliases": [
+                    "RPP"
+                  ],
+                  "tags": [
+                    "pojem",
+                    "důležité",
+                    "znalosti eg",
+                    "pro úřady",
+                    "pro lidi",
+                    "pro architekty",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "registr-uzemni-identifikace-adres-a-nemovitosti",
+                  "title": "Registr územní identifikace adres a nemovitostí",
+                  "file": "registr-uzemni-identifikace-adres-a-nemovitosti.md",
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "ais-registru-zastupovani",
+                  "title": "AIS Registru zastupování",
+                  "file": "ais-reza.md",
+                  "aliases": [
+                    "ais reza"
+                  ],
+                  "tags": [
+                    "isvs a ais",
+                    "klíčové pojmy",
+                    "rámec pro AIS"
+                  ]
+                },
+                {
+                  "id": "ais-vyrozumivaci",
+                  "title": "AIS vyrozumívací",
+                  "file": "ais-vyrozumivaci.md",
+                  "aliases": [
+                    "aisv"
+                  ],
+                  "tags": [
+                    "isvs a ais",
+                    "klíčové pojmy",
+                    "rámec pro AIS",
+                    "Řízení a rozvoj IS"
+                  ]
+                },
+                {
+                  "id": "referencni-rozhrani",
+                  "title": "Referenční rozhraní",
+                  "file": "referencni-rozhrani.md",
+                  "aliases": [
+                    "rreferenčním rozhraní",
+                    "referenčnímu rozhraní"
+                  ],
+                  "tags": [
+                    "isvs a ais",
+                    "klíčové pojmy",
+                    "rámec pro AIS",
+                    "Řízení a rozvoj IS"
+                  ],
+                  "perex": "Co je to referenční rozhraní a z čeho se skládá a k čemu to vlastně je?"
+                },
+                {
+                  "id": "elektronicky-system-spisove-sluzby",
+                  "title": "Elektronický systém spisové služby",
+                  "file": "elektronicky-system-spisove-sluzby.md",
+                  "aliases": [
+                    "ESSL"
+                  ],
+                  "tags": [
+                    "pojem",
+                    "znalosti eg",
+                    "spisovka",
+                    ".migrace z dokuwiki"
+                  ]
+                }
+              ]
+            },
             {
               "id": "aplikacni-sluzby-typizovaneho-ais-pro-ppdf",
               "title": "Aplikační služby typizovaného AIS pro PPDF",
@@ -1463,98 +1576,6 @@
                 ".migrace z dokuwiki"
               ],
               "perex": "Sada původních vzorových požadavků na webové stránky z roku 2021"
-            },
-            {
-              "id": "ais-registru-zastupovani",
-              "title": "AIS Registru zastupování",
-              "file": "ais-reza.md",
-              "aliases": [
-                "ais reza"
-              ],
-              "tags": [
-                "isvs a ais",
-                "klíčové pojmy",
-                "rámec pro AIS"
-              ]
-            },
-            {
-              "id": "ais-vyrozumivaci",
-              "title": "AIS vyrozumívací",
-              "file": "ais-vyrozumivaci.md",
-              "aliases": [
-                "aisv"
-              ],
-              "tags": [
-                "isvs a ais",
-                "klíčové pojmy",
-                "rámec pro AIS",
-                "Řízení a rozvoj IS"
-              ]
-            },
-            {
-              "id": "registr-obyvatel",
-              "title": "Registr obyvatel",
-              "file": "registr-obyvatel.md",
-              "tags": [
-                "pojem",
-                "důležité",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "registr-osob",
-              "title": "Registr osob",
-              "file": "registr-osob.md",
-              "tags": [
-                "pojem",
-                "důležité",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "registr-prav-a-povinnosti",
-              "title": "Registr práv a povinností",
-              "file": "registr-prav-a-povinnosti.md",
-              "aliases": [
-                "RPP"
-              ],
-              "tags": [
-                "pojem",
-                "důležité",
-                "znalosti eg",
-                "pro úřady",
-                "pro lidi",
-                "pro architekty",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "registr-uzemni-identifikace-adres-a-nemovitosti",
-              "title": "Registr územní identifikace adres a nemovitostí",
-              "file": "registr-uzemni-identifikace-adres-a-nemovitosti.md",
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "referencni-rozhrani",
-              "title": "Referenční rozhraní",
-              "file": "referencni-rozhrani.md",
-              "aliases": [
-                "rreferenčním rozhraní",
-                "referenčnímu rozhraní"
-              ],
-              "tags": [
-                "isvs a ais",
-                "klíčové pojmy",
-                "rámec pro AIS",
-                "Řízení a rozvoj IS"
-              ],
-              "perex": "Co je to referenční rozhraní a z čeho se skládá a k čemu to vlastně je?"
             }
           ],
           "type": "rozcestnik",
@@ -1621,20 +1642,6 @@
                 ".migrace z dokuwiki"
               ],
               "perex": "Jaké jsou základní objekty a entity spisové služby"
-            },
-            {
-              "id": "elektronicky-system-spisove-sluzby",
-              "title": "Elektronický systém spisové služby",
-              "file": "elektronicky-system-spisove-sluzby.md",
-              "aliases": [
-                "ESSL"
-              ],
-              "tags": [
-                "pojem",
-                "znalosti eg",
-                "spisovka",
-                ".migrace z dokuwiki"
-              ]
             },
             {
               "id": "pozadavky-na-essl",
