@@ -556,6 +556,42 @@
                 "základní pilíře eg",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "portal-obcana",
+              "title": "Portál občana",
+              "file": "portal-obcana.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "registr-uzemni-identifikace-adres-a-nemovitosti",
+              "title": "Registr územní identifikace adres a nemovitostí",
+              "file": "registr-uzemni-identifikace-adres-a-nemovitosti.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "neslucovani-agendovych-vazeb-u-fyzickych-osob",
+              "title": "Neslučování agendových vazeb u fyzických osob",
+              "file": "neslucovani-agendovych-vazeb-u-fyzickych-osob.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zakladni-produkty-eg",
+              "title": "Základní produkty EG",
+              "file": "zakladni-produkty-eg.md",
+              "tags": [
+                "znalosti eg",
+                "důležité",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -615,6 +651,126 @@
                     "dopsat"
                   ]
                 }
+              ]
+            },
+            {
+              "id": "jednotliva-prava-ze-zakona-pds-s-podrobnostmi",
+              "title": "Jednotlivá práva ze zákona o PDS s podrobnostmi",
+              "file": "jednotliva-prava-ze-zakona-pds-s-podrobnostmi.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-cinit-digitalni-ukon",
+              "title": "Právo činit digitální úkon",
+              "file": "pravo-cinit-digitalni-ukon.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-digitalni-sluzbu",
+              "title": "Právo na digitální službu",
+              "file": "pravo-na-digitalni-sluzbu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-elektronickou-identifikaci-a-autentizaci",
+              "title": "Právo na elektronickou identifikaci a autentizaci",
+              "file": "pravo-na-elektronickou-identifikaci-a-autentizaci.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-informace-v-souvislosti-s-poskytovanim-digitalnich-sluzeb",
+              "title": "Právo na informace v souvislosti s poskytováním digitálních služeb",
+              "file": "pravo-na-informace-v-souvislosti-s-poskytovanim-digitalnich-sluzeb.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-nahrazeni-uredne-overeneho-podpisu-nebo-uznavaneho-elektronickeho-podpisu",
+              "title": "Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu",
+              "file": "pravo-na-nahrazeni-uredne-overeneho-podpisu-nebo-uznavaneho-elektronickeho-podpisu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-osvedceni-digitalniho-ukonu",
+              "title": "Právo na osvědčení digitálního úkonu",
+              "file": "pravo-na-osvedceni-digitalniho-ukonu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-prokazani-pravni-skutecnosti",
+              "title": "Právo na prokázání právní skutečnosti",
+              "file": "pravo-na-prokazani-pravni-skutecnosti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-technologickou-neutralitu",
+              "title": "Právo na technologickou neutralitu",
+              "file": "pravo-na-technologickou-neutralitu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-vyuziti-digitalniho-stejnopisu-prukazu",
+              "title": "Právo na využití digitálního stejnopisu průkazu",
+              "file": "pravo-na-vyuziti-digitalniho-stejnopisu-prukazu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-vyuzivani-udaju",
+              "title": "Právo na využívání údajů",
+              "file": "pravo-na-vyuzivani-udaju.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-zapis-kontaktniho-udaje",
+              "title": "Právo na zápis kontaktního údaje",
+              "file": "pravo-na-zapis-kontaktniho-udaje.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "pravo-na-zapis-pravni-skutecnosti",
+              "title": "Právo na zápis práva, povinnosti nebo právní skutečnosti",
+              "file": "pravo-na-zapis-pravni-skutecnosti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "nove-pojeti-kyberneticke-bezpecnosti-podle-nove-legislativy",
+              "title": "Nové pojetí kybernetické bezpečnosti na základě nové legislativy",
+              "file": "nove-pojeti-kyberneticke-bezpecnosti-podle-nove-legislativy.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "novy-legislativni-ramec-kyberneticke-bezpecnosti",
+              "title": "Nový legislativní rámec kybernetické bezpečnosti",
+              "file": "novy-legislativni-ramec-kyberneticke-bezpecnosti.md",
+              "tags": [
+                ".migrace z dokuwiki"
               ]
             }
           ],
@@ -1047,6 +1203,279 @@
                 "pojem",
                 ".migrace z dokuwiki"
               ]
+            },
+            {
+              "id": "kolaudacni-stanovisko-oha",
+              "title": "Kolaudační stanovisko OHA",
+              "file": "kolaudacni-stanovisko-oha.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "pojem",
+                "Rozvoj ISVS",
+                "Úřady a OHA",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Čemu se neformálně říká kolaudační stanovisko k určenému informačnímu systému a proč je potřeba"
+            },
+            {
+              "id": "stanovisko-oha",
+              "title": "Stanovisko OHA",
+              "file": "stanovisko-oha.md",
+              "tags": [
+                "důležité",
+                "znalosti eg",
+                "pojem",
+                "Rozvoj ISVS",
+                "Úřady a OHA",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Kdo a kdy a jak musí v rámci řízení rozvoje ISVS žádat o jaká stanoviska Odbor hlavního architekta"
+            },
+            {
+              "id": "informacni-system-podle-3a",
+              "title": "Informační systém podle § 3a",
+              "file": "informacni-system-podle-3a.md",
+              "tags": [
+                "Spisová služba",
+                "Dokumenty",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "sablona-provozni-rad-is",
+              "title": "Šablona: Provozní řád informačního systému",
+              "file": "sablona-provozni-rad-is.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "struktura-provozniho-radu",
+              "title": "Struktura provozního řádu",
+              "file": "struktura-provozniho-radu.md",
+              "tags": [
+                "znalosti eg",
+                "pro správce",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "struktura-provozni-dokumentace",
+              "title": "Struktura provozní dokumentace",
+              "file": "struktura-provozni-dokumentace.md",
+              "tags": [
+                "znalosti eg",
+                "důležité",
+                "pro ajťáky",
+                "pro správce",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "procesy-a-zodpovednosti-tykajici-se-provozni-dokumentace-is",
+              "title": "Procesy a zodpovědnosti týkající se provozní dokumentace IS",
+              "file": "procesy-a-zodpovednosti-tykajici-se-provozni-dokumentace-is.md",
+              "tags": [
+                "pro ajťáky",
+                "pro správce",
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "rozdeleni-obsahu-provozni-dokumentace-do-zdroju",
+              "title": "Rozdělení obsahu provozní dokumentace do zdrojů",
+              "file": "rozdeleni-obsahu-provozni-dokumentace-do-zdroju.md",
+              "tags": [
+                "znalosti eg",
+                "metodika",
+                "pro správce",
+                "pro ajťáky",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klicove-role-k-is",
+              "title": "Klíčové role k IS",
+              "file": "klicove-role-k-is.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "typizovane-vnitrni-role-v-uradu-k-ict",
+              "title": "Typizované vnitřní role v úřadu související s ICT",
+              "file": "typizovane-vnitrni-role-v-uradu-k-ict.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "rozsirene-popisy-cinnosti-vecneho-gestora",
+              "title": "Rozšířené popisy činností věcného gestora",
+              "file": "rozsirene-popisy-cinnosti-vecneho-gestora.md",
+              "tags": [
+                "dokument",
+                "metodika",
+                "znalosti eg",
+                "pro správce",
+                "pro úřady",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vecny-gestor-agenda-oblast",
+              "title": "Věcný gestor za agendu či oblast",
+              "file": "vecny-gestor-agenda-oblast.md",
+              "tags": [
+                "pojem",
+                "znalosti eg",
+                "důležité",
+                "pro úřady",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-typizovane-aplikacni-sluzby-ais-skupina-subjekty-identita",
+              "title": "Typizované služby AIS: Služby k datovému kmeni a subjektům",
+              "file": "seznam-typizovane-aplikacni-sluzby-ais-skupina-subjekty-identita.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "seznam-aplikacni-oblasti",
+              "title": "Seznam aplikačních oblastí",
+              "file": "seznam-aplikacni-oblasti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ruzne-pristupy-k-zadavani-a-smluvnim-vztahum-s-dodavateli-dle-tce",
+              "title": "Různé přístupy k zadávání a smluvním vztahům s dodavateli dle TCE",
+              "file": "ruzne-pristupy-k-zadavani-a-smluvnim-vztahum-s-dodavateli-dle-tce.md",
+              "aliases": [
+                "Bezzubý přístup",
+                "Silový přístup",
+                "Pragmatický přístup"
+              ],
+              "tags": [
+                "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "teorie-transakcnich-nakladu",
+              "title": "Teorie transakčních nákladů",
+              "file": "teorie-transakcnich-nakladu.md",
+              "aliases": [
+                "TCE"
+              ],
+              "tags": [
+                "pojem",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "konkretni-obecne-procesy-ovs-dlouhodobeho-rizeni",
+              "title": "Konkrétní obecné procesy OVS dlouhodobého řízení",
+              "file": "konkretni-obecne-procesy-ovs-dlouhodobeho-rizeni.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro architekty",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "oblasti-vnitrni-digitalizace",
+              "title": "Oblasti vnitřní digitalizace",
+              "file": "oblasti-vnitrni-digitalizace.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "urcit-zamery-v-ik-a-realizovat-je",
+              "title": "Určit záměry v IK a realizovat je",
+              "file": "urcit-zamery-v-ik-a-realizovat-je.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "naplnovat-principy-a-zasady-ikcr",
+              "title": "Naplňovat principy a zásady IKČR",
+              "file": "naplnovat-principy-a-zasady-ikcr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "realizovat-cile-ikcr",
+              "title": "Realizovat cíle z IKČR",
+              "file": "realizovat-cile-ikcr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik",
+              "title": "Vlastní cíle a principy a požadavky ve své IK",
+              "file": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zamer-v-ik",
+              "title": "Záměr v informační koncepci",
+              "file": "zamer-v-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "soulad-se-svoji-ik",
+              "title": "Soulad se svojí informační koncepcí",
+              "file": "soulad-se-svoji-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vydat-a-uplatnovat-svoji-informacni-koncepci",
+              "title": "Vydat a uplatňovat svojí informační koncepci OVS",
+              "file": "vydat-a-uplatnovat-svoji-informacni-koncepci.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tip-cile-principy-u-vseho-zduvodnit",
+              "title": "💡 TIP: U všeho si udělám vazbu na cíle a principy",
+              "file": "tip-cile-principy-u-vseho-zduvodnit.md",
+              "tags": [
+                "tip eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tip-davam-si-rozumne-obecne-zamery-do-ik",
+              "title": "💡 TIP: Do IK OVS dáváme rozumné obecné záměry schopné realizace",
+              "file": "tip-davam-si-rozumne-obecne-zamery-do-ik.md",
+              "tags": [
+                "tip eg",
+                ".migrace z dokuwiki"
+              ]
             }
           ],
           "type": "rozcestnik",
@@ -1179,6 +1608,59 @@
               "id": "zaklady-konceptualnich-modelu",
               "title": "Základy konceptuálních modelů",
               "file": "zaklady-konceptualnich-modelu.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "klasifikace-udaju-ve-verejne-sprave",
+              "title": "Klasifikace údajů ve veřejné správě",
+              "file": "klasifikace-udaju-ve-verejne-sprave.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "popis-dat",
+              "title": "Popis dat",
+              "file": "popis-dat.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zaklady-glosaru",
+              "title": "Základy glosářů",
+              "file": "zaklady-glosaru.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zakladni-konceptualni-prvky",
+              "title": "Základní konceptuální prvky",
+              "file": "zakladni-konceptualni-prvky.md",
+              "tags": [
+                "znalosti eg",
+                "KDM",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zajistit-duveryhodnost-udaju",
+              "title": "Zajistit důvěryhodnost údajů",
+              "file": "zajistit-duveryhodnost-udaju.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "traffic-light-protocol",
+              "title": "Traffic Light Protocol",
+              "file": "traffic-light-protocol.md",
+              "aliases": [
+                "TLP"
+              ],
               "tags": [
                 ".migrace z dokuwiki"
               ]

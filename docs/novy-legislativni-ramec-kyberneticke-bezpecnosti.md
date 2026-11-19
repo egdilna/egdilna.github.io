@@ -1,0 +1,10 @@
+V listopadu 2025 vstoupil v účinnost nový rámec pro kybernetickou bezpečnost a bezpečnost informací. Ten zcela nahrazuje původní zákon 181/2015 a jeho prováděcí rámec. Nový zákon zakotvuje [[Nové pojetí kybernetické bezpečnosti na základě nové legislativy]].
+
+Rámec tvoří zcela nový zákon o kybernetické bezpečnosti (NZKB) a jeho prováděcí předpisy. Nová legislativa zakotvuje, zákon obecně stanovuje právní rámec pro celou oblast kybernetické bezpečnosti a také definuje ty základní povinnosti. Sám zákon ale konkrétní rozsah povinností neurčuje. Ty jsou určeny až třemi prováděcími předpisy. Jedna vyhláška stanovuje konkrétní regulované služby a především udává rámec, zda je poskytovatel v nižším nebo vyšším rozsahu povinností. A pak jsou dvě vyhlášky. Jednak nižšímu rozsahu a druhá k vyššímu rozsahu, které už obsahují konkrétní procesní povinnosti a jejich podrobnosti. Legislativní rámec tak není úplně přehledný na první pohled, avšak rozdělení do dvou procesních vyhlášek je dobré v tom, že pokud subjekt ví, jakou úroveň povinností má řešit. Stačí mu si přečíst pouze příslušnou vyhlášku a postupovat podle ní. A zbytkem v právním rámci se prakticky nemusí zabývat.
+
+  * [[264/2025]] je samotný zákon udávající celý rámec a především odkazující na prováděcí vyhlášky.
+  * [[408/2025]] vymezuje jednotlivé regulované služby jejich taxativním výčtem a deklaruje, za jakých podmínek je poskytovatel těchto služeb v režimu nižších či vyšších povinností.
+  * [[409/2025]] je procesní vyhláškou s podrobnostmi povinností pro vyšší rozsah - tedy se jí řídí poskytovatelé služby ve vyšších povinnostech
+  * [[410/2025]] je procesní vyhláškou se základním rozsahem povinností v nižším rozsahu - tedy se jí řídí subjekty v nižších povinnostech
+  * [[411/2025]] je vyhláška pro OVS jako správce ISVS ke stanovení jejich bezpečnostní klasifikace, což významně ovlivňuje jejich rozvoj, provoz a řízení
+  * [[412/2025]] je další procesní vyhláškou pro OVS pro základy bezpečnosti při používání cloud computingu podle zákona o ISVS

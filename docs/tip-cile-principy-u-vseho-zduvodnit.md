@@ -1,0 +1,1 @@
+💡 TIP: U všeho, co chci v úřadu změnit a rozvíjet si řeknu, jaké všechny cíle tím realizuji a jak naplňuji příslušné principy. Nejlépe to uvedu do příslušné dokumentace. Platí, že čím víc cílů, tím lépe a že plním všechny principy a tam, kde to nejde, to odůvodním.

@@ -4,6 +4,6 @@ Jako takový je prostředkem usnadňujícím zajišťování syntaktické a sém
 
 Sémantický slovník pojmů agendy definuje agendové pojmy, jejich význam a věcné souvislosti mezi nimi. Skládá se z glosáře pojmů agendy a z konceptuálního modelu agendy. I když je teoreticky možné, aby slovník definoval všechny pojmy agendy, cílem postupu podle je definovat především ty pojmy, které popisují údaje potřebné v agendě.
 
-[[základy glosářů|glosář]] je prostým seznamem pojmů agendy, které případně může organizovat v hierarchické struktuře.
+[[Základy glosářů|glosář]] je prostým seznamem pojmů agendy, které případně může organizovat v hierarchické struktuře.
 
 [[Základy konceptuálních modelů|Konceptuální model]] pojmy propojuje na základě jejich věcných souvislostí. Přitom může také popisovat souvislosti s pojmy z jiných agend.

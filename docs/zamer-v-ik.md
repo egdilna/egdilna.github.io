@@ -1,0 +1,13 @@
+Čemu se v dané organizaci bude říkat **záměr**, je na výkladu příslušné organizace. Jde o to, že záměr zejména jde-li o záměr související s dlouhodobým řízením a tedy o **záměr zapsaný v informační koncepci orgánu veřejné správy**, má být alespoň rámcově popisný. Konkrétnější než třeba stanovení cíle anebo obecný popis toho, že by se měly změnit nějaké informační systémy. Záměr může být projektem, respektive správně by to mělo být tak, že je stanoven v informační koncepci záměr a z něj může vzniknout jeden projekt nebo i více projektů. A pochopitelně také jeden projekt, který může být přímou realizací více záměrů z informační koncepce. Záměr je tedy podrobnější než cíl anebo obecná deklarace, ale nemusí být tak podrobný jako konkrétní popis projektu. 
+
+Záměry vytváříme proto, aby bylo jasné, co se v dané organizaci má v následujícím období změnit a nemuseli bychom přitom čekat s koncepcí na to, až budeme mít podrobnosti stanovené v rámci projektového řízení pro jednotlivé projekty. 
+
+👉 Příklad: Záměr je „Modernizace řešení ekonomického systému". Z toho může vzniknout jeden projekt náhrada ekonomického systému, ale určitě to bude mít dopad i do dalších projektů v úřadu, protože ekonomický systém má vnitřní integraci na ostatní systémy v dané organizaci. V záměru modernizace řešení ekonomického systému přímo neříkáme, zda ho chceme nahradit nebo pouze upgradovat stávající řešení. To je až na detailním rozboru při přípravě samotného projektu v jeho první fázi. Nemůžeme předjímat, zda vyřešíme námi identifikované nedostatky se stávajícím dodavatelem anebo zda budeme chtít úplně jiný systém a v žádném případě nepřipustíme pokračování stávajícího systému. To nelze ani z pohledu zákona o veřejných zakázkách. A není to ani žádoucí postup. Prostě naším záměrem je s ekonomickým systémem něco udělat a takto obecně si uvedeme do své informační koncepce.
+
+Záměry si evidujeme v jejich katalogu, což může být jednoduchá tabulka, nebo nějaká specializovaná aplikace v rámci projektového řízení. Musíme vždy ale dodržet to, že záměry mají vazbu na cíle z IK OVS (realizují je) a mají vazbu na projekty v rámci projektového řízení (jsou jimi realizovány).
+
+OVS musí stran záměrů mimo jiné [[Určit záměry v IK a realizovat je]] a také jejich realizaci vyhodnocovat. I u rozvoje informačních systémů se pak mimo jiné vyžaduje, aby nejprve existovala potřeba uvedená před začátkem právě v IK OVS a to nejlépe formou záměru, více kupříkladu v části [[Detailnější rozpad přípravných fází životního cyklu IS/ICT řešení]]. Také proto je správná definice záměrů v IK velice důležitá.
+
+Následující diagram ukazuje, jak se se záměrem pracuje jako se součástí přípravy realizace a to i ve vztahu k IK OVS.
+
+{{plantuml-jak-na-zamer-ik-a-realizaci}}
