@@ -1127,17 +1127,6 @@
               ]
             },
             {
-              "id": "procesy-ovs-spojene-s-informacni-koncepci",
-              "title": "Procesy OVS spojené s informační koncepcí",
-              "file": "procesy-ovs-spojene-s-informacni-koncepci.md",
-              "tags": [
-                "znalosti eg",
-                "pro úřady",
-                "pro manažery",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "provozni-dokumentace",
               "title": "Provozní dokumentace",
               "file": "provozni-dokumentace.md",
@@ -1351,91 +1340,6 @@
               ]
             },
             {
-              "id": "oblasti-vnitrni-digitalizace",
-              "title": "Oblasti vnitřní digitalizace",
-              "file": "oblasti-vnitrni-digitalizace.md",
-              "tags": [
-                "znalosti eg",
-                "pro úřady",
-                "pro manažery",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "urcit-zamery-v-ik-a-realizovat-je",
-              "title": "Určit záměry v IK a realizovat je",
-              "file": "urcit-zamery-v-ik-a-realizovat-je.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "naplnovat-principy-a-zasady-ikcr",
-              "title": "Naplňovat principy a zásady IKČR",
-              "file": "naplnovat-principy-a-zasady-ikcr.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "realizovat-cile-ikcr",
-              "title": "Realizovat cíle z IKČR",
-              "file": "realizovat-cile-ikcr.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik",
-              "title": "Vlastní cíle a principy a požadavky ve své IK",
-              "file": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "zamer-v-ik",
-              "title": "Záměr v informační koncepci",
-              "file": "zamer-v-ik.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "soulad-se-svoji-ik",
-              "title": "Soulad se svojí informační koncepcí",
-              "file": "soulad-se-svoji-ik.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "vydat-a-uplatnovat-svoji-informacni-koncepci",
-              "title": "Vydat a uplatňovat svojí informační koncepci OVS",
-              "file": "vydat-a-uplatnovat-svoji-informacni-koncepci.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "tip-cile-principy-u-vseho-zduvodnit",
-              "title": "💡 TIP: U všeho si udělám vazbu na cíle a principy",
-              "file": "tip-cile-principy-u-vseho-zduvodnit.md",
-              "tags": [
-                "tip eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "tip-davam-si-rozumne-obecne-zamery-do-ik",
-              "title": "💡 TIP: Do IK OVS dáváme rozumné obecné záměry schopné realizace",
-              "file": "tip-davam-si-rozumne-obecne-zamery-do-ik.md",
-              "tags": [
-                "tip eg",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
               "id": "povinnosti-k-rizeni-is",
               "title": "Povinnosti k řízení IS",
               "file": "povinnosti-k-rizeni-is.md",
@@ -1448,14 +1352,6 @@
               "id": "seznam-nove-zavazne-jaro26",
               "title": "Co je nově závazné z OHA z března 2026",
               "file": "seznam-nove-zavazne-jaro26.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "poradna-zamer-isvs-ik",
-              "title": "Poradna: Záměr na pořízení či změnu IS musí být v IK",
-              "file": "poradna-zamer-isvs-ik.md",
               "tags": [
                 ".migrace z dokuwiki"
               ]
@@ -1485,45 +1381,6 @@
               "tags": [
                 "číselník",
                 "data",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "ciselnik-stavy-zameru",
-              "title": "Číselník stavů záměru",
-              "file": "ciselnik-stavy-zameru.md",
-              "tags": [
-                "číselník",
-                "data",
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "tabulka-ddl-katalog-zameru",
-              "title": "Tabulka DDL katalogu záměrů",
-              "file": "tabulka-ddl-katalog-zameru.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ]
-            },
-            {
-              "id": "vzor-do-ik-obce-tabulka-stavu-it-oblasti",
-              "title": "Vzor pro obce a ORP: Tabulka stavu IT podpory po skupinách",
-              "file": "vzor-do-ik-obce-tabulka-stavu-it-oblasti.md",
-              "tags": [
-                ".migrace z dokuwiki"
-              ],
-              "perex": "Vzor tabulky do IK a znalostí o ICT v obecním úřadu"
-            },
-            {
-              "id": "proc-a-jak-vyplnit-tabulku-stavu-it-podpory-oblasti",
-              "title": "Jak si vyplnit tabulku stavu IT po oblastech a k čemu je to dobré",
-              "file": "proc-a-jak-vyplnit-tabulku-stavu-it-podpory-oblasti.md",
-              "tags": [
-                "Informační koncepce",
-                "Řízení ICT",
-                "Tvorba IK OVS",
-                "Naše metodiky",
                 ".migrace z dokuwiki"
               ]
             },
@@ -2240,6 +2097,149 @@
               ],
               "tags": [
                 "znalosti eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "procesy-ovs-spojene-s-informacni-koncepci",
+              "title": "Procesy OVS spojené s informační koncepcí",
+              "file": "procesy-ovs-spojene-s-informacni-koncepci.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vydat-a-uplatnovat-svoji-informacni-koncepci",
+              "title": "Vydat a uplatňovat svojí informační koncepci OVS",
+              "file": "vydat-a-uplatnovat-svoji-informacni-koncepci.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "urcit-zamery-v-ik-a-realizovat-je",
+              "title": "Určit záměry v IK a realizovat je",
+              "file": "urcit-zamery-v-ik-a-realizovat-je.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "zamer-v-ik",
+              "title": "Záměr v informační koncepci",
+              "file": "zamer-v-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "soulad-se-svoji-ik",
+              "title": "Soulad se svojí informační koncepcí",
+              "file": "soulad-se-svoji-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik",
+              "title": "Vlastní cíle a principy a požadavky ve své IK",
+              "file": "vlastni-cile-a-principy-a-architektonicke-pozadavky-v-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "realizovat-cile-ikcr",
+              "title": "Realizovat cíle z IKČR",
+              "file": "realizovat-cile-ikcr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "naplnovat-principy-a-zasady-ikcr",
+              "title": "Naplňovat principy a zásady IKČR",
+              "file": "naplnovat-principy-a-zasady-ikcr.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tip-davam-si-rozumne-obecne-zamery-do-ik",
+              "title": "💡 TIP: Do IK OVS dáváme rozumné obecné záměry schopné realizace",
+              "file": "tip-davam-si-rozumne-obecne-zamery-do-ik.md",
+              "tags": [
+                "tip eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tip-cile-principy-u-vseho-zduvodnit",
+              "title": "💡 TIP: U všeho si udělám vazbu na cíle a principy",
+              "file": "tip-cile-principy-u-vseho-zduvodnit.md",
+              "tags": [
+                "tip eg",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "poradna-zamer-isvs-ik",
+              "title": "Poradna: Záměr na pořízení či změnu IS musí být v IK",
+              "file": "poradna-zamer-isvs-ik.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "ciselnik-stavy-zameru",
+              "title": "Číselník stavů záměru",
+              "file": "ciselnik-stavy-zameru.md",
+              "tags": [
+                "číselník",
+                "data",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "tabulka-ddl-katalog-zameru",
+              "title": "Tabulka DDL katalogu záměrů",
+              "file": "tabulka-ddl-katalog-zameru.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "oblasti-vnitrni-digitalizace",
+              "title": "Oblasti vnitřní digitalizace",
+              "file": "oblasti-vnitrni-digitalizace.md",
+              "tags": [
+                "znalosti eg",
+                "pro úřady",
+                "pro manažery",
+                ".migrace z dokuwiki"
+              ]
+            },
+            {
+              "id": "vzor-do-ik-obce-tabulka-stavu-it-oblasti",
+              "title": "Vzor pro obce a ORP: Tabulka stavu IT podpory po skupinách",
+              "file": "vzor-do-ik-obce-tabulka-stavu-it-oblasti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Vzor tabulky do IK a znalostí o ICT v obecním úřadu"
+            },
+            {
+              "id": "proc-a-jak-vyplnit-tabulku-stavu-it-podpory-oblasti",
+              "title": "Jak si vyplnit tabulku stavu IT po oblastech a k čemu je to dobré",
+              "file": "proc-a-jak-vyplnit-tabulku-stavu-it-podpory-oblasti.md",
+              "tags": [
+                "Informační koncepce",
+                "Řízení ICT",
+                "Tvorba IK OVS",
+                "Naše metodiky",
                 ".migrace z dokuwiki"
               ]
             }
