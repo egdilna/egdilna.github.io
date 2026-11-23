@@ -4,25 +4,25 @@ V této části přiblížíme nejen orgánům veřejné moci, jak správně pra
 
 Důležité pojmy spojené se zastupováním a oprávněním:
 
-{{Slovník pojmů#Explicitní Oprávnění}}
-{{Slovník pojmů#Implicitní oprávnění}}
-{{Slovník pojmů#Jednající osoba}}
-{{Slovník pojmů#Klient Veřejné správy}}
-{{Slovník pojmů#Mandát}}
-{{Slovník pojmů#Orgán veřejné moci}}
-{{Slovník pojmů#Plná moc}}
-{{Slovník pojmů#Registr obyvatel}}
-{{Slovník pojmů#Registr osob}}
-{{Slovník pojmů#Registr práv a povinností}}
-{{Slovník pojmů#Registr zastupování}}
-{{Slovník pojmů#Soukromoprávní mandát}}
-{{Slovník pojmů#Veřejnoprávní mandát}}
-{{Slovník pojmů#Zastoupení}}
-{{Slovník pojmů#Zástupčí oprávnění}}
-{{Slovník pojmů#Zastupovaná osoba}}
-{{Slovník pojmů#Zastupující osoba}}
-{{Slovník pojmů#Zmocněnec}}
-{{Slovník pojmů#Zmocnitel}}
+{{Slovník pojmů/Explicitní Oprávnění}}
+{{Slovník pojmů/Implicitní oprávnění}}
+{{Slovník pojmů/Jednající osoba}}
+{{Slovník pojmů/Klient Veřejné správy}}
+{{Slovník pojmů/Mandát}}
+{{Slovník pojmů/Orgán veřejné moci}}
+{{Slovník pojmů/Plná moc}}
+{{Slovník pojmů/Registr obyvatel}}
+{{Slovník pojmů/Registr osob}}
+{{Slovník pojmů/Registr práv a povinností}}
+{{Slovník pojmů/Registr zastupování}}
+{{Slovník pojmů/Soukromoprávní mandát}}
+{{Slovník pojmů/Veřejnoprávní mandát}}
+{{Slovník pojmů/Zastoupení}}
+{{Slovník pojmů/Zástupčí oprávnění}}
+{{Slovník pojmů/Zastupovaná osoba}}
+{{Slovník pojmů/Zastupující osoba}}
+{{Slovník pojmů/Zmocněnec}}
+{{Slovník pojmů/Zmocnitel}}
 
 ## Co je to oprávnění
 

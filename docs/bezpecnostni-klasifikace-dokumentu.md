@@ -1,4 +1,4 @@
-{{Slovník pojmů#Bezpečnostní klasifikace}}
+{{Slovník pojmů/Bezpečnostní klasifikace}}
 
 Dokumenty jsou statickými nosiči informací a skutečností platných v nějakém čase. Ať už se jedná o formální úřední dokumenty, které jsou evidovány v rámci výkonu spisové služby, a nebo o pracovní či provozní dokumenty, které jsou evidovány a spravovány mimo elektronické systémy spisové služby. U všech dokumentů musí být zajištěna jejich základní bezpečnostní klasifikace, protože právě v dokumentech jsou obsaženy mnohdy citlivé a zásadní informace a skutečnosti, které by se neměly dostat mimo okruh určených osob, natož pak mimo organizaci.
 
