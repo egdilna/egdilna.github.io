@@ -1,4 +1,4 @@
-ℹ️ Původně jsme měli samostatný web dosud fungující na adrese [[metodiky.egdilna.cz]]. Ty důležité a aktuální věci z něj postupně migrujeme sem na hlavní web.
+ℹ️ Původně jsme měli samostatný web dosud fungující na adrese [metodiky.egdilna.cz](https://metodiky.egdilna.cz). Ty důležité a aktuální věci z něj postupně migrujeme sem na hlavní web.
 
 | Materiál | Popis | Publikováno |
 |---|---|---|
