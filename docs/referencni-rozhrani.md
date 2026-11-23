@@ -10,7 +10,7 @@ Referenční rozhraní a jeho využívání definuje zákon [[365/2000]] a jeho 
   * [[informacni-system-sdilene-sluzby]] pro [[vyuzivani-agendovych-udaju]] a [[poskytování agendových údajů]]
   * [[Informační systém pro hromadný výdej údajů]] pro multimodální dotazy (FAIS)
 
-Správcem referenčního rozhraní je [[subjekt:dia]].
+Správcem referenčního rozhraní je DIA.
 Pro [[orgán veřejné moci]] je povinností uskutečnit [[vnější integrace]] výhradně referenčním rozhraním a to zejména s využitím [[EGSB]]. Digitální a informační agentura k tomu vydala závazná pravidla.
 
 dokument Pravidla pro využívání referenčního rozhraní: Digitální a informační agentura: 2024: Věstník DIA: https://www.dia.gov.cz/wp-content/uploads/2024/03/2024_01_Vestnik-Pravidla-uzivani-referencniho-rozhrani.pdf
