@@ -929,18 +929,6 @@
               ]
             },
             {
-              "id": "pozadavky-ramce-genericky-ais-uplne",
-              "title": "Požadavky závazného architektonického rámce Generický AIS",
-              "file": "pozadavky-ramce-genericky-ais-uplne.md",
-              "tags": [
-                "typizovaný ais",
-                "rámec pro AIS",
-                "dokumenty",
-                "architektonické znalosti",
-                ".rámec generický ais"
-              ]
-            },
-            {
               "id": "detailni-rozpad-prvnich-fazi-zivotniho-cyklu-is-ict-reseni",
               "title": "Detailní rozpad prvních fází životního cyklu IS/ICT řešení",
               "file": "detailni-rozpad-prvnich-fazi-zivotniho-cyklu-is-ict.md",
@@ -2725,6 +2713,39 @@
                 ".migrace z dokuwiki"
               ]
             }
+          ]
+        },
+        {
+          "id": "tvorba-a-rozvoj-informacnich-systemu",
+          "title": "Tvorba a rozvoj informačních systémů",
+          "children": [
+            {
+              "id": "pozadavky-ramce-genericky-ais-uplne",
+              "title": "Požadavky závazného architektonického rámce Generický AIS",
+              "file": "pozadavky-ramce-genericky-ais-uplne.md",
+              "tags": [
+                "typizovaný ais",
+                "rámec pro AIS",
+                "dokumenty",
+                "architektonické znalosti",
+                ".rámec generický ais"
+              ]
+            }
+          ],
+          "type": "rozcestnik",
+          "tags": [
+            ".další věci k is",
+            "isvs a ais",
+            "Jak má fungovat ISVS",
+            "Oblast",
+            "pro ajťáky",
+            "pro architekty",
+            "pro správce",
+            "pro úřady",
+            "Rozvoj ISVS",
+            "Řízení a rozvoj IS",
+            "Řízení ICT",
+            "Sekce"
           ]
         }
       ],
