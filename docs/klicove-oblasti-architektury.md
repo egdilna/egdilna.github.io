@@ -73,7 +73,7 @@ Důležité je
 
 ##Referenční rozhraní veřejné správy
 
-Stát zajišťuje [[Referenční rozhraní]] pro propojování jednotlivých informačních systémů mezi sebou a především pro propojování jejich údajů. Jde-li při řešení o [[agendový informační systém]], musí jeho správce v souladu se zákonnými povinnostmi zajistit, aby využíval [[propojený datový fond]] a tedy zajistit [[využívání referenčních údajů]], [[využívání agendových údajů]] a [[poskytování agendových údajů]]. Veškeré propojování služeb informačních systémů zajišťuje výhradně referenčním rozhraním a to konkrétně jeho systémy [[Informační systém základních registrů|ISZR]] a [[Informační systém sdílené služby|EGSB/ISSS]].
+Stát zajišťuje [[Referenční rozhraní]] pro propojování jednotlivých informačních systémů mezi sebou a především pro propojování jejich údajů. Jde-li při řešení o [[agendový informační systém]], musí jeho správce v souladu se zákonnými povinnostmi zajistit, aby využíval [[propojený datový fond]] a tedy zajistit [[využívání referenčních údajů]], [[využívání agendových údajů]] a [[Poskytování agendových údajů|poskytování agendových údajů]]. Veškeré propojování služeb informačních systémů zajišťuje výhradně referenčním rozhraním a to konkrétně jeho systémy [[Informační systém základních registrů|ISZR]] a [[Informační systém sdílené služby|EGSB/ISSS]].
 
 Důležité je
 

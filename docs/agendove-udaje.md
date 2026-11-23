@@ -6,7 +6,7 @@ Jde o údaje evidované a spravované v rámci výkonu agendy veřejné správy.
 Agendové údaje stanovují jednotlivé [[agendové zákony]] a také jednotlivá [[ohlášení agendy]], včetně technických podrobností o každém takovém údaji. [[orgán veřejné moci]] smí vést jen takové agendové údaje, které jsou řádně definovány v ohlášení agendy, viz také [[:Agendovy-model-verejne-spravy|]].
 
   * Agendové údaje eviduje [[Registr práv a povinností]] jako součást údajů o agendě
-  * Na agendové údaje se vztahují všechny mechanismy jako na referenční údaje, tedy povinné [[využívání agendových údajů]], [[poskytování agendových údajů]], reklamace a aktuálnost, důvěryhodnost a další.
+  * Na agendové údaje se vztahují všechny mechanismy jako na referenční údaje, tedy povinné [[využívání agendových údajů]], [[Poskytování agendových údajů|poskytování agendových údajů]], reklamace a aktuálnost, důvěryhodnost a další.
   * Pro každý agendový údaj je stanoven [[editor agendového údaje]], kterým je [[orgán veřejné moci]], jež je stanoven zákonem a ohlášen v agendě jako editor daného údaje. Agendový údaj vede a spravuje a poskytuje [[agendový informační systém]].
   * Každý orgán veřejné moci musí povinně agendový údaj využívat, nehledě na to, zda má oprávnění v konkrétním agendovém zákoně.
   * Soukromoprávní uživatel údajů smí agendový údaj využívat jen pokud tak stanoví konkrétní zákon.

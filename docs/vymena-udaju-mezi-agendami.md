@@ -1,6 +1,6 @@
 Výměna údajů v rámci výkonu veřejné správy je jednou ze základních povinností orgánů veřejné moci. Jde o povinnost stanovenou především zákonem [[111/2009]] a [[12/2020]]. Cílem je vyměňovat si plně automatizovaným způsobem údaje, kterými veřejná správa již disponuje a nezatěžovat jejich dokládáním klienta.
 
-Technicky realizuje výměnu [[propojený datový fond]] a jde o funkce/povinnosti: [[Využívání referenčních údajů]], [[vyuzivani-agendovych-udaju]] a [[drafts:poskytování agendových údajů]]. Zatímco [[Referenční údaje]] jsou vedené v základních registrech, [[Agendové údaje]] jsou spravovány v rámci agend a jsou vedeny v jednotlivých agendových informačních systémech.
+Technicky realizuje výměnu [[propojený datový fond]] a jde o funkce/povinnosti: [[Využívání referenčních údajů]], [[vyuzivani-agendovych-udaju]] a [[Poskytování agendových údajů|poskytování agendových údajů]]. Zatímco [[Referenční údaje]] jsou vedené v základních registrech, [[Agendové údaje]] jsou spravovány v rámci agend a jsou vedeny v jednotlivých agendových informačních systémech.
 
 [[365/2000|zákon o ISVS]] stanoví kupříkladu:
 
@@ -9,9 +9,9 @@ Technicky realizuje výměnu [[propojený datový fond]] a jde o funkce/povinnos
 
 Pro [[vyuzivani-agendovych-udaju]] platí ty samé procesy a mechanismy jako pro [[Využívání referenčních údajů]].
 
-Pro [[drafts:poskytování agendových údajů]] zajistí ohlašovatel agendy a správce systému, aby [[drafts:publikující AIS]] údaje poskytoval v souladu s ohlášením agendy. K tomu existuje pro správce [[ramcovy-postup-pro-realizaci-sdileni-udaju-v-propojenem-datovem-fondu]].
+Pro [[Poskytování agendových údajů|poskytování agendových údajů]] zajistí ohlašovatel agendy a správce systému, aby [[Publikující AIS|publikující AIS]] údaje poskytoval v souladu s ohlášením agendy. K tomu existuje pro správce [[ramcovy-postup-pro-realizaci-sdileni-udaju-v-propojenem-datovem-fondu]].
 
-Pro [[drafts:využívání údajů]] zajistí správce systému, aby [[drafts:Čtenářský AIS]] uměl prostřednictvím [[Informační systém sdílené služby|EGSB]] tyto údaje získávat.
+Pro [[drafts:využívání údajů]] zajistí správce systému, aby [[Čtenářský AIS]] uměl prostřednictvím [[Informační systém sdílené služby|EGSB]] tyto údaje získávat.
 
 Podrobněji uvádí [[egdilna:mapapovinnosti]] soubor povinností ve skupině **Povinnosti k ZR a PPDF**, ty lze najít v rámci aplikace [[egdilna:mapapovinnosti:prochazeni-povinnosti-eg]].
 
