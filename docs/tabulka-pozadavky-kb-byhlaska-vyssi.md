@@ -1,4 +1,4 @@
-Tady jsou požadavky z vyhlášky [[409/2025 Sb. Vyhláška o bezpečnostních opatřeních poskytovatele regulované služby v režimu vyšších povinností]].
+Tady jsou požadavky z vyhlášky [[409/2025|409/2025 Sb. Vyhláška o bezpečnostních opatřeních poskytovatele regulované služby v režimu vyšších povinností]].
 
 Požadavky jsou rozděleny do následujících skupin:
 

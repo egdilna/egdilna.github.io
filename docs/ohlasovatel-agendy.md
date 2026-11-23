@@ -2,4 +2,4 @@
 
 Jde o [[orgán veřejné moci]] a to prakticky výhradně o ministerstvo, který v rámci [[ohlášení agendy]] u [[agendy veřejné správy]] zodpovídá za koordinaci a metodické vedení, za pravdivost a úplnost údajů o agendě, za údaje v agendě a [[oprávnění k údajům]] a za všechno další, co je pro agendu společné.
 
-Má ale i povinnosti týkající se katalogu služeb apod. Nový [[Zákon o správě dat]] ale také zodpovídá také za [[datový slovník agendy]], který další [[Orgán veřejné správy|orgány veřejné správy]] přebírají.
+Má ale i povinnosti týkající se katalogu služeb apod. Nový [[60/2026|Zákon o správě dat]] ale také zodpovídá také za [[datový slovník agendy]], který další [[Orgán veřejné správy|orgány veřejné správy]] přebírají.

@@ -731,6 +731,9 @@
                     "znalosti EG",
                     "základní pilíře",
                     ".migrace z dokuwiki"
+                  ],
+                  "aliases": [
+                    "REZA"
                   ]
                 },
                 {
@@ -750,6 +753,9 @@
                     "důležité",
                     "znalosti EG",
                     ".migrace z dokuwiki"
+                  ],
+                  "aliases": [
+                    "ROB"
                   ]
                 },
                 {

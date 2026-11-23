@@ -1,4 +1,4 @@
-Ověření oprávnění je určeno pro případy, kdy komunikuje klient elektronicky s informačním systémem veřejné správy (typicky [[portál]]). 
+Ověření oprávnění je určeno pro případy, kdy komunikuje klient elektronicky s informačním systémem veřejné správy (typicky [[Portál občana|portál]]). 
 
 Cílem je ověřit oprávnění přihlášené fyzické osoby jednat za jinou osobu (tedy [[mandát]]).
 

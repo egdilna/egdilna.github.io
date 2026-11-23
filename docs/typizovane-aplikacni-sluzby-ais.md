@@ -1,6 +1,6 @@
 V rámci podprojektu [[Architektura typizovaného AISu]] máme soupis i jednotlivých služeb na aplikační úrovni, které musí AIS zajistit.
 
-Každý [[Agendový informační systém]] musí splňovat veškeré relevantní [[Povinnosti k ISVS]] a další. Pro potřeby architektonické kompozice a sledování souladu byly vytvořeny typizované služby AISu.
+Každý [[Agendový informační systém]] musí splňovat veškeré relevantní [[Povinnosti k řízení IS|Povinnosti k ISVS]] a další. Pro potřeby architektonické kompozice a sledování souladu byly vytvořeny typizované služby AISu.
 
 Níže uvedené seznamy jsou informativní a vzorové. Pochopitelně každý informační systém bude mít spoustu dalších požadavků. Ale tyt seznamy se hodí i pro případy integračních řešení s jejichž pomocí lze tyto služby zajistit pro jednotlivé AISy.
 

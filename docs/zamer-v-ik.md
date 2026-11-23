@@ -6,7 +6,7 @@ Záměry vytváříme proto, aby bylo jasné, co se v dané organizaci má v ná
 
 Záměry si evidujeme v jejich katalogu, což může být jednoduchá tabulka, nebo nějaká specializovaná aplikace v rámci projektového řízení. Musíme vždy ale dodržet to, že záměry mají vazbu na cíle z IK OVS (realizují je) a mají vazbu na projekty v rámci projektového řízení (jsou jimi realizovány).
 
-OVS musí stran záměrů mimo jiné [[Určit záměry v IK a realizovat je]] a také jejich realizaci vyhodnocovat. I u rozvoje informačních systémů se pak mimo jiné vyžaduje, aby nejprve existovala potřeba uvedená před začátkem právě v IK OVS a to nejlépe formou záměru, více kupříkladu v části [[Detailnější rozpad přípravných fází životního cyklu IS/ICT řešení]]. Také proto je správná definice záměrů v IK velice důležitá.
+OVS musí stran záměrů mimo jiné [[Určit záměry v IK a realizovat je]] a také jejich realizaci vyhodnocovat. I u rozvoje informačních systémů se pak mimo jiné vyžaduje, aby nejprve existovala potřeba uvedená před začátkem právě v IK OVS a to nejlépe formou záměru, více kupříkladu v části [[detailni-rozpad-prvnich-fazi-zivotniho-cyklu-is-ict-reseni|Detailnější rozpad přípravných fází životního cyklu IS/ICT řešení]]. Také proto je správná definice záměrů v IK velice důležitá.
 
 Následující diagram ukazuje, jak se se záměrem pracuje jako se součástí přípravy realizace a to i ve vztahu k IK OVS.
 
