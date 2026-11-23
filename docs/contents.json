@@ -78,6 +78,49 @@
               ]
             },
             {
+              "id": "poskytovani-agendovych-udaju",
+              "title": "Poskytování agendových údajů",
+              "file": "poskytovani-agendovych-udaju.md",
+              "aliases": [
+                "poskytování údajů"
+              ],
+              "tags": [
+                "propojený datový fond",
+                "výměna údajů",
+                "isvs a ais"
+              ],
+              "perex": "Povinnost ohlašovatele agendy a správce AIS zpřístupnit údaje agendy ostatním přes propojený datový fond."
+            },
+            {
+              "id": "publikujici-ais",
+              "title": "Publikující AIS",
+              "file": "publikujici-ais.md",
+              "aliases": [
+                "Publikační AIS",
+                "publikující systém"
+              ],
+              "tags": [
+                "propojený datový fond",
+                "výměna údajů",
+                "isvs a ais"
+              ],
+              "perex": "Agendový informační systém, který poskytuje údaje své agendy přes propojený datový fond."
+            },
+            {
+              "id": "ctenarsky-ais",
+              "title": "Čtenářský AIS",
+              "file": "ctenarsky-ais.md",
+              "aliases": [
+                "čtenářský systém"
+              ],
+              "tags": [
+                "propojený datový fond",
+                "výměna údajů",
+                "isvs a ais"
+              ],
+              "perex": "Agendový informační systém, který odebírá údaje jiných agend přes propojený datový fond."
+            },
+            {
               "id": "propojeny-datovy-fond",
               "title": "Propojený datový fond",
               "file": "propojeny-datovy-fond.md",

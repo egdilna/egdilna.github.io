@@ -6,7 +6,7 @@ Nejčastějšími úkoly vnější integrace v úřadu jsou:
 
   * Zápis editorem do základních registrů prostřednictvím [[Slovník pojmů/Magistrát hlavního města Prahy|ISZR]]
   * [[výměna údajů mezi agendami]] a povinnosti [[využívání referenčních údajů]] a [[využívání agendových údajů]] - tedy realizace [[PPDF]] přes [[EGSB]]
-  * U agendových systémů, jež poskytují údaje jiným agendám také [[poskytování agendových údajů]] taktéž prostřednictvím [[EGSB]]
+  * U agendových systémů, jež poskytují údaje jiným agendám také [[Poskytování agendových údajů|poskytování agendových údajů]] taktéž prostřednictvím [[EGSB]]
   * Zápis informací do úložiště jiného informačního systému
   * Získávání informací z veřejného datového fondu
   * Zajištění integrací ESSL a ostatních systémů na datové schránky prostřednictvím služeb ISDS
