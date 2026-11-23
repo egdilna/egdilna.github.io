@@ -473,43 +473,25 @@
           "file": "legislativa-eg.md",
           "children": [
             {
-              "id": "klicove-eg-zakony",
-              "title": "Klíčové EG zákony",
-              "file": "klicove-eg-zakony.md",
-              "tags": [
-                ".export z leg knihovny egdílny",
-                "legislativa",
-                "naše práce"
-              ],
-              "perex": "Přehled těch nejdůležitějších digitálních zákon§zákonů",
+              "id": "zakon-o-zakladnich-registrech",
+              "title": "Zákon o základních registrech",
+              "file": "zakon-o-zakladnich-registrech.md",
               "aliases": [
-                "digitální zákony",
-                "eg zákony",
-                "zákony eg"
+                "zákona o základních registrech",
+                "zákoně o základních registrech"
               ],
-              "children": [
-                {
-                  "id": "zakon-o-zakladnich-registrech",
-                  "title": "Zákon o základních registrech",
-                  "file": "zakon-o-zakladnich-registrech.md",
-                  "aliases": [
-                    "zákona o základních registrech",
-                    "zákoně o základních registrech"
-                  ],
-                  "tags": [
-                    "klíčové pojmy",
-                    "legislativa"
-                  ]
-                },
-                {
-                  "id": "zakon-o-informacnich-systemech-verejne-spravy",
-                  "title": "Zákon o informačních systémech veřejné správy",
-                  "file": "zakon-o-informacnich-systemech-verejne-spravy.md",
-                  "tags": [
-                    "legislativa",
-                    "dopsat"
-                  ]
-                }
+              "tags": [
+                "klíčové pojmy",
+                "legislativa"
+              ]
+            },
+            {
+              "id": "zakon-o-informacnich-systemech-verejne-spravy",
+              "title": "Zákon o informačních systémech veřejné správy",
+              "file": "zakon-o-informacnich-systemech-verejne-spravy.md",
+              "tags": [
+                "legislativa",
+                "dopsat"
               ]
             },
             {
@@ -660,7 +642,13 @@
                 "egovedu",
                 "legislativa"
               ],
-              "perex": "Jaké jsou zásadní předpisy stran EG a co v nich najdete?"
+              "perex": "Jaké jsou zásadní předpisy stran EG a co v nich najdete?",
+              "aliases": [
+                "Klíčové EG zákony",
+                "digitální zákony",
+                "eg zákony",
+                "zákony eg"
+              ]
             },
             {
               "id": "predpisy",

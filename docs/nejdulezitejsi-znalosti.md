@@ -1,7 +1,7 @@
 > Do diskuse klidně pište, co vám tady chybí. My na tom budeme prioritně pracovat
 
 - kdo jsme: [[obecné role]], [[Záměna OVS a OVM]]
-- Legislativa a povinnosti: [[Klíčové EG zákony|Klíčová EG legislativa]], [[prochazeni-povinnosti-eg]]
+- Legislativa a povinnosti: [[Oblast právních předpisů eGovernment|Klíčová EG legislativa]], [[prochazeni-povinnosti-eg]]
 - Strategie a koncepce: [[IKČR]]
 - Dlouhodobé řízení: , [[Procesní povinnosti dlouhodobého řízení]]
 - Informační systémy: [[Struktura provozní dokumentace]]
