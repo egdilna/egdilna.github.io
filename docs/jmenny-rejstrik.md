@@ -1,6 +1,6 @@
 V elektronickém systému spisové služby a v případě jiných evidenčních pomůcek se vede Jmenný rejstřík.
 
-{{Slovník pojmů/Jmenný rejstřík}}
+{{Slovník pojmů#Jmenný rejstřík}}
 
 Hlavní a jediný účel vedení Jmenného rejstříku je evidence vazeb dokumentů a spisů na subjekty, tedy zejména u odesílatelů, příjemců a dalších dotčených osob. JR se vede proto, aby v souladu s povinnostmi podle zákona [[110/2019]] mohl původce jako povinný subjekt mít přehled o tom, v jakých dokumentech (a tím i spisech) se vedou údaje o subjektu údajů a mohl tak přehledně třeba zodpovídat dotazy podle GDPR apod.
 
