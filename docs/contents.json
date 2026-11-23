@@ -562,114 +562,6 @@
               "file": "pravo-na-digitalni-sluzby.md",
               "tags": [
                 ".migrace z dokuwiki"
-              ],
-              "children": [
-                {
-                  "id": "jednotliva-prava-ze-zakona-pds-s-podrobnostmi",
-                  "title": "Jednotlivá práva ze zákona o PDS s podrobnostmi",
-                  "file": "jednotliva-prava-ze-zakona-pds-s-podrobnostmi.md",
-                  "tags": [
-                    ".migrace z dokuwiki"
-                  ],
-                  "children": [
-                    {
-                      "id": "pravo-cinit-digitalni-ukon",
-                      "title": "Právo činit digitální úkon",
-                      "file": "pravo-cinit-digitalni-ukon.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-digitalni-sluzbu",
-                      "title": "Právo na digitální službu",
-                      "file": "pravo-na-digitalni-sluzbu.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-elektronickou-identifikaci-a-autentizaci",
-                      "title": "Právo na elektronickou identifikaci a autentizaci",
-                      "file": "pravo-na-elektronickou-identifikaci-a-autentizaci.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-informace-v-souvislosti-s-poskytovanim-digitalnich-sluzeb",
-                      "title": "Právo na informace v souvislosti s poskytováním digitálních služeb",
-                      "file": "pravo-na-informace-v-souvislosti-s-poskytovanim-digitalnich-sluzeb.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-nahrazeni-uredne-overeneho-podpisu-nebo-uznavaneho-elektronickeho-podpisu",
-                      "title": "Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu",
-                      "file": "pravo-na-nahrazeni-uredne-overeneho-podpisu-nebo-uznavaneho-elektronickeho-podpisu.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-osvedceni-digitalniho-ukonu",
-                      "title": "Právo na osvědčení digitálního úkonu",
-                      "file": "pravo-na-osvedceni-digitalniho-ukonu.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-prokazani-pravni-skutecnosti",
-                      "title": "Právo na prokázání právní skutečnosti",
-                      "file": "pravo-na-prokazani-pravni-skutecnosti.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-technologickou-neutralitu",
-                      "title": "Právo na technologickou neutralitu",
-                      "file": "pravo-na-technologickou-neutralitu.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-vyuziti-digitalniho-stejnopisu-prukazu",
-                      "title": "Právo na využití digitálního stejnopisu průkazu",
-                      "file": "pravo-na-vyuziti-digitalniho-stejnopisu-prukazu.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-vyuzivani-udaju",
-                      "title": "Právo na využívání údajů",
-                      "file": "pravo-na-vyuzivani-udaju.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-zapis-kontaktniho-udaje",
-                      "title": "Právo na zápis kontaktního údaje",
-                      "file": "pravo-na-zapis-kontaktniho-udaje.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    },
-                    {
-                      "id": "pravo-na-zapis-pravni-skutecnosti",
-                      "title": "Právo na zápis práva, povinnosti nebo právní skutečnosti",
-                      "file": "pravo-na-zapis-pravni-skutecnosti.md",
-                      "tags": [
-                        ".migrace z dokuwiki"
-                      ]
-                    }
-                  ]
-                }
               ]
             },
             {
@@ -2752,6 +2644,119 @@
               "file": "neslucovani-agendovych-vazeb-u-fyzickych-osob.md",
               "tags": [
                 ".migrace z dokuwiki"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pds-v-praxi",
+          "title": "PDS v praxi",
+          "type": "rozcestnik",
+          "children": [
+            {
+              "id": "jednotliva-prava-ze-zakona-pds-s-podrobnostmi",
+              "title": "Jednotlivá práva ze zákona o PDS s podrobnostmi",
+              "file": "jednotliva-prava-ze-zakona-pds-s-podrobnostmi.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "children": [
+                {
+                  "id": "pravo-cinit-digitalni-ukon",
+                  "title": "Právo činit digitální úkon",
+                  "file": "pravo-cinit-digitalni-ukon.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-digitalni-sluzbu",
+                  "title": "Právo na digitální službu",
+                  "file": "pravo-na-digitalni-sluzbu.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-elektronickou-identifikaci-a-autentizaci",
+                  "title": "Právo na elektronickou identifikaci a autentizaci",
+                  "file": "pravo-na-elektronickou-identifikaci-a-autentizaci.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-informace-v-souvislosti-s-poskytovanim-digitalnich-sluzeb",
+                  "title": "Právo na informace v souvislosti s poskytováním digitálních služeb",
+                  "file": "pravo-na-informace-v-souvislosti-s-poskytovanim-digitalnich-sluzeb.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-nahrazeni-uredne-overeneho-podpisu-nebo-uznavaneho-elektronickeho-podpisu",
+                  "title": "Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu",
+                  "file": "pravo-na-nahrazeni-uredne-overeneho-podpisu-nebo-uznavaneho-elektronickeho-podpisu.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-osvedceni-digitalniho-ukonu",
+                  "title": "Právo na osvědčení digitálního úkonu",
+                  "file": "pravo-na-osvedceni-digitalniho-ukonu.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-prokazani-pravni-skutecnosti",
+                  "title": "Právo na prokázání právní skutečnosti",
+                  "file": "pravo-na-prokazani-pravni-skutecnosti.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-technologickou-neutralitu",
+                  "title": "Právo na technologickou neutralitu",
+                  "file": "pravo-na-technologickou-neutralitu.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-vyuziti-digitalniho-stejnopisu-prukazu",
+                  "title": "Právo na využití digitálního stejnopisu průkazu",
+                  "file": "pravo-na-vyuziti-digitalniho-stejnopisu-prukazu.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-vyuzivani-udaju",
+                  "title": "Právo na využívání údajů",
+                  "file": "pravo-na-vyuzivani-udaju.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-zapis-kontaktniho-udaje",
+                  "title": "Právo na zápis kontaktního údaje",
+                  "file": "pravo-na-zapis-kontaktniho-udaje.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "pravo-na-zapis-pravni-skutecnosti",
+                  "title": "Právo na zápis práva, povinnosti nebo právní skutečnosti",
+                  "file": "pravo-na-zapis-pravni-skutecnosti.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                }
               ]
             }
           ]
