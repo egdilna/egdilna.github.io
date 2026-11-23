@@ -232,7 +232,7 @@ Slovník důležitých pojmů z eGovernmentu, spisové služby, elektronických 
 
 ## Informační systém poskytovatele zdravotních služeb
 
-**Informační systém poskytovatele zdravotních služeb** (ISPZS) : Informační systém, ve kterém poskytovatel vede zdravotnickou dokumentaci v elektronické podobě, spravuje ji a z nějž jsou pořizovány výstupy zdravotnické dokumentace. Tento informační systém je napojen na centrální služby elektronického zdravotnictví. [[ISPZS]]
+**Informační systém poskytovatele zdravotních služeb** (ISPZS) : Informační systém, ve kterém poskytovatel vede zdravotnickou dokumentaci v elektronické podobě, spravuje ji a z nějž jsou pořizovány výstupy zdravotnické dokumentace. Tento informační systém je napojen na centrální služby elektronického zdravotnictví. [[Slovník pojmů/Informační systém poskytovatele zdravotních služeb|ISPZS]]
 
 ## Informační systém sdílených služeb
 

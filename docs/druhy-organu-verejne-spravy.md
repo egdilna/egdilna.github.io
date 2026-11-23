@@ -1,6 +1,6 @@
 [[Orgán veřejné správy|Orgány veřejné správy]], jak je definuje zákon 365/2000 a podrobnosti povinností stanovuje vyhláška 360/2023 si můžeme rozdělit do několika druhů:
 
-1. Úřady obecně: Jsou vždy [[orgány veřejné moci]], nám se v tomto druhu jedná o ministerstva a ústřední správní úřady
+1. Úřady obecně: Jsou vždy [[Orgán veřejné moci|orgány veřejné moci]], nám se v tomto druhu jedná o ministerstva a ústřední správní úřady
 1. Kraje: řeší ICT i pro obce ve svém území
 1. Obce s rozšířenou působností: řeší částečně ICT i pro obce ve svém obvodu, musí být v souladu s krajem
 1. Obce I a II typu: mohou si to zjednodušit, musí být v souladu se svým ORP a krajem

@@ -1,4 +1,4 @@
-Škola jako [[veřejnoprávní původce]] povině označuje jako archiválie a tedy i povinně předává archivu některé druhy dokumentů, nehledě na to, jakým způsobem je vede a eviduje. Zákon [[499/2004]] stanovuje mimo jiné i {{page>predpis:ustanoveniodkaz-ssl-priloha2-povinne-archivalie&inline}}
+Škola jako [[veřejnoprávní původce]] povině označuje jako archiválie a tedy i povinně předává archivu některé druhy dokumentů, nehledě na to, jakým způsobem je vede a eviduje. Zákon [[499/2004]] stanovuje mimo jiné i v příloze č. 2 seznam druhů dokumentů vždy předávaných archivu jako archiválie
 
 [[Dokumenty vždy předávané archivu jako archiválie]] u školy jsou:
 

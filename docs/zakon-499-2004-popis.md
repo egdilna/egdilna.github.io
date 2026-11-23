@@ -1,4 +1,4 @@
-Součást dokumentu [[Podrobný popis obsahu vybraných předpisů k eGovernmentu]]
+Součást dokumentu [[Právní předpisy|Podrobný popis obsahu vybraných předpisů k eGovernmentu]]
 
 [[499/2004]]
 

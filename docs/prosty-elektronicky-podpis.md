@@ -2,6 +2,8 @@ V rámci elektronických podpisů existuje jeden druh podpisu, který nemá nic 
 
 Elektronický podpis bez přívlastků a nebo tzv. **prostý elektronický podpis** jsou takřka jakákoliv data reprezentující podpis.
 
-Definici elektronického podpisu obsahuje nařízení [[eIDAS]]: {{page>slovnik:elektronický podpis}}
+Definici elektronického podpisu obsahuje nařízení [[eIDAS]]:
+
+{{Slovník pojmů/Elektronický podpis}}
 
 Příkladem je podepsání stylusem v rámci dokumentu na tabletu. Pokud v kombinaci třeba s e-mailem, nebo s jiným určením osoby, jej lze považovat za dostatečný a platný.
