@@ -32,7 +32,7 @@ Ohlašovatelem je OVM, který je gestorem dané právní úpravy a má tedy povi
 * Výměna (poskytování a využívání údajů) v agendě: [[Propojený datový fond]] je mechanismem pro výměnu údajů. Ohlašovatel stanoví, kdo a které údaje smí z agendy využívat anebo je naopak agendě ze svých AIS poskytuje. Stanoví také jednotlivá [[oprávnění k údajům]] pro [[využívání agendových údajů]]
 * Údaje v agendě: Jsou ohlášeny všechny propojované a vedené údaje, včetně jejich kontextů a včetně technických údajů o nich.
 * Úkony na žádost: Součástí agendy je i seznam a forma úkonů na žádost a určení toho, kdo smí takovou žádost podat
- - Formuláře: součástí povinností ohlášení agendy je i předání elektronických formulářů či odkazů na ně DIA.
+  * Formuláře: součástí povinností ohlášení agendy je i předání elektronických formulářů či odkazů na ně DIA.
 
 
 
