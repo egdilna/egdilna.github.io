@@ -1,8 +1,8 @@
 V rámci elektronických podpisů rozlišujeme několik druhů, které se liší jednak svým technickým provedením a jednak i důvěryhodností takového podpisu.
 
-{{Slovník pojmů/Elektronický podpis}}
-{{Slovník pojmů/Zaručený elektronický podpis}}
-{{Slovník pojmů/Kvalifikovaný elektronický podpis}}
+{{Slovník pojmů#Elektronický podpis}}
+{{Slovník pojmů#Zaručený elektronický podpis}}
+{{Slovník pojmů#Kvalifikovaný elektronický podpis}}
 
 Druhy elektronických podpisů definuje nařízení [[eIDAS]], které je v oblasti elektronických podpisů transponováno do právního řádu ČR zákonem [[297/2016]].
 

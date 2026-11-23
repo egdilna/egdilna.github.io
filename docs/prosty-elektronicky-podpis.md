@@ -4,6 +4,6 @@ Elektronický podpis bez přívlastků a nebo tzv. **prostý elektronický podpi
 
 Definici elektronického podpisu obsahuje nařízení [[eIDAS]]:
 
-{{Slovník pojmů/Elektronický podpis}}
+{{Slovník pojmů#Elektronický podpis}}
 
 Příkladem je podepsání stylusem v rámci dokumentu na tabletu. Pokud v kombinaci třeba s e-mailem, nebo s jiným určením osoby, jej lze považovat za dostatečný a platný.

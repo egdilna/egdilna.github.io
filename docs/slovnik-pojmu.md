@@ -4,6 +4,8 @@ Slovník důležitých pojmů z eGovernmentu, spisové služby, elektronických 
 
 ## Adresa
 
+**Adresa** : Kombinace názvu okresu, názvu obce nebo vojenského újezdu, názvu části obce nebo v případě hlavního města Prahy názvu katastrálního území a názvu obvodu, čísla popisného nebo evidenčního, názvu ulice a čísla orientačního a dále zvláštních údajů pro doručování prostřednictvím poštovních služeb, která jednoznačně určuje adresní místo.
+
 ## Adresa datové sady
 
 **Adresa datové sady** : Adresa URL, ze které je možné stáhnout primární soubor datové sady otevřených dat.
@@ -230,7 +232,7 @@ Slovník důležitých pojmů z eGovernmentu, spisové služby, elektronických 
 
 ## Informační systém poskytovatele zdravotních služeb
 
-**Informační systém poskytovatele zdravotních služeb** (ISPZS) : Informační systém, ve kterém poskytovatel vede zdravotnickou dokumentaci v elektronické podobě, spravuje ji a z nějž jsou pořizovány výstupy zdravotnické dokumentace. Tento informační systém je napojen na centrální služby elektronického zdravotnictví. [[ISPZS]]
+**Informační systém poskytovatele zdravotních služeb** (ISPZS) : Informační systém, ve kterém poskytovatel vede zdravotnickou dokumentaci v elektronické podobě, spravuje ji a z nějž jsou pořizovány výstupy zdravotnické dokumentace. Tento informační systém je napojen na centrální služby elektronického zdravotnictví.
 
 ## Informační systém sdílených služeb
 
