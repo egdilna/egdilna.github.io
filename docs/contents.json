@@ -3183,6 +3183,17 @@
           "managed": true
         },
         {
+          "id": "novinky",
+          "title": "Novinky tady",
+          "file": "novinky.md",
+          "type": "novinky",
+          "tags": [
+            "aktuálně",
+            "O EGdílně",
+            "Redakce"
+          ]
+        },
+        {
           "id": "co-a-kde-tady-najdete",
           "title": "Co a kde tady najdete",
           "file": "co-a-kde-tady-najdete.md",

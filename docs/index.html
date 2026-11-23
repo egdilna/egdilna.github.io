@@ -277,6 +277,12 @@ main{grid-column:2;grid-row:1;min-width:0}
 .obsah p,.obsah ul,.obsah ol{margin:0 0 14px}
 .obsah li{margin-bottom:4px}
 .obsah li.ukol{list-style:none;margin-left:-1.2em}
+.obsah li>ul,.obsah li>ol{margin:4px 0 6px}
+.obsah li>p{margin:0 0 6px}
+.obsah ul ul{list-style-type:circle}
+.obsah ul ul ul{list-style-type:square}
+.obsah ol ol{list-style-type:lower-alpha}
+.obsah ol ol ol{list-style-type:lower-roman}
 .obsah code{font-family:var(--font-mono);font-size:.84em;background:var(--color-bg-alt);border-radius:4px;padding:1px 5px}
 .obsah pre{background:var(--color-bg-alt);border:1px solid var(--color-border);border-radius:var(--radius);padding:14px;overflow-x:auto;margin:0 0 16px;line-height:1.5}
 .obsah pre code{background:none;padding:0;font-size:13.5px}
@@ -617,6 +623,14 @@ function obalitEmojiOdstavce(html){
 function md(text,zakladAdresy){
   let html=String(text||"");
   const bloky=[];
+  // blok kódu na vlastních řádcích (i odsazený v položce seznamu — odsazení se z kódu ubere)
+  html=html.replace(/^([ \t]*)```([^\n`]*)\n([\s\S]*?)\n?[ \t]*```[ \t]*$/gm,(_,ods,jazyk,kod)=>{
+    jazyk=jazyk.trim();
+    const n=ods.replace(/\t/g,"    ").length;
+    kod=kod.split("\n").map(r=>{ let i=0, k=0; while(i<r.length&&k<n&&(r[i]===" "||r[i]==="\t")){ k+=r[i]==="\t"?4:1; i++; } return r.slice(i); }).join("\n");
+    const i=bloky.push(`<pre${jazyk?` data-jazyk="${escAttr(jazyk)}"`:""}><code>${esc(kod)}</code></pre>`)-1;
+    return `${ods}\x00CODE${i}\x00`;
+  });
   html=html.replace(/```([^\n`]*)\n?([\s\S]*?)```/g,(_,jazyk,kod)=>{
     jazyk=jazyk.trim();
     const i=bloky.push(`<pre${jazyk?` data-jazyk="${escAttr(jazyk)}"`:""}><code>${esc(kod.replace(/\n$/,""))}</code></pre>`)-1;
@@ -650,14 +664,7 @@ function md(text,zakladAdresy){
     return `<blockquote>${odst}</blockquote>\n`;
   });
   // Seznamy (včetně úkolů - [ ] a - [x])
-  const polozka=l=>{
-    let t=l.trim();
-    const u=t.match(/^\[( |x|X)\]\s+(.*)$/);
-    if(u) return `<li class="ukol"><input type="checkbox" disabled${u[1]!==" "?" checked":""} aria-label="${u[1]!==" "?"✓":"○"}"> ${inline(u[2],zakladAdresy)}</li>`;
-    return `<li>${inline(t,zakladAdresy)}</li>`;
-  };
-  html=html.replace(/(^[ \t]*[-*+] .+\n?)+/gm,b=>`<ul>${b.trimEnd().split("\n").map(l=>polozka(l.replace(/^[ \t]*[-*+] /,""))).join("")}</ul>\n`);
-  html=html.replace(/(^[ \t]*\d+[.)] .+\n?)+/gm,b=>`<ol>${b.trimEnd().split("\n").map(l=>polozka(l.replace(/^[ \t]*\d+[.)] /,""))).join("")}</ol>\n`);
+  html=seznamy(html,zakladAdresy);
 
   // Odstavce
   const blokove=["<h","<ul","<ol","<li","<blockquote","<table","<div","<thead","<tbody","<tr","<td","<th","<pre","<hr","<ins","<del","<mark","<p","<figure","<section","<details","<summary","</"];
@@ -673,6 +680,74 @@ function md(text,zakladAdresy){
   html=vystup.join("\n");
   html=html.replace(/\x00CODE(\d+)\x00/g,(_,i)=>bloky[i]).replace(/\x00ICODE(\d+)\x00/g,(_,i)=>radkove[i]);
   return obalitEmojiOdstavce(html);
+}
+/* Seznamy: odrážkové (- * +), číslované (1. 1)), úkoly (- [ ] / - [x]) a jejich libovolné
+   zanoření i míchání. Úroveň dává odsazení (tabulátor = 4 mezery; podřízená položka je
+   odsazená víc než nadřízená — stačí 2 mezery i u „1.“). Na stejné úrovni začne změna druhu
+   (odrážky ↔ čísla) nový seznam. Řádek bez značky pod položkou (odsazený, nebo hned pod ní)
+   je pokračování jejího textu; prázdný řádek uvnitř položky dělá odstavce. Seznam končí
+   prázdným řádkem, za kterým není další položka ani odsazené pokračování. */
+const ZNACKA_SEZNAMU=/^([ \t]*)([-*+]|\d{1,9}[.)])[ \t]+(.*)$/;
+function seznamy(text,zakladAdresy){
+  const radky=text.split("\n"), out=[];
+  const odsazeni=s=>{ let n=0; for(const c of s){ if(c===" ") n++; else if(c==="\t") n+=4-n%4; else break; } return n; };
+  const druh=z=>/\d/.test(z)?"ol":"ul";
+  for(let i=0;i<radky.length;){
+    const m=radky[i].match(ZNACKA_SEZNAMU);
+    if(!m){ out.push(radky[i]); i++; continue; }
+    // posbírat řádky seznamu
+    const polozky=[]; let posledni=null;
+    while(i<radky.length){
+      const l=radky[i], mm=l.match(ZNACKA_SEZNAMU);
+      if(mm){ posledni={od:odsazeni(mm[1]),druh:druh(mm[2]),cislo:parseInt(mm[2],10),radky:[mm[3]]}; polozky.push(posledni); i++; continue; }
+      if(!l.trim()){
+        let j=i; while(j<radky.length&&!radky[j].trim()) j++;
+        const dalsi=radky[j];
+        if(dalsi!==undefined&&(ZNACKA_SEZNAMU.test(dalsi)||odsazeni(dalsi)>=2)){ if(!ZNACKA_SEZNAMU.test(dalsi)) posledni.radky.push(""); i=j; continue; }
+        break;
+      }
+      const t=l.trim();
+      // pokračování: odsazený řádek, nebo text hned pod položkou (ne blokový prvek)
+      if(odsazeni(l)>=2||!(/^</.test(t)||t.startsWith("\x00CODE"))){ posledni.radky.push(t); i++; continue; }
+      break;
+    }
+    out.push(vykreslitSeznam(polozky,zakladAdresy));
+  }
+  return out.join("\n");
+}
+function vykreslitSeznam(polozky,zakladAdresy){
+  const obsahPolozky=p=>{
+    const casti=p.radky.join("\n").split(/\n\s*\n/).map(x=>x.trim()).filter(Boolean);
+    const blok=x=>x.startsWith("<")||x.startsWith("\x00CODE");
+    const kus=x=>x.split("\n").map(r=>blok(r)?r:inline(r,zakladAdresy)).join(" ").replace(/ (?=<(?:pre|blockquote|div|table|h\d|hr))/g,"");
+    let prvni=casti.shift()||"", ukol=null;
+    const u=prvni.match(/^\[( |x|X)\][ \t]+([\s\S]*)$/); if(u){ ukol=u[1]!==" "; prvni=u[2]; }
+    let h=kus(prvni);
+    if(casti.length) h=`<p>${h}</p>`+casti.map(x=>blok(x)?kus(x):`<p>${kus(x)}</p>`).join("");
+    return {ukol,h};
+  };
+  // strom podle odsazení
+  const koren={deti:[]}; const zasobnik=[]; // {od, druh, el:{druh,start,polozky}}
+  for(const p of polozky){
+    while(zasobnik.length>1&&p.od<=zasobnik[zasobnik.length-2].od) zasobnik.pop();
+    let vrch=zasobnik[zasobnik.length-1];
+    if(vrch&&p.od>vrch.od){
+      const rodic=vrch.seznam.polozky[vrch.seznam.polozky.length-1];
+      const novy={druh:p.druh,start:p.cislo,polozky:[]}; rodic.deti.push(novy);
+      vrch={od:p.od,seznam:novy}; zasobnik.push(vrch);
+    }else if(!vrch||vrch.seznam.druh!==p.druh){
+      const novy={druh:p.druh,start:p.cislo,polozky:[]};
+      const kam=zasobnik.length>1?zasobnik[zasobnik.length-2].seznam.polozky.at(-1).deti:koren.deti;
+      kam.push(novy);
+      const z={od:vrch?Math.min(vrch.od,p.od):p.od,seznam:novy};
+      if(vrch) zasobnik[zasobnik.length-1]=z; else zasobnik.push(z);
+    }
+    zasobnik[zasobnik.length-1].seznam.polozky.push({...obsahPolozky(p),deti:[]});
+  }
+  const html=s=>`<${s.druh}${s.druh==="ol"&&s.start&&s.start!==1?` start="${s.start}"`:""}>${s.polozky.map(p=>
+    p.ukol!=null?`<li class="ukol"><input type="checkbox" disabled${p.ukol?" checked":""} aria-label="${p.ukol?"✓":"○"}"> ${p.h}${p.deti.map(html).join("")}</li>`
+    :`<li>${p.h}${p.deti.map(html).join("")}</li>`).join("")}</${s.druh}>`;
+  return koren.deti.map(html).join("");
 }
 function relativni(url,zakladAdresy){
   if(!zakladAdresy||/^(?:[a-z][a-z0-9+.-]*:|#|\/\/)/i.test(url)) return url;
