@@ -54,20 +54,6 @@
               "managed": true
             },
             {
-              "id": "poskytovani-agendovych-udaju",
-              "title": "Poskytování agendových údajů",
-              "file": "poskytovani-agendovych-udaju.md",
-              "aliases": [
-                "poskytování údajů"
-              ],
-              "tags": [
-                "propojený datový fond",
-                "výměna údajů",
-                "isvs a ais"
-              ],
-              "perex": "Povinnost ohlašovatele agendy a správce AIS zpřístupnit údaje agendy ostatním přes propojený datový fond."
-            },
-            {
               "id": "propojeny-datovy-fond",
               "title": "Propojený datový fond",
               "file": "propojeny-datovy-fond.md",
@@ -124,6 +110,20 @@
                   ]
                 },
                 {
+                  "id": "poskytovani-agendovych-udaju",
+                  "title": "Poskytování agendových údajů",
+                  "file": "poskytovani-agendovych-udaju.md",
+                  "aliases": [
+                    "poskytování údajů"
+                  ],
+                  "tags": [
+                    "propojený datový fond",
+                    "výměna údajů",
+                    "isvs a ais"
+                  ],
+                  "perex": "Povinnost ohlašovatele agendy a správce AIS zpřístupnit údaje agendy ostatním přes propojený datový fond."
+                },
+                {
                   "id": "publikujici-ais",
                   "title": "Publikující AIS",
                   "file": "publikujici-ais.md",
@@ -153,21 +153,6 @@
                   "perex": "Agendový informační systém, který odebírá údaje jiných agend přes propojený datový fond."
                 }
               ]
-            },
-            {
-              "id": "elektronicka-identifikace-pravnicke-osoby",
-              "title": "Elektronická identifikace právnické osoby",
-              "file": "elektronicka-identifikace-pravnicke-osoby.md",
-              "tags": [
-                "důležité",
-                "znalosti EG",
-                "Elektronická identifikace",
-                "Záludnosti EG",
-                "časté omyly",
-                "Mandáty",
-                ".migrace z dokuwiki"
-              ],
-              "perex": "Proč je nesmysl elektronická identifikace právnické osoby a co to má znamenat"
             },
             {
               "id": "edoklady",
@@ -434,6 +419,21 @@
                     "pro lidi",
                     ".migrace z dokuwiki"
                   ]
+                },
+                {
+                  "id": "elektronicka-identifikace-pravnicke-osoby",
+                  "title": "Elektronická identifikace právnické osoby",
+                  "file": "elektronicka-identifikace-pravnicke-osoby.md",
+                  "tags": [
+                    "důležité",
+                    "znalosti EG",
+                    "Elektronická identifikace",
+                    "Záludnosti EG",
+                    "časté omyly",
+                    "Mandáty",
+                    ".migrace z dokuwiki"
+                  ],
+                  "perex": "Proč je nesmysl elektronická identifikace právnické osoby a co to má znamenat"
                 }
               ],
               "perex": "Jaké máme druhy a role subjektů, jak s nimi pracujeme, jak je identifikujeme a jak si o nich vyměňujeme údaje v propojeném datovém fondu"
