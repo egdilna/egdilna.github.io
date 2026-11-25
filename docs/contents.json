@@ -54,30 +54,6 @@
               "managed": true
             },
             {
-              "id": "vyuzivani-referencnich-udaju",
-              "title": "Využívání referenčních údajů",
-              "file": "vyuzivani-referencnich-udaju.md",
-              "tags": [
-                "isvs a ais",
-                "klíčové pojmy",
-                "rámec pro AIS",
-                "výměna údajů",
-                "propojený datový fond"
-              ]
-            },
-            {
-              "id": "vyuzivani-agendovych-udaju",
-              "title": "Využívání agendových údajů",
-              "file": "vyuzivani-agendovych-udaju.md",
-              "tags": [
-                "isvs a ais",
-                "klíčové pojmy",
-                "propojený datový fond",
-                "rámec pro AIS",
-                "výměna údajů"
-              ]
-            },
-            {
               "id": "poskytovani-agendovych-udaju",
               "title": "Poskytování agendových údajů",
               "file": "poskytovani-agendovych-udaju.md",
@@ -122,6 +98,30 @@
               "children": [
                 {
                   "ref": "propojeny-datovy-fond"
+                },
+                {
+                  "id": "vyuzivani-referencnich-udaju",
+                  "title": "Využívání referenčních údajů",
+                  "file": "vyuzivani-referencnich-udaju.md",
+                  "tags": [
+                    "isvs a ais",
+                    "klíčové pojmy",
+                    "rámec pro AIS",
+                    "výměna údajů",
+                    "propojený datový fond"
+                  ]
+                },
+                {
+                  "id": "vyuzivani-agendovych-udaju",
+                  "title": "Využívání agendových údajů",
+                  "file": "vyuzivani-agendovych-udaju.md",
+                  "tags": [
+                    "isvs a ais",
+                    "klíčové pojmy",
+                    "propojený datový fond",
+                    "rámec pro AIS",
+                    "výměna údajů"
+                  ]
                 },
                 {
                   "id": "publikujici-ais",
