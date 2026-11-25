@@ -38,10 +38,13 @@
     "sidebar",
     "sekce",
     "obsah",
+    "nastroje",
+    "zpetne",
     "stitky",
     "kalendar",
     "odkazy",
-    "komentare"
+    "komentare",
+    "vsestitky"
   ],
   "folders": {
     "pages": "",
@@ -50,7 +53,7 @@
   "sidebar_file": "sidebar.md",
   "pager": true,
   "expand_sections": true,
-  "edit_link": false,
+  "edit_link": true,
   "page_types": {
     "stranka": {
       "emoji": "",

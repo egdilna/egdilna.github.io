@@ -251,7 +251,8 @@
               "type": "rozcestnik",
               "tags": [
                 "základní pilíře",
-                "Oblast"
+                "Oblast",
+                "Sekce"
               ],
               "children": [
                 {
@@ -429,7 +430,8 @@
                     ".migrace z dokuwiki"
                   ]
                 }
-              ]
+              ],
+              "perex": "Jaké máme druhy a role subjektů, jak s nimi pracujeme, jak je identifikujeme a jak si o nich vyměňujeme údaje v propojeném datovém fondu"
             },
             {
               "id": "atestace",
