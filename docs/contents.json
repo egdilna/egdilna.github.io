@@ -2006,7 +2006,8 @@
             "nepřehlédněte",
             "kde začít",
             ".migrace z dokuwiki"
-          ]
+          ],
+          "draft": true
         }
       ]
     },
